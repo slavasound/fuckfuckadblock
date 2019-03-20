@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Fuck Fuckadblock
+! Last modified: 2019-03-20
 ! Author: Bogachenko Vyacheslav
 ! Expires: 3 hours
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
