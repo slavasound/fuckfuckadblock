@@ -216,3 +216,6 @@ tamiltunes.*##+js(window.open-defuser.js)
 tamiltunes.*##+js(bab-defuser.js)
 
 @@||leakforums.co^$generichide
+
+@@||gametimers.it^$generichide
+gametimers.it##+js(bab-defuser.js)
