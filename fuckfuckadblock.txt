@@ -86,6 +86,9 @@
 ##.deadblocker-header-bar
 ##.deadblocker-header-bar-inner
 ##.disclaimer
+###antiAdBlock
+###check_ad_block
+###dom_adblock
 ##.dispositifAdblock
 ##.dispositifAdblockContent
 ##.dispositifAdblockMessageBox
