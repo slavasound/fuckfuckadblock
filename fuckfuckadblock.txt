@@ -2,3 +2,37 @@
 ! Title: Fuck Fuckadblock
 ! Author: Bogachenko Vyacheslav
 ! Expires: 3 hours
+! Homepage: https://github.com/bogachenko/fuckfuckadblock
+! Licence: The Unlicense
+
+###AdBlockDialog
+###abnotify
+###abp-killer
+###ad_blocker
+###adb-actived
+###adb-enabled
+###adBlockAlert
+###adBlockAlertWrap
+###adBlockBanner
+###adBlockDetect
+###adBlockerModal
+###adb-warning
+###adblock-alert
+###adblock-box
+###adblock-modal
+###adblock_screen
+###adblocker_announce
+###adblock-msg
+###adblock-notice
+###adblock-overlay
+###adblockDetect
+###adblock_detected
+###adblock_message
+###detectadblock
+###detection-block
+###detection-block-overlay
+###fnAdblockingOverlay
+###message_adblock
+###plus-upsell-adblock
+##.AdblockMessage
+##.AdblockMessage_msg
