@@ -67,12 +67,6 @@
 ##.adblock-notification-wrapper
 ##.adblock-warning-teaser
 ##.adblockInfo
-###adblock_detected
-###adblocker_announce
-###adblocker_message
-###adblocker_modal_overlay
-###adblockinfo
-##adblock-detect
 ##.adblockOverlay
 ##.adblock_detector
 ##.adblock_enabled
@@ -99,6 +93,7 @@
 ##.svg-adblock-full
 ##.svg-adblock-full--box
 ##.top-bar-adblock
+##adblock-detect
 
 */abb-msg.js
 */blockadblock-
