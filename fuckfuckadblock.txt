@@ -236,3 +236,6 @@ blogginggyanbox.com,funnyquiz.blog##.adsbygoogle
 
 ||rusfishing.ru/forum/js/siropu/am/core.min.js
 rusfishing.ru##.samBannerUnit
+
+thehindu.com##+js(set-constant.js, Adblock, false)
+@@||thehindu.com^$generichide
