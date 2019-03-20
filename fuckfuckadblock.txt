@@ -66,6 +66,7 @@
 ##.adblock-modal-content
 ##.adblock-notification-wrapper
 ##.adblock-warning-teaser
+##.adblock-warning-teaser
 ##.adblockInfo
 ##.adblockOverlay
 ##.adblock_detector
@@ -82,16 +83,25 @@
 ##.dispositifAdblock
 ##.dispositifAdblockContent
 ##.dispositifAdblockMessageBox
+##.dispositifAdblockMessageBox
 ##.fuck-adblock
+##.fuckYouAdBlock
+##.fuckYouAdBlock2
 ##.fuckYouAdBlock2
 ##.fuckYouAdBlock
 ##.fuckYouAdBlock3
 ##.js-checkad-warning
+##.js-checkad-warning
 ##.kill-adblock-container
+##.kill-adblock-container
+##.noadblock
 ##.noadblock
 ##.pane-emediate
 ##.svg-adblock-full
+##.svg-adblock-full
 ##.svg-adblock-full--box
+##.svg-adblock-full--box
+##.top-bar-adblock
 ##.top-bar-adblock
 
 */abb-msg.js
