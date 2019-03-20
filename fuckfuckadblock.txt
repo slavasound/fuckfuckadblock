@@ -3,7 +3,7 @@
 ! Author: Bogachenko Vyacheslav
 ! Expires: 3 hours
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
-! Licence: The Unlicense
+! Licence: MIT
 
 ###AdBlockDialog
 ###abnotify
