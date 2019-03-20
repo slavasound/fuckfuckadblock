@@ -233,3 +233,6 @@ blogginggyanbox.com,funnyquiz.blog##.adsbygoogle
 @@||funnyquiz.blog^$generichide
 
 @@||debilizator.tv/static/*/videojs-contrib-ads$stylesheet,xmlhttprequest,first-party
+
+||rusfishing.ru/forum/js/siropu/am/core.min.js
+rusfishing.ru##.samBannerUnit
