@@ -55,6 +55,7 @@
 ##.adBlockWarning
 ##.ad_before.happy-inside-player
 ##.ad_blocker
+##.adblock
 ##.adb-enabled
 ##.adbd-background
 ##.adbd-message
@@ -90,6 +91,30 @@
 ##.svg-adblock-full
 ##.svg-adblock-full--box
 ##.top-bar-adblock
+###abnotify
+###galepro-core-adb-enabled
+
+*/abb-msg.js
+*/blockadblock-
+-adblock-notice-
+-adblock-notice/*
+/ad-blocking-advisor/*
+/adbl_dtct.
+/adblock-detect/*
+/adblock-notice-
+/adblock-notify-by-bweb/*
+/adblock-warning-teaser/*
+/adblock_gate/images/animated.gif?
+/adblock_notify.js
+/adblocker_message_
+/AdblockMessage.
+/antiadblockmsg.
+/blockadblock.js
+/blockadblock.min.js
+/wp-content/plugins/ad-block-defender/*
+/wp-content/plugins/deadblocker/*
+/wp-content/uploads/an-temp/*$script,stylesheet
+/SvgAdblockDetected/*
 
 egy.best,egybest.site##+js(window.open-defuser.js)
 egy.best##+js(abort-current-inline-script.js, WinMsgHtml, adblock_msg)
