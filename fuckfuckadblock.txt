@@ -156,3 +156,4 @@ chicoer.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 readlightnovel.org##+js(abort-current-inline-script.js, document.getElementById, adisblock)
 @@||readlightnovel.org^$generichide
 
+@@||filebebo.net^$generichide
