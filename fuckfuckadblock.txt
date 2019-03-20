@@ -99,3 +99,10 @@ mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 
+@@||mangahost1.com^$generichide
+@@||mangahost2.com^$generichide
+@@||mangahost-br.com^$generichide
+mangahost1.com,mangahost2.com,mangahost-br.com##+js(abort-on-property-write.js, adBlockDetected)
+mangahost1.com,mangahost2.com,mangahost-br.com##+js(bab-defuser.js)
+mangahost1.com,mangahost2.com,mangahost-br.com##+js(setTimeout-defuser.js, adblock)
+
