@@ -179,3 +179,6 @@ sciencelife.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 sciencelife.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||sciencelife.*$generichide
 ||gregnobs.com^
+
+@@||ttsmp3.com^$generichide
+ttsmp3.com##+js(bab-defuser.js)
