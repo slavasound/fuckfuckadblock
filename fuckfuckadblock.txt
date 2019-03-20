@@ -93,3 +93,7 @@ egy.best,egybest.site##+js(window.open-defuser.js)
 egy.best##+js(abort-current-inline-script.js, WinMsgHtml, adblock_msg)
 egy.best,egybest.site##+js(set-constant.js, _AdBlock, noopFunc)
 
+mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
+@@||mercurynews.com^$generichide
+mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
+
