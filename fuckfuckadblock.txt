@@ -99,6 +99,18 @@
 ###adBlockAlertWrap
 ###adBlockDetect
 ###adBlockerModal
+###ad_blocker
+###adb-actived
+###adb-enabled
+###adb-enabled3
+###adb-warning
+###adblock-alert
+###adblock-box
+###adblock-modal
+###adblock-msg
+###adblock-notice
+###adblock-overlay
+###adblockDetect
 
 */abb-msg.js
 */blockadblock-
