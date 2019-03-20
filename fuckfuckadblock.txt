@@ -30,6 +30,17 @@
 ##.kill-adblock-container
 ##.noadblock
 ##.ad_before.happy-inside-player
+###adblocker_message
+###adblocker_modal_overlay
+###adblockinfo
+###ads-blocked
+###advertisementjsalert
+###anti_adblock
+##.adbd-wrapper
+##.adblock-modal
+##.svg-adblock-full
+##.svg-adblock-full--box
+##.top-bar-adblock
 ###adblocker_announce
 ###adblock-msg
 ###adblock-notice
