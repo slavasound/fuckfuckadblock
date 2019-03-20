@@ -32,6 +32,9 @@
 ##.fuckYouAdBlock2
 ##.fuckYouAdBlock3
 ##.fuckYouAdBlock
+##.disclaimer
+##.pane-emediate
+##.ad-blocker-warning
 ##.js-checkad-warning
 ##.kill-adblock-container
 ##.noadblock
