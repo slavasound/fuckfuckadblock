@@ -157,3 +157,11 @@ readlightnovel.org##+js(abort-current-inline-script.js, document.getElementById,
 @@||readlightnovel.org^$generichide
 
 @@||filebebo.net^$generichide
+
+openload.*,oladblock.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+openload.*,oladblock.*##+js(openload.co.js)
+openload.*,oladblock.*##+js(window.open-defuser.js)
+openload.*,oladblock.*##+js(abort-current-inline-script.js, adblock, adblock2)
+@@||openload.*^$popup,first-party
+@@||oladblock.*^$popup,first-party
+oladblock.*,oladblock.*##+js(nano-setInterval-booster.js)
