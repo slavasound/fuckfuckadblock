@@ -174,3 +174,7 @@ pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com##+js(window.open-defuser.js)
 pornbimbo.com##+js(disable-newtab-links.js)
 
+sciencelife.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+sciencelife.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||sciencelife.*$generichide
+||gregnobs.com^
