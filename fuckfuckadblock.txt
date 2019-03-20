@@ -93,6 +93,12 @@
 ##.top-bar-adblock
 ###abnotify
 ###galepro-core-adb-enabled
+###AdBlockDialog
+###abp-killer
+###adBlockAlert
+###adBlockAlertWrap
+###adBlockDetect
+###adBlockerModal
 
 */abb-msg.js
 */blockadblock-
