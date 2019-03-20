@@ -23,6 +23,12 @@
 ###adblock_screen
 ##.dispositifAdblockMessageBox
 ##.fuck-adblock
+###adblock_screen
+###adblock_message
+##.adblockInfo
+##.adblock_floating_message
+##.adblock_msg
+##.deadblocker-header-bar
 ##.fuckYouAdBlock2
 ##.fuckYouAdBlock3
 ##.fuckYouAdBlock
