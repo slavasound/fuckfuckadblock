@@ -221,3 +221,7 @@ tamiltunes.*##+js(bab-defuser.js)
 gametimers.it##+js(bab-defuser.js)
 
 @@||blogspot.com^$generichide
+
+file-up.org##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
+file-up.org##+js(window.open-defuser.js)
+file-up.org##.adsbygoogle
