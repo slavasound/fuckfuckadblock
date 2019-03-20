@@ -67,6 +67,12 @@
 ##.adblock-notification-wrapper
 ##.adblock-warning-teaser
 ##.adblockInfo
+###adblock_detected
+###adblocker_announce
+###adblocker_message
+###adblocker_modal_overlay
+###adblockinfo
+##adblock-detect
 ##.adblockOverlay
 ##.adblock_detector
 ##.adblock_enabled
