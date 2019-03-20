@@ -108,3 +108,6 @@ mangahost1.com,mangahost2.com,mangahost-br.com##+js(setTimeout-defuser.js, adblo
 
 sosiali.com##+js(setTimeout-defuser.js, _0x)
 sosiali.com##+js(setTimeout-defuser.js, Adblock, 2000)
+
+getrelax.club##+js(abort-current-inline-script.js, document.getElementById, adisblock)
+getrelax.club##.loaded-popup-wrapper
