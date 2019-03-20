@@ -101,22 +101,24 @@
 ##adTeaser
 ##adblock-detect
 
-*/abb-msg.js
-*/blockadblock-
 -adblock-notice-
 -adblock-notice/*
 /AdblockMessage.
 /SvgAdblockDetected/*
+/abb-msg.js
 /ad-blocking-advisor/*
 /adbl_dtct.
 /adblock-detect/*
 /adblock-notice-
 /adblock-notify-by-bweb/*
 /adblock-warning-teaser/*
+/adblock.js
 /adblock_gate/images/animated.gif?
 /adblock_notify.js
 /adblocker_message_
+/adblockhandlega.js
 /antiadblockmsg.
+/blockadblock-
 /blockadblock.js
 /blockadblock.min.js
 /wp-content/plugins/ad-block-defender/*
