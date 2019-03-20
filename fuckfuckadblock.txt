@@ -9,6 +9,7 @@
 
 ###AdBlockDialog
 ###abnotify
+##.n-banner--adblocked
 ###abp-killer
 ###adBlockAlert
 ###adBlockAlertWrap
@@ -18,6 +19,12 @@
 ###adTeaser
 ###ad_blocker
 ###adb-actived
+###nafikblock
+###popapIsBlockedAd
+##.adblock_popup_warning
+##.b-blockadblock
+##.msg-AdBlock
+##.js-adb-msg
 ###adb-enabled
 ###adb-enabled3
 ###adb-pop
