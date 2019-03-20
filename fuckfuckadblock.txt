@@ -166,3 +166,11 @@ openload.*,oladblock.*##+js(abort-current-inline-script.js, adblock, adblock2)
 @@||openload.*^$popup,first-party
 @@||oladblock.*^$popup,first-party
 oladblock.*,oladblock.*##+js(nano-setInterval-booster.js)
+
+pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
+@@||pornbimbo.com^$generichide
+||pornbimbo.com/player/html.php$subdocument
+||exosrv.com^
+pornbimbo.com##+js(window.open-defuser.js)
+pornbimbo.com##+js(disable-newtab-links.js)
+
