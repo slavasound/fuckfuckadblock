@@ -13,10 +13,12 @@
 ###adBlockBanner
 ###adBlockDetect
 ###adBlockerModal
+###adTeaser
 ###ad_blocker
 ###adb-actived
 ###adb-enabled
 ###adb-enabled3
+###adb-pop
 ###adb-warning
 ###adblock-alert
 ###adblock-box
@@ -28,12 +30,15 @@
 ###adblock_detected
 ###adblock_message
 ###adblock_screen
+###adblocker
 ###adblocker_announce
 ###adblocker_message
 ###adblocker_modal_overlay
 ###adblockinfo
+###adblocktest
 ###ads-blocked
 ###advertisementjsalert
+###antiBlock
 ###anti_adblock
 ###detectadblock
 ###detection-block
@@ -93,12 +98,15 @@
 ##.svg-adblock-full
 ##.svg-adblock-full--box
 ##.top-bar-adblock
+##adTeaser
 ##adblock-detect
 
 */abb-msg.js
 */blockadblock-
 -adblock-notice-
 -adblock-notice/*
+/AdblockMessage.
+/SvgAdblockDetected/*
 /ad-blocking-advisor/*
 /adbl_dtct.
 /adblock-detect/*
@@ -108,14 +116,12 @@
 /adblock_gate/images/animated.gif?
 /adblock_notify.js
 /adblocker_message_
-/AdblockMessage.
 /antiadblockmsg.
 /blockadblock.js
 /blockadblock.min.js
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/deadblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
-/SvgAdblockDetected/*
 
 egy.best,egybest.site##+js(window.open-defuser.js)
 egy.best##+js(abort-current-inline-script.js, WinMsgHtml, adblock_msg)
