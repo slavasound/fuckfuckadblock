@@ -123,13 +123,13 @@
 /wp-content/plugins/deadblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
 
-egy.best,egybest.site##+js(window.open-defuser.js)
 egy.best##+js(abort-current-inline-script.js, WinMsgHtml, adblock_msg)
 egy.best,egybest.site##+js(set-constant.js, _AdBlock, noopFunc)
+egy.best,egybest.site##+js(window.open-defuser.js)
 
-mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
 @@||mercurynews.com^$generichide
 mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
+mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
 
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 
@@ -140,13 +140,13 @@ mangahost1.com,mangahost2.com,mangahost-br.com##+js(abort-on-property-write.js, 
 mangahost1.com,mangahost2.com,mangahost-br.com##+js(bab-defuser.js)
 mangahost1.com,mangahost2.com,mangahost-br.com##+js(setTimeout-defuser.js, adblock)
 
-sosiali.com##+js(setTimeout-defuser.js, _0x)
 sosiali.com##+js(setTimeout-defuser.js, Adblock, 2000)
+sosiali.com##+js(setTimeout-defuser.js, _0x)
 
 getrelax.club##+js(abort-current-inline-script.js, document.getElementById, adisblock)
 getrelax.club##.loaded-popup-wrapper
 
-anonyviet.com##+js(setTimeout-defuser.js, nextFunction, 250)
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+anonyviet.com##+js(setTimeout-defuser.js, nextFunction, 250)
 
 chicoer.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
