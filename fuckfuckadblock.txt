@@ -106,3 +106,5 @@ mangahost1.com,mangahost2.com,mangahost-br.com##+js(abort-on-property-write.js, 
 mangahost1.com,mangahost2.com,mangahost-br.com##+js(bab-defuser.js)
 mangahost1.com,mangahost2.com,mangahost-br.com##+js(setTimeout-defuser.js, adblock)
 
+sosiali.com##+js(setTimeout-defuser.js, _0x)
+sosiali.com##+js(setTimeout-defuser.js, Adblock, 2000)
