@@ -214,3 +214,5 @@ wordexcerpt.com##+js(abort-on-property-read.js, anOptions)
 tamiltunes.*##+js(window.open-defuser.js)
 @@||tamiltunes.*^$generichide
 tamiltunes.*##+js(bab-defuser.js)
+
+@@||leakforums.co^$generichide
