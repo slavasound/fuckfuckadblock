@@ -219,3 +219,5 @@ tamiltunes.*##+js(bab-defuser.js)
 
 @@||gametimers.it^$generichide
 gametimers.it##+js(bab-defuser.js)
+
+@@||blogspot.com^$generichide
