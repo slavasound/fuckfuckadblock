@@ -152,3 +152,7 @@ anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 anonyviet.com##+js(setTimeout-defuser.js, nextFunction, 250)
 
 chicoer.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
+
+readlightnovel.org##+js(abort-current-inline-script.js, document.getElementById, adisblock)
+@@||readlightnovel.org^$generichide
+
