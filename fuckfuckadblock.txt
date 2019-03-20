@@ -208,3 +208,5 @@ sciencelife.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ttsmp3.com##+js(bab-defuser.js)
 
 rp5.ru##+js(setTimeout-defuser.js, checkAdSense)
+
+wordexcerpt.com##+js(abort-on-property-read.js, anOptions)
