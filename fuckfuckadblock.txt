@@ -150,6 +150,7 @@
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/deadblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
+-contrib-ads.
 
 egy.best##+js(abort-current-inline-script.js, WinMsgHtml, adblock_msg)
 egy.best,egybest.site##+js(set-constant.js, _AdBlock, noopFunc)
@@ -230,3 +231,5 @@ blogginggyanbox.com,funnyquiz.blog##+js(set-constant.js, adBlockDetected, noopFu
 blogginggyanbox.com,funnyquiz.blog##.adsbygoogle
 @@||blogginggyanbox.com^$generichide
 @@||funnyquiz.blog^$generichide
+
+@@||debilizator.tv/static/*/videojs-contrib-ads$stylesheet,xmlhttprequest,first-party
