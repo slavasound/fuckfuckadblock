@@ -97,3 +97,5 @@ mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
 @@||mercurynews.com^$generichide
 mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 
+dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
+
