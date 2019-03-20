@@ -4,7 +4,8 @@
 ! Author: Bogachenko Vyacheslav
 ! Expires: 3 hours
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
-! Licence: MIT
+! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
+! Description: Filters for blocking pop-ups and anti-adblock bypass.
 
 ###AdBlockDialog
 ###abnotify
