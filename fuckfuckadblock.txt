@@ -21,6 +21,15 @@
 ###adblock-box
 ###adblock-modal
 ###adblock_screen
+##.dispositifAdblockMessageBox
+##.fuck-adblock
+##.fuckYouAdBlock2
+##.fuckYouAdBlock3
+##.fuckYouAdBlock
+##.js-checkad-warning
+##.kill-adblock-container
+##.noadblock
+##.ad_before.happy-inside-player
 ###adblocker_announce
 ###adblock-msg
 ###adblock-notice
