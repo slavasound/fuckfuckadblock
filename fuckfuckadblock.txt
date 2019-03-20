@@ -115,3 +115,4 @@ getrelax.club##.loaded-popup-wrapper
 anonyviet.com##+js(setTimeout-defuser.js, nextFunction, 250)
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 
+chicoer.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
