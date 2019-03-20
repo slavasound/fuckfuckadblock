@@ -95,6 +95,12 @@
 ##.fuckYouAdBlock3
 ##.js-checkad-warning
 ##.kill-adblock-container
+###ab--notification-ribbon
+###abDetected
+###adblock-in-browser
+###adblock_popup
+###adblockpopup
+###ads_warning
 ##.noadblock
 ##.pane-emediate
 ##.svg-adblock-full
