@@ -128,12 +128,15 @@
 /SvgAdblockDetected/*
 /abb-msg.js
 /ad-blocking-advisor/*
+/adb.js
+/adb_script/
 /adbl_dtct.
 /adblock-detect/*
 /adblock-notice-
 /adblock-notify-by-bweb/*
 /adblock-warning-teaser/*
 /adblock.js
+/adblock.teaser.js
 /adblock_gate/images/animated.gif?
 /adblock_notify.js
 /adblocker_message_
@@ -142,6 +145,8 @@
 /blockadblock-
 /blockadblock.js
 /blockadblock.min.js
+/blockadblock_
+/fuckadblock.js
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/deadblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
