@@ -120,21 +120,22 @@
 ##.warning-adblock
 ##.warning-adblock-box
 ##adTeaser
+##adcontent
 ##adblock-detect
 
 -adblock-notice-
--adblock-notice/*
+-adblock-notice/
 /AdblockMessage.
-/SvgAdblockDetected/*
+/SvgAdblockDetected/
 /abb-msg.js
-/ad-blocking-advisor/*
+/ad-blocking-advisor/
 /adb.js
 /adb_script/
 /adbl_dtct.
-/adblock-detect/*
+/adblock-detect/
 /adblock-notice-
-/adblock-notify-by-bweb/*
-/adblock-warning-teaser/*
+/adblock-notify-by-bweb/
+/adblock-warning-teaser/
 /adblock.js
 /adblock.teaser.js
 /adblock_gate/images/animated.gif?
@@ -147,8 +148,8 @@
 /blockadblock.min.js
 /blockadblock_
 /fuckadblock.js
-/wp-content/plugins/ad-block-defender/*
-/wp-content/plugins/deadblocker/*
+/wp-content/plugins/ad-block-defender/
+/wp-content/plugins/deadblocker/
 /wp-content/uploads/an-temp/*$script,stylesheet
 -contrib-ads.
 
