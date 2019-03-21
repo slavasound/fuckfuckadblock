@@ -309,3 +309,8 @@ larena.it#$##adblock-check{height:1px!important;}
 bento.de##+js(abort-on-property-read.js, _sp_.mms.startMsg)
 bento.de#%#(function(o){function a(a){return{get:function(){return a},set:b}}function b(){}function c(){throw"Adguard: stopped a script execution.";}var d={},e=a(function(a){a(!1)}),f={},g=EventTarget.prototype.addEventListener;o(d,{spid_control_callback:a(b),content_control_callback:a(b),vid_control_callback:a(b)});o(f,{config:a(d),_setSpKey:{get:c,set:c},checkState:e,isAdBlocking:e,getSafeUri:a(function(a){return a}),pageChange:a(b),setupSmartBeacons:a(b)});Object.defineProperty(window,"_sp_",a(f));EventTarget.prototype.addEventListener=function(a){"sp.blocking"!=a&&"sp.not_blocking"!=a&&g.apply(this,arguments)}})(Object.defineProperties);
 @@||bento.de^$generichide
+
+sukebei.pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
+@@||sukebei.pantsu.cat^$generichide
+||sukebei.pantsu.cat^$popup
+sukebei.pantsu.cat#%#window.open = function() {};
