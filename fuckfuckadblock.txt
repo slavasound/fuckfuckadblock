@@ -336,3 +336,6 @@ imgview.net##+js(setTimeout-defuser.js, adbwarning)
 imgview.net##.adbwarning
 
 @@||nyaa.pantsu.cat^$generichide
+
+sslproxies24.top#%#addEventListener=function() {};
+sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
