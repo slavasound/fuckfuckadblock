@@ -161,6 +161,7 @@ egy.best,egybest.site##+js(window.open-defuser.js)
 ||egy.best$popup
 egy.best#%#AG_setConstant('_AdBlock','noopFunc');
 egy.best#%#AG_abortInlineScript('adblock_msg', 'WinMsgHtml');
+egy.best#%#window.open = function() {};
 
 @@||mercurynews.com^$generichide
 mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
