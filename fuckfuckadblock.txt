@@ -224,6 +224,9 @@ pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 ||exosrv.com^
 pornbimbo.com##+js(window.open-defuser.js)
 pornbimbo.com##+js(disable-newtab-links.js)
+pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
+||pornbimbo.com/player/html.php?aid=pause_html&video_id=*&*referer=
+pornbimbo.com,mangovideo.pw##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
 
 sciencelife.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 sciencelife.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
