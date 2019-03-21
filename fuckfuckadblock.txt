@@ -169,7 +169,9 @@ mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
 mercurynews.com#%#window.dfmCanRunAds = true;
 mercurynews.com#%#AG_setConstant('CnnXt.Event.fire','noopFunc');
 
+@@||dropupload.com^$generichide
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
+dropupload.com#%#AG_abortInlineScript(/getElementById\("adblockinfo"\)/, 'document.getElementById');
 
 @@||mangahost1.com^$generichide
 @@||mangahost2.com^$generichide
