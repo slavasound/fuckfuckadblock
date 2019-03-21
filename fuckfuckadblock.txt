@@ -329,3 +329,5 @@ z3x-team.com#%#Object.defineProperty(window,'anOptions',{get:function(){return{a
 
 culture-informatique.net##+js(abort-on-property-read.js, anOptions)
 culture-informatique.net#%#Object.defineProperty(window,'anOptions',{get:function(){return{anOptionAdsSelectors:""}}});
+
+@@||watch32hd.org/ads_*.js$script,xmlhttprequest
