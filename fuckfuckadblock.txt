@@ -209,6 +209,10 @@ openload.*,oladblock.*,oload.*##+js(openload.co.js)
 openload.*,oladblock.*,oload.*##+js(window.open-defuser.js)
 openload.*,oladblock.*,oload.*##+js(abort-current-inline-script.js, adblock, adblock2)
 oladblock.*,oladblock.*,oload.*##+js(nano-setInterval-booster.js)
+||openload.*$popup
+||oladblock.*^$popup
+||oload.*^$popup
+openload.*,oladblock.*,oload.*#%#window.open = function() {}
 
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 @@||pornbimbo.com^$generichide
