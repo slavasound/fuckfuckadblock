@@ -166,6 +166,8 @@ egy.best#%#window.open = function() {};
 @@||mercurynews.com^$generichide
 mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
+mercurynews.com#%#window.dfmCanRunAds = true;
+mercurynews.com#%#AG_setConstant('CnnXt.Event.fire','noopFunc');
 
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 
