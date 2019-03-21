@@ -282,6 +282,7 @@ rusfishing.ru##.samBannerUnit
 
 thehindu.com##+js(set-constant.js, Adblock, false)
 @@||thehindu.com^$generichide
+thehindu.com#%#AG_setConstant('Adblock', 'true');
 
 konuneydi.com##+js(abort-current-inline-script.js, document.createElement, adblockalert)
 @@||konuneydi.com^$generichide
