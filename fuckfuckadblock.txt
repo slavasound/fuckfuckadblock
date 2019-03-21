@@ -351,3 +351,6 @@ igg-games.com##+js(nowebrtc.js)
 @@||doluoyun.com^$generichide
 
 @@||rekapp.info^$generichide
+
+||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
+ebb.io##div#app > div.content > div
