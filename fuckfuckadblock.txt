@@ -258,9 +258,13 @@ gametimers.it#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;win
 
 @@||blogspot.com^$generichide
 
-file-up.org##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
-file-up.org##+js(window.open-defuser.js)
-file-up.org##.adsbygoogle
+file-up.org,file-upload.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
+file-upload.*##+js(setTimeout-defuser.js, nextFunction, 2000)
+file-upload.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+file-up.org##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+file-up.org##+js(noeval.js)
+file-up.org##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+file-upload.*##.adsbygoogle
 file-up.org#%#AG_abortInlineScript(/getElementById\("adblockinfo"\)/, 'document.getElementById');
 
 blogginggyanbox.com,funnyquiz.blog##+js(set-constant.js, adBlockDetected, noopFunc)
