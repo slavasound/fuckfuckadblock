@@ -122,6 +122,8 @@
 ##adTeaser
 ##adcontent
 ##adblock-detect
+##.adblock_open-sidebar.adblock
+##.adblock
 
 -adblock-notice-
 -adblock-notice/
@@ -250,3 +252,7 @@ konuneydi.com##+js(abort-current-inline-script.js, document.createElement, adblo
 
 money-sense.club##+js(abort-on-property-read.js, anOptions)
 money-sense.club###adsense
+
+qrz.ru##+js(set-constant.js, canRunAds, true)
+qrz.ru##+js(set-constant.js, adblock, 1)
+qrz.ru##.adblock_open-sidebar.adblock
