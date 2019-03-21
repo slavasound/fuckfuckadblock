@@ -349,3 +349,5 @@ igg-games.com##a[href$=".jpg"]
 igg-games.com##+js(nowebrtc.js)
 
 @@||doluoyun.com^$generichide
+
+@@||rekapp.info^$generichide
