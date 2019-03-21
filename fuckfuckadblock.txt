@@ -214,7 +214,7 @@ oladblock.*,oladblock.*,oload.*##+js(nano-setInterval-booster.js)
 ||oload.*^$popup
 ||exdynsrv.com^
 openload.*,oladblock.*,oload.*#%#window.open=function(){};
-openload.*,oladblock.*,oload.*#%#window.open=function(){};document.cookie="popcashpuCap=1";Object.defineProperty(window,'turnoff',{value:!0});Object.defineProperty(window,'preserve',{get:function(){return!0}});
+openload.*,oladblock.*,oload.*#%#window.open=function(){};document.cookie="popcashpuCap=1";Object.defineProperty(window,'turnoff',{value:true});Object.defineProperty(window,'preserve',{get:function(){return true}});
 openload.*,oladblock.*,oload.*#%#AG_onLoad(function(){setTimeout(function(){document.getElementById("videooverlay").click()},300)});
 openload.*,oladblock.*,oload.*#%#window.addEventListener("load",function(){var el=document.getElementById("videooverlay");if(el){el.click()}});
 
