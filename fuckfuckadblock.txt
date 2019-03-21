@@ -334,3 +334,5 @@ culture-informatique.net#%#Object.defineProperty(window,'anOptions',{get:functio
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
 imgview.net##.adbwarning
+
+@@||nyaa.pantsu.cat^$generichide
