@@ -316,4 +316,8 @@ sukebei.pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
 sukebei.pantsu.cat#%#window.open = function() {};
 
 laradiobbs.net##+js(set-constant.js, adblock, false)
+laradiobbs.net#%#AG_setConstant('adblock', 'false');
 laradiobbs.net##.blocked
+
+rim-world.com##+js(setTimeout-defuser.js, adblock, 5000)
+rim-world.com#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/getAdIFrameCount/.test(a.toString()))return b(a,c)};})();
