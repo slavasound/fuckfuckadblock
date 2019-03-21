@@ -240,3 +240,6 @@ rusfishing.ru##.samBannerUnit
 
 thehindu.com##+js(set-constant.js, Adblock, false)
 @@||thehindu.com^$generichide
+
+konuneydi.com##+js(abort-current-inline-script.js, document.createElement, adblockalert)
+@@||konuneydi.com^$generichide
