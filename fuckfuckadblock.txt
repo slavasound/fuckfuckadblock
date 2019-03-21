@@ -326,3 +326,6 @@ dojrzewamy.pl##.adblock_info
 
 z3x-team.com##+js(abort-on-property-read.js, anOptions)
 z3x-team.com#%#Object.defineProperty(window,'anOptions',{get:function(){return{anOptionAdsSelectors:""}}});
+
+culture-informatique.net##+js(abort-on-property-read.js, anOptions)
+culture-informatique.net#%#Object.defineProperty(window,'anOptions',{get:function(){return{anOptionAdsSelectors:""}}});
