@@ -347,3 +347,5 @@ igg-games.com##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 igg-games.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 igg-games.com##a[href$=".jpg"]
 igg-games.com##+js(nowebrtc.js)
+
+@@||doluoyun.com^$generichide
