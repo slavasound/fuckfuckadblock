@@ -323,3 +323,6 @@ rim-world.com#%#(function(){var b=window.setTimeout;window.setTimeout=function(a
 
 dojrzewamy.pl##+js(setTimeout-defuser.js, ad-container)
 dojrzewamy.pl##.adblock_info
+
+z3x-team.com##+js(abort-on-property-read.js, anOptions)
+z3x-team.com#%#Object.defineProperty(window,'anOptions',{get:function(){return{anOptionAdsSelectors:""}}});
