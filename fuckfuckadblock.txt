@@ -358,3 +358,6 @@ ebb.io##div#app > div.content > div
 @@*/ad-block-detector.js$domain=ncaa.com
 @@||ncaa.com^$generichide
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
+
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,empty,domain=mylink.love,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=mylink.love
