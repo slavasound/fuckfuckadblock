@@ -247,3 +247,6 @@ konuneydi.com##+js(abort-current-inline-script.js, document.createElement, adblo
 3dtuning.com##+js(set-constant.js, adblock, false)
 @@||ads.3dtuning.com^$xmlhttprequest
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noojs,domain=3dtuning.com
+
+money-sense.club##+js(abort-on-property-read.js, anOptions)
+money-sense.club###adsense
