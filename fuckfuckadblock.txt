@@ -188,8 +188,10 @@ getrelax.club##+js(abort-current-inline-script.js, document.getElementById, adis
 getrelax.club#%#AG_abortInlineScript(/#adisblock/, '$');
 getrelax.club##.loaded-popup-wrapper
 
+@@||anonyviet.com^$generichide
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 anonyviet.com##+js(setTimeout-defuser.js, nextFunction, 250)
+anonyviet.com#%#AG_abortInlineScript(/google_ad_client/, 'document.addEventListener');
 
 chicoer.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 
