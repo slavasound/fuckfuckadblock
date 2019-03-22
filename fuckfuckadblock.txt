@@ -379,3 +379,7 @@ stiffgamerdown.com##+js(addEventListener-defuser.js, load, nextFunction)
 stiffgamerdown.com##+js(window.open-defuser.js)
 @@||stiffgamerdown.com^$generichide
 stiffgamerdown.com#%#window.open = function(){};
+
+@@||tutsgalaxy.com^$generichide
+tutsgalaxy.com##+js(abort-on-property-read.js, anOptions)
+tutsgalaxy.com#%#Object.defineProperty(window,'anOptions',{get:function(){return{anOptionAdsSelectors:""}}});
