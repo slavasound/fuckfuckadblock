@@ -314,6 +314,7 @@ sukebei.pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
 @@||sukebei.pantsu.cat^$generichide
 ||sukebei.pantsu.cat^$popup
 sukebei.pantsu.cat#%#window.open = function(){};
+sukebei.pantsu.cat##+js(window.open-defuser.js)
 
 laradiobbs.net##+js(set-constant.js, adblock, false)
 laradiobbs.net#%#AG_setConstant('adblock', 'false');
