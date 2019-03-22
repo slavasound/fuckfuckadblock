@@ -373,3 +373,8 @@ businessinsider.*##^script:has-text(setAdblockerCookie)
 finobe.com##+js(abort-current-inline-script.js, ga, adsbygoogle)
 
 habbowert.de##+js(set-constant.js, adblock, false)
+
+stiffgamerdown.com##+js(addEventListener-defuser.js, load, nextFunction)
+stiffgamerdown.com##+js(window.open-defuser.js)
+@@||stiffgamerdown.com^$generichide
+stiffgamerdown.com#%#window.open = function(){};
