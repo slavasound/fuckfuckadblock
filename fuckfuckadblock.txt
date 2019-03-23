@@ -448,3 +448,6 @@ handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userco
 @@||handelsblatt.com^$generichide
 
 stealthz.ru##+js(abort-on-property-read.js, anOptions)
+
+won.pe##+js(set-constant.js, adblock, false)
+won.pe##+js(disable-newtab-links.js)
