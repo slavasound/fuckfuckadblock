@@ -154,6 +154,7 @@
 /wp-content/plugins/deadblocker/
 /wp-content/uploads/an-temp/*$script,stylesheet
 -contrib-ads.
+/ads.min.js
 
 egy.best,egybest.site##+js(set-constant.js, _AdBlock, noopFunc)
 egy.best,egybest.site##+js(abort-on-property-read.js, open)
@@ -253,7 +254,7 @@ blogginggyanbox.com,funnyquiz.blog##+js(abort-on-property-read.js, app_vars.forc
 
 @@||debilizator.tv/static/*/videojs-contrib-ads$stylesheet,xmlhttprequest,first-party
 
-||rusfishing.ru/forum/js/siropu/am/core.min.js
+||rusfishing.ru/forum/js/siropu/am/core.min.js$script,redirect=noopjs
 rusfishing.ru##.samBannerUnit
 
 thehindu.com##+js(set-constant.js, Adblock, false)
