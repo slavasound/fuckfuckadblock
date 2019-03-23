@@ -473,3 +473,5 @@ windowscentral.com##.swal-modal, .swal-overlay
 
 macwelt.de##.standard.marketplace:has-text(-Anzeige-)
 macwelt.de##+js(abort-current-inline-script.js, idgStorage)
+
+wfaa.com##+js(abort-on-property-read.js, stop)
