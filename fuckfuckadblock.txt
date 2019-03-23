@@ -470,3 +470,6 @@ eurogamer.*##+js(abort-on-property-read.js, _sp_._networkListenerData)
 ||bit.ly^$popup
 
 windowscentral.com##.swal-modal, .swal-overlay
+
+macwelt.de##.standard.marketplace:has-text(-Anzeige-)
+macwelt.de##+js(abort-current-inline-script.js, idgStorage)
