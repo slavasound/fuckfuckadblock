@@ -492,3 +492,5 @@ filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBo
 filmweb.pl##+js(abort-on-property-write.js, sas)
 
 gamesradar.com##+js(abort-on-property-write.js, _sp_)
+
+besplatka.ua##+js(abort-on-property-write.js, window.adblock)
