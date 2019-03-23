@@ -552,3 +552,5 @@ minecraft-schematics.com##+js(abort-current-inline-script.js, jQuery, adBlock)
 
 vinaurl.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||vinaurl.net^$generichide
+
+tinylink.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
