@@ -573,3 +573,5 @@ itavisen.no##+js(abort-on-property-write.js, adBlockDetected)
 
 qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
 @@||qaru.site^$generichide
+
+rangdhanu.live##+js(bab-defuser.js)
