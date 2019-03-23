@@ -222,11 +222,11 @@ sciencelife.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||ttsmp3.com^$generichide
 ttsmp3.com##+js(bab-defuser.js)
 
-rp5.by,rp5.kz,rp5.ru,rp5.ua##+js(setTimeout-defuser.js, checkAdSense)
+rp5.by,rp5.kz,rp5.ru,rp5.ua##+js(abort-on-property-read.js, checkAdSense)
 
 wordexcerpt.com##+js(abort-on-property-read.js, anOptions)
 
-tamiltunes.*##+js(window.open-defuser.js)
+tamiltunes.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 @@||tamiltunes.*^$generichide
 tamiltunes.*##+js(bab-defuser.js)
 
