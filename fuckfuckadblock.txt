@@ -435,3 +435,5 @@ pln-pskov.ru##+js(abort-current-inline-script.js, document.getElementById, check
 usgamer.net##+js(abort-on-property-read.js, _sp_._networkListenerData)
 
 @@||m-translate.ru^$generichide
+
+@@||sparmoscow.ru^$generichide
