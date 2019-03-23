@@ -305,6 +305,7 @@ imgview.net##.adbwarning
 @@||nyaa.pantsu.cat^$generichide
 
 sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
+@@||sslproxies24.top^$generichide
 
 igg-games.com##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 igg-games.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
