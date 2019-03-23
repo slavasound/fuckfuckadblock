@@ -155,6 +155,11 @@
 /wp-content/uploads/an-temp/*$script,stylesheet
 -contrib-ads.
 
+egy.best,egybest.site##+js(set-constant.js, _AdBlock, noopFunc)
+egy.best,egybest.site##+js(abort-on-property-read.js, open)
+egy.best,egybest.site##+js(window.open-defuser.js)
+||egy.best$popup
+||egybest.site$popup
 
 @@||mercurynews.com^$generichide
 mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
