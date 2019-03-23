@@ -481,3 +481,5 @@ thewindowsclub.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 arstechnica.com##.ars-appeal-container
 
 @@||androidworld.it^$generichide
+
+2speed.net##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
