@@ -519,3 +519,5 @@ gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
 @@||dekhvhai.com^$generichide
 
 sportsplays.com##+js(setTimeout-defuser.js, abDetected)
+
+techquila.co.in##+js(abort-on-property-read.js, anOptions)
