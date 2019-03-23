@@ -406,3 +406,5 @@ whosampled.com##+js(abort-on-property-write.js, showAdBlockerOverlay)
 whosampled.com##+js(setTimeout-defuser.js, ads.length)
 
 pinkhindi.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
