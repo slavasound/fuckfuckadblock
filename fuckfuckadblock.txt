@@ -584,3 +584,6 @@ kpscthulasilogin.info##+js(abort-on-property-read.js, app_vars.force_disable_adb
 partqb2i.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 @@||catchsms.com^$generichide
+
+@@||imageoptimizer.us^$generichide
+imageoptimizer.us##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
