@@ -547,3 +547,5 @@ socientifica.com.br##+js(bab-defuser.js)
 dok-film.net##+js(abort-on-property-read.js, adBlockDetected)
 
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
+
+minecraft-schematics.com##+js(abort-current-inline-script.js, jQuery, adBlock)
