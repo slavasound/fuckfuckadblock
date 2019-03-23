@@ -541,3 +541,5 @@ pipocas.tv##+js(bab-defuser.js)
 @@||shrtfly.com^$generichide
 shrtfly.*##+js(abort-on-property-read.js, open)
 shrtfly.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+socientifica.com.br##+js(bab-defuser.js)
