@@ -475,3 +475,5 @@ macwelt.de##.standard.marketplace:has-text(-Anzeige-)
 macwelt.de##+js(abort-current-inline-script.js, idgStorage)
 
 wfaa.com##+js(abort-on-property-read.js, stop)
+
+thewindowsclub.com##+js(abort-on-property-read.js, HTMLCanvasElement)
