@@ -470,3 +470,7 @@ eurogamer.*##+js(abort-on-property-read.js, _sp_._networkListenerData)
 ||bit.ly^$popup
 
 windowscentral.com##.swal-modal, .swal-overlay
+
+kissjav.com##+js(popads-dummy.js)
+@@||kissjav.com^$generichide
+|http*:*/sw.js$domain=kissjav.com,script
