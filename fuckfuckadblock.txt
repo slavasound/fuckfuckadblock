@@ -160,9 +160,9 @@ egy.best,egybest.site##+js(set-constant.js, _AdBlock, noopFunc)
 egy.best,egybest.site##+js(window.open-defuser.js)
 ||egy.best$popup
 ||egybest.site$popup
-egy.best#%#AG_setConstant('_AdBlock','noopFunc');
-egy.best#%#AG_abortInlineScript('adblock_msg', 'WinMsgHtml');
-egy.best#%#window.open = function() {};
+egybest.site,egy.best#%#(function(){var w_open=window.open,regex=/click\.php/;window.open=function(a,b){if(typeof a!=='string'||!regex.test(a)){w_open(a,b)}}})();
+egybest.site,egy.best#%#var AG_setConstant=function(){};
+egy.best#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/WinMsgHtml/.test(a.toString()))return b(a,c)};})();
 
 @@||mercurynews.com^$generichide
 mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
