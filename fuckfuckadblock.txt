@@ -537,3 +537,7 @@ click2url.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 pipocas.tv##+js(bab-defuser.js)
 @@||pipocas.tv^$generichide
+
+@@||shrtfly.com^$generichide
+shrtfly.*##+js(abort-on-property-read.js, open)
+shrtfly.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
