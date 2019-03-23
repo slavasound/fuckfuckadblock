@@ -560,3 +560,4 @@ uploadbox.io##+js(setInterval-defuser.js, (), 5000)
 
 watchtheoffice.online##+js(bab-defuser.js)
 watchtheoffice.online##+js(abort-on-property-write.js, _pop)
+||7hu8e1u001.com^$third-party
