@@ -479,3 +479,5 @@ wfaa.com##+js(abort-on-property-read.js, stop)
 thewindowsclub.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 
 arstechnica.com##.ars-appeal-container
+
+@@||androidworld.it^$generichide
