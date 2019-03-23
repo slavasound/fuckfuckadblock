@@ -557,3 +557,6 @@ tinylink.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 ||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=uploadbox.io
 uploadbox.io##+js(setInterval-defuser.js, (), 5000)
+
+watchtheoffice.online##+js(bab-defuser.js)
+watchtheoffice.online##+js(abort-on-property-write.js, _pop)
