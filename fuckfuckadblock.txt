@@ -549,3 +549,6 @@ dok-film.net##+js(abort-on-property-read.js, adBlockDetected)
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
 
 minecraft-schematics.com##+js(abort-current-inline-script.js, jQuery, adBlock)
+
+vinaurl.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||vinaurl.net^$generichide
