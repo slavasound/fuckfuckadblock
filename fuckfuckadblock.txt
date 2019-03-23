@@ -570,3 +570,6 @@ avgle.com##center > div > a[target="_blank"]
 
 @@||itavisen.no^$generichide
 itavisen.no##+js(abort-on-property-write.js, adBlockDetected)
+
+qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
+@@||qaru.site^$generichide
