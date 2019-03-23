@@ -477,3 +477,5 @@ macwelt.de##+js(abort-current-inline-script.js, idgStorage)
 wfaa.com##+js(abort-on-property-read.js, stop)
 
 thewindowsclub.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+
+arstechnica.com##.ars-appeal-container
