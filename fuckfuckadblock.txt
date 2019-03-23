@@ -443,3 +443,6 @@ wral.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 
 @@||rte.ie/player/$script,xmlhttprequest,first-party
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=rte.ie
+
+handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
+@@||handelsblatt.com^$generichide
