@@ -396,3 +396,8 @@ cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 @@||cultofmac.com^$generichide
 
 @@||luzernerzeitung.ch^$generichide
+
+licklink.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+clipwatching.com##+js(set-constant.js, adblock, false)
+clipwatching.com##+js(window.open-defuser.js)
