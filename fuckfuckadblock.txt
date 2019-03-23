@@ -509,3 +509,6 @@ kinoprofi.vip##+js(abort-on-property-write.js, window.adBlock)
 
 @@||autoexpress.co.uk^$generichide
 autoexpress.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
+
+tomsguide.com##+js(abort-on-property-write.js, adonisHash)
+tomsguide.com##+js(abort-on-property-write.js, tmnramp)
