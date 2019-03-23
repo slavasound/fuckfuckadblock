@@ -410,3 +410,5 @@ pinkhindi.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 
 cooltxtgen.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+@@||futurezone.de^$generichide
