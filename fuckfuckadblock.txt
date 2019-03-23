@@ -483,3 +483,8 @@ arstechnica.com##.ars-appeal-container
 @@||androidworld.it^$generichide
 
 2speed.net##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
+
+ridble.com###adblock-wrapper
+ridble.com##.adisclaimer
+
+rockstargame.su##+js(set-constant.js, isADB, 0)
