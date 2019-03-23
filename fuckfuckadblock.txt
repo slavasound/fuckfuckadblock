@@ -488,3 +488,6 @@ ridble.com###adblock-wrapper
 ridble.com##.adisclaimer
 
 rockstargame.su##+js(set-constant.js, isADB, 0)
+
+filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
+filmweb.pl##+js(abort-on-property-write.js, sas)
