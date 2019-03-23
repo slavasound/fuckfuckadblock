@@ -567,3 +567,6 @@ avgle.com##+js(abort-on-property-read.js, AaDetector)
 avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
 avgle.com##center > div > a[target="_blank"]
 *$third-party,popup,domain=avgle.com
+
+@@||itavisen.no^$generichide
+itavisen.no##+js(abort-on-property-write.js, adBlockDetected)
