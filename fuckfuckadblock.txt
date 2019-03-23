@@ -391,3 +391,10 @@ inoreader.com#%#var adb_detected = function() {};
 @@||inoreader.com^$generichide
 
 @@||programiz.com^$xmlhttprequest
+
+||xpgcrmxejlgig.com^
+popads.net##+js(popads.net.js)
+sembunyi.in##+js(abort-on-property-read.js, popjs)
+||gfamqlcmymxbeu.com^
+sembunyi.in#%#window.open = function(){};
+||sembunyi.in^$popup
