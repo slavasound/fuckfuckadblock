@@ -394,3 +394,5 @@ derstandard.at##+js(set-constant.js, nuggprof, noopFunc)
 
 cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 @@||cultofmac.com^$generichide
+
+@@||luzernerzeitung.ch^$generichide
