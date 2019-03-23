@@ -431,3 +431,5 @@ datoporn.co##+js(window.open-defuser.js)
 xn--b1ajehof.xn--80asehdb##+js(abort-on-property-read.js, adBlockDetected)
 
 pln-pskov.ru##+js(abort-current-inline-script.js, document.getElementById, check_ad_block)
+
+usgamer.net##+js(abort-on-property-read.js, _sp_._networkListenerData)
