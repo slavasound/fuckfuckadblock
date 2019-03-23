@@ -453,3 +453,8 @@ won.pe##+js(set-constant.js, adblock, false)
 won.pe##+js(disable-newtab-links.js)
 
 kstreaming.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+
+speedvid.net##+js(abort-on-property-read.js, AaDetector)
+speedvid.net##+js(abort-on-property-write.js, _pop)
+speedvid.net##+js(window.open-defuser.js)
+speedvid.net##+js(setInterval-defuser.js, (), 500)
