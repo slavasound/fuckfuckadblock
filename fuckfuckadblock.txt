@@ -373,3 +373,6 @@ einthusan.tv##+js(setTimeout-defuser.js, AdBlocker, 1000)
 ||einthusan.tv/prebid.js$script
 
 blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
+
+polygon.com##+js(abort-on-property-write.js, loadOutbrain)
+polygon.com##.adblock-whitelist-messaging__wrapper
