@@ -437,3 +437,6 @@ usgamer.net##+js(abort-on-property-read.js, _sp_._networkListenerData)
 @@||m-translate.ru^$generichide
 
 @@||sparmoscow.ru^$generichide
+
+wral.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+@@||wral.com^$generichide
