@@ -365,3 +365,6 @@ bild.de##+js(setTimeout-defuser.js, _abeh, 700)
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 
 tweaktown.com##+js(abort-on-property-write.js, _sp_)
+
+nekopoi.*##+js(set-constant.js, isAdsDisplayed, true)
+nekopoi.*##+js(abort-current-inline-script.js, atob, tabunder)
