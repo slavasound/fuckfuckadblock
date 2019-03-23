@@ -368,3 +368,8 @@ tweaktown.com##+js(abort-on-property-write.js, _sp_)
 
 nekopoi.*##+js(set-constant.js, isAdsDisplayed, true)
 nekopoi.*##+js(abort-current-inline-script.js, atob, tabunder)
+
+einthusan.tv##+js(setTimeout-defuser.js, AdBlocker, 1000)
+||einthusan.tv/prebid.js$script
+
+blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
