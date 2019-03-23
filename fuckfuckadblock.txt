@@ -377,3 +377,7 @@ blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
 
 polygon.com##+js(abort-on-property-write.js, loadOutbrain)
 polygon.com##.adblock-whitelist-messaging__wrapper
+
+xnxx.com,xvideos.com##+js(xvideos.com.js)
+xnxx.com,xvideos.com##+js(window.open-defuser.js)
+
