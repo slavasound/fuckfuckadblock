@@ -414,3 +414,5 @@ cooltxtgen.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||futurezone.de^$generichide
 
 cs-fundamentals.com##+js(abort-current-inline-script.js, document.getElementById, adBlockerAlert)
+
+@@||embed.kijk.nl/talpa-jw-skin/js/adsbygoogle.js$script,domain=embed.kijk.nl
