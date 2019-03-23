@@ -529,3 +529,6 @@ techquila.co.in##+js(abort-on-property-read.js, anOptions)
 
 @@||noz.de^$generichide
 noz.de##+js(set-constant.js, nozNoAdBlock, true)
+
+tajemnice-swiata.pl##+js(fuckadblock.js-3.2.0)
+@@||tajemnice-swiata.pl^$generichide
