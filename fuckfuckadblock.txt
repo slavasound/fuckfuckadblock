@@ -297,7 +297,7 @@ z3x-team.com##+js(abort-on-property-read.js, anOptions)
 
 culture-informatique.net##+js(abort-on-property-read.js, anOptions)
 
-watch32hd.org##+js(set-constant.js, loadedAd, noopFunc)
+@@||watch32hd.org/ads_*.js$script,xmlhttprequest
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
 imgview.net##.adbwarning
