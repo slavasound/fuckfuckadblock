@@ -517,3 +517,5 @@ tomsguide.com##+js(abort-on-property-write.js, tmnramp)
 gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
 
 @@||dekhvhai.com^$generichide
+
+sportsplays.com##+js(setTimeout-defuser.js, abDetected)
