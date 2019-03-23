@@ -461,3 +461,5 @@ speedvid.net##+js(setInterval-defuser.js, (), 500)
 
 itpro.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
 @@||itpro.co.uk^$generichide
+
+gallerix.ru##+js(abort-current-inline-script.js, jQuery, adbk)
