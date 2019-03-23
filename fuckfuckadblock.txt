@@ -468,3 +468,5 @@ digitaltrends.com##+js(abort-current-inline-script.js, setTimeout, googlefcPrese
 
 eurogamer.*##+js(abort-on-property-read.js, _sp_._networkListenerData)
 ||bit.ly^$popup
+
+windowscentral.com##.swal-modal, .swal-overlay
