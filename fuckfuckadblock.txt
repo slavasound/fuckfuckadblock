@@ -587,3 +587,5 @@ partqb2i.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 @@||imageoptimizer.us^$generichide
 imageoptimizer.us##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+@@||wehellas.gr^$generichide
