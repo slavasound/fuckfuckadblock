@@ -386,8 +386,8 @@ tutsgalaxy.com#%#Object.defineProperty(window,'anOptions',{get:function(){return
 
 @@||letsdownloads.com^$generichide
 
-inoreader.com#%#AG_onLoad(function() { window.adb_detected = function() {}; });
-inoreader.com#%#var adb_detected = function() {};
+inoreader.com#%#AG_onLoad(function(){window.adb_detected=function(){}});
+inoreader.com#%#var adb_detected=function(){};
 @@||inoreader.com^$generichide
 
 @@||programiz.com^$xmlhttprequest
@@ -396,5 +396,5 @@ inoreader.com#%#var adb_detected = function() {};
 popads.net##+js(popads.net.js)
 sembunyi.in##+js(abort-on-property-read.js, popjs)
 ||gfamqlcmymxbeu.com^
-sembunyi.in#%#window.open = function(){};
+sembunyi.in#%#window.open=function(){};
 ||sembunyi.in^$popup
