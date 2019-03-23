@@ -276,7 +276,6 @@ kanald.com.tr##+js(set-constant.js, adBlockDisabled, true)
 culturemap.com##+js(abort-on-property-read.js, CatapultTools)
 
 larena.it##+js(setTimeout-defuser.js, adblock-check)
-larena.it#$##adblock-check{height:1px!important;}
 
 bento.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
 @@||bento.de^$generichide
@@ -491,3 +490,5 @@ rockstargame.su##+js(set-constant.js, isADB, 0)
 
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl##+js(abort-on-property-write.js, sas)
+
+gamesradar.com##+js(abort-on-property-write.js, _sp_)
