@@ -333,6 +333,7 @@ businessinsider.*##+js(abort-on-property-read.js, stop)
 businessinsider.*##^script:has-text(setAdblockerCookie)
 
 finobe.com##+js(abort-current-inline-script.js, ga, adsbygoogle)
+@@||finobe.com^$generichide
 
 habbowert.de##+js(set-constant.js, adblock, false)
 
