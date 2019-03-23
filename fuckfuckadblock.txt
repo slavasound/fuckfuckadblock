@@ -532,3 +532,5 @@ noz.de##+js(set-constant.js, nozNoAdBlock, true)
 
 tajemnice-swiata.pl##+js(fuckadblock.js-3.2.0)
 @@||tajemnice-swiata.pl^$generichide
+
+click2url.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
