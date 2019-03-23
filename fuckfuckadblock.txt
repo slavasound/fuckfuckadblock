@@ -512,3 +512,5 @@ autoexpress.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
 
 tomsguide.com##+js(abort-on-property-write.js, adonisHash)
 tomsguide.com##+js(abort-on-property-write.js, tmnramp)
+
+gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
