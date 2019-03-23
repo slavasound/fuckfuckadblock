@@ -416,3 +416,11 @@ cooltxtgen.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 cs-fundamentals.com##+js(abort-current-inline-script.js, document.getElementById, adBlockerAlert)
 
 @@||embed.kijk.nl/talpa-jw-skin/js/adsbygoogle.js$script,domain=embed.kijk.nl
+
+temp-mail.org##+js(set-constant.js, checkadBlock, noopFunc)
+
+@@||porndish.com^$generichide
+porndish.com##+js(popads-dummy.js)
+
+streamcherry.com##+js(set-constant.js, adblock, false)
+streamcherry.com##+js(window.open-defuser.js)
