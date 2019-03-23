@@ -524,3 +524,5 @@ techquila.co.in##+js(abort-on-property-read.js, anOptions)
 
 @@||thenation.com^$generichide
 ||npttech.com/advertising.js$important,script,redirect=fuckadblock.js-3.2.0
+
+@@||forbes.pl^$generichide
