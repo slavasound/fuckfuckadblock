@@ -297,7 +297,7 @@ z3x-team.com##+js(abort-on-property-read.js, anOptions)
 
 culture-informatique.net##+js(abort-on-property-read.js, anOptions)
 
-@@||watch32hd.org/ads_*.js$script,xmlhttprequest
+watch32hd.org##+js(set-constant.js, loadedAd, noopFunc)
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
 imgview.net##.adbwarning
@@ -578,5 +578,3 @@ rangdhanu.live##+js(bab-defuser.js)
 
 ||mvunstblutptj.com^$important
 anitube.cz##+js(abort-on-property-write.js, _pop)
-
-watch32hd.org##+js(set-constant.js, loadedAd, noopFunc)
