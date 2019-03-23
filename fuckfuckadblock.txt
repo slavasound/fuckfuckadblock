@@ -350,10 +350,10 @@ tutsgalaxy.com##+js(abort-on-property-read.js, anOptions)
 
 @@||programiz.com^$xmlhttprequest
 
-||xpgcrmxejlgig.com^
+||xpgcrmxejlgig.com^$important
 popads.net##+js(popads.net.js)
 sembunyi.in##+js(abort-on-property-read.js, popjs)
-||gfamqlcmymxbeu.com^
+||gfamqlcmymxbeu.com^$important
 ||sembunyi.in^$popup
 
 earthpiclover.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
