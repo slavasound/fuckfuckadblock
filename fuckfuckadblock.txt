@@ -504,3 +504,5 @@ rockpapershotgun.com##+js(abort-on-property-write.js, yafaIt)
 rockpapershotgun.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 
 wishes2.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+kinoprofi.vip##+js(abort-on-property-write.js, window.adBlock)
