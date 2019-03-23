@@ -204,12 +204,12 @@ oladblock.*,oladblock.*,oload.*##+js(nano-setInterval-booster.js)
 ||openload.*$popup
 ||oladblock.*^$popup
 ||oload.*^$popup
-||exdynsrv.com^
+||exdynsrv.com^$important
 
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 @@||pornbimbo.com^$generichide
 ||pornbimbo.com/player/html.php$subdocument
-||exosrv.com^
+||exosrv.com^$important
 pornbimbo.com##+js(window.open-defuser.js)
 pornbimbo.com##+js(disable-newtab-links.js)
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
@@ -217,7 +217,7 @@ pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][
 sciencelife.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 sciencelife.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||sciencelife.*^$generichide
-||gregnobs.com^
+||gregnobs.com^$important
 
 @@||ttsmp3.com^$generichide
 ttsmp3.com##+js(bab-defuser.js)
