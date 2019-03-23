@@ -197,14 +197,12 @@ readlightnovel.org##+js(abort-current-inline-script.js, document.getElementById,
 @@||filebebo.net^$generichide
 filebebo.net##+js(bab-defuser.js)
 
-openload.*,oladblock.*,oload.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-openload.*,oladblock.*,oload.*##+js(openload.co.js)
-openload.*,oladblock.*,oload.*##+js(window.open-defuser.js)
-openload.*,oladblock.*,oload.*##+js(abort-current-inline-script.js, adblock, adblock2)
-oladblock.*,oladblock.*,oload.*##+js(nano-setInterval-booster.js)
-||openload.*$popup
-||oladblock.*^$popup
-||oload.*^$popup
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(openload.co.js)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(window.open-defuser.js)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(abort-current-inline-script.js, adblock, adblock2)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(nano-setInterval-booster.js)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(set-constant.js, sadbl, false)
 ||exdynsrv.com^$important
 
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
