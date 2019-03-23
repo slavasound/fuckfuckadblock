@@ -424,3 +424,6 @@ porndish.com##+js(popads-dummy.js)
 
 streamcherry.com##+js(set-constant.js, adblock, false)
 streamcherry.com##+js(window.open-defuser.js)
+
+datoporn.co##+js(set-constant.js, cRAds, true)
+datoporn.co##+js(window.open-defuser.js)
