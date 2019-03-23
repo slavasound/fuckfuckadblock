@@ -275,6 +275,8 @@ qrz.ru##.adblock.adblock_open-sidebar
 
 kanald.com.tr##+js(set-constant.js, adBlockDisabled, true)
 
+culturemap.com##+js(abort-on-property-read.js, CatapultTools)
+
 larena.it##+js(setTimeout-defuser.js, adblock-check)
 larena.it#$##adblock-check{height:1px!important;}
 
