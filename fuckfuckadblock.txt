@@ -391,3 +391,6 @@ derstandard.at##+js(set-constant.js, nuggprof, noopFunc)
 1fichier.com##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 1fichier.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 1fichier.com##+js(nowebrtc.js)
+
+cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+@@||cultofmac.com^$generichide
