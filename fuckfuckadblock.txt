@@ -496,3 +496,6 @@ gamesradar.com##+js(abort-on-property-write.js, _sp_)
 besplatka.ua##+js(abort-on-property-write.js, window.adblock)
 
 thefutureweb.ru##+js(abort-on-property-read.js, anOptions)
+
+ottawacitizen.com##+js(abort-on-property-read.js, stop)
+@@||ottawacitizen.com^$generichide
