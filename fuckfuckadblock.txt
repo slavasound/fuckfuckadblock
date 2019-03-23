@@ -466,4 +466,5 @@ gallerix.ru##+js(abort-current-inline-script.js, jQuery, adbk)
 
 digitaltrends.com##+js(abort-current-inline-script.js, setTimeout, googlefcPresent)
 
-eurogamer.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
+eurogamer.*##+js(abort-on-property-read.js, _sp_._networkListenerData)
+||bit.ly^$popup
