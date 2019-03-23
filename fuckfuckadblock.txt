@@ -237,7 +237,6 @@ leakforums.*##+js(abort-on-property-read.js, adblock)
 gametimers.it##+js(bab-defuser.js)
 
 @@||blogspot.com^$generichide
-blogspot.com##+js(addEventListener-defuser.js, load, onload)
 
 file-up.*,file-upload.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
 file-upload.*##+js(setTimeout-defuser.js, nextFunction, 2000)
