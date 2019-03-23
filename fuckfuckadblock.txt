@@ -230,7 +230,8 @@ tamiltunes.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 @@||tamiltunes.*^$generichide
 tamiltunes.*##+js(bab-defuser.js)
 
-@@||leakforums.co^$generichide
+@@||leakforums.*^$generichide
+leakforums.*##+js(abort-on-property-read.js, adblock)
 
 @@||gametimers.it^$generichide
 gametimers.it##+js(bab-defuser.js)
