@@ -399,3 +399,6 @@ sembunyi.in##+js(abort-on-property-read.js, popjs)
 ||gfamqlcmymxbeu.com^
 sembunyi.in#%#window.open=function(){};
 ||sembunyi.in^$popup
+
+earthpiclover.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+earthpiclover.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
