@@ -201,7 +201,7 @@ chicoer.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,empty,important,domain=chicoer.com
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,redirect=noopjs,important,domain=chicoer.com
 
-readlightnovel.org##+js(abort-current-inline-script.js, document.getElementById, adisblock)
+readlightnovel.org##+js(abort-on-property-read.js, HTMLCanvasElement)
 @@||readlightnovel.org^$generichide
 
 @@||filebebo.net^$generichide
