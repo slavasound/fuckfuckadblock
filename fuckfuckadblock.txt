@@ -673,3 +673,5 @@ clik.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 clik.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*##+js(bab-defuser.js)
+
+ft.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
