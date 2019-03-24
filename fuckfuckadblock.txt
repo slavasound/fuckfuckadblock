@@ -378,6 +378,8 @@ finobe.com##+js(abort-current-inline-script.js, ga, adsbygoogle)
 @@||finobe.com^$generichide
 
 habbowert.de##+js(set-constant.js, adblock, false)
+habbowert.de#%#AG_setConstant('adblock', 'false');
+habbowert.de#%#AG_abortInlineScript(/#adblockinfo/, '$');
 
 stiffgamerdown.com##+js(addEventListener-defuser.js, load, nextFunction)
 stiffgamerdown.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
