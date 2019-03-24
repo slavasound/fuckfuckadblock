@@ -226,6 +226,8 @@ pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com##+js(window.open-defuser.js)
 pornbimbo.com##+js(disable-newtab-links.js)
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
+pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
+pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
 
 sciencelife.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 sciencelife.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
