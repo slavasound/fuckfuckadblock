@@ -331,7 +331,7 @@ rim-world.com##+js(setTimeout-defuser.js, adblock, 5000)
 rim-world.com#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/getAdIFrameCount/.test(a.toString()))return b(a,c)};})();
 
 dojrzewamy.pl##+js(setTimeout-defuser.js, ad-container)
-dojrzewamy.pl##.adblock_info
+dojrzewamy.pl##.adblock_info, .adblock_bg, .adblock_text
 
 z3x-team.com##+js(abort-on-property-read.js, anOptions)
 
