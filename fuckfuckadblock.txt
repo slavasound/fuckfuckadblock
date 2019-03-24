@@ -171,7 +171,7 @@ mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
 
 @@||dropupload.com^$generichide
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
-dropupload.com#%#AG_abortInlineScript(/getElementById\("adblockinfo"\)/, 'document.getElementById');
+dropupload.com#%#AG_abortInlineScript(/"adblockinfo"/, 'document.getElementById');
 
 @@||mangahost1.com^$generichide
 @@||mangahost2.com^$generichide
