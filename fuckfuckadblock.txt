@@ -334,8 +334,10 @@ dojrzewamy.pl##+js(setTimeout-defuser.js, ad-container)
 dojrzewamy.pl##.adblock_info, .adblock_bg, .adblock_text
 
 z3x-team.com##+js(abort-on-property-read.js, anOptions)
+z3x-team.com#%#AG_abortOnPropertyRead('anOptions');
 
 culture-informatique.net##+js(abort-on-property-read.js, anOptions)
+culture-informatique.net#%#AG_abortOnPropertyRead('anOptions');
 
 @@||watch32hd.org/ads_*.js$script,xmlhttprequest
 
