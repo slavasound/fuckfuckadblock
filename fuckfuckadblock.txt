@@ -324,6 +324,7 @@ sukebei.pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
 sukebei.pantsu.cat##+js(window.open-defuser.js)
 
 laradiobbs.net##+js(set-constant.js, adblock, false)
+laradiobbs.net#%#AG_setConstant('adblock', 'false');
 laradiobbs.net##.blocked
 
 rim-world.com##+js(setTimeout-defuser.js, adblock, 5000)
