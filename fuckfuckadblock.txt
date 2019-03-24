@@ -654,3 +654,7 @@ vidplayer.cz##+js(abort-on-property-read.js, AaDetector)
 ||cdn.cloudfrale.com/Managed/*.mp4$media,redirect=noopmp3-0.1s,domain=vidplayer.cz
 
 @@||wurstclient.net^$generichide
+
+userscloud.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+userscloud.com##+js(abort-on-property-write.js, open)
+userscloud.com##+js(remove-attr.js, onclick, .btn-icon-stacked)
