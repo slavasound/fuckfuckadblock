@@ -318,6 +318,7 @@ bento.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 @@||bento.de^$generichide
 
 sukebei.pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
+sukebei.pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
 @@||sukebei.pantsu.cat^$generichide
 ||sukebei.pantsu.cat^$popup
 sukebei.pantsu.cat##+js(window.open-defuser.js)
