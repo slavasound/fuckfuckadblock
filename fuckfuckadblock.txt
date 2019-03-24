@@ -616,3 +616,5 @@ imageoptimizer.us##+js(abort-on-property-read.js, app_vars.force_disable_adblock
 linkberuang.*##+js(set-constant.js, safelink.adblock, false)
 
 diariodenavarra.es##+js(set-constant.js, Math.random, trueFunc)
+
+@@||upfiles.*^$generichide
