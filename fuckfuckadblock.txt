@@ -350,6 +350,7 @@ sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
 
 igg-games.com##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 igg-games.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+||dolohen.com^$important
 igg-games.com##a[href$=".jpg"]
 igg-games.com##+js(nowebrtc.js)
 
@@ -358,12 +359,14 @@ igg-games.com##+js(nowebrtc.js)
 @@||rekapp.info^$generichide
 
 ||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
+||pagead2.googlesyndication.com/pagead/js/$script,empty,domain=ebb.io
 
 @@*/ad-block-detector.js$domain=ncaa.com
 @@||ncaa.com^$generichide
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=mylink.love
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,empty,domain=mylink.love
 
 @@||venipa.net^$generichide
 venipa.net##+js(bab-defuser.js)
