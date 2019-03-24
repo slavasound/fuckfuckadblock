@@ -228,11 +228,15 @@ pornbimbo.com##+js(disable-newtab-links.js)
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
+pornbimbo.com#%#window.open=function(){};
 
 sciencelife.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 sciencelife.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||sciencelife.*^$generichide
 ||gregnobs.com^$important
+sciencelife.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+sciencelife.*#%#window.open=function(){};
+sciencelife.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||ttsmp3.com^$generichide
 ttsmp3.com##+js(bab-defuser.js)
