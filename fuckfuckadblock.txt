@@ -620,3 +620,7 @@ imageoptimizer.us##+js(abort-on-property-read.js, app_vars.force_disable_adblock
 linkberuang.*##+js(set-constant.js, safelink.adblock, false)
 
 diariodenavarra.es##+js(set-constant.js, Math.random, trueFunc)
+
+@@||extremereportbot.com^$generichide
+@@||extremereportbot.com/ads.js^$script
+@@||extremereportbot.com/adframe.js^$script
