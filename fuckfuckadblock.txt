@@ -385,9 +385,11 @@ stiffgamerdown.com##+js(addEventListener-defuser.js, load, nextFunction)
 stiffgamerdown.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 stiffgamerdown.com##+js(window.open-defuser.js)
 @@||stiffgamerdown.com^$generichide
+stiffgamerdown.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
 @@||tutsgalaxy.com^$generichide
 tutsgalaxy.com##+js(abort-on-property-read.js, anOptions)
+tutsgalaxy.com#%#AG_abortOnPropertyRead('anOptions');
 
 @@||letsdownloads.com^$generichide
 
