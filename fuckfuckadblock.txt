@@ -342,6 +342,7 @@ culture-informatique.net#%#AG_abortOnPropertyRead('anOptions');
 @@||watch32hd.org/ads_*.js$script,xmlhttprequest
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
+imgview.net#%#AG_abortInlineScript(/adbwarning/, 'setTimeout');
 imgview.net##.adbwarning
 
 @@||nyaa.pantsu.cat^$generichide
