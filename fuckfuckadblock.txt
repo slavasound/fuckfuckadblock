@@ -260,12 +260,15 @@ gametimers.it##+js(bab-defuser.js)
 
 @@||blogspot.com^$generichide
 
-file-up.*,file-upload.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
+file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
 file-upload.*##+js(setTimeout-defuser.js, nextFunction, 2000)
-file-upload.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 file-up.*##+js(noeval.js)
 file-up.*##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 file-upload.*##.adsbygoogle
+@@||upfiles.*^$generichide
+@@||file-up.*^$generichide
+@@||file-upload.*^$generichide
 
 blogginggyanbox.com,funnyquiz.blog##+js(set-constant.js, adBlockDetected, noopFunc)
 blogginggyanbox.com,funnyquiz.blog##.adsbygoogle
@@ -616,5 +619,3 @@ imageoptimizer.us##+js(abort-on-property-read.js, app_vars.force_disable_adblock
 linkberuang.*##+js(set-constant.js, safelink.adblock, false)
 
 diariodenavarra.es##+js(set-constant.js, Math.random, trueFunc)
-
-@@||upfiles.*^$generichide
