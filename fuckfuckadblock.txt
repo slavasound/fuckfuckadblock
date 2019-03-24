@@ -242,8 +242,10 @@ sciencelife.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 ttsmp3.com##+js(bab-defuser.js)
 
 rp5.by,rp5.kz,rp5.ru,rp5.ua##+js(abort-on-property-read.js, checkAdSense)
+rp5.by,rp5.kz,rp5.ru,rp5.ua#%#AG_setConstant('checkAdSense', 'noopFunc');
 
 wordexcerpt.com##+js(abort-on-property-read.js, anOptions)
+wordexcerpt.com#%#AG_abortOnPropertyRead('anOptions')
 
 tamiltunes.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 @@||tamiltunes.*^$generichide
@@ -251,6 +253,7 @@ tamiltunes.*##+js(bab-defuser.js)
 
 @@||leakforums.*^$generichide
 leakforums.*##+js(abort-on-property-read.js, adblock)
+leakforums.*#%#AG_abortOnPropertyRead('adblock');
 
 @@||gametimers.it^$generichide
 gametimers.it##+js(bab-defuser.js)
