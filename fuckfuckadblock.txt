@@ -401,9 +401,11 @@ tutsgalaxy.com#%#AG_abortOnPropertyRead('anOptions');
 popads.net##+js(popads.net.js)
 sembunyi.in##+js(abort-on-property-read.js, popjs)
 ||gfamqlcmymxbeu.com^$important
-||sembunyi.in^$popup
+||sembunyi.in^$popup,important
+sembunyi.in#%#AG_abortOnPropertyRead('popjs');
 
 earthpiclover.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+earthpiclover.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 bild.de##+js(abort-on-property-write.js, _abeh)
 bild.de##+js(setInterval-defuser.js, (), 10)
