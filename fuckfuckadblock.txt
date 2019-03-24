@@ -308,6 +308,7 @@ kanald.com.tr##+js(set-constant.js, adBlockDisabled, true)
 kanald.com.tr#%#window.adBlockDisabled=true;
 
 culturemap.com##+js(abort-on-property-read.js, CatapultTools)
+culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
 
 larena.it##+js(setTimeout-defuser.js, adblock-check)
 
