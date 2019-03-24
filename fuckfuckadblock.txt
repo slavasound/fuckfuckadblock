@@ -314,6 +314,7 @@ larena.it##+js(setTimeout-defuser.js, adblock-check)
 larena.it#%#AG_abortInlineScript(/#adblock-check/, '$');
 
 bento.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
+bento.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 @@||bento.de^$generichide
 
 sukebei.pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
