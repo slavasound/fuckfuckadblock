@@ -276,8 +276,11 @@ blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##.adsbygoogle
 @@||blogginggyanbox.com^$generichide
 @@||funnyquiz.blog^$generichide
 @@||fabsdeals.com^$generichide
+blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(window.open-defuser.js)
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#window.open=function(){};
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#AG_setConstant('adBlockDetected', 'noopFunc');
 
 @@||debilizator.tv/static/*/videojs-contrib-ads$stylesheet,xmlhttprequest,first-party
 
