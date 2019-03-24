@@ -171,6 +171,7 @@ mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
 
 @@||dropupload.com^$generichide
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
+dropupload.com#%#AG_abortInlineScript(/getElementById\("adblockinfo"\)/, 'document.getElementById');
 
 @@||mangahost1.com^$generichide
 @@||mangahost2.com^$generichide
@@ -183,6 +184,9 @@ sosiali.com##+js(setTimeout-defuser.js, Adblock, 2000)
 sosiali.com##+js(setTimeout-defuser.js, _0x)
 sosiali.com###adsblock
 
+@@||getrelax.club^$generichide
+getrelax.club###adisblock
+getrelax.club###main_content:style(display: block !important;)
 getrelax.club##+js(abort-current-inline-script.js, document.getElementById, adisblock)
 getrelax.club##.loaded-popup-wrapper
 
