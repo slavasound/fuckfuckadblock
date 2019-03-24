@@ -605,8 +605,10 @@ shrtfly.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 shrtfly.*#%#AG_abortOnPropertyRead('open');
 
 socientifica.com.br##+js(bab-defuser.js)
+@@||socientifica.com.br^$generichide
 
 dok-film.net##+js(abort-on-property-read.js, adBlockDetected)
+dok-film.net#%#AG_abortOnPropertyRead('adBlockDetected');
 
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
 
