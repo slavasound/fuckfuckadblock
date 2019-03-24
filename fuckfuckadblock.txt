@@ -317,11 +317,11 @@ bento.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
 bento.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 @@||bento.de^$generichide
 
-sukebei.pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
-sukebei.pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
-@@||sukebei.pantsu.cat^$generichide
-||sukebei.pantsu.cat^$popup
-sukebei.pantsu.cat##+js(window.open-defuser.js)
+pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
+pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
+@@||pantsu.cat^$generichide
+||pantsu.cat^$popup
+pantsu.cat##+js(window.open-defuser.js)
 
 laradiobbs.net##+js(set-constant.js, adblock, false)
 laradiobbs.net#%#AG_setConstant('adblock', 'false');
@@ -344,8 +344,6 @@ culture-informatique.net#%#AG_abortOnPropertyRead('anOptions');
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
 imgview.net#%#AG_abortInlineScript(/adbwarning/, 'setTimeout');
 imgview.net##.adbwarning
-
-@@||nyaa.pantsu.cat^$generichide
 
 sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
 @@||sslproxies24.top^$generichide
