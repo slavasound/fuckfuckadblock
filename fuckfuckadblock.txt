@@ -182,6 +182,7 @@ mangahost1.com,mangahost2.com,mangahost-br.com##+js(setTimeout-defuser.js, adblo
 
 sosiali.com##+js(setTimeout-defuser.js, Adblock, 2000)
 sosiali.com##+js(setTimeout-defuser.js, _0x)
+sosiali.com#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
 sosiali.com###adsblock
 
 @@||getrelax.club^$generichide
