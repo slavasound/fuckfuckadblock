@@ -670,7 +670,9 @@ diariodenavarra.es#%#AG_setConstant('Math.random', 'trueFunc');
 @@||extremereportbot.com/adframe.js^$script
 
 vidplayer.cz##+js(abort-on-property-read.js, AaDetector)
+vidplayer.cz#%#AG_abortOnPropertyRead('AaDetector');
 ||cdn.cloudfrale.com/Managed/*.mp4$media,redirect=noopmp3-0.1s,domain=vidplayer.cz
+vidplayer.cz#%#AG_abortOnPropertyRead('open');
 
 @@||wurstclient.net^$generichide
 
