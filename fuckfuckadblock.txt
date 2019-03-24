@@ -449,6 +449,7 @@ cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 @@||luzernerzeitung.ch^$generichide
 
 licklink.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+licklink.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 clipwatching.com##+js(set-constant.js, adblock, false)
 clipwatching.com##+js(window.open-defuser.js)
@@ -459,10 +460,12 @@ whosampled.com##+js(abort-on-property-write.js, showAdBlockerOverlay)
 whosampled.com##+js(setTimeout-defuser.js, ads.length)
 
 pinkhindi.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+pinkhindi.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 
 cooltxtgen.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+cooltxtgen.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||futurezone.de^$generichide
 
@@ -559,6 +562,7 @@ rockpapershotgun.com##+js(abort-on-property-write.js, yafaIt)
 rockpapershotgun.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 
 wishes2.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+wishes2.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 kinoprofi.vip##+js(abort-on-property-write.js, window.adBlock)
 
@@ -589,6 +593,7 @@ tajemnice-swiata.pl##+js(fuckadblock.js-3.2.0)
 @@||tajemnice-swiata.pl^$generichide
 
 click2url.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+click2url.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 pipocas.tv##+js(bab-defuser.js)
 @@||pipocas.tv^$generichide
@@ -596,6 +601,8 @@ pipocas.tv##+js(bab-defuser.js)
 @@||shrtfly.com^$generichide
 shrtfly.*##+js(abort-on-property-read.js, open)
 shrtfly.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+shrtfly.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+shrtfly.*#%#AG_abortOnPropertyRead('open');
 
 socientifica.com.br##+js(bab-defuser.js)
 
@@ -606,9 +613,11 @@ legia.net##+js(setTimeout-defuser.js, timeoutChecker)
 minecraft-schematics.com##+js(abort-current-inline-script.js, jQuery, adBlock)
 
 vinaurl.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+vinaurl.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||vinaurl.net^$generichide
 
 tinylink.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+tinylink.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 ||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=uploadbox.io
 uploadbox.io##+js(setInterval-defuser.js, (), 5000)
@@ -635,13 +644,16 @@ rangdhanu.live##+js(bab-defuser.js)
 anitube.cz##+js(abort-on-property-write.js, _pop)
 
 kpscthulasilogin.info##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+kpscthulasilogin.info#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 partqb2i.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+partqb2i.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||catchsms.com^$generichide
 
 @@||imageoptimizer.us^$generichide
 imageoptimizer.us##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+imageoptimizer.us#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||wehellas.gr^$generichide
 
@@ -663,6 +675,7 @@ userscloud.com##+js(abort-on-property-write.js, open)
 userscloud.com##+js(remove-attr.js, onclick, .btn-icon-stacked)
 
 ocen-piwo.pl##+js(abort-on-property-write.js, osiemnascielat)
+ocen-piwo.pl###osiemnascielat
 
 clik.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 @@||clik.*^$generichide
