@@ -658,3 +658,5 @@ vidplayer.cz##+js(abort-on-property-read.js, AaDetector)
 userscloud.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 userscloud.com##+js(abort-on-property-write.js, open)
 userscloud.com##+js(remove-attr.js, onclick, .btn-icon-stacked)
+
+ocen-piwo.pl##+js(abort-on-property-write.js, osiemnascielat)
