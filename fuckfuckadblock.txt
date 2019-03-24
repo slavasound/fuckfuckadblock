@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Fuck Fuckadblock
-! Last modified: 2019-03-24
+! Last modified: 2019-03-25
 ! Author: Bogachenko Vyacheslav
 ! Expires: 3 hours
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
@@ -497,7 +497,7 @@ usgamer.net##+js(abort-on-property-read.js, _sp_._networkListenerData)
 wral.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 @@||wral.com^$generichide
 
-@@||rte.ie/player/$script,xmlhttprequest,first-party
+@@||rte.ie/player/$script,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=rte.ie
 
 handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
