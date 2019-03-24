@@ -261,10 +261,7 @@ gametimers.it##+js(bab-defuser.js)
 @@||blogspot.com^$generichide
 
 file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
-file-upload.*##+js(setTimeout-defuser.js, nextFunction, 2000)
 file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
-file-up.*##+js(noeval.js)
-file-up.*##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 file-upload.*##.adsbygoogle
 @@||upfiles.*^$generichide
 @@||file-up.*^$generichide
