@@ -282,9 +282,10 @@ blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#window.open=function(){};
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#AG_setConstant('adBlockDetected', 'noopFunc');
 
-@@||debilizator.tv/static/*/videojs-contrib-ads$stylesheet,xmlhttprequest,first-party
+@@||debilizator.tv/static/*/videojs-contrib-ads$stylesheet,xmlhttprequest
 
 ||rusfishing.ru/forum/js/siropu/am/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
+||rusfishing.ru/forum/js/siropu/am/core.min.js$script,empty,domain=rusfishing.ru
 rusfishing.ru##.samBannerUnit
 
 thehindu.com##+js(set-constant.js, Adblock, false)
