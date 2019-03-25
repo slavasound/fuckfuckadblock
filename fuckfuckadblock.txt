@@ -637,8 +637,11 @@ watchtheoffice.online##+js(abort-on-property-write.js, _pop)
 watchtheoffice.online#%#AG_abortOnPropertyWrite('_pop');
 
 avgle.com##+js(abort-on-property-read.js, ExoLoader.serve)
+avgle.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
 avgle.com##+js(abort-on-property-read.js, AaDetector)
+avgle.com#%#AG_abortOnPropertyRead('AaDetector');
 avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
+avgle.com#%#AG_setConstant('showBlockIf', 'noopFunc')
 avgle.com##center > div > a[target="_blank"]
 *$third-party,popup,domain=avgle.com
 
