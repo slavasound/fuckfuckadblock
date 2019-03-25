@@ -760,3 +760,6 @@ cut7link.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 tl.tc##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 tl.tc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
+@@||satoshilabs.net^$generichide
+satoshilabs.net##+js(bab-defuser.js)
