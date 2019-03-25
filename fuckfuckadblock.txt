@@ -735,3 +735,6 @@ dutchycorp.space##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||dutchycorp.space^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=dutchycorp.space
 dutchycorp.space#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
+click2see.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+click2see.*##+js(addEventListener-defuser.js, click, trigger)
