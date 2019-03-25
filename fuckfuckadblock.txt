@@ -476,6 +476,7 @@ cs-fundamentals.com##+js(abort-current-inline-script.js, document.getElementById
 @@||embed.kijk.nl/talpa-jw-skin/js/adsbygoogle.js$script,domain=embed.kijk.nl
 
 temp-mail.org##+js(set-constant.js, checkadBlock, noopFunc)
+temp-mail.org#%#AG_setConstant('checkadBlock', 'noopFunc');
 
 @@||porndish.com^$generichide
 porndish.com##+js(popads-dummy.js)
