@@ -563,18 +563,23 @@ thefutureweb.ru##+js(abort-on-property-read.js, anOptions)
 thefutureweb.ru#%#AG_abortOnPropertyRead('anOptions');
 
 ottawacitizen.com##+js(abort-on-property-read.js, stop)
+ottawacitizen.com#%#AG_abortOnPropertyRead('stop');
 @@||ottawacitizen.com^$generichide
 
 rockpapershotgun.com##+js(abort-on-property-write.js, yafaIt)
 rockpapershotgun.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
+rockpapershotgun.com#%#AG_abortOnPropertyWrite('yafaIt');
+rockpapershotgun.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 wishes2.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 wishes2.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 kinoprofi.vip##+js(abort-on-property-write.js, window.adBlock)
+kinoprofi.vip#%#AG_abortOnPropertyWrite('window.adBlock');
 
 @@||autoexpress.co.uk^$generichide
 autoexpress.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
+autoexpress.co.uk#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 tomsguide.com##+js(abort-on-property-write.js, adonisHash)
 tomsguide.com##+js(abort-on-property-write.js, tmnramp)
@@ -620,6 +625,7 @@ dok-film.net#%#AG_abortOnPropertyRead('adBlockDetected');
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
 
 minecraft-schematics.com##+js(abort-current-inline-script.js, jQuery, adBlock)
+@@||minecraft-schematics.com^$generichide
 
 vinaurl.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 vinaurl.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
