@@ -752,3 +752,8 @@ payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
 
 cut7link.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 cut7link.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
+*/fuckadblock-$script,redirect=fuckadblock.js-3.2.0
+*/fuckadblock.$script,redirect=fuckadblock.js-3.2.0
+*/blockadblock.$script,redirect=fuckadblock.js-3.2.0
+*/blockadblock-$script,redirect=fuckadblock.js-3.2.0
