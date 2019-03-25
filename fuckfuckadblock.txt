@@ -768,3 +768,9 @@ satoshilabs.net##+js(bab-defuser.js)
 
 autocentrum.pl##+js(set-constant.js, adblockJsFile, true)
 autocentrum.pl#%#AG_setConstant('adblockJsFile', 'true');
+
+gamehunt.net##+js(set-constant.js, adblock, false)
+gamehunt.net##+js(abort-on-property-write.js, adBlockDetected)
+gamehunt.net#%#AG_setConstant('adBlockDetected', 'noopFunc');
+gamehunt.net#%#AG_setConstant('adblock', 'false');
+@@||gamehunt.net^$generichide
