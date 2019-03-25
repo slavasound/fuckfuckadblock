@@ -704,6 +704,7 @@ clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*##+js(bab-defuser.js)
 
 ft.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
+ft.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 baramjdown.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 baramjdown.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
@@ -718,6 +719,8 @@ sk-ip.ru#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 urlsamo.com##+js(abort-on-property-read.js, open)
 urlsamo.com##+js(setTimeout-defuser.js, '0x)
 urlsamo.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+urlsamo.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+urlsamo.com#%#AG_abortOnPropertyRead('open');
 
 ourmagnet.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ourmagnet.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
@@ -738,6 +741,7 @@ dutchycorp.space##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 dutchycorp.space#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 click2see.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+click2see.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 click2see.*##+js(addEventListener-defuser.js, click, trigger)
 
 payco.*##+js(abort-on-property-read.js, AaDetector)
