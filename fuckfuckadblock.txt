@@ -774,3 +774,6 @@ gamehunt.net##+js(abort-on-property-write.js, adBlockDetected)
 gamehunt.net#%#AG_setConstant('adBlockDetected', 'noopFunc');
 gamehunt.net#%#AG_setConstant('adblock', 'false');
 @@||gamehunt.net^$generichide
+
+gfycat.com##+js(set-constant.js, setInterval, noopFunc)
+gfycat.com#%#AG_setConstant('setInterval', 'noopFunc');
