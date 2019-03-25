@@ -713,3 +713,7 @@ tiny.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 sk-ip.ru##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||sk-ip.ru^$generichide
 sk-ip.ru#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
+urlsamo.com##+js(abort-on-property-read.js, open)
+urlsamo.com##+js(setTimeout-defuser.js, '0x)
+urlsamo.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
