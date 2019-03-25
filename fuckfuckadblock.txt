@@ -698,8 +698,6 @@ clik.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.set
 clik.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 clik.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
-clik.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
-clik.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
 clik.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 clik.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 clik.*##+js(setTimeout-defuser.js, _0x)
