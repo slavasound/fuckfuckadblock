@@ -648,8 +648,10 @@ itavisen.no#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
 @@||qaru.site^$generichide
+qaru.site#%#AG_setConstant('adBlockDetected', 'noopFunc');
 
 rangdhanu.live##+js(bab-defuser.js)
+@@||rangdhanu.live^$generichide
 
 ||mvunstblutptj.com^$important
 anitube.cz##+js(abort-on-property-write.js, _pop)
