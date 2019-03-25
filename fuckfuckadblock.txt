@@ -706,3 +706,6 @@ ft.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 
 baramjdown.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 baramjdown.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
+tiny.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+tiny.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
