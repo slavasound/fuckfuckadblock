@@ -801,3 +801,6 @@ gfycat.com#%#AG_setConstant('setInterval', 'noopFunc');
 @@||*/adblock-detector/advertisement-*.js^$domain=geekspin.co
 
 @@||publico.pt^$generichide
+
+synonymbog.com##+js(abort-on-property-write.js, adBlockDetected)
+synonymbog.com#%#AG_abortOnPropertyWrite('adBlockDetected');
