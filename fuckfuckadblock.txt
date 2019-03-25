@@ -738,3 +738,12 @@ dutchycorp.space#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 click2see.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 click2see.*##+js(addEventListener-defuser.js, click, trigger)
+
+payco.xyz##+js(abort-on-property-read.js, AaDetector)
+payco.xyz##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+payco.xyz##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+payco.xyz##+js(abort-on-property-write.js, _pop)
+payco.xyz##+js(bab-defuser.js)
+payco.xyz##+js(nano-setInterval-booster.js)
+payco.xyz##+js(abort-current-inline-script.js, parseInt, charAt)
+@@||payco.xyz^$generichide
