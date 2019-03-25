@@ -723,3 +723,10 @@ ourmagnet.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 techjad.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 techjad.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
+convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
+convert2mp3.net##+js(abort-on-property-read.js, zfgloadedpopup)
+convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+||convert2mp3.net/assets/js/push.js^$script,important
+convert2mp3.net##+js(abort-current-inline-script.js, RegExp, zfgload)
+convert2mp3.net##+js(abort-on-property-read.js, g133.c3)
