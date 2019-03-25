@@ -720,3 +720,6 @@ urlsamo.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 ourmagnet.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ourmagnet.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
+techjad.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+techjad.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
