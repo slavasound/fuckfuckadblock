@@ -427,6 +427,7 @@ einthusan.tv##+js(setTimeout-defuser.js, AdBlocker, 1000)
 ||einthusan.tv/prebid.js$script
 
 blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
+blick.ch#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 polygon.com##+js(abort-on-property-write.js, loadOutbrain)
 polygon.com##.adblock-whitelist-messaging__wrapper
@@ -492,6 +493,7 @@ xn--b1ajehof.xn--80asehdb##+js(abort-on-property-read.js, adBlockDetected)
 pln-pskov.ru##+js(abort-current-inline-script.js, document.getElementById, check_ad_block)
 
 usgamer.net##+js(abort-on-property-read.js, _sp_._networkListenerData)
+usgamer.net#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 @@||m-translate.ru^$generichide
 
@@ -523,6 +525,7 @@ speedvid.net##+js(window.open-defuser.js)
 speedvid.net##+js(setInterval-defuser.js, (), 500)
 
 itpro.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
+itpro.co.uk#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 @@||itpro.co.uk^$generichide
 
 gallerix.ru##+js(abort-current-inline-script.js, jQuery, adbk)
@@ -530,6 +533,7 @@ gallerix.ru##+js(abort-current-inline-script.js, jQuery, adbk)
 digitaltrends.com##+js(abort-current-inline-script.js, setTimeout, googlefcPresent)
 
 eurogamer.*##+js(abort-on-property-read.js, _sp_._networkListenerData)
+eurogamer.*#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 ||bit.ly^$popup
 
 windowscentral.com##.swal-modal, .swal-overlay
@@ -556,8 +560,10 @@ filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBo
 filmweb.pl##+js(abort-on-property-write.js, sas)
 
 gamesradar.com##+js(abort-on-property-write.js, _sp_)
+gamesradar.com#%#AG_abortOnPropertyWrite('_sp_');
 
 besplatka.ua##+js(abort-on-property-write.js, window.adblock)
+besplatka.ua#%#AG_abortOnPropertyWrite('window.adBlock');
 
 thefutureweb.ru##+js(abort-on-property-read.js, anOptions)
 thefutureweb.ru#%#AG_abortOnPropertyRead('anOptions');
