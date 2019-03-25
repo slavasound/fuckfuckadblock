@@ -805,3 +805,5 @@ gfycat.com#%#AG_setConstant('setInterval', 'noopFunc');
 synonymbog.com##+js(abort-on-property-write.js, adBlockDetected)
 synonymbog.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||synonymbog.com^$generichide
+
+@@||farmeramania.de^$generichide
