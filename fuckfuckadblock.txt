@@ -763,3 +763,5 @@ tl.tc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||satoshilabs.net^$generichide
 satoshilabs.net##+js(bab-defuser.js)
+
+@@||msueagles.com^$generichide
