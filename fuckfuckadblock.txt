@@ -836,3 +836,8 @@ streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
 ||mangovideo.pw/player/html.php?aid=*_html&video_id=*&*&referer$important
 
 @@||startseite.to^$generichide
+
+myvidster.com##+js(abort-on-property-read.js, adblockDetector)
+myvidster.com#%#AG_abortOnPropertyRead('adblockDetector');
+@@||myvidster.com^$generichide
+
