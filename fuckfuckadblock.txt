@@ -843,3 +843,5 @@ myvidster.com#%#AG_abortOnPropertyRead('adblockDetector');
 
 @@||webtvhd.com^$generichide
 
+inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
+@@||inmanga.com^$generichide
