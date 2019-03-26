@@ -813,3 +813,6 @@ programinadresi.com##+js(abort-on-property-read.js, adBlock)
 freemcserver.net##+js(bab-defuser.js)
 freemcserver.net##+js(setTimeout-defuser.js, adblock)
 @@||freemcserver.net/js/*$script
+
+keepvid.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+
