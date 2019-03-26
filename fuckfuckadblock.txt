@@ -824,3 +824,5 @@ stiffvip.com##+js(nowebrtc.js)
 
 streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
 
+@@||startseite.to^$generichide
+
