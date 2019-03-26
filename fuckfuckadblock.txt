@@ -819,6 +819,7 @@ freemcserver.net##+js(setTimeout-defuser.js, adblock)
 keepvid.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
 xiaomifans.pl##+js(setTimeout-defuser.js, test, 100)
+@@||xiaomifans.pl^$generichide
 
 stiffvip.com##+js(nowebrtc.js)
 
