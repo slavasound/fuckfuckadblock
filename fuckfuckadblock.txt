@@ -841,3 +841,5 @@ myvidster.com##+js(abort-on-property-read.js, adblockDetector)
 myvidster.com#%#AG_abortOnPropertyRead('adblockDetector');
 @@||myvidster.com^$generichide
 
+@@||webtvhd.com^$generichide
+
