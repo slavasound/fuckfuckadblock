@@ -809,6 +809,8 @@ synonymbog.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||farmeramania.de^$generichide
 
 programinadresi.com##+js(abort-on-property-read.js, adBlock)
+programinadresi.com#%#AG_abortOnPropertyRead('adBlock');
+@@||programinadresi.com^$generichide
 
 freemcserver.net##+js(bab-defuser.js)
 freemcserver.net##+js(setTimeout-defuser.js, adblock)
