@@ -807,3 +807,6 @@ synonymbog.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||synonymbog.com^$generichide
 
 @@||farmeramania.de^$generichide
+
+programinadresi.com##+js(abort-on-property-read.js, adBlock)
+
