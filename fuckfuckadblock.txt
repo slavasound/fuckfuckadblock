@@ -818,3 +818,7 @@ keepvid.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
 xiaomifans.pl##+js(setTimeout-defuser.js, test, 100)
 
+stiffvip.com##+js(nowebrtc.js)
+
+streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
+
