@@ -816,3 +816,5 @@ freemcserver.net##+js(setTimeout-defuser.js, adblock)
 
 keepvid.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
+xiaomifans.pl##+js(setTimeout-defuser.js, test, 100)
+
