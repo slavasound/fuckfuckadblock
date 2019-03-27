@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Fuck Fuckadblock
-! Last modified: 2019-03-26
+! Last modified: 2019-03-27
 ! Author: Bogachenko Vyacheslav
 ! Expires: 3 hours
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
@@ -825,6 +825,7 @@ keepvid.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
 xiaomifans.pl##+js(setTimeout-defuser.js, test, 100)
 @@||xiaomifans.pl^$generichide
+xiaomifans.pl#@#.adsbygoogle
 
 stiffvip.com##+js(nowebrtc.js)
 stiffvip.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
