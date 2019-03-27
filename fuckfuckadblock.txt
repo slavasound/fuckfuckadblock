@@ -848,3 +848,8 @@ inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
 
 arcadepunks.com##+js(abort-on-property-write.js, KillAdBlock)
 @@||arcadepunks.com^$generichide
+
+@@*/advertisement.js$domain=alghad.com
+@@||alghad.com^$generichide
+alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
+
