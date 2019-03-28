@@ -877,3 +877,8 @@ agargold.*#%#AG_abortInlineScript('block', 'document.getElementById');
 crisanimex.com#%#AG_abortOnPropertyWrite('_pop');
 crisanimex.com##+js(abort-on-property-write.js, _pop)
 
+savido.net##+js(abort-on-property-read.js, AaDetector)
+savido.net#%#AG_abortOnPropertyRead('AaDetector');
+savido.net#%#AG_abortOnPropertyWrite('_pop');
+savido.net##+js(abort-on-property-write.js, _pop)
+
