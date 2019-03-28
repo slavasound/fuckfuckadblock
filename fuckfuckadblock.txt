@@ -913,3 +913,7 @@ doctorrouter.ru##+js(abort-on-property-write.js, adBlockDetected)
 
 @@||ausbt.com.au^$generichide
 
+||huawei.mobzon.ru/adbp/adbp.js$domain=mobzon.ru
+||d1swblsd1itapx.cloudfront.net$domain=mobzon.ru
+||adrelayer.com^$important
+
