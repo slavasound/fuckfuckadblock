@@ -905,3 +905,7 @@ linkrag.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 canalesportivo.*##+js(abort-on-property-write.js, _pop)
 canalesportivo.*#%#AG_abortOnPropertyWrite('_pop')
+
+doctorrouter.ru##+js(abort-on-property-write.js, adBlockDetected)
+@@||doctorrouter.ru^$generichide
+
