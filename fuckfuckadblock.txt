@@ -909,3 +909,5 @@ canalesportivo.*#%#AG_abortOnPropertyWrite('_pop')
 doctorrouter.ru##+js(abort-on-property-write.js, adBlockDetected)
 @@||doctorrouter.ru^$generichide
 
+@@||readonepunchman.net^$generichide
+
