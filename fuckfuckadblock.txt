@@ -864,3 +864,9 @@ slink.bid##+js(popads-dummy.js)
 ||o-oo.ooo^$important
 ||goraps.com^$third-party
 */pup.php?$script,important
+
+abouttech.*,bloggingdekh.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+abouttech.*,bloggingdekh.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||abouttech.*^$generichide
+@@||bloggingdekh.*^$generichide
+
