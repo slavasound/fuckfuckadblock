@@ -894,3 +894,11 @@ bit-url.com#%#AG_setConstant('absda', 'noopFunc');
 bit-url.com#%#AG_abortOnPropertyWrite('_pop');
 bit-url.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 bit-url.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+linkrag.com##+js(abort-current-inline-script.js, RegExp, zfgload)
+linkrag.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+linkrag.com##+js(abort-on-property-read.js, open)
+linkrag.com##+js(window.open-defuser.js)
+@@||linkrag.com^$generichide
+linkrag.com#%#AG_abortOnPropertyRead('open');
+linkrag.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
