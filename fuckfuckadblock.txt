@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Fuck Fuckadblock
-! Last modified: 2019-03-27
+! Last modified: 2019-03-28
 ! Author: Bogachenko Vyacheslav
 ! Expires: 3 hours
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
@@ -219,6 +219,7 @@ openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.inf
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#window.open=function(){};
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_abortInlineScript(/adblock|adblock2/);
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_setConstant('sadbl', 'false');
+openload.co##[id*="ScriptRoot"]
 
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 @@||pornbimbo.com^$generichide
@@ -869,4 +870,10 @@ abouttech.*,bloggingdekh.*##+js(abort-on-property-read.js, app_vars.force_disabl
 abouttech.*,bloggingdekh.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||abouttech.*^$generichide
 @@||bloggingdekh.*^$generichide
+
+agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
+agargold.*#%#AG_abortInlineScript('block', 'document.getElementById');
+
+crisanimex.com#%#AG_abortOnPropertyWrite('_pop');
+crisanimex.com##+js(abort-on-property-write.js, _pop)
 
