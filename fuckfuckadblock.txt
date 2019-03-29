@@ -926,3 +926,5 @@ iphonetweak.fr##+js(abort-on-property-write.js, adBlockDetected)
 
 @@||xavierstuder.com^$generichide
 
+@@||architetturaecosostenibile.it^$generichide
+
