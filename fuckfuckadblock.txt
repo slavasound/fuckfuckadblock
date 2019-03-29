@@ -867,7 +867,7 @@ slink.bid##+js(popads-dummy.js)
 */pup.php?$script,important
 
 abouttech.*,bloggingdekh.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-abouttech.*,bloggingdekh.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+abouttech.*,bloggingdekh.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||abouttech.*^$generichide
 @@||bloggingdekh.*^$generichide
 
