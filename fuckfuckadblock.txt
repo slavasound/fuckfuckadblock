@@ -924,3 +924,5 @@ colorspire.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wi
 @@||iphonetweak.fr^$generichide
 iphonetweak.fr##+js(abort-on-property-write.js, adBlockDetected)
 
+@@||xavierstuder.com^$generichide
+
