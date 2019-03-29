@@ -928,3 +928,7 @@ iphonetweak.fr##+js(abort-on-property-write.js, adBlockDetected)
 
 @@||architetturaecosostenibile.it^$generichide
 
+dunyanews.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+@@||dunyanews.*^$generichide
+dunyanews.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
