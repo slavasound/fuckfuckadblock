@@ -939,3 +939,7 @@ go.bucketforms.com#%#AG_abortInlineScript('adblocker', '$');
 intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
 ||intporn.org/js/chaturbate.js$script
 intporn.org#%#AG_abortOnPropertyRead('jsm_reruntime');
+
+televall.website##+js(addEventListener-defuser.js, load, onload)
+televall.info##+js(set-constant.js, jQuery.adblock, false)
+@@||televall.website^$generichide
