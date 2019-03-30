@@ -374,6 +374,7 @@ venipa.net##+js(bab-defuser.js)
 
 businessinsider.*##+js(abort-on-property-read.js, stop)
 businessinsider.*##^script:has-text(setAdblockerCookie)
+businessinsider.*#%#AG_abortOnPropertyRead('stop');
 
 finobe.com##+js(abort-current-inline-script.js, ga, adsbygoogle)
 @@||finobe.com^$generichide
@@ -931,3 +932,5 @@ dunyanews.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||dunyanews.*^$generichide
 dunyanews.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
+go.bucketforms.com##+js(abort-current-inline-script.js, $, adblocker)
+go.bucketforms.com#%#AG_abortInlineScript('adblocker', '$');
