@@ -416,6 +416,7 @@ bild.de##+js(setInterval-defuser.js, (), 10)
 bild.de##+js(setTimeout-defuser.js, _abeh, 700)
 
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
+faz.net#%#AG_abortInlineScript('_sp_._networkListenerData', '$');
 @@||faz.net^$generichide
 
 tweaktown.com##+js(abort-on-property-write.js, _sp_)
