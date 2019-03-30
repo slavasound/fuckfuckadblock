@@ -961,3 +961,5 @@ haaretz.com##+js(abort-current-inline-script.js, AdBlockUtil)
 prevention.com##+js(abort-on-property-read.js, adBlockPromise)
 prevention.com#%#AG_abortOnPropertyRead('adBlockPromise');
 
+@@||ratemyprofessors.com/assets/libs/oas.js^$script
+
