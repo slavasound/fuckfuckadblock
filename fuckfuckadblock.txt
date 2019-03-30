@@ -935,3 +935,7 @@ dunyanews.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 go.bucketforms.com##+js(abort-current-inline-script.js, $, adblocker)
 go.bucketforms.com#%#AG_abortInlineScript('adblocker', '$');
+
+intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
+||intporn.org/js/chaturbate.js$script
+intporn.org#%#AG_abortOnPropertyRead('jsm_reruntime');
