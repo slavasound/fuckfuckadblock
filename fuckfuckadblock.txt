@@ -949,3 +949,6 @@ televall.info##+js(set-constant.js, jQuery.adblock, false)
 topsport.bg,news.bg##+js(abort-on-property-read.js, isAdBlockActive)
 topsport.bg,news.bg#%#var isAdBlockActive = false;
 
+@@||politiken.dk/ad-server.js$script
+@@||politiken.dk^$generichide
+
