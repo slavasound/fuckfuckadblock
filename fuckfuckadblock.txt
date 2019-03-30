@@ -945,6 +945,7 @@ televall.info##+js(set-constant.js, jQuery.adblock, false)
 @@||televall.website^$generichide
 
 @@||topsport.bg^$generichide
-topsport.bg##+js(abort-on-property-read.js, isAdBlockActive)
-topsport.bg#%#var isAdBlockActive = false;
+@@||news.bg^$generichide
+topsport.bg,news.bg##+js(abort-on-property-read.js, isAdBlockActive)
+topsport.bg,news.bg#%#var isAdBlockActive = false;
 
