@@ -955,3 +955,6 @@ topsport.bg,news.bg#%#var isAdBlockActive = false;
 haaretz.com#%#Object.defineProperty(window, 'AdBlockUtil', { get: function() { return; } });
 haaretz.com##+js(abort-current-inline-script.js, AdBlockUtil)
 @@||haaretz.com/htz/js/advertisement.js^$script
+
+@@||titulky.com^$generichide
+
