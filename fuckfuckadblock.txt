@@ -943,3 +943,8 @@ intporn.org#%#AG_abortOnPropertyRead('jsm_reruntime');
 televall.website##+js(addEventListener-defuser.js, load, onload)
 televall.info##+js(set-constant.js, jQuery.adblock, false)
 @@||televall.website^$generichide
+
+@@||topsport.bg^$generichide
+topsport.bg##+js(abort-on-property-read.js, isAdBlockActive)
+topsport.bg#%#var isAdBlockActive = false;
+
