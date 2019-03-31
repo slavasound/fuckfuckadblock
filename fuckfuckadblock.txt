@@ -995,3 +995,6 @@ pleximum.com#%#(function() { var noopfn = function() {;}; var Fab = function() {
 
 twojogrodek.pl##.adblock-message
 twojogrodek.pl##body:style(overflow: auto !important;)
+
+limetorrent.info##+js(abort-on-property-write.js, adBlockDetected)
+limetorrent.info#%#AG_abortOnPropertyWrite('adBlockDetected');
