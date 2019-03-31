@@ -1002,3 +1002,5 @@ beforeitsnews.com###ad-message
 @@||beforeitsnews.com^$generichide
 
 eldaryasolutiongame.blogspot.com##+js(setTimeout-defuser.js, 2000)
+eldaryasolutiongame.blogspot.com#%#window.addEventListener=function() {};
+
