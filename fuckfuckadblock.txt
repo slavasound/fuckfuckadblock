@@ -1002,3 +1002,4 @@ limetorrent.info#%#AG_abortOnPropertyWrite('adBlockDetected');
 beforeitsnews.com###ad-message
 @@||beforeitsnews.com^$generichide
 
+eldaryasolutiongame.blogspot.com##+js(setTimeout-defuser.js, 2000)
