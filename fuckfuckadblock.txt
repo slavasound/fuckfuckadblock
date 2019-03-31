@@ -977,3 +977,6 @@ utimetableresult.in#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 @@||animefever.tv^$generichide
 
+@@||dausel.co^$generichide
+@@||pagead2.googlesyndication.com/pagead/$script,domain=dausel.co
+
