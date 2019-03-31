@@ -899,6 +899,7 @@ canalesportivo.*##+js(abort-on-property-write.js, _pop)
 canalesportivo.*#%#AG_abortOnPropertyWrite('_pop')
 
 doctorrouter.ru##+js(abort-on-property-write.js, adBlockDetected)
+doctorrouter.ru#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||doctorrouter.ru^$generichide
 
 @@||readonepunchman.net^$generichide
@@ -915,6 +916,7 @@ colorspire.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wi
 
 @@||iphonetweak.fr^$generichide
 iphonetweak.fr##+js(abort-on-property-write.js, adBlockDetected)
+iphonetweak.fr#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 @@||xavierstuder.com^$generichide
 
@@ -967,4 +969,9 @@ masker-lab.com.tw#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/
 
 bibliacatolica.com.br##+js(abort-on-property-read.js, getSelection)
 bibliacatolica.com.br#%#AG_abortOnPropertyRead('getSelection');
+
+utimetableresult.in##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+utimetableresult.in#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+utimetableresult.in##+js(abort-on-property-write.js, adBlockDetected)
+utimetableresult.in#%#AG_abortOnPropertyWrite('adBlockDetected');
 
