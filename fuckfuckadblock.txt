@@ -965,3 +965,6 @@ masker-lab.com.tw#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/
 
 @@||grahaflasher.com^$generichide
 
+bibliacatolica.com.br##+js(abort-on-property-read.js, getSelection)
+bibliacatolica.com.br#%#AG_abortOnPropertyRead('getSelection');
+
