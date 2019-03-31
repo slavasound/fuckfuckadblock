@@ -1012,3 +1012,6 @@ tutoriaux-excalibur.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elemen
 flyurls.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 flyurls.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+lavoixdux.com##+js(set-constant.js, is_adblocked, false)
+lavoixdux.com#%#AG_setConstant('is_adblocked', 'false');
+
