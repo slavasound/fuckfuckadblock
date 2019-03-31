@@ -155,15 +155,6 @@
 -contrib-ads.
 /ads.min.js
 
-egy.best,egybest.site##+js(set-constant.js, _AdBlock, noopFunc)
-egy.best,egybest.site##+js(abort-on-property-read.js, open)
-egy.best,egybest.site##+js(window.open-defuser.js)
-||egy.best$popup
-||egybest.site$popup
-egy.best,egybest.site#%#AG_abortOnPropertyRead('open');
-egy.best,egybest.site#%#AG_setConstant('_AdBlock','noopFunc');
-@@*/adblock.js$script,domain=egy.best
-
 @@||mercurynews.com^$generichide
 mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
