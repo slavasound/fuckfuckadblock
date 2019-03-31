@@ -980,3 +980,6 @@ utimetableresult.in#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||dausel.co^$generichide
 @@||pagead2.googlesyndication.com/pagead/$script,domain=dausel.co
 
+bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
+bidouillesikea.com#%#AG_abortOnPropertyRead('adbackDebug');
+
