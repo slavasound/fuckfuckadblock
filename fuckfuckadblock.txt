@@ -975,3 +975,5 @@ utimetableresult.in#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 utimetableresult.in##+js(abort-on-property-write.js, adBlockDetected)
 utimetableresult.in#%#AG_abortOnPropertyWrite('adBlockDetected');
 
+@@||animefever.tv^$generichide
+
