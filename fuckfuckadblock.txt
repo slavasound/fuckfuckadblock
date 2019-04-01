@@ -584,6 +584,8 @@ tomsguide.com##+js(abort-on-property-write.js, adonisHash)
 tomsguide.com##+js(abort-on-property-write.js, tmnramp)
 
 gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
+gsmturkey.net#%#AG_abortInlineScript('fuckAdBlock', 'importFAB');
+@@||gsmturkey.net^$generichide
 
 @@||dekhvhai.com^$generichide
 
