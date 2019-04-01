@@ -1017,3 +1017,4 @@ lavoixdux.com#%#AG_setConstant('is_adblocked', 'false');
 
 apteka.ua#@#.adsbygoogle
 
+||getlec.blogspot.com^$inline-script,first-party
