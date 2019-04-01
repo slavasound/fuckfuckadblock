@@ -1015,3 +1015,5 @@ flyurls.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 lavoixdux.com##+js(set-constant.js, is_adblocked, false)
 lavoixdux.com#%#AG_setConstant('is_adblocked', 'false');
 
+apteka.ua#@#.adsbygoogle
+
