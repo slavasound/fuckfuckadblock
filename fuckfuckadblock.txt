@@ -1041,3 +1041,5 @@ bostonherald.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
 
 ojomovies.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 ojomovies.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+ojomovies.com##+js(abort-on-property-write.js, Fingerprint2)
+ojomovies.com#%#Object.defineProperties(window,{admvpu:{get:function(){},set:function(a){if("function"==typeof a)throw Error();}},Fingerprint2:{get:function(){},set:function(){throw Error();}}});
