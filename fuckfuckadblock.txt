@@ -401,6 +401,7 @@ tutsgalaxy.com#%#AG_abortOnPropertyRead('anOptions');
 
 ||xpgcrmxejlgig.com^$important
 popads.net##+js(popads.net.js)
+||popads.net/pop.js^$empty,important
 sembunyi.in##+js(abort-on-property-read.js, popjs)
 ||gfamqlcmymxbeu.com^$important
 ||sembunyi.in^$popup,important
