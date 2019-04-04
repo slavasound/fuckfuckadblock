@@ -1039,3 +1039,5 @@ bostonherald.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
 
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl
 
+ojomovies.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+ojomovies.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
