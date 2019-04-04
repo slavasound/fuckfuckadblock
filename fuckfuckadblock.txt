@@ -1051,3 +1051,5 @@ ojomovies.com##+js(popads-dummy.js)
 ojomovies.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 ojomovies.com##+js(abort-on-property-write.js, Fingerprint2)
 ojomovies.com#%#Object.defineProperties(window,{admvpu:{get:function(){},set:function(a){if("function"==typeof a)throw Error();}},Fingerprint2:{get:function(){},set:function(){throw Error();}}});
+
+tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.text-ad-links.text-ads.textAd.text_ad.text_ads{display:block!important;}
