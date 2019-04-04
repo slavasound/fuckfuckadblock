@@ -1023,3 +1023,4 @@ apteka.ua#@#.adsbygoogle
 ver-pelis.*##+js(window.open-defuser.js)
 ver-pelis.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 
+@@||elpais.com^$generichide
