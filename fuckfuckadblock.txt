@@ -1028,3 +1028,5 @@ ver-pelis.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 @@||nyaa.pantsu.cat^$generichide
 @@||nyaa.pt^$generichide
 
+berryboot.alexgoldcheidt.com##+js(abort-on-property-write.js, KillAdBlock)
+
