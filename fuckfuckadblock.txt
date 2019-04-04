@@ -1022,6 +1022,8 @@ apteka.ua#@#.adsbygoogle
 
 ver-pelis.*##+js(window.open-defuser.js)
 ver-pelis.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+||ver-pelis.net^$third-party
+ver-pelis.*#%#window.open=function(){};
 
 @@||elpais.com^$generichide
 
