@@ -1032,3 +1032,5 @@ berryboot.alexgoldcheidt.com##+js(abort-on-property-write.js, KillAdBlock)
 
 bostonherald.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 
+@@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl
+
