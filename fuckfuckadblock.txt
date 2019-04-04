@@ -210,6 +210,7 @@ openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.inf
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_abortInlineScript(/adblock|adblock2/);
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_setConstant('sadbl', 'false');
 openload.co##[id*="ScriptRoot"]
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_abortOnPropertyRead('open');
 
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 @@||pornbimbo.com^$generichide
