@@ -1019,3 +1019,7 @@ lavoixdux.com#%#AG_setConstant('is_adblocked', 'false');
 apteka.ua#@#.adsbygoogle
 
 ||getlec.blogspot.com^$inline-script,first-party
+
+ver-pelis.*##+js(window.open-defuser.js)
+ver-pelis.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+
