@@ -1060,3 +1060,6 @@ tv-onlinehd.com##+js(window.open-defuser.js)
 @@||tv-onlinehd.com^$generichide
 tv-onlinehd.com#%#window.open=function(){};
 
+@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=priluki.bankomap.com.ua
+@@||bankomap.com.ua^$generichide
+
