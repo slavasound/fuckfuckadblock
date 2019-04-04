@@ -5,6 +5,12 @@
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
 ! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
 ! Description: Filters for blocking pop-ups and anti-adblock bypass.
+!
+! I also advise you to subscribe to:
+! uBlock Filters - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+! uBlock filters: Annoyances - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+! AdGuard Base filter - https://filters.adtidy.org/extension/chromium/filters/2.txt
+! AdGuard Russian filter - https://filters.adtidy.org/extension/chromium/filters/1.txt
 
 ###AdBlockDialog
 ###ab--notification-ribbon
@@ -1041,6 +1047,7 @@ bostonherald.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl
 
 ojomovies.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+ojomovies.com##+js(popads-dummy.js)
 ojomovies.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 ojomovies.com##+js(abort-on-property-write.js, Fingerprint2)
 ojomovies.com#%#Object.defineProperties(window,{admvpu:{get:function(){},set:function(a){if("function"==typeof a)throw Error();}},Fingerprint2:{get:function(){},set:function(){throw Error();}}});
