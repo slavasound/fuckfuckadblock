@@ -1071,3 +1071,7 @@ tv-onlinehd.com#%#window.open=function(){};
 ||googletagmanager.com/gtag/$script,empty,domain=di.fm,important
 ||googletagservices.com/tag/js/gpt.js$script,empty,domain=di.fm,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,empty,important
+
+jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
+jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
+
