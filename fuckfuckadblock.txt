@@ -1065,3 +1065,9 @@ tv-onlinehd.com#%#window.open=function(){};
 
 ||allnorilsk.ru/js/adb.js$script,domain=allnorilsk.ru
 
+||googletagmanager.com/gtag/$script,redirect=noopjs,domain=di.fm,important
+||googletagservices.com/tag/js/gpt.js$script,redirect=noopjs,domain=di.fm,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=nooptext,important
+||googletagmanager.com/gtag/$script,empty,domain=di.fm,important
+||googletagservices.com/tag/js/gpt.js$script,empty,domain=di.fm,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,empty,important
