@@ -1075,3 +1075,8 @@ tv-onlinehd.com#%#window.open=function(){};
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
 
+@@||darmowa-telewizja.online^$generichide
+@@||embed.twojetv.ws/js/ads.js
+twojetv.ws##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+twojetv.ws#%#window.open=function(){};
+
