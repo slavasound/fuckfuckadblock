@@ -1080,3 +1080,5 @@ jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
 twojetv.ws##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 twojetv.ws#%#window.open=function(){};
 
+express.de###wl-overlay-wrapper
+
