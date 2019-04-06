@@ -1082,3 +1082,5 @@ twojetv.ws#%#window.open=function(){};
 
 express.de###wl-overlay-wrapper
 
+clksite.com/static/advertisement.js
+
