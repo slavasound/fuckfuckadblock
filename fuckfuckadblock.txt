@@ -1112,3 +1112,5 @@ faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 oeffentlicher-dienst.info##+js(set-constant.js, testerli, false)
 oeffentlicher-dienst.info#%#AG_setConstant('testerli', 'false');
 
+@@||javhay.net^$generichide
+
