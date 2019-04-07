@@ -1110,3 +1110,5 @@ aargauerzeitung.ch#@##banner_ad
 faz.net#%#AG_abortInlineScript('$', '_sp_._networkListenerData');
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 
+@@||*/ads.js$script,domain=foxplay.com.tr
+
