@@ -423,7 +423,7 @@ tweaktown.com##+js(abort-on-property-write.js, _sp_)
 
 nekopoi.*##+js(set-constant.js, isAdsDisplayed, true)
 nekopoi.*##+js(abort-current-inline-script.js, atob, tabunder)
-nekopoi.*#%#AG_setConstant('isAdsDisplayed', 'trueFunc');
+@@||nekopoi.*/adsbygoogle.js$script
 nekopoi.*###sidebar_right > .widget_text > .custom-html-widget > a[href^="http://bit.ly/"] > img
 
 einthusan.tv##+js(setTimeout-defuser.js, AdBlocker, 1000)
@@ -485,8 +485,14 @@ temp-mail.org#%#AG_setConstant('checkadBlock', 'noopFunc');
 @@||porndish.com^$generichide
 porndish.com##+js(popads-dummy.js)
 
-streamcherry.com##+js(set-constant.js, adblock, false)
 streamcherry.com##+js(window.open-defuser.js)
+@@||streamcherry.com/googlead.js$script
+streamcherry.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
+streamcherry.com#%#Object.defineProperty(window, 'turnoff', { get: function() { return true; } });
+streamcherry.com#%#Object.defineProperty(window, 'popAdsLoaded', { get: function() { return; } });
+streamcherry.com#%#Object.defineProperty(window, 'doSecondPop', { get: function() { return; } });
+streamcherry.com#%#Object.defineProperty(window, 'noPopunder', { get: function() { return true; } });
+streamcherry.com#%#Object.defineProperty(window, 'adblock2', { get: function() { return false; } });
 
 datoporn.co##+js(set-constant.js, cRAds, true)
 datoporn.co##+js(window.open-defuser.js)
