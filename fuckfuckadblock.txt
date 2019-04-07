@@ -1124,3 +1124,5 @@ frendz4m.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 
 @@||topserialy.*/js/googlead.js$domain=topserialy.to|topserialy.sk
 
+@@||version2.dk/ads.js$script
+
