@@ -1114,3 +1114,7 @@ oeffentlicher-dienst.info#%#AG_setConstant('testerli', 'false');
 
 @@||javhay.net^$generichide
 
+tucson.com##+js(abort-on-property-read.js, stop)
+tucson.com#%#AG_abortOnPropertyRead('stop');
+@@||tucson.com^$generichide
+
