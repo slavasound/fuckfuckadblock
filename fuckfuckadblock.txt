@@ -1096,3 +1096,5 @@ vsthouse.ru#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;windo
 @@||*/ads.js$domain=aargauerzeitung.ch,script
 aargauerzeitung.ch#@##banner_ad
 
+@@||notebookcheck.net/ads.js$script,domain=notebookcheck.net
+
