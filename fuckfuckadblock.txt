@@ -1098,3 +1098,6 @@ aargauerzeitung.ch#@##banner_ad
 
 @@||notebookcheck.net/ads.js$script,domain=notebookcheck.net
 
+faz.net#%#AG_abortInlineScript('$', '_sp_._networkListenerData');
+faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
+
