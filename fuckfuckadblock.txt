@@ -1086,7 +1086,7 @@ clksite.com/static/advertisement.js
 
 professionaltutorial.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
-pornolenta.*,jumpboobs.com,megahdporno.*##+js(abort-on-property-read.js, encodeURIComponent)
+pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv##+js(abort-on-property-read.js, encodeURIComponent)
 ||adswrapme.click^$important
 
 @@||vsthouse.ru^$generichide
