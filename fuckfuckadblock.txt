@@ -375,10 +375,7 @@ businessinsider.*##+js(abort-on-property-read.js, stop)
 businessinsider.*##^script:has-text(setAdblockerCookie)
 businessinsider.*#%#AG_abortOnPropertyRead('stop');
 
-finobe.com##+js(abort-current-inline-script.js, ga, adsbygoogle)
-@@||finobe.com^$generichide
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=finobe.com
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,empty,domain=finobe.com
+||finobe.com^$inline-script
 
 habbowert.de##+js(set-constant.js, adblock, false)
 habbowert.de#%#AG_setConstant('adblock', 'false');
