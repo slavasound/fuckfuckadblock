@@ -461,6 +461,7 @@ clipwatching.com##+js(window.open-defuser.js)
 @@||clipwatching.com/js/adframe.js$script
 @@||clipwatching.com/js/pop.js$script
 clipwatching.com#%#window.open=function(){};
+clipwatching.com##.cover
 
 money.pl##+js(window.open-defuser.js)
 
