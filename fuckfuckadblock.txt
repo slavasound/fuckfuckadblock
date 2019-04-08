@@ -1149,3 +1149,5 @@ uploadocean.com##[target="_blank"][href] > [src][alt]
 
 @@||urlex.org^$generichide
 
+@@||forums.overclockers.ru/ads/advert.js$script
+
