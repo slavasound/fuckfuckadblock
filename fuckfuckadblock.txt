@@ -454,6 +454,7 @@ cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 
 licklink.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 licklink.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+@@||licklink.net/js/ads.js$script
 
 clipwatching.com##+js(set-constant.js, adblock, false)
 clipwatching.com##+js(window.open-defuser.js)
