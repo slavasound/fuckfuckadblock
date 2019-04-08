@@ -1085,6 +1085,7 @@ jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
 @@||embed.twojetv.ws/js/ads.js
 twojetv.ws##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 twojetv.ws#%#window.open=function(){};
+darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
 
 express.de###wl-overlay-wrapper
 
