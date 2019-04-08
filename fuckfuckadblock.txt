@@ -1136,3 +1136,5 @@ frendz4m.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 @@||kenkenpuzzle.com/assets/adframe.js$script,domain=kenkenpuzzle.com
 @@||kenkenpuzzle.com^$generichide
 
+@@||jpopsingles.*^$generichide
+
