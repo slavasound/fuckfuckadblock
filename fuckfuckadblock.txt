@@ -610,6 +610,8 @@ techquila.co.in#%#AG_abortOnPropertyRead('anOptions');
 
 @@||thenation.com^$generichide
 ||npttech.com/advertising.js$important,script,redirect=fuckadblock.js-3.2.0
+@@||cnbc.com^*/showads.js$script
+@@||cnbc.com^$generichide
 
 @@||forbes.pl^$generichide
 
