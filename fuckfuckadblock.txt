@@ -1088,6 +1088,7 @@ jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
 twojetv.ws##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 twojetv.ws#%#window.open=function(){};
 darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
+darmowa-telewizja.online##+js(addEventListener-defuser.js, load, onload)
 
 express.de###wl-overlay-wrapper
 
@@ -1095,7 +1096,7 @@ express.de###wl-overlay-wrapper
 
 professionaltutorial.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
-pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*##+js(abort-on-property-read.js, encodeURIComponent)
+pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com##+js(abort-on-property-read.js, encodeURIComponent)
 ||adswrapme.click^$important
 
 @@||vsthouse.ru^$generichide
