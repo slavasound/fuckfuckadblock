@@ -458,6 +458,9 @@ licklink.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 clipwatching.com##+js(set-constant.js, adblock, false)
 clipwatching.com##+js(window.open-defuser.js)
+@@||clipwatching.com/js/adframe.js$script
+@@||clipwatching.com/js/pop.js$script
+clipwatching.com#%#window.open=function(){};
 
 money.pl##+js(window.open-defuser.js)
 
