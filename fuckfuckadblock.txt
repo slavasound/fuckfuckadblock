@@ -1128,3 +1128,5 @@ frendz4m.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 
 @@||usapoliticstoday.com^$generichide
 
+@@||macdailynews.com^$generichide
+
