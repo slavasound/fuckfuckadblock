@@ -1162,3 +1162,4 @@ javaguides.net#@#.vertical-ads
 */googima.js$script,redirect=noopjs,important
 */googima.js$script,empty,important
 
+@@||lavozdealmeria.es^$generichide
