@@ -1159,3 +1159,6 @@ javaguides.net#@#.vertical-ads
 
 @@||elcorreo.com^$generichide
 
+*/googima.js$script,redirect=noopjs,important
+*/googima.js$script,empty,important
+
