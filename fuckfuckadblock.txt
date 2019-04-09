@@ -1157,3 +1157,5 @@ javadecompilers.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.
 
 javaguides.net#@#.vertical-ads
 
+@@||elcorreo.com^$generichide
+
