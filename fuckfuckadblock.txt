@@ -1183,3 +1183,7 @@ samo-tech.com#@##divAdBox
 samo-tech.com#@##mochila-column-right-ad-300x250-1
 samo-tech.com#@##searchAdSenseBox
 samo-tech.com#@##adsense
+
+@@||*/ads-*.js$script,domain=duellinksmeta.com
+@@||*/adsbygoogle.js$script,domain=duellinksmeta.com
+
