@@ -1191,3 +1191,7 @@ samo-tech.com#@##adsense
 
 @@||dtgaming.*^$generichide
 
+bmwfaq.org##+js(abort-on-property-write.js, AdBlockDetectorWorkaround)
+bmwfaq.org#%#AG_abortOnPropertyWrite('AdBlockDetectorWorkaround');
+@@||bmwfaq.org^$generichide
+
