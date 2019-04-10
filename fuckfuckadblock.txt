@@ -1163,3 +1163,9 @@ javaguides.net#@#.vertical-ads
 */googima.js$script,empty,important
 
 @@||lavozdealmeria.es^$generichide
+
+fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
+fox.com.tr#%#AG_setConstant('adblockDetector', 'trueFunc');
+@@||*/adblockdetectorwithga.js$domain=fox.com.tr
+@@||fox.com.tr^$generichide
+
