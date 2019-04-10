@@ -1187,3 +1187,5 @@ samo-tech.com#@##adsense
 @@||*/ads-*.js$script,domain=duellinksmeta.com
 @@||*/adsbygoogle.js$script,domain=duellinksmeta.com
 
+@@||*/ads.js$script,domain=kinokrad.co
+
