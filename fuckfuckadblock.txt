@@ -414,6 +414,7 @@ bild.de##+js(setTimeout-defuser.js, _abeh, 700)
 
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 faz.net#%#AG_abortInlineScript('_sp_._networkListenerData', '$');
+faz.net#%#AG_abortInlineScript('$', '_sp_._networkListenerData');
 @@||faz.net^$generichide
 
 tweaktown.com##+js(abort-on-property-write.js, _sp_)
@@ -1076,8 +1077,6 @@ tv-onlinehd.com#%#window.open=function(){};
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=priluki.bankomap.com.ua
 @@||bankomap.com.ua^$generichide
 
-||allnorilsk.ru/js/adb.js$script,domain=allnorilsk.ru
-
 ||googletagmanager.com/gtag/$script,redirect=noopjs,domain=di.fm,important
 ||googletagservices.com/tag/js/gpt.js$script,redirect=noopjs,domain=di.fm,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=nooptext,important
@@ -1112,9 +1111,6 @@ vsthouse.ru#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;windo
 aargauerzeitung.ch#@##banner_ad
 
 @@||notebookcheck.net/ads.js$script,domain=notebookcheck.net
-
-faz.net#%#AG_abortInlineScript('$', '_sp_._networkListenerData');
-faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 
 @@||*/ads.js$script,domain=foxplay.com.tr
 
