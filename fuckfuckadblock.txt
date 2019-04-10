@@ -1189,3 +1189,5 @@ samo-tech.com#@##adsense
 
 @@*/ads.js$script,domain=kinokrad.co
 
+@@||dtgaming.*^$generichide
+
