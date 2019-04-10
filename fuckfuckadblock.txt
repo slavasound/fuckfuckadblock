@@ -1175,3 +1175,11 @@ rule34hentai.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;
 |https://$script,third-party,xmlhttprequest,domain=rule34hentai.net
 ||trafficsan.com^$important
 
+samo-tech.com#@##Adrectangle
+samo-tech.com#@##PageLeaderAd
+samo-tech.com#@##ad-column
+samo-tech.com#@##advertising2
+samo-tech.com#@##divAdBox
+samo-tech.com#@##mochila-column-right-ad-300x250-1
+samo-tech.com#@##searchAdSenseBox
+samo-tech.com#@##adsense
