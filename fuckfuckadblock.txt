@@ -1222,3 +1222,6 @@ zwergenstadt.com#@##adsense
 
 @@||2d-gate.org^$generichide
 
+eveningtimes.co.uk##+js(abort-on-property-write.js, _sp_)
+@@||eveningtimes.co.uk^$generichide
+
