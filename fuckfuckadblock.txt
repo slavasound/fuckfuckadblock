@@ -1212,3 +1212,7 @@ zwergenstadt.com#@##adsense
 
 @@||i.imedia.cz/js/im3.js
 
+||toponclick.com^$important
+||witalfieldt.com^$important
+2giga.link##+js(setTimeout-defuser.js, (), 1900)
+
