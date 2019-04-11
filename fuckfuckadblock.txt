@@ -1243,3 +1243,5 @@ linkdrop.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 
 @@||designmodo.com^$generichide
 
+@@||dragonballtime.net^$generichide
+
