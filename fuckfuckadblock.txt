@@ -1245,3 +1245,6 @@ linkdrop.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 
 @@||dragonballtime.net^$generichide
 
+mako.co.il##+js(abort-on-property-write.js, upManager)
+@@||mako.co.il^$generichide
+
