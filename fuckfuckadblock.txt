@@ -1230,3 +1230,6 @@ eveningtimes.co.uk##+js(abort-on-property-write.js, _sp_)
 @@||warringtonguardian.co.uk^$generichide
 warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
 
+gsmarena.com##+js(abort-on-property-write.js, adonisHash)
+*$webrtc,domain=gsmarena.com
+@@||gsmarena.com^$generichide
