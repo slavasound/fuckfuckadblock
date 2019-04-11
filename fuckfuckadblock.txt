@@ -1241,3 +1241,5 @@ linkdrop.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 
 @@||thegeekyglobe.com^$generichide
 
+@@||designmodo.com^$generichide
+
