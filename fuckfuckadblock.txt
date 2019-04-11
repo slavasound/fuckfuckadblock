@@ -1210,3 +1210,5 @@ zwergenstadt.com#@##rh_tower_ad
 zwergenstadt.com#@##topadzone
 zwergenstadt.com#@##adsense
 
+@@||i.imedia.cz/js/im3.js
+
