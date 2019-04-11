@@ -1227,3 +1227,6 @@ eveningtimes.co.uk##+js(abort-on-property-write.js, _sp_)
 
 @@||uvnc.com^$generichide
 
+@@||warringtonguardian.co.uk^$generichide
+warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
+
