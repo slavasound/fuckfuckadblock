@@ -1225,3 +1225,5 @@ zwergenstadt.com#@##adsense
 eveningtimes.co.uk##+js(abort-on-property-write.js, _sp_)
 @@||eveningtimes.co.uk^$generichide
 
+@@||uvnc.com^$generichide
+
