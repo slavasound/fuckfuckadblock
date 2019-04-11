@@ -1218,3 +1218,5 @@ zwergenstadt.com#@##adsense
 ||witalfieldt.com^$important
 2giga.link##+js(setTimeout-defuser.js, (), 1900)
 
+@@||zahipedia.net^$generichide
+
