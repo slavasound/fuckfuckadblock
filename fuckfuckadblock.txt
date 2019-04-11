@@ -1142,7 +1142,7 @@ frendz4m.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 @@||jpopsingles.*^$generichide
 
 @@||uploadocean.com^$generichide
-uploadocean.com##[target="_blank"][href] > [src][alt]
+*$webrtc,domain=uploadocean.com
 
 @@||urlex.org^$generichide
 
