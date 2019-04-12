@@ -1248,3 +1248,5 @@ linkdrop.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 mako.co.il##+js(abort-on-property-write.js, upManager)
 @@||mako.co.il^$generichide
 
+nohat.cc##+js(set-constant.js, adblock, 1)
+nohat.cc#%#var adblock = 1;
