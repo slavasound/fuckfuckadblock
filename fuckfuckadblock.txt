@@ -1276,3 +1276,8 @@ suarankri.me#@##adsense
 
 @@||xkorean.biz^$generichide
 
+@@||govtsmartjob.com^$generichide
+@@||govtsmartjob.com/js/ads.js$script
+govtsmartjob.com##+js(abort-on-property-write.js, adBlockDetected)
+govtsmartjob.com#%#AG_abortOnPropertyWrite('adBlockDetected');
+
