@@ -1257,3 +1257,7 @@ phys-kids.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text
 memoryhackers.org##+js(abort-on-property-write.js, adBlockDetected)
 memoryhackers.org#%#AG_abortOnPropertyWrite('adBlockDetected');
 
+@@||netdoktor.de^$generichide
+netdoktor.de##+js(abort-on-property-write.js, _sp_)
+netdoktor.de#%#AG_abortOnPropertyWrite('_sp_');
+
