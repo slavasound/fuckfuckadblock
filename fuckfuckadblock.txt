@@ -1264,3 +1264,11 @@ memoryhackers.org#%#AG_abortOnPropertyWrite('adBlockDetected');
 netdoktor.de##+js(abort-on-property-write.js, _sp_)
 netdoktor.de#%#AG_abortOnPropertyWrite('_sp_');
 
+suarankri.me#@##AdvHeader
+suarankri.me#@##ad_skyscraper_text
+suarankri.me#@##common_right_lower_ad_wrapper
+suarankri.me#@##componentAdRectangle
+suarankri.me#@##header_publicidad
+suarankri.me#@##righttop-adverts-container
+suarankri.me#@##adsense
+
