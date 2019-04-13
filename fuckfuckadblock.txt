@@ -1281,4 +1281,5 @@ suarankri.me#@##adsense
 @@||govtsmartjob.com/js/ads.js$script
 govtsmartjob.com##+js(abort-on-property-write.js, adBlockDetected)
 govtsmartjob.com#%#AG_abortOnPropertyWrite('adBlockDetected');
+@@||cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.js$script
 
