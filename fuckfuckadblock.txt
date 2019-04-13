@@ -1253,3 +1253,6 @@ nohat.cc#%#var adblock = 1;
 
 phys-kids.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||phys-kids.com^$generichide
+
+memoryhackers.org##+js(abort-on-property-write.js, adBlockDetected)
+memoryhackers.org#%#AG_abortOnPropertyWrite('adBlockDetected');
