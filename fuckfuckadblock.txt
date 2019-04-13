@@ -257,8 +257,6 @@ leakforums.*#%#AG_abortOnPropertyRead('adblock');
 @@||gametimers.it^$generichide
 gametimers.it##+js(bab-defuser.js)
 
-@@||blogspot.com^$generichide
-
 file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
 file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 file-upload.*##.adsbygoogle
@@ -1286,3 +1284,7 @@ govtsmartjob.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 gutekueche.at##+js(set-constant.js, gkAdsWerbung, true)
 @@||gutekueche.at^$generichide
 gutekueche.at#%#AG_setConstant('gkAdsWerbung', 'true');
+
+pokexgames-tutoriais.*##+js(bab-defuser.js)
+pokexgames-tutoriais.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
+@@||blogspot.com^$generichide
