@@ -419,6 +419,7 @@ faz.net#%#AG_abortInlineScript('$', '_sp_._networkListenerData');
 
 tweaktown.com##+js(abort-on-property-write.js, _sp_)
 @@||tweaktown.com^$generichide
+tweaktown.com#%#AG_abortOnPropertyWrite('_sp_');
 
 nekopoi.*##+js(set-constant.js, isAdsDisplayed, true)
 nekopoi.*##+js(abort-current-inline-script.js, atob, tabunder)
@@ -1223,12 +1224,14 @@ zwergenstadt.com#@##adsense
 @@||2d-gate.org^$generichide
 
 eveningtimes.co.uk##+js(abort-on-property-write.js, _sp_)
+eveningtimes.co.uk#%#AG_abortOnPropertyWrite('_sp_');
 @@||eveningtimes.co.uk^$generichide
 
 @@||uvnc.com^$generichide
 
 @@||warringtonguardian.co.uk^$generichide
 warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
+warringtonguardian.co.uk#%#AG_abortOnPropertyWrite('_sp_');
 
 gsmarena.com##+js(abort-on-property-write.js, adonisHash)
 *$webrtc,domain=gsmarena.com
