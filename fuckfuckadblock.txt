@@ -1283,3 +1283,6 @@ govtsmartjob.com##+js(abort-on-property-write.js, adBlockDetected)
 govtsmartjob.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.js$script
 
+gutekueche.at##+js(set-constant.js, gkAdsWerbung, true)
+@@||gutekueche.at^$generichide
+gutekueche.at#%#AG_setConstant('gkAdsWerbung', 'true');
