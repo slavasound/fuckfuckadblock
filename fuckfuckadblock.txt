@@ -1291,3 +1291,7 @@ pokexgames-tutoriais.*#%#(function(){var sto=window.setTimeout,re=/\.bab_element
 
 @@||ynet.co.il^*/ads.js
 
+@@||teqniaplus.com^$generichide
+teqniaplus.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+teqniaplus.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
