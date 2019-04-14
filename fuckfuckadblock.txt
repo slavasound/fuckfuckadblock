@@ -1298,3 +1298,5 @@ teqniaplus.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||australianfrequentflyer.com.au/community/js/siropu/am/ads.min.js$script
 @@||australianfrequentflyer.com.au^$generichide
 
+@@||www.motortrendondemand.com/advertisements-ad-unit/*$xmlhttprequest,domain=www.motortrendondemand.com
+
