@@ -1300,3 +1300,7 @@ teqniaplus.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||www.motortrendondemand.com/advertisements-ad-unit/*$xmlhttprequest,domain=www.motortrendondemand.com
 
+@@||odkrywamyzakryte.com^$generichide
+odkrywamyzakryte.com#%#AG_abortOnPropertyRead('adBlockDetected');
+odkrywamyzakryte.com##+js(abort-on-property-read.js, adBlockDetected)
+
