@@ -1295,3 +1295,6 @@ pokexgames-tutoriais.*#%#(function(){var sto=window.setTimeout,re=/\.bab_element
 teqniaplus.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 teqniaplus.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+@@||australianfrequentflyer.com.au/community/js/siropu/am/ads.min.js$script
+@@||australianfrequentflyer.com.au^$generichide
+
