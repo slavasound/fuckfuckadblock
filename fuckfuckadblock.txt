@@ -1310,4 +1310,4 @@ software-on.com##+js(bab-defuser.js)
 software-on.com##+js(window.open-defuser.js)
 software-on.com#%#window.open=function(){};
 
-@@||reactiongaming.us/community/js/siropu/am/ads.min.js$script
+@@||reactiongaming.us/*/ads.min.js$script
