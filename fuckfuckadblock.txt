@@ -1321,3 +1321,6 @@ huynhhieu.com##+js(bab-defuser.js)
 
 @@||febbit.com^$generichide
 
+@@||calciomercato.com/adv.js$script
+@@||calciomercato.com^$generichide
+
