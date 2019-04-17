@@ -1311,3 +1311,5 @@ software-on.com##+js(window.open-defuser.js)
 software-on.com#%#window.open=function(){};
 
 @@||reactiongaming.us/*/ads.min.js$script
+
+@@||swatchseries.to/templates/default/js/advertising.js$script
