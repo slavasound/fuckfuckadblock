@@ -4,6 +4,7 @@
 ! Expires: 3 hours
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
 ! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
+! RAW: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 ! Description: Filters for blocking pop-ups and anti-adblock bypass.
 !
 ! I also advise you to subscribe to:
@@ -1347,5 +1348,7 @@ upload.ac##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 
 streamango.com##+js(window.open-defuser.js)
 streamango.com#%#window.open=function(){};
+streamango.com##+js(abort-on-property-write.js, BetterJsPop)
+||qwepop.site^$important
 ||jf71qh5v14.com^$important
 ||uod2quk646.com^$important
