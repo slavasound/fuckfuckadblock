@@ -380,9 +380,9 @@ habbowert.de##+js(set-constant.js, adblock, false)
 habbowert.de#%#AG_setConstant('adblock', 'false');
 habbowert.de#%#AG_abortInlineScript(/#adblockinfo/, '$');
 
-stiffgamerdown.com##+js(addEventListener-defuser.js, load, nextFunction)
 stiffgamerdown.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 stiffgamerdown.com##+js(window.open-defuser.js)
+stiffgamerdown.com#%#window.open=function(){};
 @@||stiffgamerdown.com^$generichide
 stiffgamerdown.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
