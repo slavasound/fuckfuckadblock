@@ -1373,3 +1373,5 @@ mifirm.net#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 gossipcorners.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 gossipcorners.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+@@||getinmac.com^$elemhide
+
