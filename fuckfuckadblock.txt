@@ -959,7 +959,7 @@ intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
 intporn.org#%#AG_abortOnPropertyRead('jsm_reruntime');
 
 televall.*##+js(addEventListener-defuser.js, load, onload)
-televall.*#%#AG_abortInlineScript(/load|unload/, 'window.addEventListener');
+televall.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 televall.*##+js(set-constant.js, jQuery.adblock, false)
 televall.*#%#AG_setConstant('jQuery.adblock', 'false');
 @@||televall.*^$generichide
@@ -1073,7 +1073,7 @@ ojomovies.com#%#Object.defineProperties(window,{admvpu:{get:function(){},set:fun
 tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.text-ad-links.text-ads.textAd.text_ad.text_ads{display:block!important;}
 
 tv-onlinehd.com##+js(addEventListener-defuser.js, load, onload)
-tv-onlinehd.com#%#AG_abortInlineScript(/load|unload/, 'window.addEventListener');
+tv-onlinehd.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 tv-onlinehd.com##+js(window.open-defuser.js)
 @@||tv-onlinehd.com^$generichide
 tv-onlinehd.com#%#window.open=function(){};
@@ -1098,7 +1098,7 @@ twojetv.ws#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 twojetv.ws#%#window.open=function(){};
 darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
 darmowa-telewizja.online##+js(addEventListener-defuser.js, load, onload)
-darmowa-telewizja.online#%#AG_abortInlineScript(/load|unload/, 'window.addEventListener');
+darmowa-telewizja.online#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
 express.de###wl-overlay-wrapper
 
@@ -1368,7 +1368,7 @@ agradarpan.com,getpocket.*#%#(function(){var sto=window.setTimeout,re=/\.bab_ele
 rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
 
 mifirm.net##+js(addEventListener-defuser.js, load, onload)
-mifirm.net#%#AG_abortInlineScript(/load|unload/, 'window.addEventListener');
+mifirm.net#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
 gossipcorners.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 gossipcorners.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
