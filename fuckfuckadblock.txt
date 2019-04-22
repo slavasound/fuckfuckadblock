@@ -1345,3 +1345,7 @@ upload.ac##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 @@||upload.ac/hg/js/advertisement.js$script
 *$popup,domain=upload.ac,important
 
+streamango.com##+js(window.open-defuser.js)
+streamango.com#%#window.open=function(){};
+||jf71qh5v14.com^$important
+||uod2quk646.com^$important
