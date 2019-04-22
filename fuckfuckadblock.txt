@@ -1362,3 +1362,5 @@ agradarpan.com,getpocket.*#%#(function(){var sto=window.setTimeout,re=/\.bab_ele
 
 rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
 
+mifirm.net##+js(addEventListener-defuser.js, load, onload)
+mifirm.net#%#AG_abortInlineScript(/load|unload/, 'window.addEventListener');
