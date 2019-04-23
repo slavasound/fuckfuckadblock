@@ -1434,4 +1434,7 @@ mrtekani.com##.adsbygoogle
 @@||all-episodes.tv^$generichide
 @@||all-episodes.tv/ad/banner/$xmlhttprequest
 ||boostervideo.ru/client/boostervideo.js$script,empty,domain=all-episodes.tv,important
-||boostervideo.ru/client/boostervideo.js$script,redirect=noopjs,domain=all-episodes.tv,important
+||boostervideo.ru/client/boostervideo.js$script,redirect=noopjs,domain=all-episodes.tv
+
+ksta.de###wl-overlay-wrapper
+
