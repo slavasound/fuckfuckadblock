@@ -1376,3 +1376,6 @@ gossipcorners.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||getinmac.com^$elemhide
 
 @@||dangotoons.com^$generichide
+
+@@||mediaite.com/adbait/adsbygoogle.js$script
+
