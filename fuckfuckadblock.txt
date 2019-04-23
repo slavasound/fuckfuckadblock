@@ -1379,3 +1379,5 @@ gossipcorners.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||mediaite.com/adbait/adsbygoogle.js$script
 
+pcportal.org##.adsbygoogle
+
