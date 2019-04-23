@@ -1430,3 +1430,8 @@ mrtekani.com##.adsbygoogle
 
 @@||tercihiniyap.net^$generichide
 
+@@||all-episodes.tv/retlplayer/downretl.js$script
+@@||all-episodes.tv^$generichide
+@@||all-episodes.tv/ad/banner/$xmlhttprequest
+||boostervideo.ru/client/boostervideo.js$script,empty,domain=all-episodes.tv,important
+||boostervideo.ru/client/boostervideo.js$script,redirect=noopjs,domain=all-episodes.tv,important
