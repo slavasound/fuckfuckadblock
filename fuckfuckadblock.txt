@@ -757,25 +757,31 @@ ft.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 baramjdown.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 baramjdown.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+baramjdown.com##.adsbygoogle
 
 tiny.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 tiny.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+tiny.*##.adsbygoogle
 
 sk-ip.ru##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||sk-ip.ru^$generichide
 sk-ip.ru#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+sk-ip.ru##.adsbygoogle
 
 urlsamo.com##+js(abort-on-property-read.js, open)
 urlsamo.com##+js(setTimeout-defuser.js, '0x)
 urlsamo.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+urlsamo.com##.adsbygoogle
 urlsamo.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 urlsamo.com#%#AG_abortOnPropertyRead('open');
 
 ourmagnet.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ourmagnet.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+ourmagnet.*##.adsbygoogle
 
 techjad.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 techjad.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+techjad.com##.adsbygoogle
 
 convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net##+js(abort-on-property-read.js, zfgloadedpopup)
@@ -788,10 +794,12 @@ dutchycorp.space##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||dutchycorp.space^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=dutchycorp.space
 dutchycorp.space#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+dutchycorp.space##.adsbygoogle
 
 click2see.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 click2see.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 click2see.*##+js(addEventListener-defuser.js, click, trigger)
+click2see.*##.adsbygoogle
 
 payco.*##+js(abort-on-property-read.js, AaDetector)
 payco.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -806,6 +814,7 @@ payco.*#%#AG_onLoad(function(){setTimeout(function(){var el=document.querySelect
 
 cut7link.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 cut7link.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+cut7link.*##.adsbygoogle
 
 */fuckadblock-$script,redirect=fuckadblock.js-3.2.0
 */fuckadblock.$script,redirect=fuckadblock.js-3.2.0
@@ -814,6 +823,7 @@ cut7link.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 tl.tc##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 tl.tc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+tl.tc##.adsbygoogle
 
 @@||satoshilabs.net^$generichide
 satoshilabs.net##+js(bab-defuser.js)
@@ -864,6 +874,7 @@ stiffvip.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 stiffvip.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||stiffvip.com/js/ads.js^$script
 stiffvip.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+stiffvip.com##.adsbygoogle
 
 streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
 ||mangovideo.pw/player/html.php?aid=*_html&video_id=*&*&referer$important
@@ -901,6 +912,7 @@ abouttech.*,bloggingdekh.*##+js(abort-on-property-read.js, app_vars.force_disabl
 abouttech.*,bloggingdekh.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||abouttech.*^$generichide
 @@||bloggingdekh.*^$generichide
+abouttech.*,bloggingdekh.*##.adsbygoogle
 
 agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
 agargold.*#%#AG_abortInlineScript('block', 'document.getElementById');
@@ -924,6 +936,7 @@ bit-url.com#%#AG_abortOnPropertyRead('open');
 bit-url.com#%#AG_setConstant('absda', 'noopFunc');
 bit-url.com#%#AG_abortOnPropertyWrite('_pop');
 bit-url.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+bit-url.com##.adsbygoogle
 bit-url.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 linkrag.com##+js(abort-current-inline-script.js, RegExp, zfgload)
@@ -932,6 +945,7 @@ linkrag.com##+js(abort-on-property-read.js, open)
 linkrag.com##+js(window.open-defuser.js)
 @@||linkrag.com^$generichide
 linkrag.com#%#AG_abortOnPropertyRead('open');
+linkrag.com##.adsbygoogle
 linkrag.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 canalesportivo.*##+js(abort-on-property-write.js, _pop)
@@ -964,6 +978,7 @@ iphonetweak.fr#%#AG_abortOnPropertyWrite('adBlockDetected');
 dunyanews.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||dunyanews.*^$generichide
 dunyanews.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+dunyanews.*##.adsbygoogle
 
 go.bucketforms.com##+js(abort-current-inline-script.js, $, adblocker)
 go.bucketforms.com#%#AG_abortInlineScript('adblocker', '$');
@@ -1011,11 +1026,12 @@ masker-lab.com.tw#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/
 bibliacatolica.com.br##+js(abort-on-property-read.js, getSelection)
 bibliacatolica.com.br#%#AG_abortOnPropertyRead('getSelection');
 
-utimetableresult.in##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-utimetableresult.in#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
-utimetableresult.in##+js(abort-on-property-write.js, adBlockDetected)
-utimetableresult.in#%#AG_abortOnPropertyWrite('adBlockDetected');
-utimetableresult.in#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
+utimetableresult.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+utimetableresult.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+utimetableresult.*##+js(abort-on-property-write.js, adBlockDetected)
+utimetableresult.*#%#AG_abortOnPropertyWrite('adBlockDetected');
+utimetableresult.*##.adsbygoogle
+utimetableresult.*#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
 
 @@||animefever.tv^$generichide
 
@@ -1051,6 +1067,7 @@ tutoriaux-excalibur.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elemen
 
 flyurls.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 flyurls.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+flyurls.com##.adsbygoogle
 
 lavoixdux.com##+js(set-constant.js, is_adblocked, false)
 lavoixdux.com#%#AG_setConstant('is_adblocked', 'false');
@@ -1222,6 +1239,7 @@ daily-sale.*##+js(bab-defuser.js)
 daily-sale.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 daily-sale.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 daily-sale.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+daily-sale.*##.adsbygoogle
 
 zwergenstadt.com#@##adInteractive4
 zwergenstadt.com#@##ad_728x90_container
@@ -1315,6 +1333,7 @@ pokexgames-tutoriais.*#%#(function(){var sto=window.setTimeout,re=/\.bab_element
 @@||teqniaplus.com^$generichide
 teqniaplus.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 teqniaplus.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+teqniaplus.com##.adsbygoogle
 
 @@||australianfrequentflyer.com.au/community/js/siropu/am/ads.min.js$script
 @@||australianfrequentflyer.com.au^$generichide
@@ -1349,6 +1368,7 @@ huynhhieu.com##+js(bab-defuser.js)
 profitstudy.*##+js(bab-defuser.js)
 profitstudy.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 profitstudy.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+profitstudy.*##.adsbygoogle
 profitstudy.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 
 scat.gold##+js(abort-on-property-read.js, anOptions)
@@ -1373,6 +1393,7 @@ streamango.com##+js(abort-on-property-write.js, BetterJsPop)
 ||uod2quk646.com^$important
 
 @@||agradarpan.com^$generichide
+agradarpan.com,getpocket.*##.adsbygoogle
 @@||getpocket.*^$generichide
 agradarpan.com,getpocket.*##+js(bab-defuser.js)
 agradarpan.com,getpocket.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -1386,6 +1407,7 @@ mifirm.net#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
 gossipcorners.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 gossipcorners.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+gossipcorners.com##.adsbygoogle
 
 @@||getinmac.com^$elemhide
 
