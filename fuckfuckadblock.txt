@@ -1427,3 +1427,6 @@ mrtekani.com##+js(bab-defuser.js)
 mrtekani.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 mrtekani.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 mrtekani.com##.adsbygoogle
+
+@@||tercihiniyap.net^$generichide
+
