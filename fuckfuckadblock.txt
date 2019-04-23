@@ -1438,3 +1438,5 @@ mrtekani.com##.adsbygoogle
 
 ksta.de###wl-overlay-wrapper
 
+@@||solvetube.site/googleads.js$script
+
