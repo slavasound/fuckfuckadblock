@@ -438,6 +438,7 @@ xnxx.com,xvideos.com##+js(window.open-defuser.js)
 sueddeutsche.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
 sueddeutsche.de##+js(abort-on-property-write.js, SZAdBlockDetection)
 sueddeutsche.de##+js(set-constant.js, _sp_.config, undefined)
+@@||sueddeutsche.de^$generichide
 
 derstandard.at##+js(set-constant.js, nuggprof, noopFunc)
 
