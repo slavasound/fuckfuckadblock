@@ -427,9 +427,6 @@ nekopoi.*##+js(abort-current-inline-script.js, atob, tabunder)
 @@||nekopoi.*/adsbygoogle.js$script
 nekopoi.*###sidebar_right > .widget_text > .custom-html-widget > a[href^="http://bit.ly/"] > img
 
-einthusan.tv##+js(setTimeout-defuser.js, AdBlocker, 1000)
-@@||einthusan.tv^$generichide
-
 blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
 blick.ch#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
