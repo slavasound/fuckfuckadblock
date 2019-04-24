@@ -375,9 +375,7 @@ businessinsider.*##+js(abort-on-property-read.js, stop)
 businessinsider.*##^script:has-text(setAdblockerCookie)
 businessinsider.*#%#AG_abortOnPropertyRead('stop');
 
-habbowert.de##+js(set-constant.js, adblock, false)
-habbowert.de#%#AG_setConstant('adblock', 'false');
-habbowert.de#%#AG_abortInlineScript(/#adblockinfo/, '$');
+@@||habbowert.de/js/adframe.js$script
 
 stiffgamerdown.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 stiffgamerdown.com##+js(window.open-defuser.js)
