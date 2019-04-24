@@ -1445,4 +1445,7 @@ finobe.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ad
 
 @@||viki.io/cms-uploads/uncategorized/ima3.js$domain=viki.com
 
+@@||adpass.atresmedia.com/*/adjs.js$domain=atresplayer.com
+@@||adpass.atresmedia.com/*/advertisement.js$domain=atresplayer.com
+atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
