@@ -1443,3 +1443,6 @@ imgdawgknuttz.com#@#.adsBox
 @@||googlesyndication.com/pagead/$third-party,script,domain=finobe.com
 finobe.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
+@@||viki.io/cms-uploads/uncategorized/ima3.js$domain=viki.com
+
+
