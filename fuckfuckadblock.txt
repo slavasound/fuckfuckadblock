@@ -466,6 +466,7 @@ clipwatching.com##.cover
 
 money.pl##+js(window.open-defuser.js)
 
+@@||whosampled.com^$generichide
 whosampled.com##+js(abort-on-property-write.js, showAdBlockerOverlay)
 whosampled.com##+js(setTimeout-defuser.js, ads.length)
 
