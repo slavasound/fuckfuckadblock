@@ -418,8 +418,8 @@ faz.net#%#AG_abortInlineScript('_sp_._networkListenerData', '$');
 faz.net#%#AG_abortInlineScript('$', '_sp_._networkListenerData');
 @@||faz.net^$generichide
 
-tweaktown.com##+js(abort-on-property-write.js, _sp_)
 @@||tweaktown.com^$generichide
+tweaktown.com##+js(abort-on-property-write.js, _sp_)
 tweaktown.com#%#AG_abortOnPropertyWrite('_sp_');
 
 nekopoi.*##+js(set-constant.js, isAdsDisplayed, true)
