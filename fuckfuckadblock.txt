@@ -429,6 +429,7 @@ nekopoi.*###sidebar_right > .widget_text > .custom-html-widget > a[href^="http:/
 
 blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
 blick.ch#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
+@@||blick.ch^$generichide
 
 polygon.com##+js(abort-on-property-write.js, loadOutbrain)
 polygon.com##.adblock-whitelist-messaging__wrapper
