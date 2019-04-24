@@ -1441,3 +1441,5 @@ ksta.de###wl-overlay-wrapper
 
 imgdawgknuttz.com#@#.adsBox
 
+@@*/advertisement.js$xmlhttprequest,domain=bolgegundem.com
+
