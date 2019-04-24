@@ -1448,4 +1448,5 @@ finobe.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ad
 @@||adpass.atresmedia.com/*/adjs.js$domain=atresplayer.com
 @@||adpass.atresmedia.com/*/advertisement.js$domain=atresplayer.com
 atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
+@@||atresplayer.com^$generichide
 
