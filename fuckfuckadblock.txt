@@ -1459,3 +1459,8 @@ informazionefiscale.it#%#(function(){var sto=window.setTimeout,re=/\.bab_element
 informazionefiscale.it##+js(bab-defuser.js)
 
 @@||pes.social^$generichide
+
+gidoroom.ru#@#.adsbygoogle
+
+||securepubads.g.doubleclick.net/pagead/js/rum.js$script,redirect=noopjs,domain=gidoroom.ru
+||securepubads.g.doubleclick.net/pagead/js/rum.js$script,empty,domain=gidoroom.ru
