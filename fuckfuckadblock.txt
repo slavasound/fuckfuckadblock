@@ -1453,3 +1453,5 @@ atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.te
 
 ||ruanyifeng.com/blog/checker.js$script
 
+@@||usgamer.net^$generichide
+
