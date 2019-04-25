@@ -1466,3 +1466,8 @@ gidoroom.ru#@#.adsbygoogle
 ||securepubads.g.doubleclick.net/pagead/js/rum.js$script,empty,domain=gidoroom.ru
 
 @@||phimgi.net^$generichide
+
+@@||cnet.com^$generichide
+cnet.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
+cnet.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
+
