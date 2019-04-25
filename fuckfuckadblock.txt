@@ -1313,10 +1313,8 @@ suarankri.me#@##adsense
 @@||xkorean.biz^$generichide
 
 @@||govtsmartjob.com^$generichide
-@@||govtsmartjob.com/js/ads.js$script
-govtsmartjob.com##+js(abort-on-property-write.js, adBlockDetected)
-govtsmartjob.com#%#AG_abortOnPropertyWrite('adBlockDetected');
-@@||cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.js$script
+govtsmartjob.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+govtsmartjob.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 gutekueche.at##+js(set-constant.js, gkAdsWerbung, true)
 @@||gutekueche.at^$generichide
