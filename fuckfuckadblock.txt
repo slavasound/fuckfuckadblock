@@ -1487,3 +1487,5 @@ uploadship.com##+js(abort-current-inline-script.js, document.getElementById, adb
 @@||uploadship.com/themes/pro/frontend_assets/js/advertisement.js
 uploadship.com#%#AG_abortInlineScript(/"adblockinfo"/, 'document.getElementById');
 
+@@||vw-page.com/wcf/js/advertisement.js$script
+
