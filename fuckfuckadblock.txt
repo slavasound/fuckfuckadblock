@@ -1483,3 +1483,7 @@ webgate.tn#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/
 webgate.tn##+js(bab-defuser.js)
 @@||webgate.tn^$generichide
 
+uploadship.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
+@@||uploadship.com/themes/pro/frontend_assets/js/advertisement.js
+uploadship.com#%#AG_abortInlineScript(/"adblockinfo"/, 'document.getElementById');
+
