@@ -1502,3 +1502,7 @@ topspeed.sk#%#(function() { var noopfn = function() {;}; var Fab = function() {}
 
 123l.pw#%#AG_abortOnPropertyWrite('showAdsBlock');
 123l.pw##+js(abort-on-property-write.js, showAdsBlock)
+
+pcgamer.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
+pcgamer.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
+
