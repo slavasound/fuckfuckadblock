@@ -1500,3 +1500,5 @@ topspeed.sk#%#(function() { var noopfn = function() {;}; var Fab = function() {}
 
 @@||bahnbonus-shopping.de/scripts/adIFrame.js
 
+123l.pw#%#AG_abortOnPropertyWrite('showAdsBlock');
+123l.pw##+js(abort-on-property-write.js, showAdsBlock)
