@@ -1543,3 +1543,5 @@ ioscreator.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementi
 
 |http*://$image,domain=ip.cn,badfilter
 
+gamesubject.com###headb
+
