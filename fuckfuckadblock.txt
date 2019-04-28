@@ -1557,3 +1557,5 @@ jakimasklad.pl#%#(function() { var sto = window.setTimeout, re = /\.bab_elementi
 @@||jakimasklad.pl^$generichide
 jakimasklad.pl##+js(bab-defuser.js)
 
+1excelbet365.com#@#.adsbygoogle
+
