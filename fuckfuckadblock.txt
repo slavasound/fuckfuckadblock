@@ -1562,3 +1562,6 @@ jakimasklad.pl##+js(bab-defuser.js)
 wokesloth.com#%#Object.defineProperty(Object.prototype, 'hasAdmiralList', { get: function() { throw null; }, set: function() { throw null; } });
 wokesloth.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 
+shrinkearn.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+shrinkearn.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
