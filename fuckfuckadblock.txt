@@ -1541,3 +1541,5 @@ ioscreator.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementi
 
 @@||pleshka.com/ads/ads.js$script
 
+|http*://$image,domain=ip.cn,badfilter
+
