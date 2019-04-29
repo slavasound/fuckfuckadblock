@@ -1570,3 +1570,6 @@ damnripped.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.tex
 torrentmafya.net##+js(abort-on-property-read.js, anOptions)
 torrentmafya.net#%#AG_abortOnPropertyRead('anOptions');
 
+ucuzaucak.net##+js(abort-on-property-read.js, anOptions)
+ucuzaucak.net#%#AG_abortOnPropertyRead('anOptions');
+
