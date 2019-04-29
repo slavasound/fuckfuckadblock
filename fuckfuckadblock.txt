@@ -1573,3 +1573,5 @@ torrentmafya.net#%#AG_abortOnPropertyRead('anOptions');
 ucuzaucak.net##+js(abort-on-property-read.js, anOptions)
 ucuzaucak.net#%#AG_abortOnPropertyRead('anOptions');
 
+@@||playtor.tv/*/adb.js$script,domain=playtor.tv
+
