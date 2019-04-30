@@ -1581,3 +1581,6 @@ bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
 @@||bingfeng.tw/source/plugin/unadblock/*_ads_*.js
 bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
 
+mandatory.com#%#Object.defineProperty(Object.prototype, 'hasAdmiralList', { get: function() { throw null; }, set: function() { throw null; } });
+mandatory.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+
