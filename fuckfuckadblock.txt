@@ -1575,3 +1575,5 @@ ucuzaucak.net#%#AG_abortOnPropertyRead('anOptions');
 
 @@||playtor.tv/*/adb.js$script,domain=playtor.tv
 
+@@*/show_ads.js$script,domain=mp3.teledyski.info
+
