@@ -1577,3 +1577,7 @@ ucuzaucak.net#%#AG_abortOnPropertyRead('anOptions');
 
 @@*/show_ads.js$script,domain=mp3.teledyski.info
 
+bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
+@@||bingfeng.tw/source/plugin/unadblock/*_ads_*.js
+bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
+
