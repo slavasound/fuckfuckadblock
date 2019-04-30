@@ -1596,3 +1596,5 @@ siberyazilimci.net##+js(bab-defuser.js)
 andek.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||andek.com.pl^$generichide
 
+@@||rodzinnywyjazd.pl/gads.js$script
+
