@@ -1527,7 +1527,7 @@ technoslek.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 technoslek.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 smartage.pl##+js(abort-current-inline-script.js, parseInt, adblock)
-smartage.pl#%#AG_abortInlineScript(/adBlock/, 'parseInt');
+smartage.pl#%#AG_abortInlineScript(/adblock/, 'parseInt');
 
 @@||jainjinvani.com^$generichide
 jainjinvani.com##+js(bab-defuser.js)
