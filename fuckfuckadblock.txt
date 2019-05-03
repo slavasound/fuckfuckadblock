@@ -345,6 +345,7 @@ imgview.net##.adbwarning
 
 sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
 @@||sslproxies24.top^$generichide
+sslproxies24.top#%#AG_abortInlineScript(/google_ad_client/, 'document.addEventListener');
 
 igg-games.com##+js(nowebrtc.js)
 *$script,third-party,domain=igg-games.com,important
