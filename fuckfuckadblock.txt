@@ -1610,3 +1610,5 @@ technoslek.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 blogkafem.net#@#.adsbygoogle
 
+@@*/showads.js$script,domain=dmntsf.net
+
