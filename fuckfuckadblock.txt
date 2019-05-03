@@ -191,7 +191,6 @@ anonyviet.com##.adsbygoogle
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 anonyviet.com#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
 
-chicoer.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 @@||chicoer.com^$generichide
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,empty,important,domain=chicoer.com
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,redirect=noopjs,important,domain=chicoer.com
