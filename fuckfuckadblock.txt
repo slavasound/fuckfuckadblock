@@ -304,8 +304,6 @@ money-sense.club###adsense
 @@||qrz.ru/js/ads.js$script
 
 @@*/ads.js$script,domain=kanald.com.tr
-||gemius.pl^$third-party,badfilter
-||hit.gemius.pl^$third-party,badfilter
 
 culturemap.com##+js(abort-on-property-read.js, CatapultTools)
 culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
