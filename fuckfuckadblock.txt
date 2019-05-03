@@ -163,8 +163,7 @@
 /ads.min.js
 
 @@||mercurynews.com^$generichide
-mercurynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
-mercurynews.com##+js(set-constant.js, dfmCanRunAds, true)
+@@||mercurynews.com/wp-content/themes/wp-mason/static/js/ads.js$script
 
 @@||dropupload.com^$generichide
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
