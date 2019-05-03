@@ -189,8 +189,7 @@ getrelax.club##.loaded-popup-wrapper
 @@||anonyviet.com^$generichide
 anonyviet.com##.adsbygoogle
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
-anonyviet.com##+js(setTimeout-defuser.js, nextFunction, 250)
-anonyviet.com#%#AG_abortInlineScript(/google_ad_client/, 'document.addEventListener');
+anonyviet.com#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
 
 chicoer.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 @@||chicoer.com^$generichide
