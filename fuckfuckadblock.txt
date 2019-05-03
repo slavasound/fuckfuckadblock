@@ -571,7 +571,7 @@ arstechnica.com##.ars-appeal-container
 ridble.com###adblock-wrapper
 ridble.com##.adisclaimer
 
-rockstargame.su##+js(set-constant.js, isADB, 0)
+@@||rockstargame.su/wp-content/themes/Rockstargamesu/advertising.js$script
 
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl##+js(abort-on-property-write.js, sas)
