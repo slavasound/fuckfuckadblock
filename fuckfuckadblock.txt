@@ -320,16 +320,16 @@ pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
 @@||pantsu.cat^$generichide
 ||pantsu.cat^$popup
 pantsu.cat##+js(window.open-defuser.js)
+pantsu.cat#%#window.open=function(){};
 
-laradiobbs.net##+js(set-constant.js, adblock, false)
-laradiobbs.net#%#AG_setConstant('adblock', 'false');
+@@||laradiobbs.net/adframe.js$script
 laradiobbs.net##.blocked
 
 rim-world.com##+js(setTimeout-defuser.js, adblock, 5000)
 rim-world.com#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/getAdIFrameCount/.test(a.toString()))return b(a,c)};})();
 
 dojrzewamy.pl##+js(setTimeout-defuser.js, ad-container)
-dojrzewamy.pl##.adblock_info, .adblock_bg, .adblock_text
+dojrzewamy.pl#%#AG_abortInlineScript(/adblock_info/, 'setTimeout');
 
 z3x-team.com##+js(abort-on-property-read.js, anOptions)
 z3x-team.com#%#AG_abortOnPropertyRead('anOptions');
