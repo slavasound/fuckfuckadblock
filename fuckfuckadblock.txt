@@ -409,7 +409,6 @@ bild.de##+js(setTimeout-defuser.js, _abeh, 700)
 
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 faz.net#%#AG_abortInlineScript('_sp_._networkListenerData', '$');
-faz.net#%#AG_abortInlineScript('$', '_sp_._networkListenerData');
 @@||faz.net^$generichide
 
 @@||tweaktown.com^$generichide
@@ -426,10 +425,11 @@ blick.ch#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 @@||blick.ch^$generichide
 
 polygon.com##+js(abort-on-property-write.js, loadOutbrain)
-polygon.com##.adblock-whitelist-messaging__wrapper
+polygon.com#%#AG_abortOnPropertyWrite('loadOutbrain');
 
 xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com##+js(window.open-defuser.js)
+xnxx.com,xvideos.com#%#window.open=function(){};
 
 sueddeutsche.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
 sueddeutsche.de##+js(abort-on-property-write.js, SZAdBlockDetection)
