@@ -290,14 +290,12 @@ blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#AG_setConstant('adBlockDetect
 ||rusfishing.ru/forum/js/siropu/am/core.min.js$script,empty,domain=rusfishing.ru
 rusfishing.ru##.samBannerUnit
 
-thehindu.com##+js(set-constant.js, Adblock, false)
-thehindu.com#%#AG_setConstant('Adblock', 'false');
+@@||thehindu.com/static/js/ads.min.js$script,domain=thehindu.com
 @@||thehindu.com^$generichide
 
 @@||konuneydi.com^$generichide
 
-3dtuning.com##+js(set-constant.js, adblock, false)
-3dtuning.com#%#AG_setConstant('adblock', 'false');
+@@||3dtuning.com/adframe.js$script,domain=3dtuning.com
 
 money-sense.club##+js(abort-on-property-read.js, anOptions)
 money-sense.club#%#AG_abortOnPropertyRead('anOptions');
