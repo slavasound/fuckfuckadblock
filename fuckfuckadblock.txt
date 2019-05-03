@@ -1612,3 +1612,6 @@ blogkafem.net#@#.adsbygoogle
 
 @@*/showads.js$script,domain=dmntsf.net
 
+lancashiretelegraph.co.uk##+js(abort-on-property-write.js, _sp_)
+lancashiretelegraph.co.uk#%#AG_abortOnPropertyWrite('_sp_');
+
