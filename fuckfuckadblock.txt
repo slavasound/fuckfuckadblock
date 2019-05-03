@@ -1608,3 +1608,5 @@ teqnwy.com##+js(bab-defuser.js)
 technoslek.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 technoslek.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+blogkafem.net#@#.adsbygoogle
+
