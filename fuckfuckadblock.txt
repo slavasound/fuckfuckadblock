@@ -564,8 +564,10 @@ macwelt.de##.standard.marketplace:has-text(-Anzeige-)
 macwelt.de##+js(abort-current-inline-script.js, idgStorage)
 
 wfaa.com##+js(abort-on-property-read.js, stop)
+wfaa.com#%#AG_abortOnPropertyRead('stop');
 
 thewindowsclub.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+thewindowsclub.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 arstechnica.com##.ars-appeal-container
 
