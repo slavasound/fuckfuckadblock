@@ -455,24 +455,22 @@ oko.sh##+js(abort-on-property-read.js, AaDetector)
 @@||oko.sh^$generichide
 oko.sh#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-clipwatching.com##+js(set-constant.js, adblock, false)
 clipwatching.com##+js(window.open-defuser.js)
 @@||clipwatching.com/js/adframe.js$script
 @@||clipwatching.com/js/pop.js$script
 clipwatching.com#%#window.open=function(){};
-clipwatching.com##.cover
 
 money.pl##+js(window.open-defuser.js)
+money.pl#%#window.open=function(){};
 
 @@||whosampled.com^$generichide
-whosampled.com##+js(abort-on-property-write.js, showAdBlockerOverlay)
-whosampled.com##+js(setTimeout-defuser.js, ads.length)
 
 pinkhindi.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 pinkhindi.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 pinkhindi.com##.adsbygoogle
 
 reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
+reviewjournal.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
 
 cooltxtgen.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 cooltxtgen.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
@@ -480,7 +478,7 @@ cooltxtgen.com##.adsbygoogle
 
 @@||futurezone.de^$generichide
 
-cs-fundamentals.com##+js(abort-current-inline-script.js, document.getElementById, adBlockerAlert)
+cs-fundamentals.com###adBlockerAlert
 
 @@||embed.kijk.nl/talpa-jw-skin/js/adsbygoogle.js$script,domain=embed.kijk.nl
 
@@ -488,7 +486,10 @@ temp-mail.org##+js(set-constant.js, checkadBlock, noopFunc)
 temp-mail.org#%#AG_setConstant('checkadBlock', 'noopFunc');
 
 @@||porndish.com^$generichide
-porndish.com##+js(popads-dummy.js)
+porndish.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
+porndish.com##+js(bab-defuser.js)
+||popads.net/pop.js^$script,empty,important
+||popads.net/pop.js^$script,redirect=noopjs,important
 
 streamcherry.com##+js(window.open-defuser.js)
 @@||streamcherry.com/googlead.js$script
@@ -499,13 +500,14 @@ streamcherry.com#%#Object.defineProperty(window, 'doSecondPop', { get: function(
 streamcherry.com#%#Object.defineProperty(window, 'noPopunder', { get: function() { return true; } });
 streamcherry.com#%#Object.defineProperty(window, 'adblock2', { get: function() { return false; } });
 
-datoporn.co##+js(set-constant.js, cRAds, true)
+@@||datoporn.co/js/pop.js$script,domain=datoporn.co
 datoporn.co##+js(window.open-defuser.js)
+datoporn.co#%#window.open=function(){};
 
 xn--b1ajehof.xn--80asehdb##+js(abort-on-property-read.js, adBlockDetected)
 xn--b1ajehof.xn--80asehdb#%#AG_abortOnPropertyRead('adBlockDetected');
 
-pln-pskov.ru##+js(abort-current-inline-script.js, document.getElementById, check_ad_block)
+pln-pskov.ru###check_ad_block
 
 usgamer.net##+js(abort-on-property-read.js, _sp_._networkListenerData)
 usgamer.net#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
@@ -515,6 +517,7 @@ usgamer.net#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 @@||sparmoscow.ru^$generichide
 
 wral.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+wral.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 @@||wral.com^$generichide
 
 @@||rte.ie/player/$script,xmlhttprequest
@@ -1621,4 +1624,5 @@ talkittechy.com##+js(bab-defuser.js)
 
 @@||openloadtv.*^$generichide
 openloadtv.*#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display:block!important; }
+
 
