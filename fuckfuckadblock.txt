@@ -523,6 +523,7 @@ wral.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 @@||rte.ie/player/$script,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=rte.ie
 
+stiffgamerdown.com#%#AG_abortInlineScript(/hcf_userconfig.cgi_adb_redirect_url/, 'hcf_userconfig');
 handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
 @@||handelsblatt.com^$generichide
 
