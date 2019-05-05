@@ -7,11 +7,6 @@
 ! RAW: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 ! Description: Filters for blocking pop-ups and anti-adblock bypass.
 !
-! I also advise you to subscribe to:
-! uBlock Filters - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-! uBlock filters: Annoyances - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
-! AdGuard Base filter - https://filters.adtidy.org/extension/chromium/filters/2.txt
-! AdGuard Russian filter - https://filters.adtidy.org/extension/chromium/filters/1.txt
 
 ###AdBlockDialog
 ###ab--notification-ribbon
@@ -1549,7 +1544,7 @@ jainjinvani.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 ioscreator.com##+js(bab-defuser.js)
 ioscreator.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-@@||pleshka.com/ads/ads.js$script
+@@||pleshka.com/ads/ads.js$script,domain=pleshka.com
 
 |http*://$image,domain=ip.cn,badfilter
 
