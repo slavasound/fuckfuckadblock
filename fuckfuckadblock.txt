@@ -661,6 +661,7 @@ socientifica.com.br##+js(bab-defuser.js)
 
 dok-film.net##+js(abort-on-property-read.js, adBlockDetected)
 dok-film.net#%#AG_abortOnPropertyRead('adBlockDetected');
+@@||dok-film.net^$generichide
 
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
 
