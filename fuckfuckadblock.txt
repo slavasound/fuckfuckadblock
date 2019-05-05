@@ -1664,4 +1664,6 @@ vinaurl.in##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||vinaurl.in^$generichide
 vinaurl.in#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 vinaurl.in##.adsbygoogle
+vinaurl.in##+js(abort-on-property-read.js, adsHeight)
+vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
 
