@@ -581,7 +581,7 @@ ridble.com##.adisclaimer
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl#%#AG_abortInlineScript(/newAdblockBoardDisplayed/, 'decodeURIComponent');
 filmweb.pl##+js(abort-on-property-write.js, sas)
-filmweb.pl#%#AG_abortOnPropertyWrite('_sp_');
+filmweb.pl#%#AG_abortOnPropertyWrite('sas');
 
 gamesradar.com##+js(abort-on-property-write.js, _sp_)
 gamesradar.com#%#AG_abortOnPropertyWrite('_sp_');
@@ -612,23 +612,18 @@ kinoprofi.vip#%#AG_abortOnPropertyWrite('window.adBlock');
 autoexpress.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
 autoexpress.co.uk#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
-tomsguide.com##+js(abort-on-property-write.js, adonisHash)
-tomsguide.com##+js(abort-on-property-write.js, tmnramp)
-
 gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
 gsmturkey.net#%#AG_abortInlineScript('fuckAdBlock', 'importFAB');
 @@||gsmturkey.net^$generichide
 
 @@||dekhvhai.com^$generichide
 
-sportsplays.com##+js(setTimeout-defuser.js, abDetected)
-
 techquila.co.in##+js(abort-on-property-read.js, anOptions)
 techquila.co.in#%#AG_abortOnPropertyRead('anOptions');
 
 @@||thenation.com^$generichide
-||npttech.com/advertising.js$important,script,redirect=fuckadblock.js-3.2.0
-@@||cnbc.com^*/showads.js$script
+
+@@*/showads.js$script,domain=cnbc.com
 @@||cnbc.com^$generichide
 
 @@||forbes.pl^$generichide
