@@ -1667,3 +1667,6 @@ vinaurl.in##.adsbygoogle
 vinaurl.in##+js(abort-on-property-read.js, adsHeight)
 vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
 
+@@*/advertisement.js$domain=getfreebit.xyz,script
+@@||getfreebit.xyz^$generichide
+
