@@ -579,7 +579,9 @@ ridble.com##.adisclaimer
 @@*/advertising.js$script,domain=rockstargame.su
 
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
+filmweb.pl#%#AG_abortInlineScript(/newAdblockBoardDisplayed/, 'decodeURIComponent');
 filmweb.pl##+js(abort-on-property-write.js, sas)
+filmweb.pl#%#AG_abortOnPropertyWrite('_sp_');
 
 gamesradar.com##+js(abort-on-property-write.js, _sp_)
 gamesradar.com#%#AG_abortOnPropertyWrite('_sp_');
