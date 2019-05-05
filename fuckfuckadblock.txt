@@ -1648,3 +1648,5 @@ logrosxbox.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.tex
 
 @@||capital.fr^$generichide
 
+@@||aternos.org^$generichide
+
