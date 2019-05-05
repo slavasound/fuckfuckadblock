@@ -660,8 +660,7 @@ dok-film.net#%#AG_abortOnPropertyRead('adBlockDetected');
 
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
 
-minecraft-schematics.com##+js(abort-current-inline-script.js, jQuery, adBlock)
-@@||minecraft-schematics.com^$generichide
+@@*/js/ads.js$script,domain=minecraft-schematics.com
 
 vinaurl.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 vinaurl.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
@@ -672,10 +671,12 @@ tinylink.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 tinylink.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 tinylink.*##.adsbygoogle
 
-||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=uploadbox.io
-uploadbox.io##+js(setInterval-defuser.js, (), 5000)
+@@*/js/advertisement.js$script,domain=uploadbox.io
+uploadbox.io#%#AG_abortOnPropertyRead('replaceContentWithAdBlockerContent');
+uploadbox.io##+js(abort-on-property-read.js, replaceContentWithAdBlockerContent)
 
 watchtheoffice.online##+js(bab-defuser.js)
+watchtheoffice.online#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 @@||watchtheoffice.online^$generichide
 watchtheoffice.online##+js(abort-on-property-write.js, _pop)
 watchtheoffice.online#%#AG_abortOnPropertyWrite('_pop');
