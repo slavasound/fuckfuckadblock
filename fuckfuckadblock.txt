@@ -368,7 +368,7 @@ venipa.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window
 businessinsider.*##+js(abort-on-property-read.js, stop)
 businessinsider.*#%#AG_abortOnPropertyRead('stop');
 
-@@||habbowert.de/js/adframe.js$script
+@@||habbowert.de/js/adframe.js$script,domain=habbowert.de
 
 stiffgamerdown.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 stiffgamerdown.com##+js(window.open-defuser.js)
@@ -452,8 +452,8 @@ oko.sh##+js(abort-on-property-read.js, AaDetector)
 oko.sh#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 clipwatching.com##+js(window.open-defuser.js)
-@@||clipwatching.com/js/adframe.js$script
-@@||clipwatching.com/js/pop.js$script
+@@||clipwatching.com/js/adframe.js$script,domain=clipwatching.com
+@@||clipwatching.com/js/pop.js$script,domain=clipwatching.com
 clipwatching.com#%#window.open=function(){};
 
 money.pl##+js(window.open-defuser.js)
@@ -526,7 +526,7 @@ handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userco
 stealthz.ru##+js(abort-on-property-read.js, anOptions)
 stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
 
-@@||won.pe/assets/js/adsbygoogle.js$script
+@@||won.pe/assets/js/adsbygoogle.js$script,domain=won.pe
 
 kstreaming.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 kstreaming.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
@@ -576,7 +576,7 @@ arstechnica.com##.ars-appeal-container
 ridble.com###adblock-wrapper
 ridble.com##.adisclaimer
 
-@@||rockstargame.su/wp-content/themes/Rockstargamesu/advertising.js$script
+@@*/advertising.js$script,domain=rockstargame.su
 
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl##+js(abort-on-property-write.js, sas)
