@@ -1660,3 +1660,8 @@ webtvhd.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$
 
 @@||solve-all-problems.info/googleads.js$script,domain=getintopc.com|unique-tutorials.info
 
+vinaurl.in##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||vinaurl.in^$generichide
+vinaurl.in#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+vinaurl.in##.adsbygoogle
+
