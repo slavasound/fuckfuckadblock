@@ -777,7 +777,6 @@ sk-ip.ru#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 sk-ip.ru##.adsbygoogle
 
 urlsamo.com##+js(abort-on-property-read.js, open)
-urlsamo.com##+js(setTimeout-defuser.js, '0x)
 urlsamo.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 urlsamo.com##.adsbygoogle
 urlsamo.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
@@ -793,14 +792,20 @@ techjad.com##.adsbygoogle
 
 convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net##+js(abort-on-property-read.js, zfgloadedpopup)
+convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
+convert2mp3.net#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
 convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-||convert2mp3.net/assets/js/push.js^$script,important
+convert2mp3.net#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+||convert2mp3.net/assets/js/push.js^$script,important,domain=convert2mp3.net
 convert2mp3.net##+js(abort-current-inline-script.js, RegExp, zfgload)
+convert2mp3.net#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
 convert2mp3.net##+js(abort-on-property-read.js, g133.c3)
+convert2mp3.net#%#AG_abortOnPropertyRead('g133.c3');
 
 dutchycorp.space##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||dutchycorp.space^$generichide
-@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=dutchycorp.space
+dutchycorp.space#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
+dutchycorp.space##+js(fuckadblock.js-3.2.0)
 dutchycorp.space#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 dutchycorp.space##.adsbygoogle
 
