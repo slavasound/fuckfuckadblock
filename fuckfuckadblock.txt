@@ -33,6 +33,7 @@
 ###adblock-notice
 ###adblock-overlay
 ###adblockDetect
+###adblock__container
 ###adblock_detected
 ###adblock_message
 ###adblock_popup
@@ -74,6 +75,7 @@
 ##.adBlockNotification
 ##.adBlockNotificationOverlay
 ##.adBlockWarning
+##.adTeaser
 ##.ad_before.happy-inside-player
 ##.ad_blocker
 ##.adb-enabled
@@ -81,12 +83,14 @@
 ##.adbd-message
 ##.adbd-wrapper
 ##.adblock
+##.adblock-detect
 ##.adblock-modal
 ##.adblock-modal-content
 ##.adblock-notification-wrapper
 ##.adblock-warning-teaser
 ##.adblockInfo
 ##.adblockOverlay
+##.adblock__container
 ##.adblock_detector
 ##.adblock_enabled
 ##.adblock_floating_message
@@ -95,6 +99,7 @@
 ##.adblockalert
 ##.adblocker-message
 ##.adblocker-wrap
+##.adcontent
 ##.b-blockadblock
 ##.counterAdblocks
 ##.deadblocker-header-bar
@@ -120,14 +125,10 @@
 ##.top-bar-adblock
 ##.warning-adblock
 ##.warning-adblock-box
-##.adTeaser
-##.adcontent
-##.adblock__container
-###adblock__container
-##.adblock-detect
 
 -adblock-notice-
 -adblock-notice/
+-contrib-ads.
 /AdblockMessage.
 /SvgAdblockDetected/
 /abb-msg.js
@@ -145,6 +146,7 @@
 /adblock_notify.js
 /adblocker_message_
 /adblockhandlega.js
+/ads.min.js
 /antiadblockmsg.
 /blockadblock-
 /blockadblock.js
@@ -154,11 +156,9 @@
 /wp-content/plugins/ad-block-defender/
 /wp-content/plugins/deadblocker/
 /wp-content/uploads/an-temp/*$script,stylesheet
--contrib-ads.
-/ads.min.js
 
-@@||mercurynews.com^$generichide
 @@||mercurynews.com/wp-content/themes/wp-mason/static/js/ads.js$script
+@@||mercurynews.com^$generichide
 
 @@||dropupload.com^$generichide
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
@@ -169,9 +169,9 @@ dropupload.com#%#AG_abortInlineScript(/"adblockinfo"/, 'document.getElementById'
 @@||mangahost-br.com^$generichide
 @@||mangahosted.com^$generichide
 mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com##+js(abort-on-property-write.js, adBlockDetected)
-mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com##+js(bab-defuser.js)
 mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
+mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 sosiali.com#@#.adsbygoogle
 
@@ -182,55 +182,55 @@ getrelax.club##+js(abort-current-inline-script.js, document.getElementById, adis
 getrelax.club##.loaded-popup-wrapper
 
 @@||anonyviet.com^$generichide
-anonyviet.com##.adsbygoogle
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+anonyviet.com##.adsbygoogle
 anonyviet.com#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
 
 @@||chicoer.com^$generichide
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,empty,important,domain=chicoer.com
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,redirect=noopjs,important,domain=chicoer.com
 
-readlightnovel.org##+js(abort-on-property-read.js, HTMLCanvasElement)
-readlightnovel.org#%#Object.defineProperty(Object.prototype, 'hasAdmiralList', { get: function() { throw null; }, set: function() { throw null; } });
 @@||readlightnovel.org^$generichide
+readlightnovel.org##+js(abort-on-property-read.js, HTMLCanvasElement)
+readlightnovel.org#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 @@||filebebo.net^$generichide
 filebebo.net##+js(bab-defuser.js)
 filebebo.net#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(openload.co.js)
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(window.open-defuser.js)
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(abort-current-inline-script.js, adblock, adblock2)
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(nano-setInterval-booster.js)
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(set-constant.js, sadbl, false)
-||exdynsrv.com^$important
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#window.open=function(){};
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_abortInlineScript(/adblock|adblock2/);
-openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_setConstant('sadbl', 'false');
 openload.co##[id*="ScriptRoot"]
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(abort-current-inline-script.js, adblock, adblock2)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(nano-setInterval-booster.js)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(openload.co.js)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(set-constant.js, sadbl, false)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(window.open-defuser.js)
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_abortInlineScript(/adblock|adblock2/);
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_abortOnPropertyRead('open');
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_setConstant('sadbl', 'false');
+openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#window.open=function(){};
+||exdynsrv.com^$important
 
-pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 @@||pornbimbo.com^$generichide
-||pornbimbo.com/player/html.php$subdocument
-||exosrv.com^$important
-pornbimbo.com##+js(window.open-defuser.js)
-pornbimbo.com##+js(disable-newtab-links.js)
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
-pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
+pornbimbo.com##+js(disable-newtab-links.js)
+pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
+pornbimbo.com##+js(window.open-defuser.js)
 pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
+pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 pornbimbo.com#%#window.open=function(){};
+||exosrv.com^$important
+||pornbimbo.com/player/html.php$subdocument
 
+@@||sciencelife.*^$generichide
 sciencelife.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 sciencelife.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-@@||sciencelife.*^$generichide
-||gregnobs.com^$important
-sciencelife.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-sciencelife.*#%#window.open=function(){};
 sciencelife.*##.adsbygoogle
+sciencelife.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 sciencelife.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+sciencelife.*#%#window.open=function(){};
+||gregnobs.com^$important
 
 @@||ttsmp3.com^$generichide
 ttsmp3.com##+js(bab-defuser.js)
@@ -242,11 +242,11 @@ rp5.by,rp5.kz,rp5.ru,rp5.ua#%#AG_abortOnPropertyRead('sABWarning');
 wordexcerpt.com##+js(abort-on-property-read.js, anOptions)
 wordexcerpt.com#%#AG_abortOnPropertyRead('anOptions');
 
-tamiltunes.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 @@||tamiltunes.*^$generichide
+tamiltunes.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 tamiltunes.*##+js(bab-defuser.js)
-tamiltunes.*#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
 tamiltunes.*#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
+tamiltunes.*#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
 
 @@||leakforums.*^$generichide
 leakforums.*##+js(abort-on-property-read.js, adblock)
@@ -257,45 +257,45 @@ gametimers.it##+js(bab-defuser.js)
 gametimers.it##.adsbygoogle
 gametimers.it#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
-file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
-file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
-file-upload.*##.adsbygoogle
-file-up.*##.adsbygoogle
-upfiles.*##.adsbygoogle
-@@||upfiles.*^$generichide
 @@||file-up.*^$generichide
 @@||file-upload.*^$generichide
+@@||upfiles.*^$generichide
+file-up.*##.adsbygoogle
+file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
 file-up.*,file-upload.*,upfiles.*##+js(bab-defuser.js)
 file-up.*,file-upload.*,upfiles.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
+file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
+file-upload.*##.adsbygoogle
+upfiles.*##.adsbygoogle
 
-blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(set-constant.js, adBlockDetected, noopFunc)
-blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##.adsbygoogle
 @@||blogginggyanbox.com^$generichide
-@@||funnyquiz.blog^$generichide
 @@||fabsdeals.com^$generichide
-blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(window.open-defuser.js)
+@@||funnyquiz.blog^$generichide
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#window.open=function(){};
+blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(set-constant.js, adBlockDetected, noopFunc)
+blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(window.open-defuser.js)
+blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##.adsbygoogle
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#AG_setConstant('adBlockDetected', 'noopFunc');
+blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#window.open=function(){};
 
 @@||debilizator.tv/static/*/videojs-contrib-ads$stylesheet,xmlhttprequest
 
-||rusfishing.ru/forum/js/siropu/am/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
-||rusfishing.ru/forum/js/siropu/am/core.min.js$script,empty,domain=rusfishing.ru
 rusfishing.ru##.samBannerUnit
+||rusfishing.ru/forum/js/siropu/am/core.min.js$script,empty,domain=rusfishing.ru
+||rusfishing.ru/forum/js/siropu/am/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
 
-@@||thehindu.com/static/js/ads.min.js$script,domain=thehindu.com
+@@||thehindu.com/static/js/ads.min.js$script,domain=thehindu.com,script
 @@||thehindu.com^$generichide
 
 @@||konuneydi.com^$generichide
 
 @@||3dtuning.com/adframe.js$script,domain=3dtuning.com
 
+money-sense.club###adsense
 money-sense.club##+js(abort-on-property-read.js, anOptions)
 money-sense.club#%#AG_abortOnPropertyRead('anOptions');
-money-sense.club###adsense
 
 @@||qrz.ru/js/ads.js$script
 
@@ -307,16 +307,16 @@ culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
 larena.it##+js(setTimeout-defuser.js, adblock-check)
 larena.it#%#AG_abortInlineScript(/#adblock-check/, '$');
 
+@@||bento.de^$generichide
 bento.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
 bento.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
-@@||bento.de^$generichide
 
-pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
-pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
 @@||pantsu.cat^$generichide
-||pantsu.cat^$popup
+pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
 pantsu.cat##+js(window.open-defuser.js)
+pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
 pantsu.cat#%#window.open=function(){};
+||pantsu.cat^$popup
 
 @@||laradiobbs.net/adframe.js$script
 laradiobbs.net##.blocked
@@ -336,30 +336,30 @@ culture-informatique.net#%#AG_abortOnPropertyRead('anOptions');
 @@||watch32hd.org/ads_*.js$script,xmlhttprequest
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
-imgview.net#%#AG_abortInlineScript(/adbwarning/, 'setTimeout');
 imgview.net##.adbwarning
+imgview.net#%#AG_abortInlineScript(/adbwarning/, 'setTimeout');
 
-sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
 @@||sslproxies24.top^$generichide
+sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
 sslproxies24.top#%#AG_abortInlineScript(/google_ad_client/, 'document.addEventListener');
 
-igg-games.com##+js(nowebrtc.js)
 *$script,third-party,domain=igg-games.com,important
 *$webrtc,domain=igg-games.com,important
+igg-games.com##+js(nowebrtc.js)
 
 @@||doluoyun.com^$generichide
 
 @@||rekapp.info^$generichide
 
-||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
 ||pagead2.googlesyndication.com/pagead/js/$script,empty,domain=ebb.io
+||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
 
 @@*/ad-block-detector.js$domain=ncaa.com
-@@||ncaa.com^$generichide
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
+@@||ncaa.com^$generichide
 
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=mylink.love
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,empty,domain=mylink.love
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=mylink.love
 
 @@||venipa.net^$generichide
 venipa.net##+js(bab-defuser.js)
@@ -370,11 +370,11 @@ businessinsider.*#%#AG_abortOnPropertyRead('stop');
 
 @@||habbowert.de/js/adframe.js$script,domain=habbowert.de
 
+@@||stiffgamerdown.com^$generichide
 stiffgamerdown.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 stiffgamerdown.com##+js(window.open-defuser.js)
-stiffgamerdown.com#%#window.open=function(){};
-@@||stiffgamerdown.com^$generichide
 stiffgamerdown.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+stiffgamerdown.com#%#window.open=function(){};
 
 @@||tutsgalaxy.com^$generichide
 tutsgalaxy.com##+js(abort-on-property-read.js, anOptions)
@@ -386,69 +386,70 @@ tutsgalaxy.com#%#AG_abortOnPropertyRead('anOptions');
 
 @@||programiz.com^$xmlhttprequest
 
-||xpgcrmxejlgig.com^$important
 popads.net##+js(popads.net.js)
-||popads.net/pop.js^$empty,important
-||dolohen.com^$important
 sembunyi.in##+js(abort-on-property-read.js, popjs)
-||gfamqlcmymxbeu.com^$important
-||sembunyi.in^$popup,important
 sembunyi.in#%#AG_abortOnPropertyRead('popjs');
+||dolohen.com^$important
+||gfamqlcmymxbeu.com^$important
+||popads.net/pop.js^$empty,important
+||sembunyi.in^$popup,important
+||xpgcrmxejlgig.com^$important
 
 earthpiclover.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-earthpiclover.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 earthpiclover.com##.adsbygoogle
+earthpiclover.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 bild.de##+js(abort-on-property-write.js, _abeh)
 bild.de##+js(setInterval-defuser.js, (), 10)
 bild.de##+js(setTimeout-defuser.js, _abeh, 700)
 
+@@||faz.net^$generichide
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 faz.net#%#AG_abortInlineScript('_sp_._networkListenerData', '$');
-@@||faz.net^$generichide
 
 @@||tweaktown.com^$generichide
 tweaktown.com##+js(abort-on-property-write.js, _sp_)
 tweaktown.com#%#AG_abortOnPropertyWrite('_sp_');
 
-nekopoi.*##+js(set-constant.js, isAdsDisplayed, true)
-nekopoi.*##+js(abort-current-inline-script.js, atob, tabunder)
 @@||nekopoi.*/adsbygoogle.js$script
 nekopoi.*###sidebar_right > .widget_text > .custom-html-widget > a[href^="http://bit.ly/"] > img
+nekopoi.*##+js(abort-current-inline-script.js, atob, tabunder)
+nekopoi.*##+js(set-constant.js, isAdsDisplayed, true)
 
+@@||blick.ch^$generichide
 blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
 blick.ch#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
-@@||blick.ch^$generichide
 
 polygon.com##+js(abort-on-property-write.js, loadOutbrain)
 polygon.com#%#AG_abortOnPropertyWrite('loadOutbrain');
 
-xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com##+js(window.open-defuser.js)
+xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com#%#window.open=function(){};
 
+@@||sueddeutsche.de^$generichide
 sueddeutsche.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
 sueddeutsche.de##+js(abort-on-property-write.js, SZAdBlockDetection)
 sueddeutsche.de##+js(set-constant.js, _sp_.config, undefined)
-@@||sueddeutsche.de^$generichide
 
 derstandard.at##+js(set-constant.js, nuggprof, noopFunc)
 
 1fichier.com##.ct_warn
 
+@@||cultofmac.com^$generichide
 cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 cultofmac.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-@@||cultofmac.com^$generichide
 
 @@||luzernerzeitung.ch^$generichide
 
 licklink.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-licklink.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 licklink.net##.adsbygoogle
+licklink.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-oko.sh##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-oko.sh##+js(abort-on-property-read.js, AaDetector)
 @@||oko.sh^$generichide
+oko.sh##+js(abort-on-property-read.js, AaDetector)
+oko.sh##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+oko.sh#%#AG_abortOnPropertyRead('AaDetector');
 oko.sh#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 clipwatching.com##+js(window.open-defuser.js)
@@ -462,16 +463,16 @@ money.pl#%#window.open=function(){};
 @@||whosampled.com^$generichide
 
 pinkhindi.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-pinkhindi.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 pinkhindi.com##.adsbygoogle
+pinkhindi.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+@@||reviewjournal.com^$generichide
 reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 reviewjournal.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
-@@||reviewjournal.com^$generichide
 
 cooltxtgen.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-cooltxtgen.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 cooltxtgen.com##.adsbygoogle
+cooltxtgen.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||futurezone.de^$generichide
 
@@ -483,19 +484,19 @@ temp-mail.org##+js(set-constant.js, checkadBlock, noopFunc)
 temp-mail.org#%#AG_setConstant('checkadBlock', 'noopFunc');
 
 @@||porndish.com^$generichide
-porndish.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 porndish.com##+js(bab-defuser.js)
+porndish.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 ||popads.net/pop.js^$script,empty,important
 ||popads.net/pop.js^$script,redirect=noopjs,important
 
-streamcherry.com##+js(window.open-defuser.js)
 @@||streamcherry.com/googlead.js$script
+streamcherry.com##+js(window.open-defuser.js)
 streamcherry.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
-streamcherry.com#%#Object.defineProperty(window, 'turnoff', { get: function() { return true; } });
-streamcherry.com#%#Object.defineProperty(window, 'popAdsLoaded', { get: function() { return; } });
+streamcherry.com#%#Object.defineProperty(window, 'adblock2', { get: function() { return false; } });
 streamcherry.com#%#Object.defineProperty(window, 'doSecondPop', { get: function() { return; } });
 streamcherry.com#%#Object.defineProperty(window, 'noPopunder', { get: function() { return true; } });
-streamcherry.com#%#Object.defineProperty(window, 'adblock2', { get: function() { return false; } });
+streamcherry.com#%#Object.defineProperty(window, 'popAdsLoaded', { get: function() { return; } });
+streamcherry.com#%#Object.defineProperty(window, 'turnoff', { get: function() { return true; } });
 
 @@||datoporn.co/js/pop.js$script,domain=datoporn.co
 datoporn.co##+js(window.open-defuser.js)
@@ -513,16 +514,16 @@ usgamer.net#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 @@||sparmoscow.ru^$generichide
 
+@@||wral.com^$generichide
 wral.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 wral.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-@@||wral.com^$generichide
 
-@@||rte.ie/player/$script,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=rte.ie
+@@||rte.ie/player/$script,xmlhttprequest
 
-stiffgamerdown.com#%#AG_abortInlineScript(/hcf_userconfig.cgi_adb_redirect_url/, 'hcf_userconfig');
-handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
 @@||handelsblatt.com^$generichide
+handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
+stiffgamerdown.com#%#AG_abortInlineScript(/hcf_userconfig.cgi_adb_redirect_url/, 'hcf_userconfig');
 
 stealthz.ru##+js(abort-on-property-read.js, anOptions)
 stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
@@ -533,23 +534,23 @@ kstreaming.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 kstreaming.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
 
 speedvid.net##+js(abort-on-property-read.js, AaDetector)
-speedvid.net#%#AG_abortOnPropertyRead('AaDetector');
 speedvid.net##+js(abort-on-property-write.js, _pop)
+speedvid.net##+js(setInterval-defuser.js, (), 500)
+speedvid.net##+js(window.open-defuser.js)
+speedvid.net#%#AG_abortOnPropertyRead('AaDetector');
 speedvid.net#%#AG_abortOnPropertyWrite('_pop');
 speedvid.net#%#window.open=function(){};
-speedvid.net##+js(window.open-defuser.js)
-speedvid.net##+js(setInterval-defuser.js, (), 500)
 
+@@||itpro.co.uk^$generichide
 itpro.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
 itpro.co.uk#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
-@@||itpro.co.uk^$generichide
 
 gallerix.ru##+js(abort-current-inline-script.js, jQuery, adbk)
 gallerix.ru#%#AG_defineProperty('jQuery.adbk', {value: false});
 
+@@||digitaltrends.com^$generichide
 digitaltrends.com##+js(abort-current-inline-script.js, setTimeout, googlefcPresent)
 digitaltrends.com#%#AG_abortInlineScript(/googlefcPresent/, 'setTimeout');
-@@||digitaltrends.com^$generichide
 
 eurogamer.*##+js(abort-on-property-read.js, _sp_._networkListenerData)
 eurogamer.*#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
@@ -557,9 +558,9 @@ eurogamer.*#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 windowscentral.com##.swal-modal, .swal-overlay
 
+macwelt.de##+js(abort-current-inline-script.js, idgStorage)
 macwelt.de##.standard.marketplace:has-text(-Anzeige-)
 macwelt.de#%#AG_abortInlineScript('idgStorage');
-macwelt.de##+js(abort-current-inline-script.js, idgStorage)
 
 wfaa.com##+js(abort-on-property-read.js, stop)
 wfaa.com#%#AG_abortOnPropertyRead('stop');
@@ -580,8 +581,8 @@ ridble.com##.adisclaimer
 @@*/advertising.js$script,domain=rockstargame.su
 
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
-filmweb.pl#%#AG_abortInlineScript(/newAdblockBoardDisplayed/, 'decodeURIComponent');
 filmweb.pl##+js(abort-on-property-write.js, sas)
+filmweb.pl#%#AG_abortInlineScript(/newAdblockBoardDisplayed/, 'decodeURIComponent');
 filmweb.pl#%#AG_abortOnPropertyWrite('sas');
 
 gamesradar.com##+js(abort-on-property-write.js, _sp_)
@@ -593,18 +594,18 @@ besplatka.ua#%#AG_abortOnPropertyWrite('window.adBlock');
 thefutureweb.ru##+js(abort-on-property-read.js, anOptions)
 thefutureweb.ru#%#AG_abortOnPropertyRead('anOptions');
 
+@@||ottawacitizen.com^$generichide
 ottawacitizen.com##+js(abort-on-property-read.js, stop)
 ottawacitizen.com#%#AG_abortOnPropertyRead('stop');
-@@||ottawacitizen.com^$generichide
 
-rockpapershotgun.com##+js(abort-on-property-write.js, yafaIt)
 rockpapershotgun.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
-rockpapershotgun.com#%#AG_abortOnPropertyWrite('yafaIt');
+rockpapershotgun.com##+js(abort-on-property-write.js, yafaIt)
 rockpapershotgun.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
+rockpapershotgun.com#%#AG_abortOnPropertyWrite('yafaIt');
 
 wishes2.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-wishes2.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 wishes2.com##.adsbygoogle
+wishes2.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 kinoprofi.vip##+js(abort-on-property-write.js, window.adBlock)
 kinoprofi.vip#%#AG_abortOnPropertyWrite('window.adBlock');
@@ -613,9 +614,9 @@ kinoprofi.vip#%#AG_abortOnPropertyWrite('window.adBlock');
 autoexpress.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
 autoexpress.co.uk#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
+@@||gsmturkey.net^$generichide
 gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
 gsmturkey.net#%#AG_abortInlineScript('fuckAdBlock', 'importFAB');
-@@||gsmturkey.net^$generichide
 
 @@||dekhvhai.com^$generichide
 
@@ -629,98 +630,98 @@ techquila.co.in#%#AG_abortOnPropertyRead('anOptions');
 
 @@||forbes.pl^$generichide
 
-@@||noz.de^$generichide
 @@*/ads.js$script,domain=noz.de
+@@||noz.de^$generichide
 
-tajemnice-swiata.pl##+js(fuckadblock.js-3.2.0)
 @@||tajemnice-swiata.pl^$generichide
+tajemnice-swiata.pl##+js(fuckadblock.js-3.2.0)
 tajemnice-swiata.pl#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
 
 click2url.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-click2url.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 click2url.*##.adsbygoogle
+click2url.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-pipocas.tv##+js(bab-defuser.js)
 @@||pipocas.tv^$generichide
+pipocas.tv##+js(bab-defuser.js)
 pipocas.tv#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
 @@||shrtfly.com^$generichide
-shrtfly.*##+js(abort-on-property-read.js, open)
 shrtfly.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-shrtfly.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+shrtfly.*##+js(abort-on-property-read.js, open)
 shrtfly.*##.adsbygoogle
+shrtfly.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 shrtfly.*#%#AG_abortOnPropertyRead('open');
 
-socientifica.com.br##+js(bab-defuser.js)
 @@||socientifica.com.br^$generichide
+socientifica.com.br##+js(bab-defuser.js)
 socientifica.com.br#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
+@@||dok-film.net^$generichide
 dok-film.net##+js(abort-on-property-read.js, adBlockDetected)
 dok-film.net#%#AG_abortOnPropertyRead('adBlockDetected');
-@@||dok-film.net^$generichide
 
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
 
 @@*/js/ads.js$script,domain=minecraft-schematics.com
 
-vinaurl.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-vinaurl.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
-vinaurl.net##.adsbygoogle
 @@||vinaurl.net^$generichide
+vinaurl.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+vinaurl.net##.adsbygoogle
+vinaurl.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 tinylink.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-tinylink.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 tinylink.*##.adsbygoogle
+tinylink.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@*/js/advertisement.js$script,domain=uploadbox.io
-uploadbox.io#%#AG_abortOnPropertyRead('replaceContentWithAdBlockerContent');
 uploadbox.io##+js(abort-on-property-read.js, replaceContentWithAdBlockerContent)
+uploadbox.io#%#AG_abortOnPropertyRead('replaceContentWithAdBlockerContent');
 
-watchtheoffice.online##+js(bab-defuser.js)
-watchtheoffice.online#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 @@||watchtheoffice.online^$generichide
 watchtheoffice.online##+js(abort-on-property-write.js, _pop)
+watchtheoffice.online##+js(bab-defuser.js)
+watchtheoffice.online#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 watchtheoffice.online#%#AG_abortOnPropertyWrite('_pop');
 
-avgle.com##+js(abort-on-property-read.js, ExoLoader.serve)
-avgle.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
-avgle.com##+js(abort-on-property-read.js, AaDetector)
-avgle.com#%#AG_abortOnPropertyRead('AaDetector');
-avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
-avgle.com#%#AG_setConstant('showBlockIf', 'noopFunc')
-avgle.com##center > div > a[target="_blank"]
 *$third-party,popup,domain=avgle.com
+avgle.com##+js(abort-on-property-read.js, AaDetector)
+avgle.com##+js(abort-on-property-read.js, ExoLoader.serve)
+avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
+avgle.com##center > div > a[target="_blank"]
+avgle.com#%#AG_abortOnPropertyRead('AaDetector');
+avgle.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
+avgle.com#%#AG_setConstant('showBlockIf', 'noopFunc')
 
 @@||itavisen.no^$generichide
 itavisen.no##+js(abort-on-property-write.js, adBlockDetected)
 itavisen.no#%#AG_abortOnPropertyWrite('adBlockDetected');
 
-qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
 @@||qaru.site^$generichide
+qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
 qaru.site#%#AG_setConstant('adBlockDetected', 'noopFunc');
 
+@@||rangdhanu.live^$generichide
 rangdhanu.live##+js(bab-defuser.js)
 rangdhanu.live#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
-@@||rangdhanu.live^$generichide
 
-||mvunstblutptj.com^$important
 anitube.cz##+js(abort-on-property-write.js, _pop)
 anitube.cz#%#AG_abortOnPropertyWrite('_pop');
+||mvunstblutptj.com^$important
 
 kpscthulasilogin.info##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-kpscthulasilogin.info#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 kpscthulasilogin.info##.adsbygoogle
+kpscthulasilogin.info#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 partqb2i.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-partqb2i.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 partqb2i.com##.adsbygoogle
+partqb2i.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||catchsms.com^$generichide
 
 @@||imageoptimizer.*^$generichide
 imageoptimizer.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-imageoptimizer.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 imageoptimizer.*##.adsbygoogle
+imageoptimizer.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||wehellas.gr^$generichide
 
@@ -730,255 +731,256 @@ linkberuang.*#%#AG_defineProperty('safelink.adblock',{value:false});
 diariodenavarra.es##+js(set-constant.js, Math.random, trueFunc)
 diariodenavarra.es#%#AG_setConstant('Math.random', 'trueFunc');
 
-@@||extremereportbot.com^$generichide
-@@||extremereportbot.com/ads.js^$script,domain=extremereportbot.com
 @@||extremereportbot.com/adframe.js^$script,domain=extremereportbot.com
+@@||extremereportbot.com/ads.js^$script,domain=extremereportbot.com
+@@||extremereportbot.com^$generichide
 
 @@||wurstclient.net^$generichide
 
-||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
-userscloud.com##+js(abort-current-inline-script.js, Math, zfgloaded)
-userscloud.com#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
-userscloud.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-userscloud.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-*$third-party,xmlhttprequest,domain=userscloud.com
 *$popup,domain=userscloud.com
+*$third-party,xmlhttprequest,domain=userscloud.com
 @@||userscloud.com^$generichide
+userscloud.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+userscloud.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 userscloud.com##+js(abort-on-property-write.js, open)
-userscloud.com#%#AG_abortOnPropertyWrite('open');
+userscloud.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 userscloud.com#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'Math');
+userscloud.com#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
+userscloud.com#%#AG_abortOnPropertyWrite('open');
+||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
 
 ocen-piwo.pl###osiemnascielat
 
-clik.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 @@||clik.*^$generichide
-clik.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
-clik.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
-clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
 clik.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 clik.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*##+js(bab-defuser.js)
+clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*##.adsbygoogle
+clik.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
+clik.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
+clik.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
 
 ft.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 ft.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 baramjdown.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-baramjdown.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 baramjdown.com##.adsbygoogle
+baramjdown.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 tiny.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-tiny.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 tiny.*##.adsbygoogle
+tiny.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-sk-ip.ru##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||sk-ip.ru^$generichide
-sk-ip.ru#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+sk-ip.ru##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 sk-ip.ru##.adsbygoogle
+sk-ip.ru#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-urlsamo.com##+js(abort-on-property-read.js, open)
 urlsamo.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+urlsamo.com##+js(abort-on-property-read.js, open)
 urlsamo.com##.adsbygoogle
 urlsamo.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 urlsamo.com#%#AG_abortOnPropertyRead('open');
 
 ourmagnet.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-ourmagnet.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 ourmagnet.*##.adsbygoogle
+ourmagnet.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 techjad.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-techjad.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 techjad.com##.adsbygoogle
+techjad.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
-convert2mp3.net##+js(abort-on-property-read.js, zfgloadedpopup)
-convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
-convert2mp3.net#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
-convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-convert2mp3.net#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-||convert2mp3.net/assets/js/push.js^$script,important,domain=convert2mp3.net
 convert2mp3.net##+js(abort-current-inline-script.js, RegExp, zfgload)
-convert2mp3.net#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
+convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net##+js(abort-on-property-read.js, g133.c3)
+convert2mp3.net##+js(abort-on-property-read.js, zfgloadedpopup)
+convert2mp3.net#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+convert2mp3.net#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
+convert2mp3.net#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
+convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
 convert2mp3.net#%#AG_abortOnPropertyRead('g133.c3');
+||convert2mp3.net/assets/js/push.js^$script,important,domain=convert2mp3.net
 
-dutchycorp.space##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||dutchycorp.space^$generichide
-dutchycorp.space#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
+dutchycorp.space##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 dutchycorp.space##+js(fuckadblock.js-3.2.0)
-dutchycorp.space#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 dutchycorp.space##.adsbygoogle
+dutchycorp.space#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
+dutchycorp.space#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 click2see.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-click2see.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 click2see.*##+js(addEventListener-defuser.js, click, trigger)
 click2see.*##.adsbygoogle
+click2see.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+@@||payco.*^$generichide
+payco.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*##+js(abort-on-property-read.js, AaDetector)
 payco.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-payco.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 payco.*##+js(abort-on-property-write.js, _pop)
 payco.*##+js(bab-defuser.js)
 payco.*##+js(nano-setInterval-booster.js)
-payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();payco.*#%#window.open=function(){};
 payco.*#%#AG_onLoad(function(){setTimeout(function(){var el=document.querySelector('form[action$="/links/popad"]');if(el)el.remove()},300)});
-@@||payco.*^$generichide
 
 cut7link.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-cut7link.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 cut7link.*##.adsbygoogle
+cut7link.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+*/blockadblock-$script,redirect=fuckadblock.js-3.2.0
+*/blockadblock.$script,redirect=fuckadblock.js-3.2.0
 */fuckadblock-$script,redirect=fuckadblock.js-3.2.0
 */fuckadblock.$script,redirect=fuckadblock.js-3.2.0
-*/blockadblock.$script,redirect=fuckadblock.js-3.2.0
-*/blockadblock-$script,redirect=fuckadblock.js-3.2.0
 
 tl.tc##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-tl.tc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 tl.tc##.adsbygoogle
+tl.tc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||satoshilabs.net^$generichide
 satoshilabs.net##+js(bab-defuser.js)
+satoshilabs.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();payco.*#%#window.open=function(){};
 
 @@||msueagles.com^$generichide
 
 autocentrum.pl##+js(set-constant.js, adblockJsFile, true)
 autocentrum.pl#%#AG_setConstant('adblockJsFile', 'true');
 
-gamehunt.net##+js(set-constant.js, adblock, false)
+@@||gamehunt.net^$generichide
 gamehunt.net##+js(abort-on-property-write.js, adBlockDetected)
+gamehunt.net##+js(set-constant.js, adblock, false)
 gamehunt.net#%#AG_setConstant('adBlockDetected', 'noopFunc');
 gamehunt.net#%#AG_setConstant('adblock', 'false');
-@@||gamehunt.net^$generichide
 
 gfycat.com##+js(set-constant.js, setInterval, noopFunc)
 gfycat.com#%#AG_setConstant('setInterval', 'noopFunc');
 
-@@*/adblock-detector/advertisement-*.js$domain=geekspin.co
+@@*/adblock-detector/advertisement-*.js$domain=geekspin.co,script
 
 @@||publico.pt^$generichide
 
+@@||synonymbog.com^$generichide
 synonymbog.com##+js(abort-on-property-write.js, adBlockDetected)
 synonymbog.com#%#AG_abortOnPropertyWrite('adBlockDetected');
-@@||synonymbog.com^$generichide
 
 @@||farmeramania.de^$generichide
 
+@@||programinadresi.com^$generichide
 programinadresi.com##+js(abort-on-property-read.js, adBlock)
 programinadresi.com#%#AG_abortOnPropertyRead('adBlock');
-@@||programinadresi.com^$generichide
 
+@@||freemcserver.net/js/*$script,domain=freemcserver.net
 freemcserver.net##+js(bab-defuser.js)
 freemcserver.net##+js(setTimeout-defuser.js, adblock)
 freemcserver.net##.adsbygoogle
 freemcserver.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
-@@||freemcserver.net/js/*$script
 
 keepvid.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 keepvid.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
-xiaomifans.pl##+js(setTimeout-defuser.js, test, 100)
 @@||xiaomifans.pl^$generichide
+xiaomifans.pl##+js(setTimeout-defuser.js, test, 100)
 xiaomifans.pl#@#.adsbygoogle
 
-stiffvip.com##+js(nowebrtc.js)
+@@||stiffvip.com/js/ads.js^$script
 stiffvip.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 stiffvip.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-@@||stiffvip.com/js/ads.js^$script
-stiffvip.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+stiffvip.com##+js(nowebrtc.js)
 stiffvip.com##.adsbygoogle
+stiffvip.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
 ||mangovideo.pw/player/html.php?aid=*_html&video_id=*&*&referer$important
 
 @@||startseite.to^$generichide
 
+@@||myvidster.com^$generichide
 myvidster.com##+js(abort-on-property-read.js, adblockDetector)
 myvidster.com#%#AG_abortOnPropertyRead('adblockDetector');
-@@||myvidster.com^$generichide
 
-inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
 @@||inmanga.com^$generichide
+inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
 
-arcadepunks.com##+js(abort-on-property-write.js, KillAdBlock)
 @@||arcadepunks.com^$generichide
+arcadepunks.com##+js(abort-on-property-write.js, KillAdBlock)
 
-@@*/advertisement.js$domain=alghad.com
+@@*/advertisement.js$domain=alghad.com,script
 @@||alghad.com^$generichide
 alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
 
 @@||arenavision.*^$generichide
-arenavision.*##+js(bab-defuser.js)
 arenavision.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+arenavision.*##+js(bab-defuser.js)
 arenavision.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 
+*/pup.php?$script,important
 @@||slink.bid^$generichide
 slink.bid##+js(popads-dummy.js)
-||o-oo.ooo^$important
 ||goraps.com^$third-party
-*/pup.php?$script,important
+||o-oo.ooo^$important
 
-abouttech.*,bloggingdekh.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-abouttech.*,bloggingdekh.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||abouttech.*^$generichide
 @@||bloggingdekh.*^$generichide
-abouttech.*,bloggingdekh.*##.adsbygoogle
+abouttech.*,bloggingdekh.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 abouttech.*,bloggingdekh.*##+js(bab-defuser.js)
+abouttech.*,bloggingdekh.*##.adsbygoogle
 abouttech.*,bloggingdekh.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
+abouttech.*,bloggingdekh.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
 agargold.*#%#AG_abortInlineScript('block', 'document.getElementById');
 
-crisanimex.com#%#AG_abortOnPropertyWrite('_pop');
 crisanimex.com##+js(abort-on-property-write.js, _pop)
+crisanimex.com#%#AG_abortOnPropertyWrite('_pop');
 
 savido.net##+js(abort-on-property-read.js, AaDetector)
+savido.net##+js(abort-on-property-write.js, _pop)
 savido.net#%#AG_abortOnPropertyRead('AaDetector');
 savido.net#%#AG_abortOnPropertyWrite('_pop');
-savido.net##+js(abort-on-property-write.js, _pop)
 
+*$frame,domain=bit-url.com
 @@||bit-url.com^$generichide
+bit-url.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 bit-url.com##+js(abort-on-property-read.js, open)
 bit-url.com##+js(noeval.js)
 bit-url.com##+js(set-constant.js, absda, noopFunc)
-*$frame,domain=bit-url.com
-bit-url.com##.banner
-||nativesubscribe.pro^$third-party
-bit-url.com#%#AG_abortOnPropertyRead('open');
-bit-url.com#%#AG_setConstant('absda', 'noopFunc');
-bit-url.com#%#AG_abortOnPropertyWrite('_pop');
-bit-url.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 bit-url.com##.adsbygoogle
-bit-url.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+bit-url.com##.banner
+bit-url.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+bit-url.com#%#AG_abortOnPropertyRead('open');
+bit-url.com#%#AG_abortOnPropertyWrite('_pop');
+bit-url.com#%#AG_setConstant('absda', 'noopFunc');
+||nativesubscribe.pro^$third-party
 
+@@||linkrag.com^$generichide
 linkrag.com##+js(abort-current-inline-script.js, RegExp, zfgload)
 linkrag.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 linkrag.com##+js(abort-on-property-read.js, open)
 linkrag.com##+js(window.open-defuser.js)
-@@||linkrag.com^$generichide
-linkrag.com#%#AG_abortOnPropertyRead('open');
 linkrag.com##.adsbygoogle
 linkrag.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+linkrag.com#%#AG_abortOnPropertyRead('open');
 
 canalesportivo.*##+js(abort-on-property-write.js, _pop)
-canalesportivo.*#%#AG_abortOnPropertyWrite('_pop')
+canalesportivo.*#%#AG_abortOnPropertyWrite('_pop');
 
+@@||doctorrouter.ru^$generichide
 doctorrouter.ru##+js(abort-on-property-write.js, adBlockDetected)
 doctorrouter.ru#%#AG_abortOnPropertyWrite('adBlockDetected');
-@@||doctorrouter.ru^$generichide
 
 @@||readonepunchman.net^$generichide
 
 @@||ausbt.com.au^$generichide
 
-||huawei.mobzon.ru/adbp/adbp.js$domain=mobzon.ru
-||d1swblsd1itapx.cloudfront.net$domain=mobzon.ru
 ||adrelayer.com^$important
+||d1swblsd1itapx.cloudfront.net$domain=mobzon.ru
+||huawei.mobzon.ru/adbp/adbp.js$domain=mobzon.ru
 
-colorspire.com##+js(bab-defuser.js)
 @@||colorspire.com^$generichide
+colorspire.com##+js(bab-defuser.js)
 colorspire.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 
 @@||iphonetweak.fr^$generichide
@@ -989,17 +991,17 @@ iphonetweak.fr#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 @@||architetturaecosostenibile.it^$generichide
 
-dunyanews.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||dunyanews.*^$generichide
 dunyanews.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 dunyanews.*##.adsbygoogle
+dunyanews.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 go.bucketforms.com##+js(abort-current-inline-script.js, $, adblocker)
 go.bucketforms.com#%#AG_abortInlineScript('adblocker', '$');
 
 intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
-||intporn.org/js/chaturbate.js$script
 intporn.org#%#AG_abortOnPropertyRead('jsm_reruntime');
+||intporn.org/js/chaturbate.js$script
 
 televall.*##+js(addEventListener-defuser.js, load, onload)
 televall.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
@@ -1007,17 +1009,17 @@ televall.*##+js(set-constant.js, jQuery.adblock, false)
 televall.*#%#AG_setConstant('jQuery.adblock', 'false');
 @@||televall.*^$generichide
 
-@@||topsport.bg^$generichide
 @@||news.bg^$generichide
+@@||topsport.bg^$generichide
 topsport.bg,news.bg##+js(abort-on-property-read.js, isAdBlockActive)
 topsport.bg,news.bg#%#var isAdBlockActive = false;
 
-@@||politiken.dk/ad-server.js$script
+@@||politiken.dk/ad-server.js$script,domain=politiken.dk
 @@||politiken.dk^$generichide
 
-haaretz.com#%#Object.defineProperty(window,'AdBlockUtil',{get:function(){return}});
+@@*/js/advertisement.js^$script,domain=haaretz.com
 haaretz.com##+js(abort-current-inline-script.js, AdBlockUtil)
-@@||haaretz.com/htz/js/advertisement.js^$script
+haaretz.com#%#Object.defineProperty(window,'AdBlockUtil',{get:function(){return}});
 
 @@||titulky.com^$generichide
 
@@ -1026,11 +1028,11 @@ prevention.com#%#AG_abortOnPropertyRead('adBlockPromise');
 
 @@||ratemyprofessors.com/assets/libs/oas.js^$script
 
+@@*/advert.js^$script,domain=hopto.org
 hopto.org##+js(abort-current-inline-script.js, document.getElementById, undefined)
-@@||hopto.org/*/advert.js^$script
 
-||pagead2.googlesyndication.com/$script,redirect=noopjs,domain=gidoroom.ru
 ||pagead2.googlesyndication.com/$script,empty,domain=gidoroom.ru
+||pagead2.googlesyndication.com/$script,redirect=noopjs,domain=gidoroom.ru
 
 masker-lab.com.tw##+js(bab-defuser.js)
 masker-lab.com.tw#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
@@ -1041,12 +1043,12 @@ bibliacatolica.com.br##+js(abort-on-property-read.js, getSelection)
 bibliacatolica.com.br#%#AG_abortOnPropertyRead('getSelection');
 
 utimetableresult.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-utimetableresult.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 utimetableresult.*##+js(abort-on-property-write.js, adBlockDetected)
-utimetableresult.*#%#AG_abortOnPropertyWrite('adBlockDetected');
+utimetableresult.*##+js(fuckadblock.js-3.2.0)
 utimetableresult.*##.adsbygoogle
 utimetableresult.*#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
-utimetableresult.*##+js(fuckadblock.js-3.2.0)
+utimetableresult.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+utimetableresult.*#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 @@||animefever.tv^$generichide
 
@@ -1056,22 +1058,22 @@ utimetableresult.*##+js(fuckadblock.js-3.2.0)
 bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
 bidouillesikea.com#%#AG_abortOnPropertyRead('adbackDebug');
 
-ftuforum.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 ftuforum.com##+js(bab-defuser.js)
+ftuforum.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-pleximum.com##+js(setTimeout-defuser.js, kill_adBlock_message)
 pleximum.com##+js(abort-on-property-write.js, adBlockDetected)
 pleximum.com##+js(bab-defuser.js)
-pleximum.com#%#AG_abortOnPropertyWrite('adBlockDetected');
+pleximum.com##+js(setTimeout-defuser.js, kill_adBlock_message)
 pleximum.com#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}})();
+pleximum.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 twojogrodek.pl#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
 
 limetorrent.info##+js(abort-on-property-write.js, adBlockDetected)
 limetorrent.info#%#AG_abortOnPropertyWrite('adBlockDetected');
 
-beforeitsnews.com###ad-message
 @@||beforeitsnews.com^$generichide
+beforeitsnews.com###ad-message
 
 eldaryasolutiongame.blogspot.com##^script:has-text(divAdBox)
 
@@ -1081,8 +1083,8 @@ tutoriaux-excalibur.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elemen
 @@||htmlweb.ru^$generichide
 
 flyurls.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-flyurls.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 flyurls.com##.adsbygoogle
+flyurls.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 lavoixdux.com##+js(set-constant.js, is_adblocked, false)
 lavoixdux.com#%#AG_setConstant('is_adblocked', 'false');
@@ -1091,10 +1093,10 @@ apteka.ua#@#.adsbygoogle
 
 ||getlec.blogspot.com^$inline-script,first-party
 
-ver-pelis.*##+js(window.open-defuser.js)
 ver-pelis.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-||ver-pelis.net^$third-party
+ver-pelis.*##+js(window.open-defuser.js)
 ver-pelis.*#%#window.open=function(){};
+||ver-pelis.net^$third-party
 
 @@||elpais.com^$generichide
 
@@ -1104,38 +1106,38 @@ ver-pelis.*#%#window.open=function(){};
 berryboot.alexgoldcheidt.com##+js(abort-on-property-write.js, KillAdBlock)
 berryboot.alexgoldcheidt.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
+@@||bostonherald.com^$generichide
 bostonherald.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 bostonherald.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
-@@||bostonherald.com^$generichide
 
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl
 
 ojomovies.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+ojomovies.com##+js(abort-on-property-write.js, Fingerprint2)
 ojomovies.com##+js(popads-dummy.js)
 ojomovies.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-ojomovies.com##+js(abort-on-property-write.js, Fingerprint2)
 ojomovies.com#%#Object.defineProperties(window,{admvpu:{get:function(){},set:function(a){if("function"==typeof a)throw Error();}},Fingerprint2:{get:function(){},set:function(){throw Error();}}});
 
 tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.text-ad-links.text-ads.textAd.text_ad.text_ads{display:block!important;}
 
-tv-onlinehd.com##+js(addEventListener-defuser.js, load, onload)
-tv-onlinehd.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
-tv-onlinehd.com##+js(window.open-defuser.js)
 @@||tv-onlinehd.com^$generichide
+tv-onlinehd.com##+js(addEventListener-defuser.js, load, onload)
+tv-onlinehd.com##+js(window.open-defuser.js)
+tv-onlinehd.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 tv-onlinehd.com#%#window.open=function(){};
 
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=priluki.bankomap.com.ua
 @@||bankomap.com.ua^$generichide
 
-||googletagmanager.com/gtag/$script,redirect=noopjs,domain=di.fm,important
-||googletagservices.com/tag/js/gpt.js$script,redirect=noopjs,domain=di.fm,important
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=nooptext,important
 ||googletagmanager.com/gtag/$script,empty,domain=di.fm,important
+||googletagmanager.com/gtag/$script,redirect=noopjs,domain=di.fm,important
 ||googletagservices.com/tag/js/gpt.js$script,empty,domain=di.fm,important
+||googletagservices.com/tag/js/gpt.js$script,redirect=noopjs,domain=di.fm,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,empty,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=nooptext,important
 
-jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
+jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 
 @@||darmowa-telewizja.online^$generichide
 darmowa-telewizja.online##+js(abort-current-inline-script.js, RegExp, zfgloaded)
@@ -1151,7 +1153,7 @@ twojetv.ws#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
 express.de###wl-overlay-wrapper
 
-@@||clksite.com/static/advertisement.js$script
+@@||clksite.com/static/advertisement.js$script,domain=clksite.com
 
 professionaltutorial.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
@@ -1174,9 +1176,9 @@ oeffentlicher-dienst.info#%#AG_setConstant('testerli', 'false');
 
 @@||javhay.net^$generichide
 
+@@||tucson.com^$generichide
 tucson.com##+js(abort-on-property-read.js, stop)
 tucson.com#%#AG_abortOnPropertyRead('stop');
-@@||tucson.com^$generichide
 
 @@||frendz4m.com^$generichide
 frendz4m.com##+js(bab-defuser.js)
@@ -1185,7 +1187,7 @@ frendz4m.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 @@||topserialy.*/js/googlead.js$script
 @@||topserialy.*^$generichide
 
-@@||version2.dk/ads.js$script
+@@||version2.dk/ads.js$script,domain=version2.dk
 
 @@||usapoliticstoday.com^$generichide
 
@@ -1196,48 +1198,48 @@ frendz4m.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 
 @@||jpopsingles.*^$generichide
 
-@@||uploadocean.com^$generichide
 *$webrtc,domain=uploadocean.com
+@@||uploadocean.com^$generichide
 
 @@||urlex.org^$generichide
 
 @@||forums.overclockers.ru/ads/advert.js$script
 
-javadecompilers.com##+js(bab-defuser.js)
 @@||javadecompilers.com^$generichide
+javadecompilers.com##+js(bab-defuser.js)
 javadecompilers.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 
 javaguides.net#@#.vertical-ads
 
 @@||elcorreo.com^$generichide
 
-*/googima.js$script,redirect=noopjs,important
 */googima.js$script,empty,important
+*/googima.js$script,redirect=noopjs,important
 
 @@||lavozdealmeria.es^$generichide
 
-fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
-fox.com.tr#%#AG_setConstant('adblockDetector', 'trueFunc');
 @@*/adblockdetectorwithga.js$domain=fox.com.tr
 @@||fox.com.tr^$generichide
+fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
+fox.com.tr#%#AG_setConstant('adblockDetector', 'trueFunc');
 
 @@||booksmedicos.org^$generichide
 
 @@||rule34hentai.net^$generichide
 rule34hentai.net##+js(bab-defuser.js)
 rule34hentai.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
-||rule34hentai.net^$script,~third-party
 |https://$script,third-party,xmlhttprequest,domain=rule34hentai.net
+||rule34hentai.net^$script,~third-party
 ||trafficsan.com^$important
 
 samo-tech.com#@##Adrectangle
 samo-tech.com#@##PageLeaderAd
 samo-tech.com#@##ad-column
+samo-tech.com#@##adsense
 samo-tech.com#@##advertising2
 samo-tech.com#@##divAdBox
 samo-tech.com#@##mochila-column-right-ad-300x250-1
 samo-tech.com#@##searchAdSenseBox
-samo-tech.com#@##adsense
 
 @@*/ads-*.js$script,domain=duellinksmeta.com
 @@*/adsbygoogle.js$script,domain=duellinksmeta.com
@@ -1248,39 +1250,37 @@ samo-tech.com#@##adsense
 dtgaming.*##+js(bab-defuser.js)
 dtgaming.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 
+@@||bmwfaq.org^$generichide
 bmwfaq.org##+js(abort-on-property-write.js, AdBlockDetectorWorkaround)
 bmwfaq.org#%#AG_abortOnPropertyWrite('AdBlockDetectorWorkaround');
-@@||bmwfaq.org^$generichide
 
 @@||daily-sale.*^$generichide
-daily-sale.*##+js(bab-defuser.js)
 daily-sale.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+daily-sale.*##+js(bab-defuser.js)
+daily-sale.*##.adsbygoogle
 daily-sale.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 daily-sale.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
-daily-sale.*##.adsbygoogle
 
 zwergenstadt.com#@##adInteractive4
 zwergenstadt.com#@##ad_728x90_container
+zwergenstadt.com#@##adsense
 zwergenstadt.com#@##adv-300
 zwergenstadt.com#@##lower_ad
 zwergenstadt.com#@##ns_ad2
 zwergenstadt.com#@##rh_tower_ad
 zwergenstadt.com#@##topadzone
-zwergenstadt.com#@##adsense
 
-@@||i.imedia.cz/js/im3.js
-
+2giga.link##+js(setTimeout-defuser.js, (), 1900)
 ||toponclick.com^$important
 ||witalfieldt.com^$important
-2giga.link##+js(setTimeout-defuser.js, (), 1900)
 
 @@||zahipedia.net^$generichide
 
 @@||2d-gate.org^$generichide
 
+@@||eveningtimes.co.uk^$generichide
 eveningtimes.co.uk##+js(abort-on-property-write.js, _sp_)
 eveningtimes.co.uk#%#AG_abortOnPropertyWrite('_sp_');
-@@||eveningtimes.co.uk^$generichide
 
 @@||uvnc.com^$generichide
 
@@ -1288,14 +1288,14 @@ eveningtimes.co.uk#%#AG_abortOnPropertyWrite('_sp_');
 warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
 warringtonguardian.co.uk#%#AG_abortOnPropertyWrite('_sp_');
 
-gsmarena.com##+js(abort-on-property-write.js, adonisHash)
 *$webrtc,domain=gsmarena.com
 @@||gsmarena.com^$generichide
+gsmarena.com##+js(abort-on-property-write.js, adonisHash)
 
-|http://$third-party,script,domain=linkdrop.net
-linkdrop.net##+js(bab-defuser.js)
 @@||linkdrop.net^$generichide
+linkdrop.net##+js(bab-defuser.js)
 linkdrop.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
+|http://$third-party,script,domain=linkdrop.net
 
 @@||thegeekyglobe.com^$generichide
 
@@ -1303,15 +1303,15 @@ linkdrop.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 
 @@||dragonballtime.net^$generichide
 
-mako.co.il##+js(abort-on-property-write.js, upManager)
 @@||mako.co.il^$generichide
+mako.co.il##+js(abort-on-property-write.js, upManager)
 
 nohat.cc##+js(set-constant.js, adblock, 1)
 nohat.cc#%#var adblock = 1;
 
-phys-kids.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-@@||phys-kids.com^$generichide
 @@*/blockadblock.js$domain=phys-kids.com
+@@||phys-kids.com^$generichide
+phys-kids.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 memoryhackers.org##+js(abort-on-property-write.js, adBlockDetected)
 memoryhackers.org#%#AG_abortOnPropertyWrite('adBlockDetected');
@@ -1322,11 +1322,11 @@ netdoktor.de#%#AG_abortOnPropertyWrite('_sp_');
 
 suarankri.me#@##AdvHeader
 suarankri.me#@##ad_skyscraper_text
+suarankri.me#@##adsense
 suarankri.me#@##common_right_lower_ad_wrapper
 suarankri.me#@##componentAdRectangle
 suarankri.me#@##header_publicidad
 suarankri.me#@##righttop-adverts-container
-suarankri.me#@##adsense
 
 @@||animedao29.stream^$generichide
 
@@ -1336,20 +1336,20 @@ suarankri.me#@##adsense
 govtsmartjob.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 govtsmartjob.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-gutekueche.at##+js(set-constant.js, gkAdsWerbung, true)
 @@||gutekueche.at^$generichide
+gutekueche.at##+js(set-constant.js, gkAdsWerbung, true)
 gutekueche.at#%#AG_setConstant('gkAdsWerbung', 'true');
 
+@@||blogspot.com^$generichide
 pokexgames-tutoriais.*##+js(bab-defuser.js)
 pokexgames-tutoriais.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
-@@||blogspot.com^$generichide
 
-@@||ynet.co.il^*/ads.js
+@@||ynet.co.il/*/ads.js$script,domain=ynet.co.il
 
 @@||teqniaplus.com^$generichide
 teqniaplus.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-teqniaplus.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 teqniaplus.com##.adsbygoogle
+teqniaplus.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||australianfrequentflyer.com.au/community/js/siropu/am/ads.min.js$script
 @@||australianfrequentflyer.com.au^$generichide
@@ -1357,23 +1357,23 @@ teqniaplus.com##.adsbygoogle
 @@||www.motortrendondemand.com/advertisements-ad-unit/*$xmlhttprequest,domain=www.motortrendondemand.com
 
 @@||odkrywamyzakryte.com^$generichide
-odkrywamyzakryte.com#%#AG_abortOnPropertyRead('adBlockDetected');
 odkrywamyzakryte.com##+js(abort-on-property-read.js, adBlockDetected)
+odkrywamyzakryte.com#%#AG_abortOnPropertyRead('adBlockDetected');
 
-software-on.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 @@||software-on.com^$generichide
 software-on.com##+js(bab-defuser.js)
 software-on.com##+js(window.open-defuser.js)
+software-on.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 software-on.com#%#window.open=function(){};
 
-@@||reactiongaming.us/*/ads.min.js$script
+@@||reactiongaming.us/*/ads.min.js$script,domain=reactiongaming.us
 
-@@||swatchseries.to/templates/default/js/advertising.js$script
+@@||swatchseries.to/templates/default/js/advertising.js$script,domain=swatchseries.to
 
 animeshouse.net#@#.afs_ads
 
-huynhhieu.com#%#(function() { var noopfn = function() {;}; var Fab = function() {}; Fab.prototype.check = noopfn; Fab.prototype.clearEvent = noopfn;  Fab.prototype.emitEvent = noopfn; Fab.prototype.on = function(a, b) { if ( !a ) { b(); } return this; }; Fab.prototype.onDetected = function() {  return this; }; Fab.prototype.onNotDetected = function(a) { a(); return this; }; Fab.prototype.setOption = noopfn; var fab = new Fab(),  getSetFab = { get: function() { return Fab; }, set: function() {} }, getsetfab = { get: function() { return fab; }, set: function() {} }; if ( window.hasOwnProperty('FuckAdBlock') ) { window.FuckAdBlock = Fab; } else { Object.defineProperty(window, 'FuckAdBlock', getSetFab); } if ( window.hasOwnProperty('BlockAdBlock') ) { window.BlockAdBlock = Fab; } else {Object.defineProperty(window, 'BlockAdBlock', getSetFab); } if ( window.hasOwnProperty('SniffAdBlock') ) { window.SniffAdBlock = Fab; } else { Object.defineProperty(window, 'SniffAdBlock', getSetFab); } if ( window.hasOwnProperty('fuckAdBlock') ) { window.fuckAdBlock = fab; } else { Object.defineProperty(window, 'fuckAdBlock', getsetfab); } if ( window.hasOwnProperty('blockAdBlock') ) { window.blockAdBlock = fab; } else { Object.defineProperty(window, 'blockAdBlock', getsetfab); } if ( window.hasOwnProperty('sniffAdBlock') ) { window.sniffAdBlock = fab; } else { Object.defineProperty(window, 'sniffAdBlock', getsetfab); } })();
 huynhhieu.com##+js(fuckadblock.js-3.2.0)
+huynhhieu.com#%#(function() { var noopfn = function() {;}; var Fab = function() {}; Fab.prototype.check = noopfn; Fab.prototype.clearEvent = noopfn;  Fab.prototype.emitEvent = noopfn; Fab.prototype.on = function(a, b) { if ( !a ) { b(); } return this; }; Fab.prototype.onDetected = function() {  return this; }; Fab.prototype.onNotDetected = function(a) { a(); return this; }; Fab.prototype.setOption = noopfn; var fab = new Fab(),  getSetFab = { get: function() { return Fab; }, set: function() {} }, getsetfab = { get: function() { return fab; }, set: function() {} }; if ( window.hasOwnProperty('FuckAdBlock') ) { window.FuckAdBlock = Fab; } else { Object.defineProperty(window, 'FuckAdBlock', getSetFab); } if ( window.hasOwnProperty('BlockAdBlock') ) { window.BlockAdBlock = Fab; } else {Object.defineProperty(window, 'BlockAdBlock', getSetFab); } if ( window.hasOwnProperty('SniffAdBlock') ) { window.SniffAdBlock = Fab; } else { Object.defineProperty(window, 'SniffAdBlock', getSetFab); } if ( window.hasOwnProperty('fuckAdBlock') ) { window.fuckAdBlock = fab; } else { Object.defineProperty(window, 'fuckAdBlock', getsetfab); } if ( window.hasOwnProperty('blockAdBlock') ) { window.blockAdBlock = fab; } else { Object.defineProperty(window, 'blockAdBlock', getsetfab); } if ( window.hasOwnProperty('sniffAdBlock') ) { window.sniffAdBlock = fab; } else { Object.defineProperty(window, 'sniffAdBlock', getsetfab); } })();
 
 @@||febbit.com^$generichide
 
@@ -1381,11 +1381,11 @@ huynhhieu.com##+js(fuckadblock.js-3.2.0)
 @@||calciomercato.com^$generichide
 
 @@||profitstudy.*^$generichide
-profitstudy.*##+js(bab-defuser.js)
 profitstudy.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-profitstudy.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+profitstudy.*##+js(bab-defuser.js)
 profitstudy.*##.adsbygoogle
 profitstudy.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
+profitstudy.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 scat.gold##+js(abort-on-property-read.js, anOptions)
 scat.gold#%#AG_abortOnPropertyRead('anOptions');
@@ -1394,18 +1394,18 @@ scat.gold#%#AG_abortOnPropertyRead('anOptions');
 lamitadmas1.net##+js(bab-defuser.js)
 lamitadmas1.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 
-@@||seo-fast.ru/js/adv.js$script
+@@*/js/adv.js$script,domain=seo-fast.ru
 
-upload.ac##+js(abort-current-inline-script.js, document.getElementById, banner)
-upload.ac##+js(abort-current-inline-script.js, RegExp, zfgloaded)
-@@||upload.ac/hg/js/advertisement.js$script
 *$popup,domain=upload.ac,important
+@@||upload.ac/hg/js/advertisement.js$script
+upload.ac##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+upload.ac##+js(abort-current-inline-script.js, document.getElementById, banner)
 
+streamango.com##+js(abort-on-property-write.js, BetterJsPop)
 streamango.com##+js(window.open-defuser.js)
 streamango.com#%#window.open=function(){};
-streamango.com##+js(abort-on-property-write.js, BetterJsPop)
-||qwepop.site^$important
 ||jf71qh5v14.com^$important
+||qwepop.site^$important
 ||uod2quk646.com^$important
 
 @@||agradarpan.com^$generichide
@@ -1422,38 +1422,38 @@ mifirm.net##+js(addEventListener-defuser.js, load, onload)
 mifirm.net#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
 gossipcorners.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-gossipcorners.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 gossipcorners.com##.adsbygoogle
+gossipcorners.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||getinmac.com^$elemhide
 
 @@||dangotoons.com^$generichide
 
-@@||mediaite.com/adbait/adsbygoogle.js$script
+@@||mediaite.com/adbait/adsbygoogle.js$script,domain=mediaite.com
 
 pcportal.org##.adsbygoogle
 pcportal.org##.adb-def
 
 @@||shara.today^$generichide
 
-mrtekani.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 @@||mrtekani.com^$generichide
-mrtekani.com##+js(bab-defuser.js)
 mrtekani.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-mrtekani.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+mrtekani.com##+js(bab-defuser.js)
 mrtekani.com##.adsbygoogle
+mrtekani.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
+mrtekani.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||tercihiniyap.net^$generichide
 
+@@||all-episodes.tv/ad/banner/$xmlhttprequest
 @@||all-episodes.tv/retlplayer/downretl.js$script
 @@||all-episodes.tv^$generichide
-@@||all-episodes.tv/ad/banner/$xmlhttprequest
 ||boostervideo.ru/client/boostervideo.js$script,empty,domain=all-episodes.tv,important
 ||boostervideo.ru/client/boostervideo.js$script,redirect=noopjs,domain=all-episodes.tv
 
 ksta.de###wl-overlay-wrapper
 
-@@||solvetube.site/googleads.js$script
+@@||solvetube.site/googleads.js$script,domain=solvetube.site
 
 imgdawgknuttz.com#@#.adsBox
 
@@ -1464,10 +1464,10 @@ finobe.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ad
 
 @@||viki.io/cms-uploads/uncategorized/ima3.js$domain=viki.com
 
-@@||adpass.atresmedia.com/*/adjs.js$domain=atresplayer.com
-@@||adpass.atresmedia.com/*/advertisement.js$domain=atresplayer.com
-atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
+@@||adpass.atresmedia.com/*/adjs.js$domain=atresplayer.com,script
+@@||adpass.atresmedia.com/*/advertisement.js$domain=atresplayer.com,script
 @@||atresplayer.com^$generichide
+atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 ||ruanyifeng.com/blog/checker.js$script
 
@@ -1475,15 +1475,13 @@ atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.te
 
 darckrepacks.com#@#.adsbygoogle
 
-informazionefiscale.it#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
+@@||informazionefiscale.it^$generichide
 informazionefiscale.it##+js(bab-defuser.js)
+informazionefiscale.it#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 
 @@||pes.social^$generichide
 
 gidoroom.ru#@#.adsbygoogle
-
-||securepubads.g.doubleclick.net/pagead/js/rum.js$script,redirect=noopjs,domain=gidoroom.ru
-||securepubads.g.doubleclick.net/pagead/js/rum.js$script,empty,domain=gidoroom.ru
 
 @@||phimgi.net^$generichide
 
@@ -1491,37 +1489,37 @@ gidoroom.ru#@#.adsbygoogle
 cnet.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 cnet.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
-akoam.net#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
-akoam.net##+js(bab-defuser.js)
 @@||akoam.net^$generichide
+akoam.net##+js(bab-defuser.js)
+akoam.net#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-javsubtitle.*#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
-javsubtitle.*##+js(bab-defuser.js)
 @@||javsubtitle.*^$generichide
+javsubtitle.*##+js(bab-defuser.js)
+javsubtitle.*#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-webgate.tn#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
-webgate.tn##+js(bab-defuser.js)
 @@||webgate.tn^$generichide
+webgate.tn##+js(bab-defuser.js)
+webgate.tn#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
+@@*/js/advertisement.js$script,domain=uploadship.com
 uploadship.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
-@@||uploadship.com/themes/pro/frontend_assets/js/advertisement.js
 uploadship.com#%#AG_abortInlineScript(/"adblockinfo"/, 'document.getElementById');
 
-@@||vw-page.com/wcf/js/advertisement.js$script
+@@*/js/advertisement.js$script,domain=vw-page.com
 
-allacronyms.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
-allacronyms.com##+js(bab-defuser.js)
 @@||allacronyms.com^$generichide
+allacronyms.com##+js(bab-defuser.js)
+allacronyms.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
 @@||topspeed.sk^$generichide
 topspeed.sk##+js(fuckadblock.js-3.2.0)
 topspeed.sk#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 topspeed.sk#%#(function() { var noopfn = function() {;}; var Fab = function() {}; Fab.prototype.check = noopfn; Fab.prototype.clearEvent = noopfn;  Fab.prototype.emitEvent = noopfn; Fab.prototype.on = function(a, b) { if ( !a ) { b(); } return this; }; Fab.prototype.onDetected = function() {  return this; }; Fab.prototype.onNotDetected = function(a) { a(); return this; }; Fab.prototype.setOption = noopfn; var fab = new Fab(),  getSetFab = { get: function() { return Fab; }, set: function() {} }, getsetfab = { get: function() { return fab; }, set: function() {} }; if ( window.hasOwnProperty('FuckAdBlock') ) { window.FuckAdBlock = Fab; } else { Object.defineProperty(window, 'FuckAdBlock', getSetFab); } if ( window.hasOwnProperty('BlockAdBlock') ) { window.BlockAdBlock = Fab; } else {Object.defineProperty(window, 'BlockAdBlock', getSetFab); } if ( window.hasOwnProperty('SniffAdBlock') ) { window.SniffAdBlock = Fab; } else { Object.defineProperty(window, 'SniffAdBlock', getSetFab); } if ( window.hasOwnProperty('fuckAdBlock') ) { window.fuckAdBlock = fab; } else { Object.defineProperty(window, 'fuckAdBlock', getsetfab); } if ( window.hasOwnProperty('blockAdBlock') ) { window.blockAdBlock = fab; } else { Object.defineProperty(window, 'blockAdBlock', getsetfab); } if ( window.hasOwnProperty('sniffAdBlock') ) { window.sniffAdBlock = fab; } else { Object.defineProperty(window, 'sniffAdBlock', getsetfab); } })();
 
-@@||bahnbonus-shopping.de/scripts/adIFrame.js
+@@||bahnbonus-shopping.de/scripts/adIFrame.js$script,domain=bahnbonus-shopping.de
 
-123l.pw#%#AG_abortOnPropertyWrite('showAdsBlock');
 123l.pw##+js(abort-on-property-write.js, showAdsBlock)
+123l.pw#%#AG_abortOnPropertyWrite('showAdsBlock');
 
 pcgamer.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 pcgamer.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
@@ -1539,18 +1537,20 @@ gadzetomania.pl##+js(abort-on-property-write.js, __serviceAbModal)
 gadzetomania.pl#%#AG_abortOnPropertyWrite('__serviceAbModal');
 
 @@||technoslek.com^$generichide
+technoslek.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 technoslek.com##+js(bab-defuser.js)
 technoslek.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
-technoslek.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 technoslek.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 smartage.pl##+js(abort-current-inline-script.js, parseInt, adblock)
 smartage.pl#%#AG_abortInlineScript(/adblock/, 'parseInt');
 
+@@||wetransfer.net/assets/advertising*.js$script,domain=wetransfer.net
+
 @@||jainjinvani.com^$generichide
+jainjinvani.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 jainjinvani.com##+js(bab-defuser.js)
 jainjinvani.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
-jainjinvani.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 jainjinvani.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||ioscreator.com^$generichide
@@ -1563,23 +1563,23 @@ ioscreator.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementi
 
 gamesubject.com###headb
 
-thuthuatjb.com#%#(function() { var noopfn = function() {;}; var Fab = function() {}; Fab.prototype.check = noopfn; Fab.prototype.clearEvent = noopfn;  Fab.prototype.emitEvent = noopfn; Fab.prototype.on = function(a, b) { if ( !a ) { b(); } return this; }; Fab.prototype.onDetected = function() {  return this; }; Fab.prototype.onNotDetected = function(a) { a(); return this; }; Fab.prototype.setOption = noopfn; var fab = new Fab(),  getSetFab = { get: function() { return Fab; }, set: function() {} }, getsetfab = { get: function() { return fab; }, set: function() {} }; if ( window.hasOwnProperty('FuckAdBlock') ) { window.FuckAdBlock = Fab; } else { Object.defineProperty(window, 'FuckAdBlock', getSetFab); } if ( window.hasOwnProperty('BlockAdBlock') ) { window.BlockAdBlock = Fab; } else {Object.defineProperty(window, 'BlockAdBlock', getSetFab); } if ( window.hasOwnProperty('SniffAdBlock') ) { window.SniffAdBlock = Fab; } else { Object.defineProperty(window, 'SniffAdBlock', getSetFab); } if ( window.hasOwnProperty('fuckAdBlock') ) { window.fuckAdBlock = fab; } else { Object.defineProperty(window, 'fuckAdBlock', getsetfab); } if ( window.hasOwnProperty('blockAdBlock') ) { window.blockAdBlock = fab; } else { Object.defineProperty(window, 'blockAdBlock', getsetfab); } if ( window.hasOwnProperty('sniffAdBlock') ) { window.sniffAdBlock = fab; } else { Object.defineProperty(window, 'sniffAdBlock', getsetfab); } })();
 @@||thuthuatjb.com^$generichide
 thuthuatjb.com##+js(fuckadblock.js-3.2.0)
+thuthuatjb.com#%#(function() { var noopfn = function() {;}; var Fab = function() {}; Fab.prototype.check = noopfn; Fab.prototype.clearEvent = noopfn;  Fab.prototype.emitEvent = noopfn; Fab.prototype.on = function(a, b) { if ( !a ) { b(); } return this; }; Fab.prototype.onDetected = function() {  return this; }; Fab.prototype.onNotDetected = function(a) { a(); return this; }; Fab.prototype.setOption = noopfn; var fab = new Fab(),  getSetFab = { get: function() { return Fab; }, set: function() {} }, getsetfab = { get: function() { return fab; }, set: function() {} }; if ( window.hasOwnProperty('FuckAdBlock') ) { window.FuckAdBlock = Fab; } else { Object.defineProperty(window, 'FuckAdBlock', getSetFab); } if ( window.hasOwnProperty('BlockAdBlock') ) { window.BlockAdBlock = Fab; } else {Object.defineProperty(window, 'BlockAdBlock', getSetFab); } if ( window.hasOwnProperty('SniffAdBlock') ) { window.SniffAdBlock = Fab; } else { Object.defineProperty(window, 'SniffAdBlock', getSetFab); } if ( window.hasOwnProperty('fuckAdBlock') ) { window.fuckAdBlock = fab; } else { Object.defineProperty(window, 'fuckAdBlock', getsetfab); } if ( window.hasOwnProperty('blockAdBlock') ) { window.blockAdBlock = fab; } else { Object.defineProperty(window, 'blockAdBlock', getsetfab); } if ( window.hasOwnProperty('sniffAdBlock') ) { window.sniffAdBlock = fab; } else { Object.defineProperty(window, 'sniffAdBlock', getsetfab); } })();
 
 dniwolne.eu##+js(set-constant.js, window.google_jobrunner, noopFunc)
 dniwolne.eu#%#AG_setConstant('window.google_jobrunner', 'noopFunc');
 
 ||github.io/aplacer$third-party
 
-jakimasklad.pl#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 @@||jakimasklad.pl^$generichide
 jakimasklad.pl##+js(bab-defuser.js)
+jakimasklad.pl#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
 1excelbet365.com#@#.adsbygoogle
 
-wokesloth.com#%#Object.defineProperty(Object.prototype, 'hasAdmiralList', { get: function() { throw null; }, set: function() { throw null; } });
 wokesloth.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+wokesloth.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 shrinkearn.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 shrinkearn.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
@@ -1596,35 +1596,35 @@ ucuzaucak.net#%#AG_abortOnPropertyRead('anOptions');
 
 @@*/show_ads.js$script,domain=mp3.teledyski.info
 
+@@||bingfeng.tw/source/plugin/unadblock/*_ads_*.js$script,domain=bingfeng.tw
 bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
-@@||bingfeng.tw/source/plugin/unadblock/*_ads_*.js
 bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
 
-mandatory.com#%#Object.defineProperty(Object.prototype, 'hasAdmiralList', { get: function() { throw null; }, set: function() { throw null; } });
 mandatory.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+mandatory.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
-techfinda.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 @@||techfinda.com^$generichide
 techfinda.com##+js(bab-defuser.js)
 techfinda.com##.adsbygoogle
+techfinda.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-siberyazilimci.net#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 @@||siberyazilimci.net^$generichide
 siberyazilimci.net##+js(bab-defuser.js)
+siberyazilimci.net#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
 andek.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||andek.com.pl^$generichide
 
-@@||rodzinnywyjazd.pl/gads.js$script
+@@||rodzinnywyjazd.pl/gads.js$script,domain=rodzinnywyjazd.pl
 
-gradown.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 @@||gradown.com^$generichide
 gradown.com##+js(bab-defuser.js)
+gradown.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-teqnwy.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 @@||teqnwy.com^$generichide
-teqnwy.com##+js(bab-defuser.js)
 teqnwy.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+teqnwy.com##+js(bab-defuser.js)
+teqnwy.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 teqnwy.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 blogkafem.net#@#.adsbygoogle
@@ -1635,8 +1635,8 @@ lancashiretelegraph.co.uk##+js(abort-on-property-write.js, _sp_)
 lancashiretelegraph.co.uk#%#AG_abortOnPropertyWrite('_sp_');
 
 @@||talkittechy.com^$generichide
-talkittechy.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 talkittechy.com##+js(bab-defuser.js)
+talkittechy.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
 @@||cyfostreams.com/advertisement.js$script
 
@@ -1668,12 +1668,12 @@ webtvhd.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$
 
 @@||solve-all-problems.info/googleads.js$script,domain=getintopc.com|unique-tutorials.info
 
-vinaurl.in##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||vinaurl.in^$generichide
-vinaurl.in#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
-vinaurl.in##.adsbygoogle
 vinaurl.in##+js(abort-on-property-read.js, adsHeight)
+vinaurl.in##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+vinaurl.in##.adsbygoogle
 vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
+vinaurl.in#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@*/advertisement.js$domain=getfreebit.xyz,script
 @@||getfreebit.xyz^$generichide
@@ -1682,13 +1682,13 @@ vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
 tionghoa.info##+js(bab-defuser.js)
 tionghoa.info#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-1000ps.de#%#AG_abortOnPropertyWrite('adBlockDetected');
 1000ps.de##+js(abort-on-property-write.js, adBlockDetected)
 1000ps.de#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
+1000ps.de#%#AG_abortOnPropertyWrite('adBlockDetected');
 
-replica-watch.info#%#(function() { var noopfn = function() {;}; var Fab = function() {}; Fab.prototype.check = noopfn; Fab.prototype.clearEvent = noopfn;  Fab.prototype.emitEvent = noopfn; Fab.prototype.on = function(a, b) { if ( !a ) { b(); } return this; }; Fab.prototype.onDetected = function() {  return this; }; Fab.prototype.onNotDetected = function(a) { a(); return this; }; Fab.prototype.setOption = noopfn; var fab = new Fab(),  getSetFab = { get: function() { return Fab; }, set: function() {} }, getsetfab = { get: function() { return fab; }, set: function() {} }; if ( window.hasOwnProperty('FuckAdBlock') ) { window.FuckAdBlock = Fab; } else { Object.defineProperty(window, 'FuckAdBlock', getSetFab); } if ( window.hasOwnProperty('BlockAdBlock') ) { window.BlockAdBlock = Fab; } else {Object.defineProperty(window, 'BlockAdBlock', getSetFab); } if ( window.hasOwnProperty('SniffAdBlock') ) { window.SniffAdBlock = Fab; } else { Object.defineProperty(window, 'SniffAdBlock', getSetFab); } if ( window.hasOwnProperty('fuckAdBlock') ) { window.fuckAdBlock = fab; } else { Object.defineProperty(window, 'fuckAdBlock', getsetfab); } if ( window.hasOwnProperty('blockAdBlock') ) { window.blockAdBlock = fab; } else { Object.defineProperty(window, 'blockAdBlock', getsetfab); } if ( window.hasOwnProperty('sniffAdBlock') ) { window.sniffAdBlock = fab; } else { Object.defineProperty(window, 'sniffAdBlock', getsetfab); } })();
 @@||replica-watch.info^$generichide
 replica-watch.info##+js(fuckadblock.js-3.2.0)
+replica-watch.info#%#(function() { var noopfn = function() {;}; var Fab = function() {}; Fab.prototype.check = noopfn; Fab.prototype.clearEvent = noopfn;  Fab.prototype.emitEvent = noopfn; Fab.prototype.on = function(a, b) { if ( !a ) { b(); } return this; }; Fab.prototype.onDetected = function() {  return this; }; Fab.prototype.onNotDetected = function(a) { a(); return this; }; Fab.prototype.setOption = noopfn; var fab = new Fab(),  getSetFab = { get: function() { return Fab; }, set: function() {} }, getsetfab = { get: function() { return fab; }, set: function() {} }; if ( window.hasOwnProperty('FuckAdBlock') ) { window.FuckAdBlock = Fab; } else { Object.defineProperty(window, 'FuckAdBlock', getSetFab); } if ( window.hasOwnProperty('BlockAdBlock') ) { window.BlockAdBlock = Fab; } else {Object.defineProperty(window, 'BlockAdBlock', getSetFab); } if ( window.hasOwnProperty('SniffAdBlock') ) { window.SniffAdBlock = Fab; } else { Object.defineProperty(window, 'SniffAdBlock', getSetFab); } if ( window.hasOwnProperty('fuckAdBlock') ) { window.fuckAdBlock = fab; } else { Object.defineProperty(window, 'fuckAdBlock', getsetfab); } if ( window.hasOwnProperty('blockAdBlock') ) { window.blockAdBlock = fab; } else { Object.defineProperty(window, 'blockAdBlock', getsetfab); } if ( window.hasOwnProperty('sniffAdBlock') ) { window.sniffAdBlock = fab; } else { Object.defineProperty(window, 'sniffAdBlock', getsetfab); } })();
 
 @@||teleportal.ua/js/ads.js$domain=teleportal.ua,script
 
