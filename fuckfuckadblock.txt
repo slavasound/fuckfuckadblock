@@ -432,6 +432,8 @@ sueddeutsche.de#%#AG_abortOnPropertyWrite('SZAdBlockDetection');
 sueddeutsche.de#%#AG_setConstant('_sp_.config', 'undefined')
 
 derstandard.at##+js(set-constant.js, nuggprof, noopFunc)
+derstandard.at#%#AG_setConstant('property.chain', 'noopFunc');
+@@||derstandard.at^$generichide
 
 1fichier.com##.ct_warn
 
