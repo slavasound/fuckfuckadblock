@@ -265,7 +265,8 @@ file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, RegExp, z
 file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
 file-up.*,file-upload.*,upfiles.*##+js(bab-defuser.js)
 file-up.*,file-upload.*,upfiles.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
-file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
+file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript('undefined', 'document.getElementById');
+file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 file-upload.*##.adsbygoogle
 upfiles.*##.adsbygoogle
 
@@ -531,7 +532,7 @@ stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
 @@||won.pe/assets/js/adsbygoogle.js$script,domain=won.pe
 
 kstreaming.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
-kstreaming.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
+kstreaming.*#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 
 speedvid.net##+js(abort-on-property-read.js, AaDetector)
 speedvid.net##+js(abort-on-property-write.js, _pop)
@@ -744,8 +745,7 @@ userscloud.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 userscloud.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 userscloud.com##+js(abort-on-property-write.js, open)
 userscloud.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-userscloud.com#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'Math');
-userscloud.com#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
+userscloud.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 userscloud.com#%#AG_abortOnPropertyWrite('open');
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
 
@@ -758,6 +758,7 @@ clik.*##+js(bab-defuser.js)
 clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*##.adsbygoogle
 clik.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
+clik.*#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 clik.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
 clik.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
@@ -796,10 +797,8 @@ convert2mp3.net##+js(abort-current-inline-script.js, RegExp, zfgload)
 convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net##+js(abort-on-property-read.js, g133.c3)
-convert2mp3.net##+js(abort-on-property-read.js, zfgloadedpopup)
+convert2mp3.net#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 convert2mp3.net#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-convert2mp3.net#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
-convert2mp3.net#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
 convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
 convert2mp3.net#%#AG_abortOnPropertyRead('g133.c3');
 ||convert2mp3.net/assets/js/push.js^$script,important,domain=convert2mp3.net
@@ -818,6 +817,7 @@ click2see.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||payco.*^$generichide
 payco.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+payco.*#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*##+js(abort-on-property-read.js, AaDetector)
 payco.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -890,6 +890,7 @@ stiffvip.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 stiffvip.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 stiffvip.com##+js(nowebrtc.js)
 stiffvip.com##.adsbygoogle
+stiffvip.com#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 stiffvip.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
@@ -1143,7 +1144,7 @@ jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 darmowa-telewizja.online##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 darmowa-telewizja.online##+js(addEventListener-defuser.js, load, onload)
 darmowa-telewizja.online#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
-darmowa-telewizja.online#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
+darmowa-telewizja.online#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 darmowa-telewizja.online,kastream.biz##+js(abort-on-property-read.js, _pop)
 darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
 kastream.biz#%#window.open = function() {};
@@ -1400,6 +1401,7 @@ lamitadmas1.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;w
 @@||upload.ac/hg/js/advertisement.js$script
 upload.ac##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 upload.ac##+js(abort-current-inline-script.js, document.getElementById, banner)
+upload.ac#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 
 streamango.com##+js(abort-on-property-write.js, BetterJsPop)
 streamango.com##+js(window.open-defuser.js)
