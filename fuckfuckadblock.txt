@@ -400,10 +400,6 @@ earthpiclover.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock
 earthpiclover.com##.adsbygoogle
 earthpiclover.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-bild.de##+js(abort-on-property-write.js, _abeh)
-bild.de##+js(setInterval-defuser.js, (), 10)
-bild.de##+js(setTimeout-defuser.js, _abeh, 700)
-
 @@||faz.net^$generichide
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 faz.net#%#AG_abortInlineScript('_sp_._networkListenerData', '$');
