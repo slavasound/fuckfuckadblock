@@ -467,6 +467,7 @@ pinkhindi.com##.adsbygoogle
 
 reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 reviewjournal.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
+@@||reviewjournal.com^$generichide
 
 cooltxtgen.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 cooltxtgen.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
