@@ -1693,3 +1693,5 @@ antiadblockscript.com#@#.ad_box
 
 waw4free.pl#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
 
+hentai-online.pl#@#.adsBox
+
