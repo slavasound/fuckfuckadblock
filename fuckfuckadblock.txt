@@ -1713,3 +1713,5 @@ mac-torrent-download.net#%#AG_abortInlineScript('zfgloaded', 'Math');
 zspnr1.lowicz.pl##+js(setInterval-defuser.js, seead)
 zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
 
+@@||geoguessr.com/_ads/*$script,domain=geoguessr.com​
+
