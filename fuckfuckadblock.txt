@@ -198,7 +198,6 @@ readlightnovel.org#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 filebebo.net##+js(bab-defuser.js)
 filebebo.net#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-openload.co##[id*="ScriptRoot"]
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(abort-current-inline-script.js, adblock, adblock2)
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services##+js(nano-setInterval-booster.js)
@@ -287,12 +286,12 @@ rusfishing.ru##.samBannerUnit
 ||rusfishing.ru/forum/js/siropu/am/core.min.js$script,empty,domain=rusfishing.ru
 ||rusfishing.ru/forum/js/siropu/am/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
 
-@@||thehindu.com/static/js/ads.min.js$script,domain=thehindu.com,script
+@@*/js/ads.min.js$script,domain=thehindu.com,script
 @@||thehindu.com^$generichide
 
 @@||konuneydi.com^$generichide
 
-@@||3dtuning.com/adframe.js$script,domain=3dtuning.com
+@@*/adframe.js$script,domain=3dtuning.com
 
 money-sense.club###adsense
 money-sense.club##+js(abort-on-property-read.js, anOptions)
@@ -479,7 +478,7 @@ cooltxtgen.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 cs-fundamentals.com###adBlockerAlert
 
-@@||embed.kijk.nl/talpa-jw-skin/js/adsbygoogle.js$script,domain=embed.kijk.nl
+@@*/js/adsbygoogle.js$script,domain=embed.kijk.nl
 
 temp-mail.org##+js(set-constant.js, checkadBlock, noopFunc)
 temp-mail.org#%#AG_setConstant('checkadBlock', 'noopFunc');
@@ -502,7 +501,7 @@ streamcherry.com#%#Object.defineProperty(window, 'noPopunder', { get: function()
 streamcherry.com#%#Object.defineProperty(window, 'popAdsLoaded', { get: function() { return; } });
 streamcherry.com#%#Object.defineProperty(window, 'turnoff', { get: function() { return true; } });
 
-@@||datoporn.co/js/pop.js$script,domain=datoporn.co
+@@*/js/pop.js$script,domain=datoporn.co
 datoporn.co##+js(window.open-defuser.js)
 datoporn.co#%#window.open=function(){};
 
@@ -532,7 +531,7 @@ stiffgamerdown.com#%#AG_abortInlineScript(/hcf_userconfig.cgi_adb_redirect_url/,
 stealthz.ru##+js(abort-on-property-read.js, anOptions)
 stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
 
-@@||won.pe/assets/js/adsbygoogle.js$script,domain=won.pe
+@@*/js/adsbygoogle.js$script,domain=won.pe
 
 kstreaming.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 kstreaming.*#%#AG_abortInlineScript('zfgloaded', 'RegExp');
@@ -799,11 +798,9 @@ techjad.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 convert2mp3.net##+js(abort-current-inline-script.js, RegExp, zfgload)
 convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
-convert2mp3.net##+js(abort-on-property-read.js, g133.c3)
 convert2mp3.net#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 convert2mp3.net#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
-convert2mp3.net#%#AG_abortOnPropertyRead('g133.c3');
 ||convert2mp3.net/assets/js/push.js^$script,important,domain=convert2mp3.net
 
 @@||dutchycorp.space^$generichide
@@ -813,10 +810,9 @@ dutchycorp.space##.adsbygoogle
 dutchycorp.space#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
 dutchycorp.space#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-click2see.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-click2see.*##+js(addEventListener-defuser.js, click, trigger)
-click2see.*##.adsbygoogle
-click2see.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+click2see.*,farman.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+click2see.*,farman.*##.adsbygoogle
+click2see.*,farman.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||payco.*^$generichide
 payco.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
@@ -895,6 +891,7 @@ stiffvip.com##+js(nowebrtc.js)
 stiffvip.com##.adsbygoogle
 stiffvip.com#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 stiffvip.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+*$webrtc,domain=stiffvip.com
 
 streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
 ||mangovideo.pw/player/html.php?aid=*_html&video_id=*&*&referer$important
