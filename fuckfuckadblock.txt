@@ -1026,7 +1026,7 @@ haaretz.com#%#Object.defineProperty(window,'AdBlockUtil',{get:function(){return}
 prevention.com##+js(abort-on-property-read.js, adBlockPromise)
 prevention.com#%#AG_abortOnPropertyRead('adBlockPromise');
 
-@@||ratemyprofessors.com/assets/libs/oas.js^$script
+@@||ratemyprofessors.com/assets/libs/oas.js^$script,domain=ratemyprofessors.com
 
 @@*/advert.js^$script,domain=hopto.org
 hopto.org##+js(abort-current-inline-script.js, document.getElementById, undefined)
