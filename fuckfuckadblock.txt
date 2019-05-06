@@ -409,9 +409,6 @@ tweaktown.com##+js(abort-on-property-write.js, _sp_)
 tweaktown.com#%#AG_abortOnPropertyWrite('_sp_');
 
 @@||nekopoi.*/adsbygoogle.js$script
-nekopoi.*###sidebar_right > .widget_text > .custom-html-widget > a[href^="http://bit.ly/"] > img
-nekopoi.*##+js(abort-current-inline-script.js, atob, tabunder)
-nekopoi.*##+js(set-constant.js, isAdsDisplayed, true)
 
 @@||blick.ch^$generichide
 blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
@@ -423,6 +420,8 @@ polygon.com#%#AG_abortOnPropertyWrite('loadOutbrain');
 xnxx.com,xvideos.com##+js(window.open-defuser.js)
 xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com#%#window.open=function(){};
+xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype, 'config/ads', { get: function() { return false; } });
+xnxx.com,xvideos.com#%#Object.defineProperty(window, 'openpop', { get: function() { return; } });
 
 @@||sueddeutsche.de^$generichide
 sueddeutsche.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
@@ -487,6 +486,9 @@ porndish.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.
 ||popads.net/pop.js^$script,redirect=noopjs,important
 
 @@||streamcherry.com/googlead.js$script
+streamcherry.com##+js(abort-on-property-read.js, BetterJsPop)
+streamcherry.com##+js(abort-on-property-write.js, _0xd959)
+streamcherry.com##+js(abort-on-property-write.js, _pop)
 streamcherry.com##+js(window.open-defuser.js)
 streamcherry.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
 streamcherry.com#%#Object.defineProperty(window, 'adblock2', { get: function() { return false; } });
