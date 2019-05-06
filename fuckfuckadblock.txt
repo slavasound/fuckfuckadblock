@@ -1710,3 +1710,6 @@ rmdan.tv#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; 
 mac-torrent-download.net##+js(abort-current-inline-script.js, Math, zfgloaded)
 mac-torrent-download.net#%#AG_abortInlineScript('zfgloaded', 'Math');
 
+zspnr1.lowicz.pl##+js(setInterval-defuser.js, seead)
+zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
+
