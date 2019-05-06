@@ -1138,13 +1138,16 @@ jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
 
 @@||darmowa-telewizja.online^$generichide
-@@||embed.twojetv.ws/js/ads.js
-twojetv.ws##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-twojetv.ws#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-twojetv.ws#%#window.open=function(){};
-darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
+darmowa-telewizja.online##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 darmowa-telewizja.online##+js(addEventListener-defuser.js, load, onload)
 darmowa-telewizja.online#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+darmowa-telewizja.online#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'String.fromCharCode');
+darmowa-telewizja.online,kastream.biz##+js(abort-on-property-read.js, _pop)
+darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
+kastream.biz#%#window.open = function() {};
+twojetv.ws##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+twojetv.ws##+js(window.open-defuser.js)
+twojetv.ws#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
 express.de###wl-overlay-wrapper
 
