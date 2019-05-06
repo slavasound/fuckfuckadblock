@@ -1686,3 +1686,5 @@ replica-watch.info#%#(function() { var noopfn = function() {;}; var Fab = functi
 @@||replica-watch.info^$generichide
 replica-watch.info##+js(fuckadblock.js-3.2.0)
 
+@@||teleportal.ua/js/ads.js$domain=teleportal.ua,script
+
