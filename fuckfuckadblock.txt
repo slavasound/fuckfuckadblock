@@ -1695,3 +1695,6 @@ waw4free.pl#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{di
 
 hentai-online.pl#@#.adsBox
 
+dieroten.pl##+js(addEventListener-defuser.js, DOMContentLoaded, checkAdBlock, false)
+dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "checkAdBlock")
+
