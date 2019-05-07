@@ -1747,3 +1747,7 @@ desirecourse.net#%#(function() { var sto = window.setTimeout, re = /\.bab_elemen
 
 @@||player.ooyala.com/static/*/ad-plugin/google_ima.min.js$script,domain=ccmbg.com
 
+@@||d-navi004.com^$generichide
+d-navi004.com##.adsbygoogle
+d-navi004.com###snsbox
+
