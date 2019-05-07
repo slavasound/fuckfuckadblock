@@ -1720,3 +1720,5 @@ annuaire-ebook.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elem
 
 @@||masterchef.stb.ua/*/js/ads.js$script,domain=masterchef.stb.ua
 
+forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
+
