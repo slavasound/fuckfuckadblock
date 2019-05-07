@@ -1757,3 +1757,10 @@ xmovies.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 filerio.in##+js(abort-current-inline-script.js, Math, zfgloaded)
 filerio.in#%#AG_abortInlineScript('zfgloaded', 'Math');
 
+akl2day.com,linkjust.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+akl2day.com,linkjust.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+@@||akl2day.com^$generichide
+@@||linkjust.com^$generichide
+akl2day.com##.adsbygoogle
+linkjust.com##.adsbygoogle
+
