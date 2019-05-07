@@ -1754,3 +1754,6 @@ d-navi004.com###snsbox
 xmovies.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 xmovies.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 
+filerio.in##+js(abort-current-inline-script.js, Math, zfgloaded)
+filerio.in#%#AG_abortInlineScript('zfgloaded', 'Math');
+
