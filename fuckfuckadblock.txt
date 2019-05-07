@@ -1731,3 +1731,8 @@ pixlr.com#@#.adBanner
 pixlr.com#@#.adbanner
 @@||pixlr.com^$generichide
 
+@@||galaxydestek.com^$generichide
+galaxydestek.com##.adsbygoogle
+galaxydestek.com#@##adcontent
+galaxydestek.com#@#.ad-center
+
