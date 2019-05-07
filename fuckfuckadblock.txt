@@ -1686,6 +1686,7 @@ tionghoa.info#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid
 1000ps.de##+js(abort-on-property-write.js, adBlockDetected)
 1000ps.de#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
 1000ps.de#%#AG_abortOnPropertyWrite('adBlockDetected');
+@@||1000ps.de^$generichide
 
 @@||replica-watch.info^$generichide
 replica-watch.info##+js(fuckadblock.js-3.2.0)
