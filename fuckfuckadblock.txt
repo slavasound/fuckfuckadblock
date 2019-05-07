@@ -1724,3 +1724,7 @@ annuaire-ebook.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elem
 
 forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
 
+jobhunterplg.xyz##+js(addEventListener-defuser.js, load, onload)
+jobhunterplg.xyz#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+
+
