@@ -1718,3 +1718,5 @@ annuaire-ebook.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elem
 
 @@||ppstatic.pl/*/js/ads/*/reklama.js$script,domain=gra.pl
 
+@@||masterchef.stb.ua/*/js/ads.js$script,domain=masterchef.stb.ua
+
