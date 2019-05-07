@@ -1727,9 +1727,9 @@ forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-develope
 jobhunterplg.xyz##+js(addEventListener-defuser.js, load, onload)
 jobhunterplg.xyz#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
+@@||pixlr.com^$generichide
 pixlr.com#@#.adBanner
 pixlr.com#@#.adbanner
-@@||pixlr.com^$generichide
 
 @@||galaxydestek.com^$generichide
 galaxydestek.com##.adsbygoogle
