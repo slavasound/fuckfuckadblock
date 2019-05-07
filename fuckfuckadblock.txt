@@ -1751,3 +1751,6 @@ desirecourse.net#%#(function() { var sto = window.setTimeout, re = /\.bab_elemen
 d-navi004.com##.adsbygoogle
 d-navi004.com###snsbox
 
+xmovies.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+xmovies.*#%#AG_abortInlineScript('zfgloaded', 'Math');
+
