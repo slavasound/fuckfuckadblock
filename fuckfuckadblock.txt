@@ -1795,3 +1795,5 @@ adsviv.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/
 adsviv.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 adsviv.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 
+@@||featurecompare.com/ads.js$script,xmlhttprequest,domain=featurecompare.com
+
