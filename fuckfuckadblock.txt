@@ -1835,3 +1835,6 @@ full-stream.co#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
 full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
 ||full-stream.co/templates/F-S/images/logo.png$popup
 
+yumechan.club#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
+@@||yumechan.club^$generichide
+
