@@ -939,7 +939,6 @@ doctorrouter.ru#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 @@||ausbt.com.au^$generichide
 
-||adrelayer.com^$important
 ||d1swblsd1itapx.cloudfront.net$domain=mobzon.ru
 ||huawei.mobzon.ru/adbp/adbp.js$domain=mobzon.ru
 
@@ -1016,9 +1015,6 @@ utimetableresult.*#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 @@||animefever.tv^$generichide
 
-@@||dausel.co^$generichide
-@@||pagead2.googlesyndication.com/pagead/$script,domain=dausel.co
-
 bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
 bidouillesikea.com#%#AG_abortOnPropertyRead('adbackDebug');
 
@@ -1038,8 +1034,6 @@ limetorrent.info#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 @@||beforeitsnews.com^$generichide
 beforeitsnews.com###ad-message
-
-eldaryasolutiongame.blogspot.com##^script:has-text(divAdBox)
 
 tutoriaux-excalibur.com##+js(bab-defuser.js)
 tutoriaux-excalibur.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
@@ -1193,7 +1187,6 @@ rule34hentai.net##+js(bab-defuser.js)
 rule34hentai.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 |https://$script,third-party,xmlhttprequest,domain=rule34hentai.net
 ||rule34hentai.net^$script,~third-party
-||trafficsan.com^$important
 
 samo-tech.com#@##Adrectangle
 samo-tech.com#@##PageLeaderAd
@@ -1232,10 +1225,6 @@ zwergenstadt.com#@##lower_ad
 zwergenstadt.com#@##ns_ad2
 zwergenstadt.com#@##rh_tower_ad
 zwergenstadt.com#@##topadzone
-
-2giga.link##+js(setTimeout-defuser.js, (), 1900)
-||toponclick.com^$important
-||witalfieldt.com^$important
 
 @@||zahipedia.net^$generichide
 
@@ -1369,9 +1358,6 @@ upload.ac#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 streamango.com##+js(abort-on-property-write.js, BetterJsPop)
 streamango.com##+js(window.open-defuser.js)
 streamango.com#%#window.open=function(){};
-||jf71qh5v14.com^$important
-||qwepop.site^$important
-||uod2quk646.com^$important
 
 @@||agradarpan.com^$generichide
 @@||getpocket.*^$generichide
