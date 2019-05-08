@@ -1813,3 +1813,7 @@ c4free.win#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/
 freemalaysiatoday.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||freemalaysiatoday.com^$generichide
 
+autocar.co.uk##+js(abort-on-property-read.js, InstallTrigger)
+@@||autocar.co.uk^$generichide
+autocar.co.uk#%#AG_abortOnPropertyRead('InstallTrigger');
+
