@@ -450,9 +450,9 @@ porndish.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.
 @@||streamcherry.com/googlead.js$script
 streamcherry.com##+js(abort-on-property-read.js, BetterJsPop)
 streamcherry.com##+js(abort-on-property-write.js, _pop)
-streamcherry.com#%#AG_abortOnPropertyWrite('_pop');
-streamcherry.com#%#AG_abortOnPropertyRead('BetterJsPop');
 streamcherry.com##+js(window.open-defuser.js)
+streamcherry.com#%#AG_abortOnPropertyRead('BetterJsPop');
+streamcherry.com#%#AG_abortOnPropertyWrite('_pop');
 streamcherry.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
 streamcherry.com#%#Object.defineProperty(window, 'adblock2', { get: function() { return false; } });
 streamcherry.com#%#Object.defineProperty(window, 'doSecondPop', { get: function() { return; } });
@@ -1089,8 +1089,10 @@ tv-onlinehd.com##+js(window.open-defuser.js)
 tv-onlinehd.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 tv-onlinehd.com#%#window.open=function(){};
 
-@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=priluki.bankomap.com.ua
+bankomap.com.ua#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
 @@||bankomap.com.ua^$generichide
+bankomap.com.ua##.adsbygoogle
+bankomap.com.ua##+js(fuckadblock.js-3.2.0)
 
 ||googletagmanager.com/gtag/$script,empty,domain=di.fm,important
 ||googletagmanager.com/gtag/$script,redirect=noopjs,domain=di.fm,important
