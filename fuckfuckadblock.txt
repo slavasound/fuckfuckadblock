@@ -1800,3 +1800,8 @@ short.pe##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 short.pe##.adsbygoogle
 short.pe#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+dailyimages.xyz##+js(abort-current-inline-script.js, Math, zfgloaded)
+dailyimages.xyz##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+dailyimages.xyz#%#AG_abortInlineScript('zfgload', 'Math');
+dailyimages.xyz#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
+
