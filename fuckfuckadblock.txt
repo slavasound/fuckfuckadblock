@@ -196,6 +196,7 @@ sciencelife.*##.adsbygoogle
 sciencelife.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 sciencelife.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 sciencelife.*#%#window.open=function(){};
+sciencelife.*##+js(window.open-defuser.js)
 
 @@||ttsmp3.com^$generichide
 ttsmp3.com##+js(bab-defuser.js)
@@ -448,8 +449,9 @@ porndish.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.
 
 @@||streamcherry.com/googlead.js$script
 streamcherry.com##+js(abort-on-property-read.js, BetterJsPop)
-streamcherry.com##+js(abort-on-property-write.js, _0xd959)
 streamcherry.com##+js(abort-on-property-write.js, _pop)
+streamcherry.com#%#AG_abortOnPropertyWrite('_pop');
+streamcherry.com#%#AG_abortOnPropertyRead('BetterJsPop');
 streamcherry.com##+js(window.open-defuser.js)
 streamcherry.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
 streamcherry.com#%#Object.defineProperty(window, 'adblock2', { get: function() { return false; } });
@@ -1358,7 +1360,9 @@ upload.ac##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 upload.ac##+js(abort-current-inline-script.js, document.getElementById, banner)
 upload.ac#%#AG_abortInlineScript('zfgloaded', 'RegExp');
 
-streamango.com##+js(abort-on-property-write.js, BetterJsPop)
+streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+streamango.com#%#AG_abortOnPropertyRead('BetterJsPop');
+streamango.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
 streamango.com##+js(window.open-defuser.js)
 streamango.com#%#window.open=function(){};
 
@@ -1742,7 +1746,7 @@ vidlox.*#%#AG_setConstant('popjs', 'true');
 vidlox.*#%#AG_setConstant('popns', 'true');
 vidlox.*$webrtc
 
-kp.ru#@##popapIsBlockedAd
+kp.ru###popapIsBlockedAd
 
 @@||watchhowimetyourmother.online^$generichide
 watchhowimetyourmother.online##+js(bab-defuser.js)
