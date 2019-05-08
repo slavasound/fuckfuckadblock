@@ -144,10 +144,11 @@ mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com#%#AG_abortOnPrope
 sosiali.com#@#.adsbygoogle
 
 @@||getrelax.club^$generichide
-getrelax.club###adisblock
-getrelax.club###main_content:style(display: block !important;)
-getrelax.club##+js(abort-current-inline-script.js, document.getElementById, adisblock)
-getrelax.club##.loaded-popup-wrapper
+getrelax.club,javfree.club###adisblock
+getrelax.club,javfree.club###main_content:style(display: block !important;)
+getrelax.club,javfree.club##+js(abort-current-inline-script.js, document.getElementById, adisblock)
+getrelax.club,javfree.club##.loaded-popup-wrapper
+getrelax.club,javfree.club#%#AG_abortInlineScript('adisblock', 'document.getElementById');
 
 @@||anonyviet.com^$generichide
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
