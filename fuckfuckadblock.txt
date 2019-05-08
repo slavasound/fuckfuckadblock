@@ -1865,3 +1865,12 @@ beast-birds.com,al3amall.com##.adsbygoogle
 beast-birds.com,al3amall.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 beast-birds.com,al3amall.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+@@||jelajahinternet.me^$generichide
+jelajahinternet.me#@##ad_skyscraper_text
+jelajahinternet.me#@##adsense
+jelajahinternet.me#@##AdvHeader
+jelajahinternet.me#@##header_publicidad
+jelajahinternet.me#@##common_right_lower_ad_wrapper
+jelajahinternet.me#@##componentAdRectangle
+jelajahinternet.me#@##righttop-adverts-container
+
