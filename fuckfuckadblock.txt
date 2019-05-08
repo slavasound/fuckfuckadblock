@@ -1816,3 +1816,8 @@ macbed.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/
 
 */entry2.js$important,domain=multileech.net,script
 
+otakustream.tv##+js(abort-current-inline-script.js, Math, zfgloaded)
+otakustream.tv##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
+otakustream.tv#%#AG_abortInlineScript('zfgloaded', 'Math');
+otakustream.tv#%#AG_abortInlineScript(/getScriptFromCss/, 'decodeURI');
+
