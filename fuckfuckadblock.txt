@@ -1848,3 +1848,11 @@ infosehatku.club#@##common_right_lower_ad_wrapper
 infosehatku.club#@##componentAdRectangle
 infosehatku.club#@##righttop-adverts-container
 
+takeitfor.me#@##ad_skyscraper_text
+takeitfor.me#@##adsense
+takeitfor.me#@##AdvHeader
+takeitfor.me#@##header_publicidad
+takeitfor.me#@##common_right_lower_ad_wrapper
+takeitfor.me#@##componentAdRectangle
+takeitfor.me#@##righttop-adverts-container
+
