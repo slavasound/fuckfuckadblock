@@ -1818,3 +1818,6 @@ autocar.co.uk##+js(abort-on-property-read.js, InstallTrigger)
 @@||autocar.co.uk^$generichide
 autocar.co.uk#%#AG_abortOnPropertyRead('InstallTrigger');
 
+ke1.nl#@##banner_ad
+@@||ke1.nl^$generichide
+
