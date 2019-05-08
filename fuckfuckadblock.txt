@@ -1782,3 +1782,5 @@ vidlox.*#%#AG_setConstant('popjs', 'true');
 vidlox.*#%#AG_setConstant('popns', 'true');
 vidlox.*$webrtc
 
+kp.ru#@##popapIsBlockedAd
+
