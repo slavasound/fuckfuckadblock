@@ -1823,3 +1823,7 @@ otakustream.tv##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 otakustream.tv#%#AG_abortInlineScript('zfgloaded', 'Math');
 otakustream.tv#%#AG_abortInlineScript(/getScriptFromCss/, 'decodeURI');
 
+short.pe##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+short.pe##.adsbygoogle
+short.pe#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
