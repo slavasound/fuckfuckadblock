@@ -6,7 +6,6 @@
 ! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
 ! RAW: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 ! Description: Filters for blocking pop-ups and anti-adblock bypass.
-!
 
 ###AdBlockDialog
 ###ab--notification-ribbon
@@ -125,37 +124,6 @@
 ##.top-bar-adblock
 ##.warning-adblock
 ##.warning-adblock-box
-
--adblock-notice-
--adblock-notice/
--contrib-ads.
-/AdblockMessage.
-/SvgAdblockDetected/
-/abb-msg.js
-/ad-blocking-advisor/
-/adb.js
-/adb_script/
-/adbl_dtct.
-/adblock-detect/
-/adblock-notice-
-/adblock-notify-by-bweb/
-/adblock-warning-teaser/
-/adblock.js
-/adblock.teaser.js
-/adblock_gate/images/animated.gif?
-/adblock_notify.js
-/adblocker_message_
-/adblockhandlega.js
-/ads.min.js
-/antiadblockmsg.
-/blockadblock-
-/blockadblock.js
-/blockadblock.min.js
-/blockadblock_
-/fuckadblock.js
-/wp-content/plugins/ad-block-defender/
-/wp-content/plugins/deadblocker/
-/wp-content/uploads/an-temp/*$script,stylesheet
 
 @@||mercurynews.com/wp-content/themes/wp-mason/static/js/ads.js$script
 @@||mercurynews.com^$generichide
