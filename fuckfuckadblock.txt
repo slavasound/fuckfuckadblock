@@ -1874,3 +1874,8 @@ jelajahinternet.me#@##common_right_lower_ad_wrapper
 jelajahinternet.me#@##componentAdRectangle
 jelajahinternet.me#@##righttop-adverts-container
 
+@@||ez4link.org^$generichide
+ez4link.org##.adsbygoogle
+ez4link.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+ez4link.org#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+
