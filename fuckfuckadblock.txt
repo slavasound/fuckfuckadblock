@@ -1821,3 +1821,7 @@ autocar.co.uk#%#AG_abortOnPropertyRead('InstallTrigger');
 ke1.nl#@##banner_ad
 @@||ke1.nl^$generichide
 
+axjbt.com#%#window.open=function(){};
+axjbt.com##+js(window.open-defuser.js)
+||axjbt.com/dbxf/pctc.js$,domain=axjbt.com,script,important
+
