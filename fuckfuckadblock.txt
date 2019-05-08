@@ -1797,3 +1797,6 @@ adsviv.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 @@||featurecompare.com/ads.js$script,xmlhttprequest,domain=featurecompare.com
 
+@@||independent.co.uk^$generichide
+independent.co.uk#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
+
