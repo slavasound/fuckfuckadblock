@@ -224,12 +224,12 @@ gametimers.it#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid
 @@||file-upload.*^$generichide
 @@||upfiles.*^$generichide
 file-up.*##.adsbygoogle
-file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, RegExp, zfgload)
 file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
 file-up.*,file-upload.*,upfiles.*##+js(bab-defuser.js)
 file-up.*,file-upload.*,upfiles.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
 file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript('undefined', 'document.getElementById');
-file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript('zfgloaded', 'RegExp');
+file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript('zfgload', 'RegExp');
 file-up.*,file-upload.*,upfiles.*.adsbygoogle
 
 @@||blogginggyanbox.com^$generichide
@@ -492,8 +492,8 @@ stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
 
 @@*/js/adsbygoogle.js$script,domain=won.pe
 
-kstreaming.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
-kstreaming.*#%#AG_abortInlineScript('zfgloaded', 'RegExp');
+kstreaming.*##+js(abort-current-inline-script.js, RegExp, zfgload)
+kstreaming.*#%#AG_abortInlineScript('zfgload', 'RegExp');
 
 speedvid.net##+js(abort-on-property-read.js, AaDetector)
 speedvid.net##+js(abort-on-property-write.js, _pop)
@@ -700,24 +700,24 @@ diariodenavarra.es#%#AG_setConstant('Math.random', 'trueFunc');
 *$popup,domain=userscloud.com
 *$third-party,xmlhttprequest,domain=userscloud.com
 @@||userscloud.com^$generichide
-userscloud.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+userscloud.com##+js(abort-current-inline-script.js, Math, zfgload)
 userscloud.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 userscloud.com##+js(abort-on-property-write.js, open)
 userscloud.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-userscloud.com#%#AG_abortInlineScript('zfgloaded', 'Math');
+userscloud.com#%#AG_abortInlineScript('zfgload', 'Math');
 userscloud.com#%#AG_abortOnPropertyWrite('open');
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
 
 ocen-piwo.pl###osiemnascielat
 
 @@||clik.*^$generichide
-clik.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+clik.*##+js(abort-current-inline-script.js, RegExp, zfgload)
 clik.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 clik.*##+js(bab-defuser.js)
 clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*##.adsbygoogle
 clik.*#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;window.setTimeout=function(a,b){if(typeof a!=='string'||!re.test(a)){return sto(a,b)}}.bind(window);var signatures=[['blockadblock'],['babasbm'],[/getItem\('babn'\)/],['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random']];var check=function(s){var tokens,match,j,token,pos;for(var i=0;i<signatures.length;i++){tokens=signatures[i];match=0;for(j=0,pos=0;j<tokens.length;j++){token=tokens[j];pos=token instanceof RegExp?s.search(token):s.indexOf(token);if(pos!==-1){match+=1}}if((match/tokens.length)>=0.8){return true}}return false};var realEval=window.eval;window.eval=function(a){if(!check(a)){return realEval(a)}var el=document.body;if(el){el.style.removeProperty('visibility')}el=document.getElementById('babasbmsgx');if(el){el.parentNode.removeChild(el)}}.bind(window)})();
-clik.*#%#AG_abortInlineScript('zfgloaded', 'RegExp');
+clik.*#%#AG_abortInlineScript('zfgload', 'RegExp');
 clik.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
 clik.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
@@ -755,7 +755,7 @@ techjad.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 convert2mp3.net##+js(abort-current-inline-script.js, RegExp, zfgload)
 convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
-convert2mp3.net#%#AG_abortInlineScript('zfgloaded', 'RegExp');
+convert2mp3.net#%#AG_abortInlineScript('zfgload', 'RegExp');
 convert2mp3.net#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
 ||convert2mp3.net/assets/js/push.js^$script,important,domain=convert2mp3.net
@@ -772,8 +772,8 @@ click2see.*,farman.*##.adsbygoogle
 click2see.*,farman.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||payco.*^$generichide
-payco.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
-payco.*#%#AG_abortInlineScript('zfgloaded', 'RegExp');
+payco.*##+js(abort-current-inline-script.js, RegExp, zfgload)
+payco.*#%#AG_abortInlineScript('zfgload', 'RegExp');
 payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*##+js(abort-on-property-read.js, AaDetector)
 payco.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -848,11 +848,11 @@ xiaomifans.pl#@#.adsbygoogle
 
 *$webrtc,domain=stiffvip.com
 @@*/js/ads.js^$script,domain=stiffvip.com
-stiffvip.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+stiffvip.com##+js(abort-current-inline-script.js, RegExp, zfgload)
 stiffvip.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 stiffvip.com##+js(nowebrtc.js)
 stiffvip.com##.adsbygoogle
-stiffvip.com#%#AG_abortInlineScript('zfgloaded', 'RegExp');
+stiffvip.com#%#AG_abortInlineScript('zfgload', 'RegExp');
 stiffvip.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
@@ -1056,9 +1056,13 @@ lavoixdux.com#%#AG_setConstant('is_adblocked', 'false');
 
 apteka.ua#@#.adsbygoogle
 
-||getlec.blogspot.com^$inline-script,first-party
+getlec.blogspot.com##+js(abort-current-inline-script.js, RegExp, zfgload)
+getlec.blogspot.com#%#AG_abortInlineScript('zfgload', 'RegExp');
+getlec.blogspot.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+getlec.blogspot.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
 ver-pelis.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+ver-pelis.*#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
 ver-pelis.*##+js(window.open-defuser.js)
 ver-pelis.*#%#window.open=function(){};
 ||ver-pelis.net^$third-party
@@ -1107,10 +1111,10 @@ jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 
 @@||darmowa-telewizja.online^$generichide
-darmowa-telewizja.online##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+darmowa-telewizja.online##+js(abort-current-inline-script.js, RegExp, zfgload)
 darmowa-telewizja.online##+js(addEventListener-defuser.js, load, onload)
 darmowa-telewizja.online#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
-darmowa-telewizja.online#%#AG_abortInlineScript('zfgloaded', 'RegExp');
+darmowa-telewizja.online#%#AG_abortInlineScript('zfgload', 'RegExp');
 darmowa-telewizja.online,kastream.biz##+js(abort-on-property-read.js, _pop)
 darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
 kastream.biz#%#window.open = function() {};
@@ -1362,9 +1366,9 @@ lamitadmas1.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;w
 
 *$popup,domain=upload.ac,important
 @@||upload.ac/hg/js/advertisement.js$script
-upload.ac##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+upload.ac##+js(abort-current-inline-script.js, RegExp, zfgload)
 upload.ac##+js(abort-current-inline-script.js, document.getElementById, banner)
-upload.ac#%#AG_abortInlineScript('zfgloaded', 'RegExp');
+upload.ac#%#AG_abortInlineScript('zfgload', 'RegExp');
 
 streamango.com##+js(abort-on-property-read.js, BetterJsPop)
 streamango.com#%#AG_abortOnPropertyRead('BetterJsPop');
@@ -1675,8 +1679,8 @@ dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "check
 rmdan.tv##+js(bab-defuser.js)
 rmdan.tv#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
 
-mac-torrent-download.net##+js(abort-current-inline-script.js, Math, zfgloaded)
-mac-torrent-download.net#%#AG_abortInlineScript('zfgloaded', 'Math');
+mac-torrent-download.net##+js(abort-current-inline-script.js, Math, zfgload)
+mac-torrent-download.net#%#AG_abortInlineScript('zfgload', 'Math');
 
 zspnr1.lowicz.pl##+js(setInterval-defuser.js, seead)
 zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
@@ -1719,11 +1723,11 @@ desirecourse.net#%#(function() { var sto = window.setTimeout, re = /\.bab_elemen
 d-navi004.com##.adsbygoogle
 d-navi004.com###snsbox
 
-xmovies.*##+js(abort-current-inline-script.js, Math, zfgloaded)
-xmovies.*#%#AG_abortInlineScript('zfgloaded', 'Math');
+xmovies.*##+js(abort-current-inline-script.js, Math, zfgload)
+xmovies.*#%#AG_abortInlineScript('zfgload', 'Math');
 
-filerio.in##+js(abort-current-inline-script.js, Math, zfgloaded)
-filerio.in#%#AG_abortInlineScript('zfgloaded', 'Math');
+filerio.in##+js(abort-current-inline-script.js, Math, zfgload)
+filerio.in#%#AG_abortInlineScript('zfgload', 'Math');
 
 akl2day.com,linkjust.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 akl2day.com,linkjust.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
@@ -1740,12 +1744,12 @@ freecourseweb.com#%#(function() { var sto = window.setTimeout, re = /\.bab_eleme
 freecourseweb.com##.adsbygoogle
 
 @@||popads.net/pop.js$domain=vidlox.me,important
-vidlox.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+vidlox.*##+js(abort-current-inline-script.js, Math, zfgload)
 vidlox.*##+js(abort-on-property-read.js, decodeURIComponent)
 vidlox.*##+js(nowebrtc.js)
 vidlox.*##+js(set-constant.js, popjs, true)
 vidlox.*##+js(set-constant.js, popns, true)
-vidlox.*#%#AG_abortInlineScript('zfgloaded', 'Math');
+vidlox.*#%#AG_abortInlineScript('zfgload', 'Math');
 vidlox.*#%#AG_abortOnPropertyRead('decodeURIComponent');
 vidlox.*#%#AG_setConstant('popjs', 'true');
 vidlox.*#%#AG_setConstant('popns', 'true');
@@ -1760,8 +1764,8 @@ watchhowimetyourmother.online#%#(function() { var sto = window.setTimeout, re = 
 @@||adsviv.com^$generichide
 adsviv.com##+js(bab-defuser.js)
 adsviv.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
-adsviv.com##+js(abort-current-inline-script.js, Math, zfgloaded)
-adsviv.com#%#AG_abortInlineScript('zfgloaded', 'Math');
+adsviv.com##+js(abort-current-inline-script.js, Math, zfgload)
+adsviv.com#%#AG_abortInlineScript('zfgload', 'Math');
 
 @@||featurecompare.com/ads.js$script,xmlhttprequest,domain=featurecompare.com
 
@@ -1783,9 +1787,9 @@ macbed.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/
 
 */entry2.js$important,domain=multileech.net,script
 
-otakustream.tv##+js(abort-current-inline-script.js, Math, zfgloaded)
+otakustream.tv##+js(abort-current-inline-script.js, Math, zfgload)
 otakustream.tv##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
-otakustream.tv#%#AG_abortInlineScript('zfgloaded', 'Math');
+otakustream.tv#%#AG_abortInlineScript('zfgload', 'Math');
 otakustream.tv#%#AG_abortInlineScript(/getScriptFromCss/, 'decodeURI');
 
 @@||short.pe^$generichide
