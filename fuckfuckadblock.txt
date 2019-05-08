@@ -249,7 +249,7 @@ rusfishing.ru##.samBannerUnit
 ||rusfishing.ru/forum/js/siropu/am/core.min.js$script,empty,domain=rusfishing.ru
 ||rusfishing.ru/forum/js/siropu/am/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
 
-@@*/js/ads.min.js$script,domain=thehindu.com,script
+@@*/js/ads.min.js$script,domain=thehindu.com
 @@||thehindu.com^$generichide
 
 @@||konuneydi.com^$generichide
@@ -994,6 +994,7 @@ prevention.com#%#AG_abortOnPropertyRead('adBlockPromise');
 
 @@*/advert.js^$script,domain=hopto.org
 hopto.org##+js(abort-current-inline-script.js, document.getElementById, undefined)
+hopto.org#%#AG_abortInlineScript('undefined', 'document.getElementById');
 
 ||pagead2.googlesyndication.com/$script,empty,domain=gidoroom.ru
 ||pagead2.googlesyndication.com/$script,redirect=noopjs,domain=gidoroom.ru
@@ -1184,7 +1185,7 @@ javaguides.net#@#.vertical-ads
 
 @@||lavozdealmeria.es^$generichide
 
-@@*/adblockdetectorwithga.js$domain=fox.com.tr
+@@*/adblockdetectorwithga.js$domain=fox.com.tr,script
 @@||fox.com.tr^$generichide
 fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
 fox.com.tr#%#AG_setConstant('adblockDetector', 'trueFunc');
