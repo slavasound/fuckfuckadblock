@@ -1828,3 +1828,10 @@ axjbt.com##+js(window.open-defuser.js)
 playview.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||playview.io^$generichide
 
+full-stream.co##+js(abort-current-inline-script.js, Math, zfgload)
+full-stream.co##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+full-stream.co#%#AG_abortInlineScript('zfgload', 'Math');
+full-stream.co#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
+full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
+||full-stream.co/templates/F-S/images/logo.png$popup
+
