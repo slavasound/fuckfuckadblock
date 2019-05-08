@@ -1879,3 +1879,6 @@ ez4link.org##.adsbygoogle
 ez4link.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ez4link.org#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+@@*/js/ads.js$script,domain=web2.0calc.com
+@@||web2.0calc.com^$generichide
+
