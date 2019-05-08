@@ -317,7 +317,7 @@ igg-games.com##+js(nowebrtc.js)
 ||pagead2.googlesyndication.com/pagead/js/$script,empty,domain=ebb.io
 ||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
 
-@@*/ad-block-detector.js$domain=ncaa.com
+@@*/ad-block-detector.js$domain=ncaa.com,script
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 @@||ncaa.com^$generichide
 
@@ -941,7 +941,7 @@ doctorrouter.ru#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||ausbt.com.au^$generichide
 
 ||d1swblsd1itapx.cloudfront.net$domain=mobzon.ru
-||huawei.mobzon.ru/adbp/adbp.js$domain=mobzon.ru
+||huawei.mobzon.ru/adbp/adbp.js$domain=mobzon.ru,script
 
 @@||colorspire.com^$generichide
 colorspire.com##+js(bab-defuser.js)
@@ -1271,13 +1271,13 @@ linkdrop.net#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 
 @@||mako.co.il^$generichide
 mako.co.il##+js(abort-on-property-write.js, upManager)
+mako.co.il#%#AG_abortOnPropertyWrite('upManager');
 
-nohat.cc##+js(set-constant.js, adblock, 1)
-nohat.cc#%#var adblock = 1;
+@@||nohat.cc/*/advertisement.js$script,domain=nohat.cc
 
-@@*/blockadblock.js$domain=phys-kids.com
 @@||phys-kids.com^$generichide
-phys-kids.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
+phys-kids.com##+js(fuckadblock.js-3.2.0)
+phys-kids.com#%#(function() { var noopfn = function() {;}; var Fab = function() {}; Fab.prototype.check = noopfn; Fab.prototype.clearEvent = noopfn;  Fab.prototype.emitEvent = noopfn; Fab.prototype.on = function(a, b) { if ( !a ) { b(); } return this; }; Fab.prototype.onDetected = function() {  return this; }; Fab.prototype.onNotDetected = function(a) { a(); return this; }; Fab.prototype.setOption = noopfn; var fab = new Fab(),  getSetFab = { get: function() { return Fab; }, set: function() {} }, getsetfab = { get: function() { return fab; }, set: function() {} }; if ( window.hasOwnProperty('FuckAdBlock') ) { window.FuckAdBlock = Fab; } else { Object.defineProperty(window, 'FuckAdBlock', getSetFab); } if ( window.hasOwnProperty('BlockAdBlock') ) { window.BlockAdBlock = Fab; } else {Object.defineProperty(window, 'BlockAdBlock', getSetFab); } if ( window.hasOwnProperty('SniffAdBlock') ) { window.SniffAdBlock = Fab; } else { Object.defineProperty(window, 'SniffAdBlock', getSetFab); } if ( window.hasOwnProperty('fuckAdBlock') ) { window.fuckAdBlock = fab; } else { Object.defineProperty(window, 'fuckAdBlock', getsetfab); } if ( window.hasOwnProperty('blockAdBlock') ) { window.blockAdBlock = fab; } else { Object.defineProperty(window, 'blockAdBlock', getsetfab); } if ( window.hasOwnProperty('sniffAdBlock') ) { window.sniffAdBlock = fab; } else { Object.defineProperty(window, 'sniffAdBlock', getsetfab); } })();
 
 memoryhackers.org##+js(abort-on-property-write.js, adBlockDetected)
 memoryhackers.org#%#AG_abortOnPropertyWrite('adBlockDetected');
