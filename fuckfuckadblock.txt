@@ -1847,7 +1847,9 @@ infosehatku.club#@##header_publicidad
 infosehatku.club#@##common_right_lower_ad_wrapper
 infosehatku.club#@##componentAdRectangle
 infosehatku.club#@##righttop-adverts-container
+@@||infosehatku.club^$generichide
 
+@@||takeitfor.me^$generichide
 takeitfor.me#@##ad_skyscraper_text
 takeitfor.me#@##adsense
 takeitfor.me#@##AdvHeader
