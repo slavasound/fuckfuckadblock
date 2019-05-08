@@ -177,7 +177,6 @@ openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.inf
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_abortOnPropertyRead('open');
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#AG_setConstant('sadbl', 'false');
 openload.co,openload.pw,oload.cc,oload.cloud,oload.club,oload.download,oload.info,oload.fun,oload.live,oload.site,oload.space,oload.stream,oload.tv,oload.win,oladblock.xyz,oladblock.services#%#window.open=function(){};
-||exdynsrv.com^$important
 
 @@||pornbimbo.com^$generichide
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
@@ -187,7 +186,7 @@ pornbimbo.com##+js(window.open-defuser.js)
 pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 pornbimbo.com#%#window.open=function(){};
-||exosrv.com^$important
+pornbimbo.com##+js(window.open-defuser.js)
 ||pornbimbo.com/player/html.php$subdocument
 
 @@||sciencelife.*^$generichide
@@ -349,14 +348,8 @@ tutsgalaxy.com#%#AG_abortOnPropertyRead('anOptions');
 
 @@||programiz.com^$xmlhttprequest
 
-popads.net##+js(popads.net.js)
 sembunyi.in##+js(abort-on-property-read.js, popjs)
 sembunyi.in#%#AG_abortOnPropertyRead('popjs');
-||dolohen.com^$important
-||gfamqlcmymxbeu.com^$important
-||popads.net/pop.js^$empty,important
-||sembunyi.in^$popup,important
-||xpgcrmxejlgig.com^$important
 
 earthpiclover.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 earthpiclover.com##.adsbygoogle
@@ -673,7 +666,6 @@ rangdhanu.live#%#(function() { var sto = window.setTimeout, re = /\.bab_elementi
 
 anitube.cz##+js(abort-on-property-write.js, _pop)
 anitube.cz#%#AG_abortOnPropertyWrite('_pop');
-||mvunstblutptj.com^$important
 
 kpscthulasilogin.info##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 kpscthulasilogin.info##.adsbygoogle
@@ -1130,7 +1122,6 @@ express.de###wl-overlay-wrapper
 professionaltutorial.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com##+js(abort-on-property-read.js, encodeURIComponent)
-||adswrapme.click^$important
 
 @@||vsthouse.ru^$generichide
 vsthouse.ru##+js(bab-defuser.js)
