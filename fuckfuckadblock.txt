@@ -197,7 +197,6 @@ sciencelife.*##.adsbygoogle
 sciencelife.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 sciencelife.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 sciencelife.*#%#window.open=function(){};
-||gregnobs.com^$important
 
 @@||ttsmp3.com^$generichide
 ttsmp3.com##+js(bab-defuser.js)
