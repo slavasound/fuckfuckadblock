@@ -1890,3 +1890,7 @@ linkshrter.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementi
 linkshrter.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 linkshrter.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
+@@||news24.com^$generichide
+news24.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+news24.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
+
