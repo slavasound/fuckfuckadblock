@@ -1909,3 +1909,10 @@ www094602.com#@##adsense
 wickedsick.tv#%#AG_abortInlineScript(/api\/direct/, 'spot');
 wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
 
+anitube.cz##+js(abort-current-inline-script.js, Math, zfgloaded)
+anitube.cz##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+anitube.cz##+js(addEventListener-defuser.js, load)
+anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
+anitube.cz#%#AG_abortInlineScript('zfgload', 'Math');
+anitube.cz#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+
