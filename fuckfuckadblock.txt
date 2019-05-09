@@ -1837,7 +1837,7 @@ axjbt.com#%#window.open=function(){};
 axjbt.com##+js(window.open-defuser.js)
 axjbt.com#%#AG_abortOnPropertyRead('myclick');
 axjbt.com##+js(abort-on-property-read.js, myclick)
-||axjbt.com/dbxf/pctc.js$,domain=axjbt.com,script,important
+||axjbt.com/dbxf/pctc.js$domain=axjbt.com,script,important
 
 playview.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||playview.io^$generichide
@@ -1939,4 +1939,10 @@ superherohype.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 superherohype.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 @@*/ads.min.js$domain=verifyemailaddress.io,script
+
+avcao.cc#%#window.open=function(){};
+avcao.cc##+js(window.open-defuser.js)
+avcao.cc#%#AG_abortOnPropertyRead('myclick');
+avcao.cc##+js(abort-on-property-read.js, myclick)
+||avcao.cc/js/p.js$domain=axjbt.com,script,important
 
