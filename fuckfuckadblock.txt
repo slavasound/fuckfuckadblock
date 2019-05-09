@@ -813,6 +813,7 @@ programinadresi.com#%#AG_abortOnPropertyRead('adBlock');
 
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
 freemcserver.net##+js(setTimeout-defuser.js, adblock)
+freemcserver.net#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/\/site\/adblock/.test(a.toString()))return b(a,c)};})();
 freemcserver.net##.adsbygoogle
 
 keepvid.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
@@ -852,6 +853,7 @@ alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
 
 @@||arenavision.*^$generichide
 arenavision.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+arenavision.*#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
 
 @@||slink.bid^$generichide
 slink.bid##+js(popads-dummy.js)
