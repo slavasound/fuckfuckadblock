@@ -726,6 +726,7 @@ clik.*#%#AG_abortInlineScript('zfgload', 'RegExp');
 clik.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
 clik.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
+clik.*$popup,third-party,important
 
 ft.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 ft.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
