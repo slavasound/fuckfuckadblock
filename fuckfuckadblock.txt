@@ -1835,6 +1835,8 @@ ke1.nl#@##banner_ad
 
 axjbt.com#%#window.open=function(){};
 axjbt.com##+js(window.open-defuser.js)
+axjbt.com#%#AG_abortOnPropertyRead('myclick');
+axjbt.com##+js(abort-on-property-read.js, myclick)
 ||axjbt.com/dbxf/pctc.js$,domain=axjbt.com,script,important
 
 playview.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
