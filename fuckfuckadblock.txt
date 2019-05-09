@@ -1906,3 +1906,6 @@ www094602.com#@##ad
 www094602.com#@##ads
 www094602.com#@##adsense
 
+wickedsick.tv#%#AG_abortInlineScript(/api\/direct/, 'spot');
+wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
+
