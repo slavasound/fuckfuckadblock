@@ -847,7 +847,7 @@ keepvid.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 xiaomifans.pl##+js(setTimeout-defuser.js, test, 100)
 xiaomifans.pl#@#.adsbygoogle
 
-*$webrtc,domain=stiffvip.com
+*$webrtc,domain=stiffvip.com,important
 @@*/js/ads.js^$script,domain=stiffvip.com
 stiffvip.com##+js(abort-current-inline-script.js, RegExp, zfgload)
 stiffvip.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -1170,7 +1170,8 @@ frendz4m.com#%#(function(){var sto=window.setTimeout,re=/\.bab_elementid.$/;wind
 
 @@||jpopsingles.*^$generichide
 
-*$webrtc,domain=uploadocean.com
+*$webrtc,domain=uploadocean.com,important
+uploadocean.com##+js(nowebrtc.js)
 @@||uploadocean.com^$generichide
 
 @@||urlex.org^$generichide
@@ -1255,8 +1256,10 @@ eveningtimes.co.uk#%#AG_abortOnPropertyWrite('_sp_');
 warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
 warringtonguardian.co.uk#%#AG_abortOnPropertyWrite('_sp_');
 
-*$webrtc,domain=gsmarena.com
+*$webrtc,domain=gsmarena.com,important
+gsmarena.com##+js(nowebrtc.js)
 @@||gsmarena.com^$generichide
+gsmarena.com#%#AG_abortOnPropertyWrite('adonisHash');
 gsmarena.com##+js(abort-on-property-write.js, adonisHash)
 
 @@||linkdrop.net^$generichide
@@ -1757,7 +1760,7 @@ vidlox.*#%#AG_abortInlineScript('zfgload', 'Math');
 vidlox.*#%#AG_abortOnPropertyRead('decodeURIComponent');
 vidlox.*#%#AG_setConstant('popjs', 'true');
 vidlox.*#%#AG_setConstant('popns', 'true');
-vidlox.*$webrtc
+vidlox.*$webrtc,important
 
 kp.ru###popapIsBlockedAd
 
@@ -1916,3 +1919,5 @@ anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
 anitube.cz#%#AG_abortInlineScript('zfgload', 'Math');
 anitube.cz#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
+prettyfast.to##+js(nowebrtc.js)
+prettyfast.to$webrtc,important
