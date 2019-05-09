@@ -1938,3 +1938,5 @@ hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
 superherohype.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 superherohype.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
+@@*/ads.min.js$domain=verifyemailaddress.io,script
+
