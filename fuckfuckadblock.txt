@@ -1894,3 +1894,15 @@ linkshrter.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 news24.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 news24.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
+@@||www094602.com^$generichide
+www094602.com#@##DivTopAd
+www094602.com#@##ad-zone-1
+www094602.com#@##ad_190x90
+www094602.com#@##ads-sticky
+www094602.com#@##iqadtile5
+www094602.com#@##leftframeAD
+www094602.com#@##tobsideAd
+www094602.com#@##ad
+www094602.com#@##ads
+www094602.com#@##adsense
+
