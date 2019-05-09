@@ -1932,3 +1932,7 @@ sataniabatch.blogspot.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.
 hdpornvideo.xxx#%#AG_abortOnPropertyRead('TrybbBlock');
 hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
 
+@@||superherohype.com^$generichide
+superherohype.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+superherohype.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
+
