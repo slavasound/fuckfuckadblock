@@ -1828,3 +1828,6 @@ imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortInlineScript('Test
 123moviesfull.net##+js(abort-current-inline-script.js, Math, zfgload)
 123moviesfull.net#%#AG_abortInlineScript('zfgload', 'Math');
 
+shaanig.se#@##banner_ad
+@@||shaanig.se^$generichide
+
