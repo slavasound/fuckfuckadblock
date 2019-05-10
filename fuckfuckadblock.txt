@@ -1874,3 +1874,5 @@ uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bann
 uploadrar.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 uploadrar.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
+@@*/adblockDetect.js$$xmlhttprequest,domain=atv.com.tr
+
