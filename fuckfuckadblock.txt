@@ -1233,7 +1233,7 @@ gsmarena.com##+js(abort-on-property-write.js, adonisHash)
 mako.co.il##+js(abort-on-property-write.js, upManager)
 mako.co.il#%#AG_abortOnPropertyWrite('upManager');
 
-@@||nohat.cc/*/advertisement.js$script,domain=nohat.cc
+@@*/advertisement.js$script,domain=nohat.cc
 
 @@||phys-kids.com^$generichide
 
@@ -1267,14 +1267,14 @@ gutekueche.at#%#AG_setConstant('gkAdsWerbung', 'true');
 
 @@||blogspot.com^$generichide
 
-@@||ynet.co.il/*/ads.js$script,domain=ynet.co.il
+@@*/ads.js$script,domain=ynet.co.il
 
 @@||teqniaplus.com^$generichide
 teqniaplus.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 teqniaplus.com##.adsbygoogle
 teqniaplus.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-@@||australianfrequentflyer.com.au/community/js/siropu/am/ads.min.js$script
+@@*/ads.min.js$script,domain=australianfrequentflyer.com.au
 @@||australianfrequentflyer.com.au^$generichide
 
 @@||www.motortrendondemand.com/advertisements-ad-unit/*$xmlhttprequest,domain=www.motortrendondemand.com
@@ -1287,9 +1287,9 @@ odkrywamyzakryte.com#%#AG_abortOnPropertyRead('adBlockDetected');
 software-on.com##+js(window.open-defuser.js)
 software-on.com#%#window.open=function(){};
 
-@@||reactiongaming.us/*/ads.min.js$script,domain=reactiongaming.us
+@@*/ads.min.js$script,domain=reactiongaming.us
 
-@@||swatchseries.to/templates/default/js/advertising.js$script,domain=swatchseries.to
+@@*/advertising.js$script,domain=swatchseries.to
 
 animeshouse.net#@#.afs_ads
 
@@ -1297,7 +1297,7 @@ animeshouse.net#@#.afs_ads
 
 @@||febbit.com^$generichide
 
-@@||calciomercato.com/adv.js$script
+@@*/adv.js$script,domain=calciomercato.com
 @@||calciomercato.com^$generichide
 
 @@||profitstudy.*^$generichide
@@ -1310,11 +1310,12 @@ scat.gold#%#AG_abortOnPropertyRead('anOptions');
 
 @@||lamitadmas1.net^$generichide
 
-@@*/js/adv.js$script,domain=seo-fast.ru
+@@*/adv.js$script,domain=seo-fast.ru
 
 *$popup,domain=upload.ac,important
 @@||upload.ac/hg/js/advertisement.js$script
 upload.ac##+js(abort-current-inline-script.js, RegExp, zfgload)
+upload.ac#%#AG_abortInlineScript(/"banner"/, 'document.getElementById');
 upload.ac##+js(abort-current-inline-script.js, document.getElementById, banner)
 upload.ac#%#AG_abortInlineScript('zfgload', 'RegExp');
 
@@ -1364,10 +1365,14 @@ mrtekani.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 ||boostervideo.ru/client/boostervideo.js$script,redirect=noopjs,domain=all-episodes.tv
 
 ksta.de###wl-overlay-wrapper
+ksta.de#@#.full_ad
+ksta.de#@#.banner_ad
 
-@@||solvetube.site/googleads.js$script,domain=solvetube.site
+@@*/googleads.js$script,domain=solvetube.site
 
 imgdawgknuttz.com#@#.adsBox
+imgdawgknuttz.com##+js(abort-on-property-read.js, ExoLoader)
+imgdawgknuttz.com#%#AG_abortOnPropertyRead('ExoLoader');
 
 @@*/advertisement.js$xmlhttprequest,domain=bolgegundem.com
 
