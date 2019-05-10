@@ -696,15 +696,19 @@ ocen-piwo.pl###osiemnascielat
 @@||clik.*^$generichide
 clik.*##+js(abort-current-inline-script.js, RegExp, zfgload)
 clik.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+clik.*##+js(abort-on-property-read.js, open)
+clik.*##+js(addEventListener-defuser.js, mouseup, click)
+clik.*##+js(nowebrtc.js)
 clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*##.adsbygoogle
-clik.*##+js(nowebrtc.js)
-clik.*$webrtc,important
+clik.*#%#//scriptlet("prevent-addEventListener", "mouseup", "click")
 clik.*#%#AG_abortInlineScript('zfgload', 'RegExp');
 clik.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
 clik.*#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+clik.*#%#AG_abortOnPropertyRead('open');
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
 clik.*$popup,third-party,important
+clik.*$webrtc,important
 
 ft.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 ft.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
