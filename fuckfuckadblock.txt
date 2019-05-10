@@ -1835,3 +1835,6 @@ imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortInlineScript('Test
 shaanig.se#@##banner_ad
 @@||shaanig.se^$generichide
 
+despistaos.es#@#.adsbygoogle
+@@||despistaos.es^$generichide
+
