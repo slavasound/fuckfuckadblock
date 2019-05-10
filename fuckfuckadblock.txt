@@ -342,7 +342,7 @@ tutsgalaxy.com#%#AG_abortOnPropertyRead('anOptions');
 
 @@||inoreader.com^$generichide
 
-@@||programiz.com^$xmlhttprequest
+@@||programiz.com^$xmlhttprequest,domain=programiz.com
 
 sembunyi.in##+js(abort-on-property-read.js, popjs)
 sembunyi.in#%#AG_abortOnPropertyRead('popjs');
