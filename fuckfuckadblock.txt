@@ -1859,3 +1859,10 @@ despistaos.es#@#.adsbygoogle
 
 @@||ramdan.tv^$generichide
 
+japscan.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+japscan.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+japscan.*#%#AG_abortInlineScript('zfgload', 'Math');
+japscan.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+japscan.*##+js(abort-on-property-write.js, Fingerprint2)
+japscan.*#%#AG_abortOnPropertyWrite('Fingerprint2');
+
