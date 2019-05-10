@@ -1376,7 +1376,7 @@ imgdawgknuttz.com#%#AG_abortOnPropertyRead('ExoLoader');
 
 @@*/advertisement.js$xmlhttprequest,domain=bolgegundem.com
 
-@@||googlesyndication.com/pagead/$third-party,script,domain=finobe.com
+@@||finobe.com^$generichide
 finobe.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
 @@||viki.io/cms-uploads/uncategorized/ima3.js$domain=viki.com
@@ -1386,16 +1386,18 @@ finobe.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ad
 @@||atresplayer.com^$generichide
 atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
-||ruanyifeng.com/blog/checker.js$script
+*/checker.js$script,domain=ruanyifeng.com
 
 @@||usgamer.net^$generichide
 
+@@||darckrepacks.com^$generichide
 darckrepacks.com#@#.adsbygoogle
 
 @@||informazionefiscale.it^$generichide
 
 @@||pes.social^$generichide
 
+@@||gidoroom.ru^$generichide
 gidoroom.ru#@#.adsbygoogle
 
 @@||phimgi.net^$generichide
@@ -1410,17 +1412,17 @@ cnet.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 @@||webgate.tn^$generichide
 
-@@*/js/advertisement.js$script,domain=uploadship.com
+@@*/advertisement.js$script,domain=uploadship.com
 uploadship.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 uploadship.com#%#AG_abortInlineScript(/"adblockinfo"/, 'document.getElementById');
 
-@@*/js/advertisement.js$script,domain=vw-page.com
+@@*/advertisement.js$script,domain=vw-page.com
 
 @@||allacronyms.com^$generichide
 
 @@||topspeed.sk^$generichide
 
-@@||bahnbonus-shopping.de/scripts/adIFrame.js$script,domain=bahnbonus-shopping.de
+@@*/adIFrame.js$script,domain=bahnbonus-shopping.de
 
 123l.pw##+js(abort-on-property-write.js, showAdsBlock)
 123l.pw#%#AG_abortOnPropertyWrite('showAdsBlock');
@@ -1453,7 +1455,7 @@ jainjinvani.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 @@||ioscreator.com^$generichide
 
-@@||pleshka.com/ads/ads.js$script,domain=pleshka.com
+@@*/ads.js$script,domain=pleshka.com
 
 |http*://$image,domain=ip.cn,badfilter
 
@@ -1468,8 +1470,10 @@ dniwolne.eu#%#AG_setConstant('window.google_jobrunner', 'noopFunc');
 
 @@||jakimasklad.pl^$generichide
 
+@@||1excelbet365.com^$generichide
 1excelbet365.com#@#.adsbygoogle
 
+@@||wokesloth.com^$generichide
 wokesloth.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 wokesloth.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
@@ -1486,7 +1490,7 @@ torrentmafya.net#%#AG_abortOnPropertyRead('anOptions');
 ucuzaucak.net##+js(abort-on-property-read.js, anOptions)
 ucuzaucak.net#%#AG_abortOnPropertyRead('anOptions');
 
-@@||playtor.tv/*/adb.js$script,domain=playtor.tv
+@@*/adb.js$script,domain=playtor.tv
 
 @@*/show_ads.js$script,domain=mp3.teledyski.info
 
@@ -1505,7 +1509,7 @@ techfinda.com##.adsbygoogle
 andek.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||andek.com.pl^$generichide
 
-@@||rodzinnywyjazd.pl/gads.js$script,domain=rodzinnywyjazd.pl
+@@*/gads.js$script,domain=rodzinnywyjazd.pl
 
 @@||gradown.com^$generichide
 
@@ -1527,7 +1531,7 @@ talkittechy.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 talkittechy.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
 *$webrtc,domain=cyfostreams.com,important
-@@||cyfostreams.com/advertisement.js$script,domain=cyfostreams.com
+@@*/advertisement.js$script,domain=cyfostreams.com
 cyfostreams.com##+js(nowebrtc.js)
 
 @@||openloadtv.*^$generichide
@@ -1549,7 +1553,7 @@ logrosxbox.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.tex
 
 @@||aternos.org^$generichide
 
-||allnorilsk.ru/js/adb.js$script,domain=allnorilsk.ru
+*/adb.js$script,domain=allnorilsk.ru
 
 @@||webtvhd.com^$generichide
 
