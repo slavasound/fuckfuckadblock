@@ -1091,10 +1091,12 @@ twojetv.ws##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 twojetv.ws##+js(window.open-defuser.js)
 twojetv.ws#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
+@@||express.de^$generichide
 express.de###wl-overlay-wrapper
 
 @@||clksite.com/static/advertisement.js$script,domain=clksite.com
 
+@@||professionaltutorial.com^$generichide
 professionaltutorial.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com##+js(abort-on-property-read.js, encodeURIComponent)
@@ -1123,13 +1125,13 @@ tucson.com#%#AG_abortOnPropertyRead('stop');
 @@||topserialy.*/js/googlead.js$script
 @@||topserialy.*^$generichide
 
-@@||version2.dk/ads.js$script,domain=version2.dk
+@@*/ads.js$script,domain=version2.dk
 
 @@||usapoliticstoday.com^$generichide
 
 @@||macdailynews.com^$generichide
 
-@@||kenkenpuzzle.com/assets/adframe.js$script,domain=kenkenpuzzle.com
+@@*/adframe.js$script,domain=kenkenpuzzle.com
 @@||kenkenpuzzle.com^$generichide
 
 @@||jpopsingles.*^$generichide
@@ -1140,7 +1142,7 @@ uploadocean.com##+js(nowebrtc.js)
 
 @@||urlex.org^$generichide
 
-@@||forums.overclockers.ru/ads/advert.js$script
+@@*/advert.js$script,domain=overclockers.ru
 
 @@||javadecompilers.com^$generichide
 
