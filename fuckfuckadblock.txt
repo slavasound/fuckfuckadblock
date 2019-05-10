@@ -1053,7 +1053,7 @@ bostonherald.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
 ojomovies.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 ojomovies.com##+js(abort-on-property-write.js, Fingerprint2)
 ojomovies.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-ojomovies.com#%#Object.defineProperties(window,{admvpu:{get:function(){},set:function(a){if("function"==typeof a)throw Error();}},Fingerprint2:{get:function(){},set:function(){throw Error();}}});
+ojomovies.com#%#AG_abortOnPropertyWrite('Fingerprint2');
 
 tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.text-ad-links.text-ads.textAd.text_ad.text_ads{display:block!important;}
 @@||tvple.com^$generichide
