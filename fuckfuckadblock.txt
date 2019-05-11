@@ -184,7 +184,7 @@ openload.*,oload.*,oladblock.*##+js(openload.co.js)
 openload.*,oload.*,oladblock.*##+js(set-constant.js, sadbl, false)
 openload.*,oload.*,oladblock.*##+js(window.open-defuser.js)
 openload.*,oload.*,oladblock.*#%#AG_abortInlineScript(/adblock|adblock2/);
-openload.*,oload.*,oladblock.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+openload.*,oload.*,oladblock.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 openload.*,oload.*,oladblock.*#%#AG_abortOnPropertyRead('open');
 openload.*,oload.*,oladblock.*#%#AG_setConstant('sadbl', 'false');
 openload.*,oload.*,oladblock.*#%#window.open=function(){};
@@ -203,7 +203,7 @@ pornbimbo.com##+js(window.open-defuser.js)
 @@||sciencelife.*^$generichide
 sciencelife.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 sciencelife.*##.adsbygoogle
-sciencelife.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+sciencelife.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 sciencelife.*#%#window.open=function(){};
 sciencelife.*##+js(window.open-defuser.js)
 
@@ -214,7 +214,7 @@ wordexcerpt.com#%#AG_abortOnPropertyRead('anOptions');
 
 @@||tamiltunes.*^$generichide
 tamiltunes.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-tamiltunes.*#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
+tamiltunes.*#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 
 @@||leakforums.*^$generichide
 leakforums.*##+js(abort-on-property-read.js, adblock)
@@ -333,7 +333,7 @@ businessinsider.*#%#AG_abortOnPropertyRead('stop');
 @@||stiffgamerdown.com^$generichide
 stiffgamerdown.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 stiffgamerdown.com##+js(window.open-defuser.js)
-stiffgamerdown.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+stiffgamerdown.com#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 stiffgamerdown.com#%#window.open=function(){};
 
 @@||tutsgalaxy.com^$generichide
@@ -667,7 +667,7 @@ diariodenavarra.es#%#AG_setConstant('Math.random', 'trueFunc');
 userscloud.com##+js(abort-current-inline-script.js, Math, zfgload)
 userscloud.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 userscloud.com##+js(abort-on-property-write.js, open)
-userscloud.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+userscloud.com#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 userscloud.com#%#AG_abortInlineScript('zfgload', 'Math');
 userscloud.com#%#AG_abortOnPropertyWrite('open');
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
@@ -716,7 +716,7 @@ convert2mp3.net##+js(abort-current-inline-script.js, RegExp, zfgload)
 convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net#%#AG_abortInlineScript('zfgload', 'RegExp');
-convert2mp3.net#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+convert2mp3.net#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
 ||convert2mp3.net/assets/js/push.js^$script,important,domain=convert2mp3.net
 
@@ -792,7 +792,7 @@ freemcserver.net#%#(function(){var b=window.setTimeout;window.setTimeout=functio
 freemcserver.net##.adsbygoogle
 
 keepvid.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-keepvid.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+keepvid.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 
 @@||xiaomifans.pl^$generichide
 xiaomifans.pl#@#.adsbygoogle
@@ -828,7 +828,7 @@ alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
 
 @@||arenavision.*^$generichide
 arenavision.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-arenavision.*#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
+arenavision.*#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 
 @@||slink.bid^$generichide
 
@@ -981,11 +981,11 @@ apteka.ua#@#.adsbygoogle
 
 getlec.blogspot.com##+js(abort-current-inline-script.js, RegExp, zfgload)
 getlec.blogspot.com#%#AG_abortInlineScript('zfgload', 'RegExp');
-getlec.blogspot.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+getlec.blogspot.com#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 getlec.blogspot.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
 ver-pelis.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-ver-pelis.*#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
+ver-pelis.*#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 ver-pelis.*##+js(window.open-defuser.js)
 ver-pelis.*#%#window.open=function(){};
 ||ver-pelis.*^$third-party,important
@@ -1008,7 +1008,7 @@ bostonherald.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
 
 ojomovies.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 ojomovies.com##+js(abort-on-property-write.js, Fingerprint2)
-ojomovies.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+ojomovies.com#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 ojomovies.com#%#AG_abortOnPropertyWrite('Fingerprint2');
 
 tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.text-ad-links.text-ads.textAd.text_ad.text_ads{display:block!important;}
@@ -1045,7 +1045,7 @@ darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
 kastream.biz#%#window.open = function() {};
 twojetv.ws##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 twojetv.ws##+js(window.open-defuser.js)
-twojetv.ws#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+twojetv.ws#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 
 @@||express.de^$generichide
 express.de###wl-overlay-wrapper
@@ -1613,7 +1613,7 @@ sbsports.pro##+js(window.open-defuser.js)
 @@||hackinblood.com^$generichide
 hackinblood.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
-@@*/js/ads.js$script,domain=coop-land.ru
+@@*/ads.js$script,domain=coop-land.ru
 
 @@||macbed.com^$generichide
 
@@ -1631,7 +1631,7 @@ dailyimages.xyz##+js(abort-current-inline-script.js, Math, zfgload)
 dailyimages.xyz##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
 dailyimages.xyz##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 dailyimages.xyz#%#AG_abortInlineScript('zfgload', 'Math');
-dailyimages.xyz#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
+dailyimages.xyz#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 dailyimages.xyz#%#AG_abortInlineScript(/getexoloader/, 'document.dispatchEvent');
 
 @@||c4free.win^$generichide
@@ -1658,7 +1658,7 @@ playview.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_a
 full-stream.co##+js(abort-current-inline-script.js, Math, zfgload)
 full-stream.co##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 full-stream.co#%#AG_abortInlineScript('zfgload', 'Math');
-full-stream.co#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
+full-stream.co#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
 ||full-stream.co/templates/F-S/images/logo.png$popup
 
@@ -1733,7 +1733,7 @@ anitube.cz##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 anitube.cz##+js(addEventListener-defuser.js, load)
 anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
 anitube.cz#%#AG_abortInlineScript('zfgload', 'Math');
-anitube.cz#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+anitube.cz#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 anitube.cz##+js(abort-on-property-write.js, _pop)
 anitube.cz#%#AG_abortOnPropertyWrite('_pop');
 
@@ -1794,7 +1794,7 @@ japscan.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 japscan.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 japscan.*##+js(abort-on-property-write.js, Fingerprint2)
 japscan.*#%#AG_abortInlineScript('zfgload', 'Math');
-japscan.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+japscan.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 japscan.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 
 @@||anitube.cz^$generichide
@@ -1805,7 +1805,7 @@ japscan.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 uploadrar.com#%#AG_abortInlineScript('bannerad', 'document.getElementById');
 uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
 uploadrar.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-uploadrar.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+uploadrar.com#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 
 @@*/adblockDetect.js$xmlhttprequest,domain=atv.com.tr
 
@@ -1814,7 +1814,7 @@ woxikon.de#@#.full_ad
 @@||woxikon.de^$generichide
 
 skiehacker.weebly.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-skiehacker.weebly.com#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
+skiehacker.weebly.com#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 @@||skiehacker.weebly.com^$generichide
 skiehacker.weebly.com#@##banner_ad
 
