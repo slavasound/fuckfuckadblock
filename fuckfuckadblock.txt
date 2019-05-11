@@ -1907,3 +1907,6 @@ indishare.*#%#AG_abortOnPropertyRead('decodeURIComponent');
 indishare.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 ||indishare.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bootstrapcdn.com *.cloudflare.com *.google-analytics.com
 
+rmdan.net#@##banner_ad
+@@||rmdan.net^$generichide
+
