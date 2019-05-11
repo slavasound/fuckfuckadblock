@@ -134,6 +134,9 @@ tajemnice-swiata.pl,dutchycorp.space,utimetableresult.*,replica-watch.info,thuth
 sciencelife.*,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,earthpiclover.com,licklink.net,pinkhindi.com,cooltxtgen.com,wishes2.com,click2url.*,shrtfly.*,vinaurl.net,tinylink.*,kpscthulasilogin.info,partqb2i.com,imageoptimizer.*,oko.sh,clik.*,tiny.*,sk-ip.ru,urlsamo.com,ourmagnet.*,techjad.com,dutchycorp.space,click2see.*,farman.*,payco.*,cut7link.*,tl.tc,stiffvip.com,abouttech.*,bloggingdekh.*,linkrag.com,dunyanews.*,utimetableresult.*,flyurls.com,daily-sale.*,govtsmartjob.com,teqniaplus.com,profitstudy.*,agradarpan.com,getpocket.*,gossipcorners.com,mrtekani.com,technoslek.com,jainjinvani.com,shrinkearn.com,teqnwy.com,talkittechy.com,vinaurl.in,akl2day.com,linkjust.com,short.pe,beast-birds.com,al3amall.com,ez4link.org,linkshrter.com,fc.lc,akuno.net,akla4.com,larkgroup.net,foodpuff.com,linksop.com,lkop.me,bit-url.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 sciencelife.*,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,earthpiclover.com,licklink.net,pinkhindi.com,cooltxtgen.com,wishes2.com,click2url.*,shrtfly.*,vinaurl.net,tinylink.*,kpscthulasilogin.info,partqb2i.com,imageoptimizer.*,oko.sh,clik.*,tiny.*,sk-ip.ru,urlsamo.com,ourmagnet.*,techjad.com,dutchycorp.space,click2see.*,farman.*,payco.*,cut7link.*,tl.tc,stiffvip.com,abouttech.*,bloggingdekh.*,linkrag.com,dunyanews.*,utimetableresult.*,flyurls.com,daily-sale.*,govtsmartjob.com,teqniaplus.com,profitstudy.*,agradarpan.com,getpocket.*,gossipcorners.com,mrtekani.com,technoslek.com,jainjinvani.com,shrinkearn.com,teqnwy.com,talkittechy.com,vinaurl.in,akl2day.com,linkjust.com,short.pe,beast-birds.com,al3amall.com,ez4link.org,linkshrter.com,fc.lc,akuno.net,akla4.com,larkgroup.net,foodpuff.com,linksop.com,lkop.me,bit-url.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
+pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com##+js(abort-on-property-read.js, encodeURIComponent)
+pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com#%#AG_abortOnPropertyRead('encodeURIComponent');
+
 @@||mercurynews.com/wp-content/themes/wp-mason/static/js/ads.js$script
 @@||mercurynews.com^$generichide
 
@@ -896,7 +899,7 @@ go.bucketforms.com#%#AG_abortInlineScript('adblocker', '$');
 
 intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
 intporn.org#%#AG_abortOnPropertyRead('jsm_reruntime');
-||intporn.org/js/chaturbate.js$script,important
+*/chaturbate.js$script,important
 
 televall.*##+js(addEventListener-defuser.js, load, onload)
 televall.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
@@ -1052,15 +1055,12 @@ express.de###wl-overlay-wrapper
 @@||professionaltutorial.com^$generichide
 professionaltutorial.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
-pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com##+js(abort-on-property-read.js, encodeURIComponent)
-pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com#%#AG_abortOnPropertyRead('encodeURIComponent');
-
 @@||vsthouse.ru^$generichide
 
 @@*/ads.js$domain=aargauerzeitung.ch,script
 aargauerzeitung.ch#@##banner_ad
 
-@@||notebookcheck.net/ads.js$script,domain=notebookcheck.net
+@@*/ads.js$script,domain=notebookcheck.net
 
 @@*/ads.js$script,domain=foxplay.com.tr
 
@@ -1127,6 +1127,7 @@ samo-tech.com#@##advertising2
 samo-tech.com#@##divAdBox
 samo-tech.com#@##mochila-column-right-ad-300x250-1
 samo-tech.com#@##searchAdSenseBox
+@@||samo-tech.com^$generichide
 
 @@*/ads-*.js$script,domain=duellinksmeta.com
 @@*/adsbygoogle.js$script,domain=duellinksmeta.com
@@ -1150,6 +1151,7 @@ zwergenstadt.com#@##lower_ad
 zwergenstadt.com#@##ns_ad2
 zwergenstadt.com#@##rh_tower_ad
 zwergenstadt.com#@##topadzone
+@@||zwergenstadt.com^$generichide
 
 @@||zahipedia.net^$generichide
 
