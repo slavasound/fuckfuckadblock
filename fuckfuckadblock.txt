@@ -142,7 +142,7 @@ pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,op
 
 @@||dropupload.com^$generichide
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
-dropupload.com#%#AG_abortInlineScript(/"adblockinfo"/, 'document.getElementById');
+dropupload.com#%#AG_abortInlineScript('adblockinfo', 'document.getElementById');
 
 @@||mangahost1.com^$generichide
 @@||mangahost2.com^$generichide
@@ -1622,7 +1622,7 @@ hackinblood.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.te
 otakustream.tv##+js(abort-current-inline-script.js, Math, zfgload)
 otakustream.tv##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 otakustream.tv#%#AG_abortInlineScript('zfgload', 'Math');
-otakustream.tv#%#AG_abortInlineScript(/getScriptFromCss/, 'decodeURI');
+otakustream.tv#%#AG_abortInlineScript('getScriptFromCss', 'decodeURI');
 
 @@||short.pe^$generichide
 short.pe##.adsbygoogle
@@ -1869,4 +1869,8 @@ empflix.com#%#AG_abortOnPropertyRead('ALoader');
 empflix.com#%#AG_abortOnPropertyRead('ads.pop_url');
 empflix.com#%#AG_abortOnPropertyWrite('popzone');
 empflix.com#%#window.open=function(){};
+
+3zfile.net##+js(abort-current-inline-script.js, document.getElementById, adblock)
+3zfile.net##+js(abort-current-inline-script.js, Math, zfgloaded)
+
 
