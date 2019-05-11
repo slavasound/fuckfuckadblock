@@ -1876,3 +1876,7 @@ uploadrar.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
 @@*/adblockDetect.js$$xmlhttprequest,domain=atv.com.tr
 
+woxikon.de#@#.banner_ad
+woxikon.de#@#.full_ad
+@@||woxikon.de^$generichide
+
