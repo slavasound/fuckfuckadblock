@@ -1204,6 +1204,7 @@ suarankri.me#@##common_right_lower_ad_wrapper
 suarankri.me#@##componentAdRectangle
 suarankri.me#@##header_publicidad
 suarankri.me#@##righttop-adverts-container
+@@||suarankri.me^$generichide
 
 @@||animedao29.stream^$generichide
 
@@ -1259,12 +1260,12 @@ scat.gold#%#AG_abortOnPropertyRead('anOptions');
 
 @@*/adv.js$script,domain=seo-fast.ru
 
-*$popup,domain=upload.ac,important
-@@||upload.ac/hg/js/advertisement.js$script
-upload.ac##+js(abort-current-inline-script.js, RegExp, zfgload)
-upload.ac#%#AG_abortInlineScript(/"banner"/, 'document.getElementById');
-upload.ac##+js(abort-current-inline-script.js, document.getElementById, banner)
-upload.ac#%#AG_abortInlineScript('zfgload', 'RegExp');
+@@||upload.*/advertisement.js$script
+upload.*##+js(abort-current-inline-script.js, RegExp, zfgload)
+upload.*##+js(abort-current-inline-script.js, document.getElementById, banner)
+upload.*#%#AG_abortInlineScript('zfgload', 'RegExp');
+upload.*#%#AG_abortInlineScript('banner', 'document.getElementById');
+upload.*$popup,important
 
 streamango.com##+js(abort-on-property-read.js, BetterJsPop)
 streamango.com#%#AG_abortOnPropertyRead('BetterJsPop');
@@ -1288,7 +1289,7 @@ gossipcorners.com##.adsbygoogle
 
 @@||dangotoons.com^$generichide
 
-@@||mediaite.com/adbait/adsbygoogle.js$script,domain=mediaite.com
+@@*/adsbygoogle.js$script,domain=mediaite.com
 
 pcportal.org##.adsbygoogle
 pcportal.org##.adb-def
@@ -1321,10 +1322,10 @@ imgdawgknuttz.com#%#AG_abortOnPropertyRead('ExoLoader');
 @@||finobe.com^$generichide
 finobe.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
-@@||viki.io/cms-uploads/uncategorized/ima3.js$domain=viki.com
+@@*/ima3.js$domain=viki.com,script
 
-@@||adpass.atresmedia.com/*/adjs.js$domain=atresplayer.com,script
-@@||adpass.atresmedia.com/*/advertisement.js$domain=atresplayer.com,script
+@@*/adjs.js$domain=atresplayer.com,script
+@@*/advertisement.js$domain=atresplayer.com,script
 @@||atresplayer.com^$generichide
 atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
@@ -1356,7 +1357,7 @@ cnet.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 @@*/advertisement.js$script,domain=uploadship.com
 uploadship.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
-uploadship.com#%#AG_abortInlineScript(/"adblockinfo"/, 'document.getElementById');
+uploadship.com#%#AG_abortInlineScript('adblockinfo', 'document.getElementById');
 
 @@*/advertisement.js$script,domain=vw-page.com
 
