@@ -1871,6 +1871,7 @@ empflix.com#%#AG_abortOnPropertyWrite('popzone');
 empflix.com#%#window.open=function(){};
 
 3zfile.net##+js(abort-current-inline-script.js, document.getElementById, adblock)
-3zfile.net##+js(abort-current-inline-script.js, Math, zfgloaded)
-
+3zfile.net##+js(abort-current-inline-script.js, Math, zfgload)
+3zfile.net#%#AG_abortInlineScript('adblock', 'document.getElementById');
+3zfile.net#%#AG_abortInlineScript('zfgload', 'Math');
 
