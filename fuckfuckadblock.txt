@@ -1845,10 +1845,10 @@ imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-current-inline-sc
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-read.js, ExoLoader)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, cticodes)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, imgadbpops)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortInlineScript('TestAdBlock', 'jQuery');
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyRead('ExoLoader');
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('cticodes');
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('imgadbpops');
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortInlineScript('TestAdBlock', 'jQuery');
 
 123moviesfull.net##+js(abort-current-inline-script.js, Math, zfgload)
 123moviesfull.net#%#AG_abortInlineScript('zfgload', 'Math');
@@ -1865,9 +1865,9 @@ despistaos.es#@#.adsbygoogle
 
 japscan.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 japscan.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+japscan.*##+js(abort-on-property-write.js, Fingerprint2)
 japscan.*#%#AG_abortInlineScript('zfgload', 'Math');
 japscan.*#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
-japscan.*##+js(abort-on-property-write.js, Fingerprint2)
 japscan.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 
 @@||anitube.cz^$generichide
@@ -1896,11 +1896,11 @@ nonsensediamond.online#@##banner_ad
 
 @@||goldenmangas.online^$generichide
 
-mshare.io#%#AG_setConstant('ads_block', 'false');
-mshare.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@*/ads.js$domain=mshare.io,script
-mshare.io##+js(set-constant.js, ads_block, false)
 @@||mshare.io^$generichide
+mshare.io##+js(set-constant.js, ads_block, false)
+mshare.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
+mshare.io#%#AG_setConstant('ads_block', 'false');
 
 @@||sarapbeh.com^$generichide
 
@@ -1916,11 +1916,11 @@ fc.lc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 fc.lc#%#window.eval = function() {};
 fc.lc##+js(noeval.js)
 
-akuno.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-akuno.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||akuno.net^$generichide
+akuno.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 akuno.net##+js(addEventListener-defuser.js, load, onload)
 akuno.net#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+akuno.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 akuno.net#@##AdvHeader
 akuno.net#@##ad_skyscraper_text
 akuno.net#@##adsense
