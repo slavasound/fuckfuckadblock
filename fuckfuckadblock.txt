@@ -1933,3 +1933,7 @@ akla4.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 akla4.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||akla4.com^$generichide
 
+larkgroup.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+larkgroup.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+@@||larkgroup.net^$generichide
+
