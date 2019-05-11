@@ -1773,9 +1773,12 @@ ez4link.org#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@*/js/ads.js$script,domain=web2.0calc.com
 @@||web2.0calc.com^$generichide
 
+*$frame,3p,domain=linkshrter.com
 @@||linkshrter.com^$generichide
 linkshrter.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+linkshrter.com##+js(abort-on-property-read.js, open)
 linkshrter.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+linkshrter.com#%#AG_abortOnPropertyRead('open');
 
 @@||news24.com^$generichide
 news24.com##+js(abort-on-property-read.js, HTMLCanvasElement)
