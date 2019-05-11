@@ -683,7 +683,6 @@ clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*##.adsbygoogle
 clik.*#%#//scriptlet("prevent-addEventListener", "mouseup", "click")
 clik.*#%#AG_abortInlineScript('zfgload', 'RegExp');
-clik.*#%#AG_abortInlineScript(/zfgloadedpopup|zfgloadedpushopt/, 'RegExp');
 clik.*#%#AG_abortOnPropertyRead('open');
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
 clik.*$popup,third-party,important
@@ -1728,7 +1727,7 @@ www094602.com#@##adsense
 wickedsick.tv#%#AG_abortInlineScript(/api\/direct/, 'spot');
 wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
 
-anitube.cz##+js(abort-current-inline-script.js, Math, zfgloaded)
+anitube.cz##+js(abort-current-inline-script.js, Math, zfgload)
 anitube.cz##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 anitube.cz##+js(addEventListener-defuser.js, load)
 anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
@@ -1790,7 +1789,7 @@ despistaos.es#@#.adsbygoogle
 
 @@||ramdan.tv^$generichide
 
-japscan.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+japscan.*##+js(abort-current-inline-script.js, Math, zfgload)
 japscan.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 japscan.*##+js(abort-on-property-write.js, Fingerprint2)
 japscan.*#%#AG_abortInlineScript('zfgload', 'Math');
