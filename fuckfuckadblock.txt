@@ -1432,10 +1432,11 @@ ucuzaucak.net#%#AG_abortOnPropertyRead('anOptions');
 
 @@*/show_ads.js$script,domain=mp3.teledyski.info
 
-@@||bingfeng.tw/source/plugin/unadblock/*_ads_*.js$script,domain=bingfeng.tw
+@@*/*_ads_*.js$script,domain=bingfeng.tw
 bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
 bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
 
+@@||mandatory.com^$generichide
 mandatory.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 mandatory.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
@@ -1444,8 +1445,8 @@ techfinda.com##.adsbygoogle
 
 @@||siberyazilimci.net^$generichide
 
-andek.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||andek.com.pl^$generichide
+andek.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 @@*/gads.js$script,domain=rodzinnywyjazd.pl
 
@@ -1471,10 +1472,11 @@ cyfostreams.com##+js(nowebrtc.js)
 @@||openloadtv.*^$generichide
 openloadtv.*#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display:block!important; }
 
+@@||online-courses.club^$generichide
 online-courses.club###admania_adb_enabled
 online-courses.club#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
 
-@@*/custom/ads.js$script,domain=serpadres.es
+@@*/ads.js$script,domain=serpadres.es
 
 @@||logrosxbox.com^$generichide
 logrosxbox.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
@@ -1498,8 +1500,8 @@ vinaurl.in##+js(abort-on-property-read.js, adsHeight)
 vinaurl.in##.adsbygoogle
 vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
 
-@@*/advertisement.js$domain=getfreebit.xyz,script
-@@||getfreebit.xyz^$generichide
+@@||getfreebit.*/advertisement.js$script
+@@||getfreebit.*^$generichide
 
 @@||tionghoa.info^$generichide
 
