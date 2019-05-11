@@ -1756,14 +1756,16 @@ beast-birds.com,al3amall.com##.adsbygoogle
 beast-birds.com,al3amall.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 beast-birds.com,al3amall.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 
-@@||jelajahinternet.me^$generichide
-jelajahinternet.me#@##ad_skyscraper_text
-jelajahinternet.me#@##adsense
-jelajahinternet.me#@##AdvHeader
-jelajahinternet.me#@##header_publicidad
-jelajahinternet.me#@##common_right_lower_ad_wrapper
-jelajahinternet.me#@##componentAdRectangle
-jelajahinternet.me#@##righttop-adverts-container
+@@||jelajahinternet.*^$generichide
+jelajahinternet.*##+js(addEventListener-defuser.js, load, onload)
+jelajahinternet.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+jelajahinternet.*#@##AdvHeader
+jelajahinternet.*#@##ad_skyscraper_text
+jelajahinternet.*#@##adsense
+jelajahinternet.*#@##common_right_lower_ad_wrapper
+jelajahinternet.*#@##componentAdRectangle
+jelajahinternet.*#@##header_publicidad
+jelajahinternet.*#@##righttop-adverts-container
 
 @@||ez4link.org^$generichide
 ez4link.org##.adsbygoogle
@@ -1914,7 +1916,16 @@ fc.lc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 fc.lc#%#window.eval = function() {};
 fc.lc##+js(noeval.js)
 
-@@||jelajahinternet.*^$generichide
-jelajahinternet.*##+js(addEventListener-defuser.js, load, onload)
-jelajahinternet.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+akuno.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+akuno.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+@@||akuno.net^$generichide
+akuno.net##+js(addEventListener-defuser.js, load, onload)
+akuno.net#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+akuno.net#@##AdvHeader
+akuno.net#@##ad_skyscraper_text
+akuno.net#@##adsense
+akuno.net#@##common_right_lower_ad_wrapper
+akuno.net#@##componentAdRectangle
+akuno.net#@##header_publicidad
+akuno.net#@##righttop-adverts-container
 
