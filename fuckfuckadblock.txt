@@ -1908,3 +1908,8 @@ papalah.com##+js(abort-on-property-write.js, adBlockDetected)
 papalah.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||papalah.com^$generichide
 
+fc.lc##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+fc.lc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+fc.lc#%#window.eval = function() {};
+fc.lc##+js(noeval.js)
+
