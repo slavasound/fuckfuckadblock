@@ -1892,3 +1892,6 @@ golem.de#%#AG_setConstant('showAds', 'true');
 
 @@||olympine.com^$generichide
 
+4shared.com##+js(abort-current-inline-script.js, Math, zfgload)
+4shared.com#%#AG_abortInlineScript('zfgload', 'Math');
+
