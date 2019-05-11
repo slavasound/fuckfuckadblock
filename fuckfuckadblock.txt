@@ -1861,3 +1861,12 @@ akuno.net#@##righttop-adverts-container
 @@||linksop.com^$generichide
 @@||lkop.me^$generichide
 
+empflix.com##+js(abort-on-property-read.js, ALoader)
+empflix.com##+js(abort-on-property-read.js, ads.pop_url)
+empflix.com##+js(abort-on-property-write.js, popzone)
+empflix.com##+js(window.open-defuser.js)
+empflix.com#%#AG_abortOnPropertyRead('ALoader');
+empflix.com#%#AG_abortOnPropertyRead('ads.pop_url');
+empflix.com#%#AG_abortOnPropertyWrite('popzone');
+empflix.com#%#window.open=function(){};
+
