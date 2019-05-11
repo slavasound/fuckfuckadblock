@@ -267,7 +267,7 @@ culturemap.com##+js(abort-on-property-read.js, CatapultTools)
 culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
 
 larena.it##+js(setTimeout-defuser.js, adblock-check)
-larena.it#%#AG_abortInlineScript(/#adblock-check/, '$');
+larena.it#%#AG_abortInlineScript('#adblock-check', '$');
 
 @@||bento.de^$generichide
 bento.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
@@ -287,7 +287,7 @@ rim-world.com##+js(setTimeout-defuser.js, adblock, 5000)
 rim-world.com#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/getAdIFrameCount/.test(a.toString()))return b(a,c)};})();
 
 dojrzewamy.pl##+js(setTimeout-defuser.js, ad-container)
-dojrzewamy.pl#%#AG_abortInlineScript(/adblock_info/, 'setTimeout');
+dojrzewamy.pl#%#AG_abortInlineScript('adblock_info', 'setTimeout');
 
 z3x-team.com##+js(abort-on-property-read.js, anOptions)
 z3x-team.com#%#AG_abortOnPropertyRead('anOptions');
@@ -299,11 +299,11 @@ culture-informatique.net#%#AG_abortOnPropertyRead('anOptions');
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
 imgview.net##.adbwarning
-imgview.net#%#AG_abortInlineScript(/adbwarning/, 'setTimeout');
+imgview.net#%#AG_abortInlineScript('adbwarning', 'setTimeout');
 
 @@||sslproxies24.top^$generichide
 sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
-sslproxies24.top#%#AG_abortInlineScript(/google_ad_client/, 'document.addEventListener');
+sslproxies24.top#%#AG_abortInlineScript('google_ad_client', 'document.addEventListener');
 
 *$script,third-party,domain=igg-games.com,important
 *$webrtc,domain=igg-games.com,important
@@ -473,7 +473,7 @@ wral.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 @@||handelsblatt.com^$generichide
 handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
-stiffgamerdown.com#%#AG_abortInlineScript(/hcf_userconfig.cgi_adb_redirect_url/, 'hcf_userconfig');
+stiffgamerdown.com#%#AG_abortInlineScript('hcf_userconfig.cgi_adb_redirect_url', 'hcf_userconfig');
 
 stealthz.ru##+js(abort-on-property-read.js, anOptions)
 stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
@@ -499,7 +499,7 @@ gallerix.ru#%#AG_defineProperty('jQuery.adbk', {value: false});
 
 @@||digitaltrends.com^$generichide
 digitaltrends.com##+js(abort-current-inline-script.js, setTimeout, googlefcPresent)
-digitaltrends.com#%#AG_abortInlineScript(/googlefcPresent/, 'setTimeout');
+digitaltrends.com#%#AG_abortInlineScript('googlefcPresent', 'setTimeout');
 
 eurogamer.*##+js(abort-on-property-read.js, _sp_._networkListenerData)
 eurogamer.*#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
@@ -522,7 +522,7 @@ arstechnica.com##.ars-appeal-container
 @@||androidworld.it^$generichide
 
 2speed.net##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
-2speed.net#%#AG_abortInlineScript(/adblockinfo/, 'document.getElementById');
+2speed.net#%#AG_abortInlineScript('adblockinfo', 'document.getElementById');
 
 ridble.com###adblock-wrapper
 ridble.com##.adisclaimer
@@ -531,7 +531,7 @@ ridble.com##.adisclaimer
 
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl##+js(abort-on-property-write.js, sas)
-filmweb.pl#%#AG_abortInlineScript(/newAdblockBoardDisplayed/, 'decodeURIComponent');
+filmweb.pl#%#AG_abortInlineScript('newAdblockBoardDisplayed', 'decodeURIComponent');
 filmweb.pl#%#AG_abortOnPropertyWrite('sas');
 
 gamesradar.com##+js(abort-on-property-write.js, _sp_)
@@ -1384,7 +1384,7 @@ gadzetomania.pl#%#AG_abortOnPropertyWrite('__serviceAbModal');
 technoslek.com##.adsbygoogle
 
 smartage.pl##+js(abort-current-inline-script.js, parseInt, adblock)
-smartage.pl#%#AG_abortInlineScript(/adblock/, 'parseInt');
+smartage.pl#%#AG_abortInlineScript('adblock', 'parseInt');
 
 @@||wetransfer.net/assets/advertising*.js$script,domain=wetransfer.net
 
@@ -1631,7 +1631,7 @@ dailyimages.xyz##+js(abort-current-inline-script.js, document.dispatchEvent, get
 dailyimages.xyz##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 dailyimages.xyz#%#AG_abortInlineScript('zfgload', 'Math');
 dailyimages.xyz#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
-dailyimages.xyz#%#AG_abortInlineScript(/getexoloader/, 'document.dispatchEvent');
+dailyimages.xyz#%#AG_abortInlineScript('getexoloader', 'document.dispatchEvent');
 
 @@||c4free.win^$generichide
 
