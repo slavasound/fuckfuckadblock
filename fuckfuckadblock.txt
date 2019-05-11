@@ -1873,8 +1873,8 @@ japscan.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 @@||csm.dev^$generichide
 
 @@||uploadrar.com^$generichide
-uploadrar.com#%#AG_abortInlineScript('banner', 'document.getElementById');
-uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, banner)
+uploadrar.com#%#AG_abortInlineScript('bannerad', 'document.getElementById');
+uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
 uploadrar.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 uploadrar.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
 
