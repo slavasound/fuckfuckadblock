@@ -1914,6 +1914,7 @@ fc.lc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 fc.lc#%#window.eval = function() {};
 fc.lc##+js(noeval.js)
 
+@@||jelajahinternet.*^$generichide
 jelajahinternet.*##+js(addEventListener-defuser.js, load, onload)
 jelajahinternet.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
