@@ -1874,3 +1874,6 @@ empflix.com#%#window.open=function(){};
 3zfile.net#%#AG_abortInlineScript('adblock', 'document.getElementById');
 3zfile.net#%#AG_abortInlineScript('zfgload', 'Math');
 
+gslink.*##+js(abort-current-inline-script.js, atob, TABUNDER)
+gslink.*#%#AG_abortInlineScript('TABUNDER', 'atob');
+
