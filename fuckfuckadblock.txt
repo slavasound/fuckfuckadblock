@@ -1512,7 +1512,7 @@ vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
 
 @@||replica-watch.info^$generichide
 
-@@||teleportal.ua/js/ads.js$domain=teleportal.ua,script
+@@*/ads.js$domain=teleportal.ua,script
 
 antiadblockscript.com#@#.ad_box
 
@@ -1531,13 +1531,13 @@ mac-torrent-download.net#%#AG_abortInlineScript('zfgload', 'Math');
 zspnr1.lowicz.pl##+js(setInterval-defuser.js, seead)
 zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
 
-@@||geoguessr.com/_ads/*$script,domain=geoguessr.com​
+@@*/_ads/*$script,domain=geoguessr.com
 
 @@||annuaire-ebook.com^$generichide
 
-@@||ppstatic.pl/*/js/ads/*/reklama.js$script,domain=gra.pl
+@@*/reklama.js$script,domain=gra.pl
 
-@@||masterchef.stb.ua/*/js/ads.js$script,domain=masterchef.stb.ua
+@@*/ads.js$script,domain=masterchef.stb.ua
 
 forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
 
@@ -1557,7 +1557,7 @@ galaxydestek.com#@#.ad-center
 
 @@||desirecourse.net^$generichide
 
-@@||player.ooyala.com/static/*/ad-plugin/google_ima.min.js$script,domain=ccmbg.com
+@@*/google_ima.min.js$script,domain=ccmbg.com
 
 @@||d-navi004.com^$generichide
 d-navi004.com##.adsbygoogle
