@@ -726,17 +726,19 @@ click2see.*,farman.*##.adsbygoogle
 
 @@||payco.*^$generichide
 payco.*##+js(abort-current-inline-script.js, RegExp, zfgload)
-payco.*#%#AG_abortInlineScript('zfgload', 'RegExp');
 payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
-payco.*#%#AG_abortInlineScript('charAt', 'parseInt');
 payco.*##+js(abort-on-property-read.js, AaDetector)
-payco.*#%#AG_abortOnPropertyRead('AaDetector');
 payco.*##+js(abort-on-property-write.js, _pop)
-payco.*##.adsbygoogle
 payco.*##+js(nano-setInterval-booster.js)
-payco.*#%#window.open=function(){};
 payco.*##+js(window.open-defuser.js)
+payco.*##.adsbygoogle
+payco.*#%#AG_abortInlineScript('charAt', 'parseInt');
+payco.*#%#AG_abortInlineScript('zfgload', 'RegExp');
+payco.*#%#AG_abortOnPropertyRead('AaDetector');
+payco.*#%#AG_abortOnPropertyWrite('_pop');
 payco.*#%#AG_onLoad(function(){setTimeout(function(){var el=document.querySelector('form[action$="/links/popad"]');if(el)el.remove()},300)});
+payco.*#%#window.open=function(){};
+payco.*$subdocument,third-party,important
 
 cut7link.*##.adsbygoogle
 @@||cut7link.*^$generichide
@@ -761,7 +763,7 @@ autocentrum.pl#%#AG_setConstant('adblockJsFile', 'true');
 @@||gamehunt.net^$generichide
 gamehunt.net##+js(abort-on-property-write.js, adBlockDetected)
 gamehunt.net##+js(set-constant.js, adblock, false)
-gamehunt.net#%#AG_setConstant('adBlockDetected', 'noopFunc');
+gamehunt.net#%#AG_abortOnPropertyWrite('adBlockDetected');
 gamehunt.net#%#AG_setConstant('adblock', 'false');
 
 gfycat.com##+js(set-constant.js, setInterval, noopFunc)
