@@ -1881,7 +1881,7 @@ woxikon.de#@#.full_ad
 @@||woxikon.de^$generichide
 
 skiehacker.weebly.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-skiehacker.weebly.com#%#AG_abortInlineScript(/decodeURIComponent/, 'atob');
+skiehacker.weebly.com#%#AG_abortInlineScript(/decodeURIComponent/, 'decodeURI');
 @@||skiehacker.weebly.com^$generichide
 skiehacker.weebly.com#@##banner_ad
 
