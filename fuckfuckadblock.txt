@@ -1604,8 +1604,8 @@ zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
 
 forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
 
-jobhunterplg.xyz##+js(addEventListener-defuser.js, load, onload)
-jobhunterplg.xyz#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+jobhunterplg.*##+js(addEventListener-defuser.js, load, onload)
+jobhunterplg.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
 @@||pixlr.com^$generichide
 pixlr.com#@#.adBanner
@@ -1913,4 +1913,7 @@ fc.lc##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 fc.lc#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 fc.lc#%#window.eval = function() {};
 fc.lc##+js(noeval.js)
+
+jelajahinternet.*##+js(addEventListener-defuser.js, load, onload)
+jelajahinternet.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
