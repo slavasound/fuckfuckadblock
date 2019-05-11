@@ -1898,3 +1898,6 @@ mshare.io##+js(set-constant.js, ads_block, false)
 
 @@||sarapbeh.com^$generichide
 
+mu2.mobi##+js(abort-on-property-read.js, marker)
+mu2.mobi#%#AG_abortOnPropertyRead('marker');
+
