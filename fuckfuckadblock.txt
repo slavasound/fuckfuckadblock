@@ -1890,3 +1890,9 @@ nonsensediamond.online#@##banner_ad
 
 @@||goldenmangas.online^$generichide
 
+mshare.io#%#AG_setConstant('ads_block', 'false');
+mshare.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
+@@*/ads.js$domain=mshare.io,script
+mshare.io##+js(set-constant.js, ads_block, false)
+@@||mshare.io^$generichide
+
