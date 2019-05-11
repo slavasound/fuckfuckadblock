@@ -1884,3 +1884,6 @@ skiehacker.weebly.com##+js(abort-current-inline-script.js, decodeURI, decodeURIC
 @@||skiehacker.weebly.com^$generichide
 skiehacker.weebly.com#@##banner_ad
 
+nonsensediamond.online#@##banner_ad
+@@||nonsensediamond.online^$generichide
+
