@@ -1929,3 +1929,7 @@ akuno.net#@##componentAdRectangle
 akuno.net#@##header_publicidad
 akuno.net#@##righttop-adverts-container
 
+akla4.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+akla4.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+@@||akla4.com^$generichide
+
