@@ -1937,8 +1937,9 @@ larkgroup.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 larkgroup.net#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||larkgroup.net^$generichide
 
-foodpuff.com,linksop.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-foodpuff.com,linksop.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+foodpuff.com,linksop.com,lkop.me##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+foodpuff.com,linksop.com,lkop.me#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
 @@||foodpuff.com^$generichide
 @@||linksop.com^$generichide
+@@||lkop.me^$generichide
 
