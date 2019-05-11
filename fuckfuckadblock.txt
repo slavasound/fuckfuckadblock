@@ -1884,3 +1884,9 @@ vehicle-techno.cf#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.
 worder.cat##+js(abort-on-property-write.js, ga)
 worder.cat#%#AG_abortOnPropertyWrite('ga');
 
+@@||golem.de^$generichide
+golem.de##+js(abort-on-property-write.js, _sp_)
+golem.de##+js(set-constant.js, showAds, true)
+golem.de#%#AG_abortOnPropertyWrite('_sp_');
+golem.de#%#AG_setConstant('showAds', 'true');
+
