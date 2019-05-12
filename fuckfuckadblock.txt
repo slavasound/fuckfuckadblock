@@ -1926,3 +1926,6 @@ santacruzsentinel.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
 @@||wotlk.evowow.com/static/js/ads.js$script,domain=wotlk.evowow.com
 @@||wotlk.evowow.com^$generichide
 
+@@||sivitechno.com^$generichide
+sivitechno.com##.adsbygoogle
+
