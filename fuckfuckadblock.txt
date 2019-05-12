@@ -1916,3 +1916,6 @@ anoboy.org##+js(addEventListener-defuser.js, load, onload)
 anoboy.org#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 @@||anoboy.org^$generichide
 
+hpjav.tv##+js(abort-on-property-read.js, AaDetector)
+hpjav.tv#%#AG_abortOnPropertyRead('AaDetector');
+
