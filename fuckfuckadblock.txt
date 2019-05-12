@@ -1813,9 +1813,7 @@ woxikon.de#@#.full_ad
 skiehacker.weebly.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 skiehacker.weebly.com#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 @@||skiehacker.weebly.com^$generichide
-skiehacker.weebly.com#@##banner_ad
 
-nonsensediamond.online#@##banner_ad
 @@||nonsensediamond.online^$generichide
 
 @@||goldenmangas.online^$generichide
@@ -1905,7 +1903,6 @@ indishare.*#%#AG_abortOnPropertyRead('decodeURIComponent');
 indishare.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 ||indishare.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bootstrapcdn.com *.cloudflare.com *.google-analytics.com
 
-rmdan.*#@##banner_ad
 @@||rmdan.*^$generichide
 
 @@||stfly.*^$generichide
