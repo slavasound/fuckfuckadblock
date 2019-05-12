@@ -1917,3 +1917,6 @@ stfly.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 @@||stfly.*^$generichide
 stfly.*##.adsbygoogle
 
+anoboy.org##+js(addEventListener-defuser.js, load, onload)
+anoboy.org#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+@@||anoboy.org^$generichide
