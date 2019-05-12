@@ -2010,3 +2010,15 @@ tmearn.*##+js(window.open-defuser.js)
 tmearn.*##+js(noeval-if.js, clickAnywhere)
 tmearn.*#%#//scriptlet("prevent-eval-if", "clickAnywhere")
 
+*$subdocument,third-party,domain=cpmlink.net
+cpmlink.net##+js(abort-current-inline-script.js, Math, zfgload)
+cpmlink.net##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+cpmlink.net##+js(abort-on-property-write.js, _pop)
+cpmlink.net##+js(nowebrtc.js)
+cpmlink.net##iframe[src="about:blank"]
+cpmlink.net#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
+cpmlink.net#%#AG_abortInlineScript('zfgload', 'Math');
+cpmlink.net#%#AG_abortOnPropertyWrite('_pop');
+cpmlink.net$webrtc,important
+||cpmlink.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.cloudflare.com
+
