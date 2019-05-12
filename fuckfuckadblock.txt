@@ -811,6 +811,7 @@ streamporn.pw#%#AG_abortOnPropertyRead('ExoLoader.serve');
 @@||myvidster.com^$generichide
 myvidster.com##+js(abort-on-property-read.js, adblockDetector)
 myvidster.com#%#AG_abortOnPropertyRead('adblockDetector');
+myvidster.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 @@||inmanga.com^$generichide
 inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
