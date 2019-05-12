@@ -1923,3 +1923,6 @@ santacruzsentinel.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 santacruzsentinel.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
 @@||santacruzsentinel.com^$generichide
 
+@@||wotlk.evowow.com/static/js/ads.js$script,domain=wotlk.evowow.com
+@@||wotlk.evowow.com^$generichide
+
