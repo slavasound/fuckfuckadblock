@@ -1929,3 +1929,6 @@ santacruzsentinel.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
 @@||sivitechno.com^$generichide
 sivitechno.com##.adsbygoogle
 
+@@*/ads.js$domain=anitube.site,script
+@@||anitube.site^$generichide
+
