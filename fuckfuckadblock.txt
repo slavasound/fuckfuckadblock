@@ -1919,3 +1919,7 @@ anoboy.org#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 hpjav.tv##+js(abort-on-property-read.js, AaDetector)
 hpjav.tv#%#AG_abortOnPropertyRead('AaDetector');
 
+santacruzsentinel.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
+santacruzsentinel.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
+@@||santacruzsentinel.com^$generichide
+
