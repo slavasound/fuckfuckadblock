@@ -1932,3 +1932,5 @@ sivitechno.com##.adsbygoogle
 @@*/ads.js$domain=anitube.site,script
 @@||anitube.site^$generichide
 
+@@||animeshouse.net^$generichide
+
