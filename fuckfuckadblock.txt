@@ -2001,3 +2001,7 @@ postimg.*#%#AG_abortInlineScript('void', 'atob');
 henpoi.in##+js(window.open-defuser.js)
 henpoi.in#%#window.open=function(){};
 
+yametesenpai.*##+js(addEventListener-defuser.js, load, onload)
+yametesenpai.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+@@||yametesenpai.*^$generichide
+
