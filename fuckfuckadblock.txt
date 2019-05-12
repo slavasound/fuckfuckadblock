@@ -1991,3 +1991,7 @@ ourl.io$webrtc,important
 
 @@||onlinevideoconverter.com^$generichide
 
+*/prof.js$script,domain=lbtube.com
+*/preRoll.php$xmlhttprequest,domain=lbtube.com
+/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com
+
