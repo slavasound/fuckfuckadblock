@@ -1960,3 +1960,8 @@ elsfile.org##+js(addEventListener-defuser.js, load, nextFunction)
 elsfile.org#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
 @@||elsfile.org^$generichide
 
+beelink.in##+js(addEventListener-defuser.js, load, onload)
+beelink.in#%#//scriptlet("prevent-addEventListener", "load", "onload")
+@@*/adframe.js$domain=beelink.in,script
+@@||beelink.in^$generichide
+
