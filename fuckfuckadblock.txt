@@ -1938,6 +1938,7 @@ sivitechno.com##.adsbygoogle
 @@||sexicelebs.ru^$generichide
 @@||nudecelebs.pro^$generichide
 
+@@||ouo.*^$generichide
 ouo.*##+js(abort-current-inline-script.js, Math, zfgload)
 ouo.*##+js(abort-current-inline-script.js, decodeURI, HTMLIFrameElement)
 ouo.*##+js(abort-on-property-read.js, AaDetector)
@@ -1953,4 +1954,5 @@ ouo.*#%#AG_abortOnPropertyWrite('_pop');
 ouo.*#%#window.open=function(){};
 ouo.*$popup,important
 ouo.*$webrtc,important
+||ouo.*/js/webpush.ma.js$script,important
 
