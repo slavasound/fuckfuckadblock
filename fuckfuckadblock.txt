@@ -1965,3 +1965,10 @@ beelink.in#%#//scriptlet("prevent-addEventListener", "load", "onload")
 @@*/adframe.js$domain=beelink.in,script
 @@||beelink.in^$generichide
 
+@@||uptobox.com^$generichide
+uptobox.com##+js(abort-on-property-write.js, Fingerprint2)
+uptobox.com##+js(nowebrtc.js)
+uptobox.com#%#AG_abortOnPropertyWrite('Fingerprint2');
+uptobox.com$webrtc,important
+||uptobox.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com
+
