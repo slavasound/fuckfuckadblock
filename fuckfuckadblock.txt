@@ -1934,3 +1934,6 @@ sivitechno.com##.adsbygoogle
 
 @@||animeshouse.net^$generichide
 
+@@*/ads.js$domain=sexicelebs.ru,script
+@@||sexicelebs.ru^$generichide
+
