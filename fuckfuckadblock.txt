@@ -1956,3 +1956,7 @@ ouo.*$popup,important
 ouo.*$webrtc,important
 ||ouo.*/js/webpush.ma.js$script,important
 
+elsfile.org##+js(addEventListener-defuser.js, load, nextFunction)
+elsfile.org#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
+@@||elsfile.org^$generichide
+
