@@ -1975,3 +1975,7 @@ uptobox.com$webrtc,important
 
 @@||coinkurier.de^$generichide
 
+festyy.com##+js(abort-current-inline-script.js, parseInt, tabunder)
+festyy.com#%#AG_abortInlineScript('tabunder', 'parseInt');
+@@||festyy.com^$generichide
+
