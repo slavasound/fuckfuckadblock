@@ -1938,4 +1938,19 @@ sivitechno.com##.adsbygoogle
 @@||sexicelebs.ru^$generichide
 @@||nudecelebs.pro^$generichide
 
+ouo.*##+js(abort-current-inline-script.js, Math, zfgload)
+ouo.*##+js(abort-current-inline-script.js, decodeURI, HTMLIFrameElement)
+ouo.*##+js(abort-on-property-read.js, AaDetector)
+ouo.*##+js(abort-on-property-read.js, jsPopunder)
+ouo.*##+js(abort-on-property-write.js, _pop)
+ouo.*##+js(nowebrtc.js)
+ouo.*##+js(window.open-defuser.js)
+ouo.*#%#AG_abortInlineScript('HTMLIFrameElement', 'decodeURI');
+ouo.*#%#AG_abortInlineScript('zfgload', 'Math');
+ouo.*#%#AG_abortOnPropertyRead('AaDetector');
+ouo.*#%#AG_abortOnPropertyRead('jsPopunder');
+ouo.*#%#AG_abortOnPropertyWrite('_pop');
+ouo.*#%#window.open=function(){};
+ouo.*$popup,important
+ouo.*$webrtc,important
 
