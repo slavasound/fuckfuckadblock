@@ -1998,3 +1998,6 @@ ourl.io$webrtc,important
 postimg.*##+js(abort-current-inline-script.js, atob, void)
 postimg.*#%#AG_abortInlineScript('void', 'atob');
 
+henpoi.in##+js(window.open-defuser.js)
+henpoi.in#%#window.open=function(){};
+
