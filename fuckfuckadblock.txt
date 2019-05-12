@@ -2022,3 +2022,6 @@ cpmlink.net#%#AG_abortOnPropertyWrite('_pop');
 cpmlink.net$webrtc,important
 ||cpmlink.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.cloudflare.com
 
+aboutchromebooks.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+aboutchromebooks.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
+
