@@ -2137,3 +2137,7 @@ indexof.ir#%#AG_abortOnPropertyRead('AaDetector');
 movie-blog.to#%#AG_abortOnPropertyRead('popns');
 movie-blog.to##+js(abort-on-property-read.js, popns)
 
+oploverzhome.com##+js(addEventListener-defuser.js, load, onload)
+oploverzhome.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+@@||oploverzhome.com^$generichide
+
