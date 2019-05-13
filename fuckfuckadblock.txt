@@ -2102,3 +2102,8 @@ bitcoinminingforex.blogspot.com#%#//scriptlet("prevent-window-open")
 bitcoinminingforex.blogspot.com$popup,third-party,important
 bitcoinminingforex.blogspot.com#%#window.open=function(){};
 
+fmovies.wtf##+js(abort-current-inline-script.js, Math, zfgloaded)
+fmovies.wtf##+js(abort-current-inline-script.js, decodeURI, atob)
+fmovies.wtf#%#AG_abortInlineScript('decodeURIComponent', 'atob');
+fmovies.wtf#%#AG_abortInlineScript('zfgloaded', 'Math');
+
