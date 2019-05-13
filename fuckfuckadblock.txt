@@ -2131,3 +2131,6 @@ indexof.ir##+js(abort-on-property-read.js, AaDetector)
 indexof.ir#%#AG_abortOnPropertyRead('AaDetector');
 @@||indexof.ir^$generichide
 
+@@*/advertisement.js$script,domain=arkowcy.pl
+@@||arkowcy.pl^$generichide
+
