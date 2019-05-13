@@ -197,11 +197,10 @@ pornbimbo.com##+js(disable-newtab-links.js)
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com##+js(window.open-defuser.js)
 pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
-pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 pornbimbo.com#%#//scriptlet("prevent-window-open")
-pornbimbo.com$popup,third-party,important
+pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 pornbimbo.com#%#window.open=function(){};
-pornbimbo.com##+js(window.open-defuser.js)
+pornbimbo.com$popup,third-party,important
 ||pornbimbo.com/player/html.php$subdocument
 
 @@||sciencelife.*^$generichide
@@ -1861,10 +1860,6 @@ mshare.io#%#AG_setConstant('ads_block', 'false');
 
 mu2.mobi##+js(abort-on-property-read.js, marker)
 mu2.mobi#%#AG_abortOnPropertyRead('marker');
-
-papalah.com##+js(abort-on-property-write.js, adBlockDetected)
-papalah.com#%#AG_abortOnPropertyWrite('adBlockDetected');
-@@||papalah.com^$generichide
 
 @@||fc.lc^$generichide
 fc.lc#%#window.eval = function() {};
