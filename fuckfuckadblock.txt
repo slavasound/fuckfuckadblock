@@ -227,10 +227,10 @@ gametimers.it##.adsbygoogle
 @@||file-upload.*^$generichide
 @@||upfiles.*^$generichide
 file-up.*##.adsbygoogle
-file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, RegExp, zfgload)
+file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 file-up.*,file-upload.*,upfiles.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
 file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript('undefined', 'document.getElementById');
-file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript('zfgload', 'RegExp');
+file-up.*,file-upload.*,upfiles.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 file-up.*,file-upload.*,upfiles.*.adsbygoogle
 
 @@||blogginggyanbox.com^$generichide
@@ -480,8 +480,8 @@ stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
 
 @@*/js/adsbygoogle.js$script,domain=won.pe
 
-kstreaming.*##+js(abort-current-inline-script.js, RegExp, zfgload)
-kstreaming.*#%#AG_abortInlineScript('zfgload', 'RegExp');
+kstreaming.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+kstreaming.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 speedvid.net##+js(abort-on-property-read.js, AaDetector)
 speedvid.net##+js(abort-on-property-write.js, _pop)
@@ -664,25 +664,25 @@ diariodenavarra.es#%#AG_setConstant('Math.random', 'trueFunc');
 *$popup,domain=userscloud.com
 *$third-party,xmlhttprequest,domain=userscloud.com
 @@||userscloud.com^$generichide
-userscloud.com##+js(abort-current-inline-script.js, Math, zfgload)
+userscloud.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 userscloud.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 userscloud.com##+js(abort-on-property-write.js, open)
 userscloud.com#%#AG_abortInlineScript('decodeURIComponent', 'atob');
-userscloud.com#%#AG_abortInlineScript('zfgload', 'Math');
+userscloud.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 userscloud.com#%#AG_abortOnPropertyWrite('open');
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
 
 ocen-piwo.pl###osiemnascielat
 
 @@||clik.*^$generichide
-clik.*##+js(abort-current-inline-script.js, RegExp, zfgload)
+clik.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 clik.*##+js(abort-on-property-read.js, open)
 clik.*##+js(addEventListener-defuser.js, mouseup, click)
 clik.*##+js(nowebrtc.js)
 clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*##.adsbygoogle
 clik.*#%#//scriptlet("prevent-addEventListener", "mouseup", "click")
-clik.*#%#AG_abortInlineScript('zfgload', 'RegExp');
+clik.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 clik.*#%#AG_abortOnPropertyRead('open');
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
 clik.*$popup,third-party,important
@@ -711,10 +711,10 @@ ourmagnet.*##.adsbygoogle
 @@||techjad.com^$generichide
 techjad.com##.adsbygoogle
 
-convert2mp3.net##+js(abort-current-inline-script.js, RegExp, zfgload)
+convert2mp3.net##+js(abort-current-inline-script.js, Math, zfgloaded)
 convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
-convert2mp3.net#%#AG_abortInlineScript('zfgload', 'RegExp');
+convert2mp3.net#%#AG_abortInlineScript('zfgloaded', 'Math');
 convert2mp3.net#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
 ||convert2mp3.net/assets/js/push.js^$script,important,domain=convert2mp3.net
@@ -727,7 +727,7 @@ click2see.*,farman.*##.adsbygoogle
 @@||click2see.*^$generichide
 
 @@||payco.*^$generichide
-payco.*##+js(abort-current-inline-script.js, RegExp, zfgload)
+payco.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*##+js(abort-on-property-read.js, AaDetector)
 payco.*##+js(abort-on-property-write.js, _pop)
@@ -735,7 +735,7 @@ payco.*##+js(nano-setInterval-booster.js)
 payco.*##+js(window.open-defuser.js)
 payco.*##.adsbygoogle
 payco.*#%#AG_abortInlineScript('charAt', 'parseInt');
-payco.*#%#AG_abortInlineScript('zfgload', 'RegExp');
+payco.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 payco.*#%#AG_abortOnPropertyRead('AaDetector');
 payco.*#%#AG_abortOnPropertyWrite('_pop');
 payco.*#%#AG_onLoad(function(){setTimeout(function(){var el=document.querySelector('form[action$="/links/popad"]');if(el)el.remove()},300)});
@@ -797,10 +797,10 @@ keepvid.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 xiaomifans.pl#@#.adsbygoogle
 
 *$webrtc,domain=stiffvip.com,important
-stiffvip.com##+js(abort-current-inline-script.js, RegExp, zfgload)
+stiffvip.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 stiffvip.com##+js(nowebrtc.js)
 stiffvip.com##.adsbygoogle
-stiffvip.com#%#AG_abortInlineScript('zfgload', 'RegExp');
+stiffvip.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
 ||mangovideo.pw/player/html.php?aid=*_html&video_id=*&*&referer$important
@@ -859,11 +859,11 @@ bit-url.com#%#AG_abortOnPropertyWrite('_pop');
 bit-url.com#%#AG_setConstant('absda', 'noopFunc');
 
 @@||linkrag.com^$generichide
-linkrag.com##+js(abort-current-inline-script.js, RegExp, zfgload)
+linkrag.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 linkrag.com##+js(abort-on-property-read.js, open)
 linkrag.com##+js(window.open-defuser.js)
 linkrag.com##.adsbygoogle
-linkrag.com#%#AG_abortInlineScript('zfgload', 'RegExp');
+linkrag.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 linkrag.com#%#AG_abortOnPropertyRead('open');
 linkrag.com#%#window.open=function(){};
 
@@ -979,8 +979,8 @@ lavoixdux.com#%#AG_setConstant('is_adblocked', 'false');
 @@||apteka.ua^$generichide
 apteka.ua#@#.adsbygoogle
 
-getlec.blogspot.com##+js(abort-current-inline-script.js, RegExp, zfgload)
-getlec.blogspot.com#%#AG_abortInlineScript('zfgload', 'RegExp');
+getlec.blogspot.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+getlec.blogspot.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 getlec.blogspot.com#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 getlec.blogspot.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
@@ -1036,10 +1036,10 @@ jovempan.uol.com.br#%#AG_abortOnPropertyRead('window.adback_wording');
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 
 @@||darmowa-telewizja.online^$generichide
-darmowa-telewizja.online##+js(abort-current-inline-script.js, RegExp, zfgload)
+darmowa-telewizja.online##+js(abort-current-inline-script.js, Math, zfgloaded)
 darmowa-telewizja.online##+js(addEventListener-defuser.js, load, onload)
 darmowa-telewizja.online#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
-darmowa-telewizja.online#%#AG_abortInlineScript('zfgload', 'RegExp');
+darmowa-telewizja.online#%#AG_abortInlineScript('zfgloaded', 'Math');
 darmowa-telewizja.online,kastream.biz##+js(abort-on-property-read.js, _pop)
 darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
 kastream.biz#%#window.open = function() {};
@@ -1261,9 +1261,9 @@ scat.gold#%#AG_abortOnPropertyRead('anOptions');
 @@*/adv.js$script,domain=seo-fast.ru
 
 @@||upload.*/advertisement.js$script
-upload.*##+js(abort-current-inline-script.js, RegExp, zfgload)
+upload.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 upload.*##+js(abort-current-inline-script.js, document.getElementById, banner)
-upload.*#%#AG_abortInlineScript('zfgload', 'RegExp');
+upload.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 upload.*#%#AG_abortInlineScript('banner', 'document.getElementById');
 upload.*$popup,important
 
@@ -1523,8 +1523,8 @@ hentai-online.pl#@#.adsBox
 dieroten.pl##+js(addEventListener-defuser.js, DOMContentLoaded, checkAdBlock)
 dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "checkAdBlock")
 
-mac-torrent-download.net##+js(abort-current-inline-script.js, Math, zfgload)
-mac-torrent-download.net#%#AG_abortInlineScript('zfgload', 'Math');
+mac-torrent-download.net##+js(abort-current-inline-script.js, Math, zfgloaded)
+mac-torrent-download.net#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 zspnr1.lowicz.pl##+js(setInterval-defuser.js, seead)
 zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
@@ -1561,11 +1561,11 @@ galaxydestek.com#@#.ad-center
 d-navi004.com##.adsbygoogle
 d-navi004.com###snsbox
 
-xmovies.*##+js(abort-current-inline-script.js, Math, zfgload)
-xmovies.*#%#AG_abortInlineScript('zfgload', 'Math');
+xmovies.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+xmovies.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 
-filerio.in##+js(abort-current-inline-script.js, Math, zfgload)
-filerio.in#%#AG_abortInlineScript('zfgload', 'Math');
+filerio.in##+js(abort-current-inline-script.js, Math, zfgloaded)
+filerio.in#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 @@||akl2day.com^$generichide
 @@||linkjust.com^$generichide
@@ -1576,12 +1576,12 @@ linkjust.com##.adsbygoogle
 freecourseweb.com##.adsbygoogle
 
 @@||popads.net/pop.js$domain=vidlox.me,important
-vidlox.*##+js(abort-current-inline-script.js, Math, zfgload)
+vidlox.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 vidlox.*##+js(abort-on-property-read.js, decodeURIComponent)
 vidlox.*##+js(nowebrtc.js)
 vidlox.*##+js(set-constant.js, popjs, true)
 vidlox.*##+js(set-constant.js, popns, true)
-vidlox.*#%#AG_abortInlineScript('zfgload', 'Math');
+vidlox.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 vidlox.*#%#AG_abortOnPropertyRead('decodeURIComponent');
 vidlox.*#%#AG_setConstant('popjs', 'true');
 vidlox.*#%#AG_setConstant('popns', 'true');
@@ -1595,8 +1595,8 @@ watchhowimetyourmother.online#%#AG_abortOnPropertyRead('require');
 watchhowimetyourmother.online#%#Object.defineProperty(Object.prototype, 'Focm', { get: function(){ throw null; }, set: function(){ throw null; }});
 
 @@||adsviv.com^$generichide
-adsviv.com##+js(abort-current-inline-script.js, Math, zfgload)
-adsviv.com#%#AG_abortInlineScript('zfgload', 'Math');
+adsviv.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+adsviv.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 ||adsviv.com/banner/$frame,important
 
 @@||featurecompare.com/ads.js$script,xmlhttprequest,domain=featurecompare.com
@@ -1617,18 +1617,18 @@ hackinblood.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.te
 
 */entry2.js$important,domain=multileech.net,script
 
-otakustream.tv##+js(abort-current-inline-script.js, Math, zfgload)
+otakustream.tv##+js(abort-current-inline-script.js, Math, zfgloaded)
 otakustream.tv##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
-otakustream.tv#%#AG_abortInlineScript('zfgload', 'Math');
+otakustream.tv#%#AG_abortInlineScript('zfgloaded', 'Math');
 otakustream.tv#%#AG_abortInlineScript('getScriptFromCss', 'decodeURI');
 
 @@||short.pe^$generichide
 short.pe##.adsbygoogle
 
-dailyimages.xyz##+js(abort-current-inline-script.js, Math, zfgload)
+dailyimages.xyz##+js(abort-current-inline-script.js, Math, zfgloaded)
 dailyimages.xyz##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
 dailyimages.xyz##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-dailyimages.xyz#%#AG_abortInlineScript('zfgload', 'Math');
+dailyimages.xyz#%#AG_abortInlineScript('zfgloaded', 'Math');
 dailyimages.xyz#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 dailyimages.xyz#%#AG_abortInlineScript('getexoloader', 'document.dispatchEvent');
 
@@ -1653,9 +1653,9 @@ axjbt.com##+js(abort-on-property-read.js, myclick)
 playview.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||playview.io^$generichide
 
-full-stream.co##+js(abort-current-inline-script.js, Math, zfgload)
+full-stream.co##+js(abort-current-inline-script.js, Math, zfgloaded)
 full-stream.co##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-full-stream.co#%#AG_abortInlineScript('zfgload', 'Math');
+full-stream.co#%#AG_abortInlineScript('zfgloaded', 'Math');
 full-stream.co#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
 ||full-stream.co/templates/F-S/images/logo.png$popup
@@ -1709,11 +1709,11 @@ www094602.com#@##adsense
 wickedsick.tv#%#AG_abortInlineScript(/api\/direct/, 'spot');
 wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
 
-anitube.cz##+js(abort-current-inline-script.js, Math, zfgload)
+anitube.cz##+js(abort-current-inline-script.js, Math, zfgloaded)
 anitube.cz##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 anitube.cz##+js(addEventListener-defuser.js, load)
 anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
-anitube.cz#%#AG_abortInlineScript('zfgload', 'Math');
+anitube.cz#%#AG_abortInlineScript('zfgloaded', 'Math');
 anitube.cz#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 anitube.cz##+js(abort-on-property-write.js, _pop)
 anitube.cz#%#AG_abortOnPropertyWrite('_pop');
@@ -1758,8 +1758,8 @@ imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyRead('Ex
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('cticodes');
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('imgadbpops');
 
-123moviesfull.net##+js(abort-current-inline-script.js, Math, zfgload)
-123moviesfull.net#%#AG_abortInlineScript('zfgload', 'Math');
+123moviesfull.net##+js(abort-current-inline-script.js, Math, zfgloaded)
+123moviesfull.net#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 shaanig.se#@##banner_ad
 @@||shaanig.se^$generichide
@@ -1771,10 +1771,10 @@ despistaos.es#@#.adsbygoogle
 
 @@||ramdan.tv^$generichide
 
-japscan.*##+js(abort-current-inline-script.js, Math, zfgload)
+japscan.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 japscan.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 japscan.*##+js(abort-on-property-write.js, Fingerprint2)
-japscan.*#%#AG_abortInlineScript('zfgload', 'Math');
+japscan.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 japscan.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 japscan.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 
@@ -1850,9 +1850,9 @@ empflix.com#%#AG_abortOnPropertyWrite('popzone');
 empflix.com#%#window.open=function(){};
 
 3zfile.net##+js(abort-current-inline-script.js, document.getElementById, adblock)
-3zfile.net##+js(abort-current-inline-script.js, Math, zfgload)
+3zfile.net##+js(abort-current-inline-script.js, Math, zfgloaded)
 3zfile.net#%#AG_abortInlineScript('adblock', 'document.getElementById');
-3zfile.net#%#AG_abortInlineScript('zfgload', 'Math');
+3zfile.net#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 gslink.*##+js(abort-current-inline-script.js, atob, TABUNDER)
 gslink.*#%#AG_abortInlineScript('TABUNDER', 'atob');
@@ -1872,8 +1872,8 @@ golem.de#%#AG_setConstant('showAds', 'true');
 
 @@||olympine.com^$generichide
 
-4shared.com##+js(abort-current-inline-script.js, Math, zfgload)
-4shared.com#%#AG_abortInlineScript('zfgload', 'Math');
+4shared.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+4shared.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 indishare.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 indishare.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
@@ -1923,7 +1923,7 @@ sivitechno.com##.adsbygoogle
 @@||nudecelebs.pro^$generichide
 
 @@||ouo.*^$generichide
-ouo.*##+js(abort-current-inline-script.js, Math, zfgload)
+ouo.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 ouo.*##+js(abort-current-inline-script.js, decodeURI, HTMLIFrameElement)
 ouo.*##+js(abort-on-property-read.js, AaDetector)
 ouo.*##+js(abort-on-property-read.js, jsPopunder)
@@ -1931,7 +1931,7 @@ ouo.*##+js(abort-on-property-write.js, _pop)
 ouo.*##+js(nowebrtc.js)
 ouo.*##+js(window.open-defuser.js)
 ouo.*#%#AG_abortInlineScript('HTMLIFrameElement', 'decodeURI');
-ouo.*#%#AG_abortInlineScript('zfgload', 'Math');
+ouo.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 ouo.*#%#AG_abortOnPropertyRead('AaDetector');
 ouo.*#%#AG_abortOnPropertyRead('jsPopunder');
 ouo.*#%#AG_abortOnPropertyWrite('_pop');
@@ -1994,13 +1994,13 @@ tmearn.*##+js(noeval-if.js, clickAnywhere)
 tmearn.*#%#//scriptlet("prevent-eval-if", "clickAnywhere")
 
 *$subdocument,third-party,domain=cpmlink.net
-cpmlink.net##+js(abort-current-inline-script.js, Math, zfgload)
+cpmlink.net##+js(abort-current-inline-script.js, Math, zfgloaded)
 cpmlink.net##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 cpmlink.net##+js(abort-on-property-write.js, _pop)
 cpmlink.net##+js(nowebrtc.js)
 cpmlink.net##iframe[src="about:blank"]
 cpmlink.net#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
-cpmlink.net#%#AG_abortInlineScript('zfgload', 'Math');
+cpmlink.net#%#AG_abortInlineScript('zfgloaded', 'Math');
 cpmlink.net#%#AG_abortOnPropertyWrite('_pop');
 cpmlink.net$webrtc,important
 ||cpmlink.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.cloudflare.com
@@ -2025,15 +2025,16 @@ linksmaza.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 encurta.net##+js(abort-on-property-write.js, Fingerprint2)
 encurta.net#%#AG_abortOnPropertyWrite('Fingerprint2');
 
-movies1234.net##+js(abort-on-property-read.js, zfgloadednative)
-movies1234.net#%#AG_abortOnPropertyRead('zfgloadednative');
 movies1234.net##+js(abort-current-inline-script.js, Math, zfgloaded)
 movies1234.net##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+movies1234.net##+js(abort-on-property-read.js, zfgloadednative)
 movies1234.net#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
-movies1234.net#%#AG_abortInlineScript('zfgload', 'Math');
+movies1234.net#%#AG_abortInlineScript('zfgloaded', 'Math');
+movies1234.net#%#AG_abortOnPropertyRead('zfgloadednative');
 
 entervideo.net##+js(window.open-defuser.js)
 entervideo.net##+js(nowebrtc.js)
 entervideo.net#%#window.open=function(){};
+entervideo.net#%#AG_onLoad(function() { window.dowin = function() {}; });
 entervideo.net$webrtc,important
 
