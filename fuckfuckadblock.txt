@@ -2141,3 +2141,5 @@ papalah.com#%#AG_abortOnPropertyRead('adBlockDetected');
 
 @@||hdrezka.*/ads.js$script
 
+@@||fe-play.ru^$generichide
+
