@@ -2134,3 +2134,6 @@ indexof.ir#%#AG_abortOnPropertyRead('AaDetector');
 @@*/advertisement.js$script,domain=arkowcy.pl
 @@||arkowcy.pl^$generichide
 
+movie-blog.to#%#AG_abortOnPropertyRead('popns');
+movie-blog.to##+js(abort-on-property-read.js, popns)
+
