@@ -181,17 +181,15 @@ readlightnovel.org#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 openload.*,oload.*,oladblock.*##+js(abort-current-inline-script.js, adblock, adblock2)
 openload.*,oload.*,oladblock.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-openload.*,oload.*,oladblock.*##+js(nano-setInterval-booster.js)
-openload.*,oload.*,oladblock.*##+js(openload.co.js)
 openload.*,oload.*,oladblock.*##+js(set-constant.js, sadbl, false)
 openload.*,oload.*,oladblock.*##+js(window.open-defuser.js)
-openload.*,oload.*,oladblock.*#%#AG_abortInlineScript(/adblock|adblock2/);
+openload.*,oload.*,oladblock.*#%#//scriptlet("prevent-window-open")
 openload.*,oload.*,oladblock.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
+openload.*,oload.*,oladblock.*#%#AG_abortInlineScript(/adblock|adblock2/);
 openload.*,oload.*,oladblock.*#%#AG_abortOnPropertyRead('open');
 openload.*,oload.*,oladblock.*#%#AG_setConstant('sadbl', 'false');
-openload.*,oload.*,oladblock.*#%#//scriptlet("prevent-window-open")
-openload.*,oload.*,oladblock.*$popup,third-party,important
 openload.*,oload.*,oladblock.*#%#window.open=function(){};
+openload.*,oload.*,oladblock.*$popup,third-party,important
 
 @@||pornbimbo.com^$generichide
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
@@ -1307,13 +1305,15 @@ upload.*##+js(window.open-defuser.js)
 upload.*#%#//scriptlet("prevent-window-open")
 upload.*#%#window.open=function(){};
 
+streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
 streamango.com##+js(abort-on-property-read.js, BetterJsPop)
-streamango.com#%#AG_abortOnPropertyRead('BetterJsPop');
-streamango.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
 streamango.com##+js(window.open-defuser.js)
 streamango.com#%#//scriptlet("prevent-window-open")
-streamango.com$popup,third-party,important
+streamango.com#%#AG_abortInlineScript('fruitadblock', 'isSandboxed');
+streamango.com#%#AG_abortOnPropertyRead('BetterJsPop');
+streamango.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
 streamango.com#%#window.open=function(){};
+streamango.com$popup,third-party,important
 
 @@||agradarpan.com^$generichide
 @@||getpocket.*^$generichide
