@@ -2106,8 +2106,8 @@ bitcoinminingforex.blogspot.com$popup,third-party,important
 bitcoinminingforex.blogspot.com#%#window.open=function(){};
 
 fmovies.wtf##+js(abort-current-inline-script.js, Math, zfgloaded)
-fmovies.wtf##+js(abort-current-inline-script.js, decodeURI, atob)
-fmovies.wtf#%#AG_abortInlineScript('decodeURIComponent', 'atob');
+fmovies.wtf##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+fmovies.wtf#%#AG_abortInlineScript('atob', 'decodeURIComponent');
 fmovies.wtf#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 @@*/show_ads.js$script,domain=rjno1.com
@@ -2122,4 +2122,7 @@ link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 @@||link-to.net^$generichide
 
 @@||skycloud-exploit.weebly.com^$generichide
+
+fstore.biz##+js(abort-current-inline-script.js, document.getElementById, undefined)
+fstore.biz#%#AG_abortInlineScript('undefined', 'document.getElementById');
 
