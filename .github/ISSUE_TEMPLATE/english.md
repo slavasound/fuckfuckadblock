@@ -1,3 +1,8 @@
+---
+name: English issue template
+about: For people who don't speak Russian.
+---
+
 #### Basic information
 
 ##### **Test link:**
