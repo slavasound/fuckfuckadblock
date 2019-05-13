@@ -2085,12 +2085,12 @@ linksmaza.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 encurta.net##+js(abort-on-property-write.js, Fingerprint2)
 encurta.net#%#AG_abortOnPropertyWrite('Fingerprint2');
 
-movies1234.net##+js(abort-current-inline-script.js, Math, zfgloaded)
-movies1234.net##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-movies1234.net##+js(abort-on-property-read.js, zfgloadednative)
-movies1234.net#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
-movies1234.net#%#AG_abortInlineScript('zfgloaded', 'Math');
-movies1234.net#%#AG_abortOnPropertyRead('zfgloadednative');
+movies1234.net,123moviesgot.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+movies1234.net,123moviesgot.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+movies1234.net,123moviesgot.com##+js(abort-on-property-read.js, zfgloadednative)
+movies1234.net,123moviesgot.com#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
+movies1234.net,123moviesgot.com#%#AG_abortInlineScript('zfgloaded', 'Math');
+movies1234.net,123moviesgot.com#%#AG_abortOnPropertyRead('zfgloadednative');
 
 entervideo.net##+js(window.open-defuser.js)
 entervideo.net##+js(nowebrtc.js)
