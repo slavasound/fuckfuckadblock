@@ -5,7 +5,7 @@ about: For people who don't speak Russian.
 
 #### Basic information
 
-##### **Test link:**
+##### **Check the link:**
 ##### **Category:** 
 ##### **Reported from:**
 ##### **Filter lists:**
