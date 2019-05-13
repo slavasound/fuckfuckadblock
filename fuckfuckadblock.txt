@@ -1414,6 +1414,7 @@ uploadship.com#%#AG_abortInlineScript('adblockinfo', 'document.getElementById');
 
 pcgamer.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 pcgamer.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
+@@||pcgamer.com^$generichide
 
 @@||fcportables.com^$generichide
 ||fcportables.com^$inline-script
