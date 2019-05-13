@@ -1873,13 +1873,6 @@ fc.lc##+js(noeval.js)
 @@||akuno.net^$generichide
 akuno.net##+js(addEventListener-defuser.js, load, onload)
 akuno.net#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
-akuno.net#@##AdvHeader
-akuno.net#@##ad_skyscraper_text
-akuno.net#@##adsense
-akuno.net#@##common_right_lower_ad_wrapper
-akuno.net#@##componentAdRectangle
-akuno.net#@##header_publicidad
-akuno.net#@##righttop-adverts-container
 
 @@||akla4.com^$generichide
 
