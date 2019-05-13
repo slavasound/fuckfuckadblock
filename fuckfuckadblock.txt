@@ -2108,3 +2108,8 @@ fmovies.wtf##+js(abort-current-inline-script.js, decodeURI, atob)
 fmovies.wtf#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 fmovies.wtf#%#AG_abortInlineScript('zfgloaded', 'Math');
 
+rjno1.com##+js(addEventListener-defuser.js, load, onload)
+rjno1.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+@@||rjno1.com^$generichide
+@@*/show_ads.js$script,domain=rjno1.com
+
