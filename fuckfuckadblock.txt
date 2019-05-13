@@ -1953,6 +1953,8 @@ anoboy.org#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
 hpjav.tv##+js(abort-on-property-read.js, AaDetector)
 hpjav.tv#%#AG_abortOnPropertyRead('AaDetector');
+hpjav.tv#%#AG_setConstant('NativeAd', 'noopFunc');
+hpjav.tv##+js(set-constant.js, NativeAd, noopFunc)
 
 santacruzsentinel.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 santacruzsentinel.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
