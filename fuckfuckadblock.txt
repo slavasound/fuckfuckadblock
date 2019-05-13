@@ -2027,3 +2027,6 @@ aboutchromebooks.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 @@||dist-tutor.info^$generichide
 
+@@*/advertising.js$domain=zdnet.de,script
+@@||zdnet.de^$generichide
+
