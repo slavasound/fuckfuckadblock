@@ -2026,7 +2026,9 @@ ourl.io$webrtc,important
 
 */prof.js$script,domain=lbtube.com
 */preRoll.php$xmlhttprequest,domain=lbtube.com
-/^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com
+*/ads.js$script,domain=icegay.tv
+||icegay.tv/click.php$xmlhttprequest,important
+/^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv
 
 postimg.*##+js(abort-current-inline-script.js, atob, void)
 postimg.*#%#AG_abortInlineScript('void', 'atob');
