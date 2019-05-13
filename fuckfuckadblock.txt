@@ -2135,6 +2135,7 @@ papalah.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_a
 papalah.com#%#AG_abortOnPropertyRead('adBlockDetected');
 
 @@||hdrezka.*/ads.js$script
+@@||hdrezka.*^$generichide
 
 @@||fe-play.ru^$generichide
 
@@ -2144,4 +2145,5 @@ pornsexer.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
 pornsexer.com#%#AG_abortOnPropertyRead('open');
 
 @@*/ads.js$domain=bspin.club,xmlhttprequest
+@@||bspin.club^$generichide
 
