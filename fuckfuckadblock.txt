@@ -2125,4 +2125,9 @@ link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 
 fstore.biz##+js(abort-current-inline-script.js, document.getElementById, undefined)
 fstore.biz#%#AG_abortInlineScript('undefined', 'document.getElementById');
+@@||fstore.biz^$generichide
+
+indexof.ir##+js(abort-on-property-read.js, AaDetector)
+indexof.ir#%#AG_abortOnPropertyRead('AaDetector');
+@@||indexof.ir^$generichide
 
