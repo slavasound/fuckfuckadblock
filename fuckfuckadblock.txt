@@ -160,7 +160,7 @@ getrelax.club,javfree.club##+js(abort-current-inline-script.js, document.getElem
 getrelax.club,javfree.club##+js(window.open-defuser.js)
 getrelax.club,javfree.club##.loaded-popup-wrapper
 getrelax.club,javfree.club#%#AG_abortInlineScript('adisblock', 'document.getElementById');
-getrelax.club,javfree.club#%#window.open=function(){};
+getrelax.club,javfree.club#%#//scriptlet("prevent-window-open")
 
 @@||anonyviet.com^$generichide
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
@@ -187,7 +187,7 @@ openload.*,oload.*,oladblock.*#%#AG_abortInlineScript(/adblock|adblock2/);
 openload.*,oload.*,oladblock.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 openload.*,oload.*,oladblock.*#%#AG_abortOnPropertyRead('open');
 openload.*,oload.*,oladblock.*#%#AG_setConstant('sadbl', 'false');
-openload.*,oload.*,oladblock.*#%#window.open=function(){};
+openload.*,oload.*,oladblock.*#%#//scriptlet("prevent-window-open")
 
 @@||pornbimbo.com^$generichide
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
@@ -196,7 +196,7 @@ pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com##+js(window.open-defuser.js)
 pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
-pornbimbo.com#%#window.open=function(){};
+pornbimbo.com#%#//scriptlet("prevent-window-open")
 pornbimbo.com##+js(window.open-defuser.js)
 ||pornbimbo.com/player/html.php$subdocument
 
@@ -204,7 +204,7 @@ pornbimbo.com##+js(window.open-defuser.js)
 sciencelife.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 sciencelife.*##.adsbygoogle
 sciencelife.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
-sciencelife.*#%#window.open=function(){};
+sciencelife.*#%#//scriptlet("prevent-window-open")
 sciencelife.*##+js(window.open-defuser.js)
 
 @@||ttsmp3.com^$generichide
@@ -240,7 +240,7 @@ blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(set-constant.js, adBlockDe
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(window.open-defuser.js)
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##.adsbygoogle
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#AG_setConstant('adBlockDetected', 'noopFunc');
-blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#window.open=function(){};
+blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#//scriptlet("prevent-window-open")
 
 @@||debilizator.tv/static/*/videojs-contrib-ads$stylesheet,xmlhttprequest
 
@@ -277,7 +277,7 @@ bento.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
 pantsu.cat##+js(window.open-defuser.js)
 pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
-pantsu.cat#%#window.open=function(){};
+pantsu.cat#%#//scriptlet("prevent-window-open")
 ||pantsu.cat^$popup
 
 @@||laradiobbs.net/adframe.js$script
@@ -334,7 +334,7 @@ businessinsider.*#%#AG_abortOnPropertyRead('stop');
 stiffgamerdown.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 stiffgamerdown.com##+js(window.open-defuser.js)
 stiffgamerdown.com#%#AG_abortInlineScript('decodeURIComponent', 'atob');
-stiffgamerdown.com#%#window.open=function(){};
+stiffgamerdown.com#%#//scriptlet("prevent-window-open")
 
 @@||tutsgalaxy.com^$generichide
 tutsgalaxy.com##+js(abort-on-property-read.js, anOptions)
@@ -370,7 +370,7 @@ polygon.com#%#AG_abortOnPropertyWrite('loadOutbrain');
 
 xnxx.com,xvideos.com##+js(window.open-defuser.js)
 xnxx.com,xvideos.com##+js(xvideos.com.js)
-xnxx.com,xvideos.com#%#window.open=function(){};
+xnxx.com,xvideos.com#%#//scriptlet("prevent-window-open")
 xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype, 'config/ads', { get: function() { return false; } });
 xnxx.com,xvideos.com#%#Object.defineProperty(window, 'openpop', { get: function() { return; } });
 
@@ -405,10 +405,10 @@ oko.sh#%#AG_abortOnPropertyRead('AaDetector');
 clipwatching.com##+js(window.open-defuser.js)
 @@||clipwatching.com/js/adframe.js$script,domain=clipwatching.com
 @@||clipwatching.com/js/pop.js$script,domain=clipwatching.com
-clipwatching.com#%#window.open=function(){};
+clipwatching.com#%#//scriptlet("prevent-window-open")
 
 money.pl##+js(window.open-defuser.js)
-money.pl#%#window.open=function(){};
+money.pl#%#//scriptlet("prevent-window-open")
 
 @@||whosampled.com^$generichide
 
@@ -450,7 +450,7 @@ streamcherry.com#%#Object.defineProperty(window, 'turnoff', { get: function() { 
 
 @@*/js/pop.js$script,domain=datoporn.co
 datoporn.co##+js(window.open-defuser.js)
-datoporn.co#%#window.open=function(){};
+datoporn.co#%#//scriptlet("prevent-window-open")
 
 xn--b1ajehof.xn--80asehdb##+js(abort-on-property-read.js, adBlockDetected)
 xn--b1ajehof.xn--80asehdb#%#AG_abortOnPropertyRead('adBlockDetected');
@@ -488,7 +488,7 @@ speedvid.net##+js(abort-on-property-write.js, _pop)
 speedvid.net##+js(window.open-defuser.js)
 speedvid.net#%#AG_abortOnPropertyRead('AaDetector');
 speedvid.net#%#AG_abortOnPropertyWrite('_pop');
-speedvid.net#%#window.open=function(){};
+speedvid.net#%#//scriptlet("prevent-window-open")
 
 @@||itpro.co.uk^$generichide
 itpro.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
@@ -739,7 +739,7 @@ payco.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 payco.*#%#AG_abortOnPropertyRead('AaDetector');
 payco.*#%#AG_abortOnPropertyWrite('_pop');
 payco.*#%#AG_onLoad(function(){setTimeout(function(){var el=document.querySelector('form[action$="/links/popad"]');if(el)el.remove()},300)});
-payco.*#%#window.open=function(){};
+payco.*#%#//scriptlet("prevent-window-open")
 payco.*$subdocument,third-party,important
 
 cut7link.*##.adsbygoogle
@@ -754,7 +754,7 @@ tl.tc##.adsbygoogle
 @@||tl.tc^$generichide
 
 @@||satoshilabs.net^$generichide
-satoshilabs.net#%#window.open=function(){};
+satoshilabs.net#%#//scriptlet("prevent-window-open")
 satoshilabs.net##+js(window.open-defuser.js)
 
 @@||msueagles.com^$generichide
@@ -865,7 +865,7 @@ linkrag.com##+js(window.open-defuser.js)
 linkrag.com##.adsbygoogle
 linkrag.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 linkrag.com#%#AG_abortOnPropertyRead('open');
-linkrag.com#%#window.open=function(){};
+linkrag.com#%#//scriptlet("prevent-window-open")
 
 canalesportivo.*##+js(abort-on-property-write.js, _pop)
 canalesportivo.*#%#AG_abortOnPropertyWrite('_pop');
@@ -987,7 +987,7 @@ getlec.blogspot.com##+js(abort-current-inline-script.js, atob, decodeURIComponen
 ver-pelis.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 ver-pelis.*#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 ver-pelis.*##+js(window.open-defuser.js)
-ver-pelis.*#%#window.open=function(){};
+ver-pelis.*#%#//scriptlet("prevent-window-open")
 ||ver-pelis.*^$third-party,important
 
 @@||elpais.com^$generichide
@@ -1018,7 +1018,7 @@ tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.text-ad-links.text-ads.
 tv-onlinehd.com##+js(addEventListener-defuser.js, load, onload)
 tv-onlinehd.com##+js(window.open-defuser.js)
 tv-onlinehd.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
-tv-onlinehd.com#%#window.open=function(){};
+tv-onlinehd.com#%#//scriptlet("prevent-window-open")
 
 @@||bankomap.com.ua^$generichide
 bankomap.com.ua##.adsbygoogle
@@ -1235,7 +1235,7 @@ odkrywamyzakryte.com#%#AG_abortOnPropertyRead('adBlockDetected');
 
 @@||software-on.com^$generichide
 software-on.com##+js(window.open-defuser.js)
-software-on.com#%#window.open=function(){};
+software-on.com#%#//scriptlet("prevent-window-open")
 
 @@*/ads.min.js$script,domain=reactiongaming.us
 
@@ -1271,7 +1271,7 @@ streamango.com##+js(abort-on-property-read.js, BetterJsPop)
 streamango.com#%#AG_abortOnPropertyRead('BetterJsPop');
 streamango.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
 streamango.com##+js(window.open-defuser.js)
-streamango.com#%#window.open=function(){};
+streamango.com#%#//scriptlet("prevent-window-open")
 
 @@||agradarpan.com^$generichide
 @@||getpocket.*^$generichide
@@ -1604,7 +1604,7 @@ adsviv.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 @@||independent.co.uk^$generichide
 independent.co.uk#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
-sbsports.pro#%#window.open=function(){};
+sbsports.pro#%#//scriptlet("prevent-window-open")
 sbsports.pro##+js(window.open-defuser.js)
 @@*/showads.js$script,domain=sbsports.pro
 
@@ -1644,7 +1644,7 @@ autocar.co.uk#%#AG_abortOnPropertyRead('InstallTrigger');
 ke1.nl#@##banner_ad
 @@||ke1.nl^$generichide
 
-axjbt.com#%#window.open=function(){};
+axjbt.com#%#//scriptlet("prevent-window-open")
 axjbt.com##+js(window.open-defuser.js)
 axjbt.com#%#AG_abortOnPropertyRead('myclick');
 axjbt.com##+js(abort-on-property-read.js, myclick)
@@ -1733,7 +1733,7 @@ superherohype.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 @@*/ads.min.js$domain=verifyemailaddress.io,script
 
-avcao.cc#%#window.open=function(){};
+avcao.cc#%#//scriptlet("prevent-window-open")
 avcao.cc##+js(window.open-defuser.js)
 avcao.cc#%#AG_abortOnPropertyRead('myclick');
 avcao.cc##+js(abort-on-property-read.js, myclick)
@@ -1847,7 +1847,7 @@ empflix.com##+js(window.open-defuser.js)
 empflix.com#%#AG_abortOnPropertyRead('ALoader');
 empflix.com#%#AG_abortOnPropertyRead('ads.pop_url');
 empflix.com#%#AG_abortOnPropertyWrite('popzone');
-empflix.com#%#window.open=function(){};
+empflix.com#%#//scriptlet("prevent-window-open")
 
 3zfile.net##+js(abort-current-inline-script.js, document.getElementById, adblock)
 3zfile.net##+js(abort-current-inline-script.js, Math, zfgloaded)
@@ -1935,7 +1935,7 @@ ouo.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 ouo.*#%#AG_abortOnPropertyRead('AaDetector');
 ouo.*#%#AG_abortOnPropertyRead('jsPopunder');
 ouo.*#%#AG_abortOnPropertyWrite('_pop');
-ouo.*#%#window.open=function(){};
+ouo.*#%#//scriptlet("prevent-window-open")
 ouo.*$popup,important
 ouo.*$webrtc,important
 ||ouo.*/js/webpush.ma.js$script,important
@@ -1982,13 +1982,13 @@ postimg.*##+js(abort-current-inline-script.js, atob, void)
 postimg.*#%#AG_abortInlineScript('void', 'atob');
 
 henpoi.in##+js(window.open-defuser.js)
-henpoi.in#%#window.open=function(){};
+henpoi.in#%#//scriptlet("prevent-window-open")
 
 yametesenpai.*##+js(addEventListener-defuser.js, load, onload)
 yametesenpai.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 @@||yametesenpai.*^$generichide
 
-tmearn.*#%#window.open=function(){};
+tmearn.*#%#//scriptlet("prevent-window-open")
 tmearn.*##+js(window.open-defuser.js)
 tmearn.*##+js(noeval-if.js, clickAnywhere)
 tmearn.*#%#//scriptlet("prevent-eval-if", "clickAnywhere")
@@ -2034,7 +2034,7 @@ movies1234.net#%#AG_abortOnPropertyRead('zfgloadednative');
 
 entervideo.net##+js(window.open-defuser.js)
 entervideo.net##+js(nowebrtc.js)
-entervideo.net#%#window.open=function(){};
+entervideo.net#%#//scriptlet("prevent-window-open")
 entervideo.net#%#AG_onLoad(function() { window.dowin = function() {}; });
 entervideo.net$webrtc,important
 
