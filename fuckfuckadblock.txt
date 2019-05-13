@@ -1663,23 +1663,13 @@ full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="positi
 yumechan.club#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||yumechan.club^$generichide
 
-infosehatku.club#@##ad_skyscraper_text
-infosehatku.club#@##adsense
-infosehatku.club#@##AdvHeader
-infosehatku.club#@##header_publicidad
-infosehatku.club#@##common_right_lower_ad_wrapper
-infosehatku.club#@##componentAdRectangle
-infosehatku.club#@##righttop-adverts-container
 @@||infosehatku.club^$generichide
+infosehatku.club#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+infosehatku.club##+js(addEventListener-defuser.js, load, onload)
 
 @@||takeitfor.me^$generichide
-takeitfor.me#@##ad_skyscraper_text
-takeitfor.me#@##adsense
-takeitfor.me#@##AdvHeader
-takeitfor.me#@##header_publicidad
-takeitfor.me#@##common_right_lower_ad_wrapper
-takeitfor.me#@##componentAdRectangle
-takeitfor.me#@##righttop-adverts-container
+takeitfor.me#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+takeitfor.me##+js(addEventListener-defuser.js, load, onload)
 
 @@||beast-birds.com^$generichide
 @@||al3amall.com^$generichide
@@ -1688,13 +1678,6 @@ beast-birds.com,al3amall.com##.adsbygoogle
 @@||jelajahinternet.*^$generichide
 jelajahinternet.*##+js(addEventListener-defuser.js, load, onload)
 jelajahinternet.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
-jelajahinternet.*#@##AdvHeader
-jelajahinternet.*#@##ad_skyscraper_text
-jelajahinternet.*#@##adsense
-jelajahinternet.*#@##common_right_lower_ad_wrapper
-jelajahinternet.*#@##componentAdRectangle
-jelajahinternet.*#@##header_publicidad
-jelajahinternet.*#@##righttop-adverts-container
 
 @@||ez4link.org^$generichide
 ez4link.org##.adsbygoogle
@@ -2027,6 +2010,6 @@ aboutchromebooks.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 @@||dist-tutor.info^$generichide
 
-@@*/advertising.js$domain=zdnet.de,script
-@@||zdnet.de^$generichide
+@@||zdnet.*/advertising.js$script
+@@||zdnet.*^$generichide
 
