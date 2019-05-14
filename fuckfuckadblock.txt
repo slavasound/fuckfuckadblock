@@ -145,10 +145,10 @@ pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,op
 @@*/adblock.js$script,domain=svapo.it
 @@*/adblockDetect.js$xmlhttprequest,domain=atv.com.tr
 @@*/adblockdetectorwithga.js$domain=fox.com.tr,script
-@@*/adframe.js$script,domain=kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net
+@@*/adframe.js$script,domain=kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net|extremereportbot.com
 @@*/adjs.js$domain=atresplayer.com,script
 @@*/ads-*.js$script,domain=duellinksmeta.com
-@@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com
+@@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com|extremereportbot.com
 @@*/ads.min.js$script,domain=certifychat.com|australianfrequentflyer.com.au|reactiongaming.us|verifyemailaddress.io|thehindu.com
 @@*/ads_*.js$script,xmlhttprequest,domain=watch32hd.org
 @@*/adsbygoogle.js$script,domain=embed.kijk.nl|won.pe|duellinksmeta.com|mediaite.com
@@ -461,8 +461,8 @@ temp-mail.org##+js(set-constant.js, checkadBlock, noopFunc)
 temp-mail.org#%#AG_setConstant('checkadBlock', 'noopFunc');
 
 @@||porndish.com^$generichide
-||popads.net/pop.js^$script,empty,important
-||popads.net/pop.js^$script,redirect=noopjs,important
+||popads.net/pop.js$script,empty,important
+||popads.net/pop.js$script,redirect=noopjs,important
 
 streamcherry.com##+js(abort-on-property-read.js, BetterJsPop)
 streamcherry.com##+js(abort-on-property-write.js, _pop)
@@ -680,8 +680,6 @@ linkberuang.*#%#AG_defineProperty('safelink.adblock',{value:false});
 diariodenavarra.es##+js(set-constant.js, Math.random, trueFunc)
 diariodenavarra.es#%#AG_setConstant('Math.random', 'trueFunc');
 
-@@||extremereportbot.com/adframe.js^$script,domain=extremereportbot.com
-@@||extremereportbot.com/ads.js^$script,domain=extremereportbot.com
 @@||extremereportbot.com^$generichide
 
 @@||wurstclient.net^$generichide
@@ -742,7 +740,7 @@ convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net#%#AG_abortInlineScript('zfgloaded', 'Math');
 convert2mp3.net#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
-||convert2mp3.net/assets/js/push.js^$script,important,domain=convert2mp3.net
+||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 
 @@||dutchycorp.space^$generichide
 dutchycorp.space##.adsbygoogle
@@ -950,7 +948,7 @@ haaretz.com#%#Object.defineProperty(window,'AdBlockUtil',{get:function(){return}
 prevention.com##+js(abort-on-property-read.js, adBlockPromise)
 prevention.com#%#AG_abortOnPropertyRead('adBlockPromise');
 
-@@||ratemyprofessors.com/assets/libs/oas.js^$script,domain=ratemyprofessors.com
+@@||ratemyprofessors.com/assets/libs/oas.js$script,domain=ratemyprofessors.com
 
 hopto.org##+js(abort-current-inline-script.js, document.getElementById, undefined)
 hopto.org#%#AG_abortInlineScript('undefined', 'document.getElementById');
