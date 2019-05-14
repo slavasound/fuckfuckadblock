@@ -2108,3 +2108,5 @@ landscapenature.*##+js(abort-on-property-read.js, anOptions)
 landscapenature.*#%#AG_abortOnPropertyRead('anOptions');
 @@||landscapenature.*^$generichide
 
+vivatube.com#%#AG_abortOnPropertyRead('BetterJsPop');
+vivatube.com##+js(abort-on-property-read.js, BetterJsPop)
