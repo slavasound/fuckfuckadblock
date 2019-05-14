@@ -2153,3 +2153,6 @@ letmejerk.com#%#AG_abortOnPropertyRead('ExoLoader');
 letmejerk.com##+js(addEventListener-defuser.js, load, _0x)
 letmejerk.com#%#AG_abortInlineScript('_0x', 'load');
 
+@@*/advertisement.js$script,domain=teknologilink.com
+@@||teknologilink.com^$generichide
+
