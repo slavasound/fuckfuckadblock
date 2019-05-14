@@ -2108,6 +2108,7 @@ rjno1.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 
 link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 @@||link-to.net^$generichide
+link-to.net#%#AG_abortInlineScript('nextFunction', 'load');
 
 @@||skycloud-exploit.weebly.com^$generichide
 
@@ -2146,4 +2147,9 @@ pornsexer.com#%#AG_abortOnPropertyRead('open');
 
 @@*/ads.js$domain=bspin.club,xmlhttprequest
 @@||bspin.club^$generichide
+
+letmejerk.com##+js(abort-on-property-read.js, ExoLoader)
+letmejerk.com#%#AG_abortOnPropertyRead('ExoLoader');
+letmejerk.com##+js(addEventListener-defuser.js, load, _0x)
+letmejerk.com#%#AG_abortInlineScript('_0x', 'load');
 
