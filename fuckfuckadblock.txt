@@ -2162,3 +2162,7 @@ templink.org##.adsbygoogle
 @@||virtualdata.*^$generichide
 virtualdata.*##.adsbygoogle
 
+alternet.org##+js(abort-on-property-read.js, HTMLCanvasElement)
+alternet.org#%#AG_abortOnPropertyRead('HTMLCanvasElement');
+@@||alternet.org^$generichide
+
