@@ -137,11 +137,13 @@ sciencelife.*,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,earthpiclover.com
 pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com##+js(abort-on-property-read.js, encodeURIComponent)
 pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com#%#AG_abortOnPropertyRead('encodeURIComponent');
 
-@@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com
-
 @@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com
-
+@@*/ads.min.js$script,domain=certifychat.com|australianfrequentflyer.com.au|reactiongaming.us|verifyemailaddress.io
 @@*/adserver.js$script,domain=cyclismactu.net
+@@*/adv.js$script,domain=seo-fast.ru|calciomercato.com
+@@*/advert.js$script,domain=hopto.org|overclockers.ru
+@@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io
+@@*/advertising.js$script,domain=rockstargame.su|swatchseries.to
 
 @@||mercurynews.com^$generichide
 
@@ -551,8 +553,6 @@ arstechnica.com##.ars-appeal-container
 ridble.com###adblock-wrapper
 ridble.com##.adisclaimer
 
-@@*/advertising.js$script,domain=rockstargame.su
-
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl##+js(abort-on-property-write.js, sas)
 filmweb.pl#%#AG_abortInlineScript('newAdblockBoardDisplayed', 'decodeURIComponent');
@@ -630,7 +630,6 @@ vinaurl.net##.adsbygoogle
 @@||tinylink.*^$generichide
 tinylink.*##.adsbygoogle
 
-@@*/js/advertisement.js$script,domain=uploadbox.io
 uploadbox.io##+js(abort-on-property-read.js, replaceContentWithAdBlockerContent)
 uploadbox.io#%#AG_abortOnPropertyRead('replaceContentWithAdBlockerContent');
 
@@ -941,7 +940,6 @@ topsport.bg,news.bg#%#AG_abortOnPropertyRead('isAdBlockActive');
 @@||politiken.dk/ad-server.js$script,domain=politiken.dk
 @@||politiken.dk^$generichide
 
-@@*/js/advertisement.js^$script,domain=haaretz.com
 haaretz.com##+js(abort-current-inline-script.js, AdBlockUtil)
 haaretz.com#%#Object.defineProperty(window,'AdBlockUtil',{get:function(){return}});
 
@@ -952,7 +950,6 @@ prevention.com#%#AG_abortOnPropertyRead('adBlockPromise');
 
 @@||ratemyprofessors.com/assets/libs/oas.js^$script,domain=ratemyprofessors.com
 
-@@*/advert.js^$script,domain=hopto.org
 hopto.org##+js(abort-current-inline-script.js, document.getElementById, undefined)
 hopto.org#%#AG_abortInlineScript('undefined', 'document.getElementById');
 
@@ -1080,8 +1077,6 @@ twojetv.ws#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 @@||express.de^$generichide
 express.de###wl-overlay-wrapper
 
-@@||clksite.com/static/advertisement.js$script,domain=clksite.com
-
 @@||professionaltutorial.com^$generichide
 professionaltutorial.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
@@ -1117,8 +1112,6 @@ uploadocean.com##+js(nowebrtc.js)
 @@||uploadocean.com^$generichide
 
 @@||urlex.org^$generichide
-
-@@*/advert.js$script,domain=overclockers.ru
 
 @@||javadecompilers.com^$generichide
 
@@ -1241,7 +1234,6 @@ gutekueche.at#%#AG_setConstant('gkAdsWerbung', 'true');
 @@||teqniaplus.com^$generichide
 teqniaplus.com##.adsbygoogle
 
-@@*/ads.min.js$script,domain=australianfrequentflyer.com.au
 @@||australianfrequentflyer.com.au^$generichide
 
 @@||www.motortrendondemand.com/advertisements-ad-unit/*$xmlhttprequest,domain=www.motortrendondemand.com
@@ -1256,17 +1248,12 @@ software-on.com#%#window.open=function(){};
 software-on.com#%#//scriptlet("prevent-window-open")
 software-on.com$popup,third-party,important
 
-@@*/ads.min.js$script,domain=reactiongaming.us
-
-@@*/advertising.js$script,domain=swatchseries.to
-
 animeshouse.net#@#.afs_ads
 
 @@||huynhhieu.com^$generichide
 
 @@||febbit.com^$generichide
 
-@@*/adv.js$script,domain=calciomercato.com
 @@||calciomercato.com^$generichide
 
 @@||profitstudy.*^$generichide
@@ -1276,8 +1263,6 @@ scat.gold##+js(abort-on-property-read.js, anOptions)
 scat.gold#%#AG_abortOnPropertyRead('anOptions');
 
 @@||lamitadmas1.net^$generichide
-
-@@*/adv.js$script,domain=seo-fast.ru
 
 @@||upload.*/advertisement.js$script
 upload.*##+js(abort-current-inline-script.js, Math, zfgloaded)
@@ -1741,8 +1726,6 @@ hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
 @@||superherohype.com^$generichide
 superherohype.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 superherohype.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-
-@@*/ads.min.js$domain=verifyemailaddress.io,script
 
 avcao.cc#%#//scriptlet("prevent-window-open")
 avcao.cc$popup,third-party,important
