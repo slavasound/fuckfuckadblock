@@ -141,6 +141,8 @@ pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,op
 
 @@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com
 
+@@*/adserver.js$script,domain=cyclismactu.net
+
 @@||mercurynews.com^$generichide
 
 @@||dropupload.com^$generichide
@@ -2082,6 +2084,8 @@ indexof.ir#%#AG_abortOnPropertyRead('AaDetector');
 @@||arkowcy.pl^$generichide
 
 movie-blog.to#%#AG_abortOnPropertyRead('popns');
+movie-blog.to##+js(popads-dummy.js)
+movie-blog.to#%#//scriptlet("set-popads-dummy")
 movie-blog.to##+js(abort-on-property-read.js, popns)
 
 oploverzhome.com##+js(addEventListener-defuser.js, load, onload)
@@ -2139,8 +2143,6 @@ verystream.com#%#AG_abortOnPropertyRead('adblock');
 verystream.com#%#AG_abortOnPropertyRead('open');
 
 @@||animeskai.biz^$generichide
-
-@@*/adserver.js$script,domain=cyclismactu.net
 
 @@||replaytvstreaming.com^$generichide
 
