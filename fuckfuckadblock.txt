@@ -2116,3 +2116,6 @@ vivatube.com##+js(abort-on-property-read.js, BetterJsPop)
 movieor.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 movieor.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 
+menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
+menantisenja.com,pafpaf.info#%#AG_setConstant('adblock', '1');
+
