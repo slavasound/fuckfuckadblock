@@ -2168,3 +2168,7 @@ virtualdata.*##.adsbygoogle
 alternet.org##+js(abort-on-property-read.js, HTMLCanvasElement)
 alternet.org#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
+@@||ratemyteachers.com^$generichide
+ratemyteachers.com##+js(abort-current-inline-script.js, document.getElementById, 'block')
+ratemyteachers.com#%#AG_abortInlineScript('block', 'document.getElementById');
+
