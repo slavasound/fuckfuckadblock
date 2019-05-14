@@ -1817,6 +1817,7 @@ golem.de##+js(abort-on-property-write.js, _sp_)
 golem.de#%#AG_abortOnPropertyWrite('_sp_');
 
 @@||olympine.com^$generichide
+olympine.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 4shared.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 4shared.com#%#AG_abortInlineScript('zfgloaded', 'Math');
@@ -2098,4 +2099,12 @@ corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
 *$script,third-party,domain=shtlink.co|shtme.co
 
 @@||surfsees.com^$generichide
+
+@@||videopenny.net^$generichide
+videopenny.net##+js(abort-current-inline-script.js, Math, zfgloaded)
+videopenny.net#%#AG_abortInlineScript('zfgloaded', 'Math');
+
+landscapenature.*##+js(abort-on-property-read.js, anOptions)
+landscapenature.*#%#AG_abortOnPropertyRead('anOptions');
+@@||landscapenature.*^$generichide
 
