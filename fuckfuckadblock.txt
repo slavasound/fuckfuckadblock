@@ -2128,8 +2128,13 @@ muhammadyoga.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
 @@||muhammadyoga.*^$generichide
 
 @@||shortbit.co^$generichide
+shortbit.co##+js(addEventListener-defuser.js, click, trigger)
+shortbit.co#%#//scriptlet("prevent-addEventListener", "click", "trigger")
+*$frame,domain=shortbit.co,third-party,important
 
 @@||abtakar.com^$generichide
+abtakar.com##+js(abort-on-property-read.js, open)
+abtakar.com#%#AG_abortOnPropertyRead('open');
 
 @@||dragon-url.com^$generichide
 
