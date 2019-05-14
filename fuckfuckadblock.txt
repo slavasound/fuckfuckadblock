@@ -2184,3 +2184,5 @@ verystream.com##+js(abort-on-property-read.js, open)
 verystream.com#%#AG_abortOnPropertyRead('adblock');
 verystream.com#%#AG_abortOnPropertyRead('open');
 
+@@||animeskai.biz^$generichide
+
