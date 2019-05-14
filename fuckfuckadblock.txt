@@ -2146,3 +2146,9 @@ verystream.com#%#AG_abortOnPropertyRead('open');
 
 @@||replaytvstreaming.com^$generichide
 
+@@||corneey.com^$generichide
+corneey.com##+js(abort-current-inline-script.js, parseInt, tabunder)
+corneey.com##+js(popads-dummy.js)
+corneey.com#%#//scriptlet("set-popads-dummy")
+corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
+
