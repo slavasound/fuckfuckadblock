@@ -2178,3 +2178,9 @@ talkshowyoutube.blogspot.com#%#AG_abortInlineScript(/load|onload/, 'window.addEv
 
 @@||healthykk.com^$generichide
 
+@@||verystream.com^$generichide
+verystream.com##+js(abort-on-property-read.js, adblock)
+verystream.com##+js(abort-on-property-read.js, open)
+verystream.com#%#AG_abortOnPropertyRead('adblock');
+verystream.com#%#AG_abortOnPropertyRead('open');
+
