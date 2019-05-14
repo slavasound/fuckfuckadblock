@@ -144,6 +144,7 @@ pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,op
 @@*/advert.js$script,domain=hopto.org|overclockers.ru
 @@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io
 @@*/advertising.js$script,domain=rockstargame.su|swatchseries.to
+@@*/showAds.js$script,domain=golem.de
 
 @@||mercurynews.com^$generichide
 
@@ -1852,9 +1853,7 @@ worder.cat#%#AG_abortOnPropertyWrite('ga');
 
 @@||golem.de^$generichide
 golem.de##+js(abort-on-property-write.js, _sp_)
-golem.de##+js(set-constant.js, showAds, true)
 golem.de#%#AG_abortOnPropertyWrite('_sp_');
-golem.de#%#AG_setConstant('showAds', 'true');
 
 @@||olympine.com^$generichide
 
@@ -2137,5 +2136,5 @@ corneey.com##+js(popads-dummy.js)
 corneey.com#%#//scriptlet("set-popads-dummy")
 corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
 
-*$script,domain=shtlink.co|shtme.co,third-party,important
+*$script,third-party,domain=shtlink.co|shtme.co
 
