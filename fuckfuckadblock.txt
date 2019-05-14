@@ -2119,3 +2119,7 @@ movieor.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
 menantisenja.com,pafpaf.info#%#AG_setConstant('adblock', '1');
 
+muhammadyoga.*##+js(addEventListener-defuser.js, load, onload)
+muhammadyoga.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+@@||muhammadyoga.*^$generichide
+
