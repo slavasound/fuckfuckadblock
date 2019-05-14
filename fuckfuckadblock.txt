@@ -536,6 +536,7 @@ macwelt.de#%#AG_abortInlineScript('idgStorage');
 wfaa.com##+js(abort-on-property-read.js, stop)
 wfaa.com#%#AG_abortOnPropertyRead('stop');
 
+@@||thewindowsclub.com^$generichide
 thewindowsclub.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 thewindowsclub.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
@@ -2053,6 +2054,7 @@ cpmlink.net#%#AG_abortOnPropertyWrite('_pop');
 cpmlink.net$webrtc,important
 ||cpmlink.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.cloudflare.com
 
+@@||aboutchromebooks.com^$generichide
 aboutchromebooks.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 aboutchromebooks.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
@@ -2162,7 +2164,7 @@ templink.org##.adsbygoogle
 @@||virtualdata.*^$generichide
 virtualdata.*##.adsbygoogle
 
+@@||alternet.org^$generichide
 alternet.org##+js(abort-on-property-read.js, HTMLCanvasElement)
 alternet.org#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-@@||alternet.org^$generichide
 
