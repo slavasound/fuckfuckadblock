@@ -2112,3 +2112,7 @@ landscapenature.*#%#AG_abortOnPropertyRead('anOptions');
 
 vivatube.com#%#AG_abortOnPropertyRead('BetterJsPop');
 vivatube.com##+js(abort-on-property-read.js, BetterJsPop)
+
+movieor.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+movieor.com#%#AG_abortInlineScript('zfgloaded', 'Math');
+
