@@ -2137,3 +2137,5 @@ corneey.com##+js(popads-dummy.js)
 corneey.com#%#//scriptlet("set-popads-dummy")
 corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
 
+*$script,domain=shtlink.co|shtme.co,third-party,important
+
