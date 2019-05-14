@@ -2172,3 +2172,7 @@ alternet.org#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 ratemyteachers.com##+js(abort-current-inline-script.js, document.getElementById, 'block')
 ratemyteachers.com#%#AG_abortInlineScript('block', 'document.getElementById');
 
+talkshowyoutube.blogspot.com##+js(addEventListener-defuser.js, load, onload)
+talkshowyoutube.blogspot.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+@@||talkshowyoutube.blogspot.com^$generichide
+
