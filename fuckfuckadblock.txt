@@ -2126,6 +2126,8 @@ verystream.com#%#AG_abortOnPropertyRead('adblock');
 verystream.com#%#AG_abortOnPropertyRead('open');
 
 @@||animeskai.biz^$generichide
+animeskai.biz##+js(abort-current-inline-script.js, Math, zfgloaded)
+animeskai.biz#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 @@||replaytvstreaming.com^$generichide
 
