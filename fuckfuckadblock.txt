@@ -2097,6 +2097,8 @@ corneey.com#%#//scriptlet("set-popads-dummy")
 corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
 
 *$script,third-party,domain=shtlink.co|shtme.co
+shtlink.co,shtme.co##+js(abort-on-property-read.js, AaDetector)
+shtlink.co,shtme.co#%#AG_abortOnPropertyRead('AaDetector');
 
 @@||surfsees.com^$generichide
 
