@@ -2096,11 +2096,15 @@ animeskai.biz#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 @@||replaytvstreaming.com^$generichide
 
+@@||ceesty.com^$generichide
 @@||corneey.com^$generichide
-corneey.com##+js(abort-current-inline-script.js, parseInt, tabunder)
-corneey.com##+js(popads-dummy.js)
-corneey.com#%#//scriptlet("set-popads-dummy")
-corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
+@@||gestyy.com^$generichide
+ceesty.com,gestyy.com##+js(set-constant.js, adsBlockerDetector, noopFunc)
+ceesty.com,gestyy.com#%#AG_setConstant('adsBlockerDetector', 'noopFunc');
+ceesty.com,gestyy.com,corneey.com##+js(abort-current-inline-script.js, parseInt, tabunder)
+ceesty.com,gestyy.com,corneey.com##+js(popads-dummy.js)
+ceesty.com,gestyy.com,corneey.com#%#//scriptlet("set-popads-dummy")
+ceesty.com,gestyy.com,corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
 
 *$script,third-party,domain=shtlink.co|shtme.co
 shtlink.co,shtme.co##+js(abort-on-property-read.js, AaDetector)
