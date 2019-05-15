@@ -2187,3 +2187,6 @@ manyak.info#%#AG_abortOnPropertyWrite('_pop');
 javhihi.com#%#AG_abortInlineScript('getexoloader', 'document.dispatchEvent');
 javhihi.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
 
+freeupload.info,uploadfree.info##+js(abort-current-inline-script.js, document.getElementById, undefined)
+freeupload.info,uploadfree.info#%#AG_abortInlineScript('undefined', 'document.getElementById');
+
