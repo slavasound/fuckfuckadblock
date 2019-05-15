@@ -934,7 +934,7 @@ intporn.org#%#AG_abortOnPropertyRead('jsm_reruntime');
 */chaturbate.js$script,important
 
 televall.*##+js(addEventListener-defuser.js, load, onload)
-televall.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+televall.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
 televall.*##+js(set-constant.js, jQuery.adblock, false)
 televall.*#%#AG_setConstant('jQuery.adblock', 'false');
 @@||televall.*^$generichide
@@ -1048,7 +1048,7 @@ tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.text-ad-links.text-ads.
 @@||tv-onlinehd.com^$generichide
 tv-onlinehd.com##+js(addEventListener-defuser.js, load, onload)
 tv-onlinehd.com##+js(window.open-defuser.js)
-tv-onlinehd.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+tv-onlinehd.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
 tv-onlinehd.com#%#//scriptlet("prevent-window-open")
 tv-onlinehd.com$popup,third-party,important
 tv-onlinehd.com#%#window.open=function(){};
@@ -1071,7 +1071,7 @@ jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 @@||darmowa-telewizja.online^$generichide
 darmowa-telewizja.online##+js(abort-current-inline-script.js, Math, zfgloaded)
 darmowa-telewizja.online##+js(addEventListener-defuser.js, load, onload)
-darmowa-telewizja.online#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+darmowa-telewizja.online#%#//scriptlet("prevent-addEventListener", "load", "onload")
 darmowa-telewizja.online#%#AG_abortInlineScript('zfgloaded', 'Math');
 darmowa-telewizja.online,kastream.biz##+js(abort-on-property-read.js, _pop)
 darmowa-telewizja.online,kastream.biz#%#AG_abortOnPropertyRead('_pop');
@@ -1292,7 +1292,7 @@ agradarpan.com,getpocket.*##.adsbygoogle
 rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
 
 mifirm.net##+js(addEventListener-defuser.js, load, onload)
-mifirm.net#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+mifirm.net#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
 gossipcorners.com##.adsbygoogle
 @@||gossipcorners.com^$generichide
@@ -1514,7 +1514,7 @@ zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
 forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
 
 jobhunterplg.*##+js(addEventListener-defuser.js, load, onload)
-jobhunterplg.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+jobhunterplg.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
 @@||pixlr.com^$generichide
 pixlr.com#@#.adBanner
@@ -1634,11 +1634,11 @@ yumechan.club#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text
 @@||yumechan.club^$generichide
 
 @@||infosehatku.club^$generichide
-infosehatku.club#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+infosehatku.club#%#//scriptlet("prevent-addEventListener", "load", "onload")
 infosehatku.club##+js(addEventListener-defuser.js, load, onload)
 
 @@||takeitfor.me^$generichide
-takeitfor.me#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+takeitfor.me#%#//scriptlet("prevent-addEventListener", "load", "onload")
 takeitfor.me##+js(addEventListener-defuser.js, load, onload)
 
 @@||beast-birds.com^$generichide
@@ -1647,7 +1647,7 @@ beast-birds.com,al3amall.com##.adsbygoogle
 
 @@||jelajahinternet.*^$generichide
 jelajahinternet.*##+js(addEventListener-defuser.js, load, onload)
-jelajahinternet.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+jelajahinternet.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
 @@||ez4link.org^$generichide
 ez4link.org##.adsbygoogle
@@ -1782,7 +1782,7 @@ fc.lc##+js(noeval.js)
 
 @@||akuno.net^$generichide
 akuno.net##+js(addEventListener-defuser.js, load, onload)
-akuno.net#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+akuno.net#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
 @@||akla4.com^$generichide
 
@@ -1850,7 +1850,7 @@ stfly.*#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 stfly.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 
 anoboy.org##+js(addEventListener-defuser.js, load, onload)
-anoboy.org#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+anoboy.org#%#//scriptlet("prevent-addEventListener", "load", "onload")
 @@||anoboy.org^$generichide
 
 hpjav.tv##+js(abort-on-property-read.js, AaDetector)
@@ -1940,7 +1940,7 @@ henpoi.in$popup,third-party,important
 henpoi.in#%#window.open=function(){};
 
 yametesenpai.*##+js(addEventListener-defuser.js, load, onload)
-yametesenpai.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+yametesenpai.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
 @@||yametesenpai.*^$generichide
 
 tmearn.*#%#//scriptlet("prevent-window-open")
@@ -2012,7 +2012,7 @@ fmovies.wtf#%#AG_abortInlineScript('zfgloaded', 'Math');
 rjno1.com##+js(addEventListener-defuser.js, load, onload)
 rjno1.com##+js(setTimeout-defuser.js, rjnocanrunads, 3000)
 rjno1.com#%#//scriptlet("prevent-setTimeout", "rjnocanrunads", "3000")
-rjno1.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+rjno1.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 
 link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
@@ -2037,7 +2037,7 @@ movie-blog.to#%#//scriptlet("set-popads-dummy")
 movie-blog.to##+js(abort-on-property-read.js, popns)
 
 oploverzhome.com##+js(addEventListener-defuser.js, load, onload)
-oploverzhome.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+oploverzhome.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
 @@||oploverzhome.com^$generichide
 
 @@||papalah.com^$generichide
@@ -2079,7 +2079,7 @@ ratemyteachers.com##+js(abort-current-inline-script.js, document.getElementById,
 ratemyteachers.com#%#AG_abortInlineScript('block', 'document.getElementById');
 
 talkshowyoutube.blogspot.com##+js(addEventListener-defuser.js, load, onload)
-talkshowyoutube.blogspot.com#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+talkshowyoutube.blogspot.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
 @@||talkshowyoutube.blogspot.com^$generichide
 
 @@||healthykk.com^$generichide
@@ -2126,7 +2126,7 @@ menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
 menantisenja.com,pafpaf.info#%#AG_setConstant('adblock', '1');
 
 muhammadyoga.*##+js(addEventListener-defuser.js, load, onload)
-muhammadyoga.*#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+muhammadyoga.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
 @@||muhammadyoga.*^$generichide
 
 @@||shortbit.co^$generichide
@@ -2150,7 +2150,7 @@ v6download.com##.adsbygoogle
 v6download.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 skiplink.io##+js(addEventListener-defuser.js, load, onload)
-skiplink.io#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+skiplink.io#%#//scriptlet("prevent-addEventListener", "load", "onload")
 @@||skiplink.io^$generichide
 
 leporno.org##+js(abort-current-inline-script.js, atob, tabunder)
