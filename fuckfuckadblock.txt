@@ -2147,3 +2147,7 @@ v6download.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 v6download.com##.adsbygoogle
 v6download.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 
+skiplink.io##+js(addEventListener-defuser.js, load, onload)
+skiplink.io#%#AG_abortInlineScript(/load|onload/, 'window.addEventListener');
+@@||skiplink.io^$generichide
+
