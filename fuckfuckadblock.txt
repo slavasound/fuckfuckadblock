@@ -145,6 +145,7 @@ pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,op
 @@*/adblock.js$script,domain=svapo.it
 @@*/adblockDetect.js$xmlhttprequest,domain=atv.com.tr
 @@*/adblockdetectorwithga.js$domain=fox.com.tr,script
+@@*/adetectads.js$script,domain=jav777.cc
 @@*/adframe.js$script,domain=kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net|extremereportbot.com
 @@*/adjs.js$domain=atresplayer.com,script
 @@*/ads-*.js$script,domain=duellinksmeta.com
@@ -2160,4 +2161,13 @@ ps-insar.com##.adsbygoogle
 
 @@||health-goood.com^$generichide
 health-goood.com##.adsbygoogle
+
+@@||playstationlifestyle.net^$generichide
+playstationlifestyle.net##+js(abort-on-property-read.js, HTMLCanvasElement)
+playstationlifestyle.net#%#AG_abortOnPropertyRead('HTMLCanvasElement');
+
+@@||windowcleaningforums.co.uk^$generichide
+windowcleaningforums.co.uk#@#.adsbygoogle
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,empty,domain=windowcleaningforums.co.uk
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=windowcleaningforums.co.uk
 
