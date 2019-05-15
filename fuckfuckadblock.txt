@@ -2184,3 +2184,6 @@ manyak.info#%#AG_abortOnPropertyWrite('_pop');
 
 @@||kriminalukraine.com.ua^$generichide
 
+javhihi.com#%#AG_abortInlineScript('getexoloader', 'document.dispatchEvent');
+javhihi.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
+
