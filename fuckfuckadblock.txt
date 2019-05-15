@@ -2194,3 +2194,7 @@ javhihi.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexol
 freeupload.info,uploadfree.info##+js(abort-current-inline-script.js, document.getElementById, undefined)
 freeupload.info,uploadfree.info#%#AG_abortInlineScript('undefined', 'document.getElementById');
 
+draug.ru##+js(abort-current-inline-script.js, Math.floor, AdSense)
+draug.ru#%#AG_abortInlineScript('AdSense', 'Math.floor');
+@@||draug.ru^$generichide
+
