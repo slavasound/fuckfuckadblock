@@ -158,7 +158,7 @@ pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,op
 @@*/adv.js$script,domain=seo-fast.ru|calciomercato.com
 @@*/advert.js$script,domain=hopto.org|overclockers.ru
 @@*/advertisement-*.js$script,domain=geekspin.co
-@@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io
+@@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us
 @@*/advertising-*.js$script,domain=wetransfer.com
 @@*/advertising.js$script,domain=rockstargame.su|swatchseries.to
 @@*/gads.js$script,domain=rodzinnywyjazd.pl
@@ -2174,4 +2174,7 @@ windowcleaningforums.co.uk#@#.adsbygoogle
 
 @@||muzlan.top^$generichide
 @@||muzlan.top^$xmlhttprequest,domain=muzlan.top
+
+javplay.me#%#AG_abortOnPropertyRead('popjs');
+javplay.me##+js(abort-on-property-read.js, popjs)
 
