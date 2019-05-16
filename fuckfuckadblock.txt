@@ -2247,3 +2247,7 @@ yts.*$webrtc,important
 di.se##+js(abort-current-inline-script.js, checkAdBlockEnabled)
 di.se#%#AG_abortInlineScript('checkAdBlockEnabled');
 
+@@||prosieben.de^$generichide
+||cdn.zomap.de^$media,empty,domain=prosieben.de
+||cdn.zomap.de^$media,redirect=noopmp3-0.1s,domain=prosieben.de
+
