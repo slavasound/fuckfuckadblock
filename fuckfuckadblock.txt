@@ -2237,3 +2237,6 @@ yts.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 yts.*$webrtc,important
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 
+/^https?:\/\/(www\.)?dizimag([0-9]{1})\./$important,csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.molyusercontentstage.me *.vidmoly.me
+/^https?:\/\/(www\.)?dizimag([0-9]{1})\./$popup,third-party,important
+
