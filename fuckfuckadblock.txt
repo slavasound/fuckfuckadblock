@@ -2211,3 +2211,5 @@ mywrestling.com.pl#%#AG_abortOnPropertyWrite('killAdBlock');
 mywrestling.com.pl#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||mywrestling.com.pl^$generichide
 
+||washingtonpost.com/*/adblocker-feature$xmlhttprequest,domain=washingtonpost.com
+
