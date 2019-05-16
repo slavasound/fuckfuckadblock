@@ -2205,3 +2205,9 @@ t66y.com#%#AG_abortInlineScript('undefined', '$');
 
 @@||piktag.net^$generichide
 
+mywrestling.com.pl##+js(abort-on-property-write.js, killAdBlock)
+mywrestling.com.pl##+js(abort-on-property-write.js, adBlockDetected)
+mywrestling.com.pl#%#AG_abortOnPropertyWrite('killAdBlock');
+mywrestling.com.pl#%#AG_abortOnPropertyWrite('adBlockDetected');
+@@||mywrestling.com.pl^$generichide
+
