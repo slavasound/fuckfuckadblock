@@ -2198,3 +2198,8 @@ draug.ru##+js(abort-current-inline-script.js, Math.floor, AdSense)
 draug.ru#%#AG_abortInlineScript('AdSense', 'Math.floor');
 @@||draug.ru^$generichide
 
+t66y.com##+js(set-constant.js, Math.random, trueFunc)
+t66y.com##+js(abort-current-inline-script.js, $, undefined)
+t66y.com#%#AG_setConstant('Math.random', 'trueFunc');
+t66y.com#%#AG_abortInlineScript('undefined', '$');
+
