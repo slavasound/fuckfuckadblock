@@ -532,6 +532,7 @@ gallerix.ru#%#AG_defineProperty('jQuery.adbk', {value: false});
 digitaltrends.com##+js(abort-current-inline-script.js, setTimeout, googlefcPresent)
 digitaltrends.com#%#AG_abortInlineScript('googlefcPresent', 'setTimeout');
 
+@@||eurogamer.*^$generichide
 eurogamer.*##+js(abort-on-property-read.js, _sp_._networkListenerData)
 eurogamer.*#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
@@ -2222,4 +2223,5 @@ bdmbase.ru#%#//scriptlet("prevent-setTimeout", "$", "ins.adsbygoogle")
 @@||123link.*^$generichide
 
 @@||business-mortgage.*^$generichide
+
 
