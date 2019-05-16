@@ -2213,3 +2213,7 @@ mywrestling.com.pl#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 ||washingtonpost.com/*/adblocker-feature$xmlhttprequest,domain=washingtonpost.com
 
+@@||bdmbase.ru^$generichide
+bdmbase.ru##+js(setTimeout-defuser.js, $, ins.adsbygoogle)
+bdmbase.ru#%#//scriptlet("prevent-setTimeout", "$", "ins.adsbygoogle")
+
