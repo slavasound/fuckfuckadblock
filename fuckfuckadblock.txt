@@ -1312,8 +1312,8 @@ mrtekani.com##.adsbygoogle
 
 @@||tercihiniyap.net^$generichide
 
-@@||all-episodes.tv/ad/banner/$xmlhttprequest
-@@||all-episodes.tv/retlplayer/downretl.js$script
+@@||all-episodes.tv/*/downretl.js$script,domain=all-episodes.tv
+@@||all-episodes.tv/ad/banner/$xmlhttprequest,domain=all-episodes.tv
 @@||all-episodes.tv^$generichide
 ||boostervideo.ru/client/boostervideo.js$script,empty,domain=all-episodes.tv,important
 ||boostervideo.ru/client/boostervideo.js$script,redirect=noopjs,domain=all-episodes.tv
@@ -2211,6 +2211,7 @@ mywrestling.com.pl##+js(abort-on-property-write.js, adBlockDetected)
 mywrestling.com.pl#%#AG_abortOnPropertyWrite('killAdBlock');
 mywrestling.com.pl#%#AG_abortOnPropertyWrite('adBlockDetected');
 @@||mywrestling.com.pl^$generichide
+mywrestling.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 ||washingtonpost.com/*/adblocker-feature$xmlhttprequest,domain=washingtonpost.com
 
