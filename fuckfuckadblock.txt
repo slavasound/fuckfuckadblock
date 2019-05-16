@@ -2228,3 +2228,12 @@ bdmbase.ru#%#//scriptlet("prevent-setTimeout", "$", "ins.adsbygoogle")
 @@||turkanime.tv^$generichide
 turkanime.tv#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
+xhamster.desi#%#AG_abortOnPropertyRead('dataPopUnder');
+xhamster.desi##+js(abort-on-property-read.js, dataPopUnder)
+
+yts.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+yts.*##+js(nowebrtc.js)
+yts.*#%#AG_abortInlineScript('zfgloaded', 'Math');
+yts.*$webrtc,important
+||yts.*^$csp=script-src 'self' * 'unsafe-inline'
+
