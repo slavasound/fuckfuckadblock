@@ -2251,3 +2251,7 @@ di.se#%#AG_abortInlineScript('checkAdBlockEnabled');
 ||cdn.zomap.de^$media,empty,domain=prosieben.de
 ||cdn.zomap.de^$media,redirect=noopmp3-0.1s,domain=prosieben.de
 
+@@||tvnow.de^$generichide
+||damoh.tvnow.de/*$media,empty,domain=tvnow.de
+||damoh.tvnow.de/*$media,redirect=noopmp3-0.1s,domain=tvnow.de
+
