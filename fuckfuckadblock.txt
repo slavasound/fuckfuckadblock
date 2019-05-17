@@ -1061,6 +1061,7 @@ bit-url.com##+js(abort-on-property-read.js, open)
 bit-url.com##+js(noeval.js)
 bit-url.com##+js(set-constant.js, absda, noopFunc)
 bit-url.com##.banner
+bit-url.com#%#//scriptlet("noeval")
 bit-url.com#%#AG_abortOnPropertyRead('open');
 bit-url.com#%#AG_abortOnPropertyWrite('_pop');
 bit-url.com#%#AG_setConstant('absda', 'noopFunc');
@@ -1562,7 +1563,7 @@ mshare.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads
 mu2.mobi##+js(abort-on-property-read.js, marker)
 mu2.mobi#%#AG_abortOnPropertyRead('marker');
 
-fc.lc#%#window.eval = function() {};
+fc.lc#%#//scriptlet("noeval")
 fc.lc##+js(noeval.js)
 
 akuno.net##+js(addEventListener-defuser.js, load, onload)
