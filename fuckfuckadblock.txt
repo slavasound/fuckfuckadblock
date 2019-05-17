@@ -2255,3 +2255,6 @@ di.se#%#AG_abortInlineScript('checkAdBlockEnabled');
 ||damoh.tvnow.de/*$media,empty,domain=tvnow.de
 ||damoh.tvnow.de/*$media,redirect=noopmp3-0.1s,domain=tvnow.de
 
+||pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com
+||pagead2.googlesyndication.com/pagead/show_ads.js$script,empty,domain=agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com
+
