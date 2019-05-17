@@ -591,6 +591,7 @@ wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com
 @@*/googlead.js$script,domain=streamcherry.com
 @@*/googleads.js$script,domain=getintopc.com|unique-tutorials.info|solvetube.site
 @@*/ima3.js$domain=viki.com,script
+@@*/loader.js$script,domain=doramatv.me
 @@*/pop.js$script,domain=clipwatching.com|datoporn.co|vidlox.me
 @@*/reklama.js$script,domain=gra.pl
 @@*/showAds.js$script,domain=golem.de
