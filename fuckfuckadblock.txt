@@ -582,7 +582,7 @@ wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com
 @@*/adv.js$script,domain=seo-fast.ru|calciomercato.com
 @@*/advert.js$script,domain=hopto.org|overclockers.ru|cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@*/advertisement-*.js$script,domain=geekspin.co
-@@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us
+@@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us|blocket.se
 @@*/advertising-*.js$script,domain=wetransfer.com
 @@*/advertising.js$script,domain=rockstargame.su|swatchseries.to
 @@*/gads.js$script,domain=rodzinnywyjazd.pl
