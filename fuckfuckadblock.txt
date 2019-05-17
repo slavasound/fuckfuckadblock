@@ -343,6 +343,7 @@
 @@||lustich.de^$generichide
 @@||luzernerzeitung.ch^$generichide
 @@||m-translate.ru^$generichide
+@@||hanime.tv^$generichide
 @@||macappdownload.com^$generichide
 @@||macbed.com^$generichide
 @@||macdailynews.com^$generichide
@@ -1923,7 +1924,6 @@ kinostate.net#%#AG_abortInlineScript('encodeURIComponent');
 pornk.name##+js(abort-current-inline-script.js, encodeURIComponent)
 pornk.name#%#AG_abortInlineScript('encodeURIComponent');
 
-@@||hanime.tv^$generichide
 hanime.tv##+js(abort-current-inline-script.js, BetterJsPop)
 hanime.tv##+js(set-constant.js, ABLK, false)
 hanime.tv#%#AG_abortInlineScript('BetterJsPop');
