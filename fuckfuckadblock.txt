@@ -370,6 +370,7 @@
 @@||oploverzhome.com^$generichide
 @@||ottawacitizen.com^$generichide
 @@||ouo.*^$generichide
+@@||infotrendy.me^$generichide
 @@||ourmagnet.*^$generichide
 @@||pantsu.cat^$generichide
 @@||papalah.com^$generichide
@@ -2028,4 +2029,7 @@ ultraskora.com##.adsbygoogle
 androidaba.com##+js(abort-on-property-write.js, adBlockDetected)
 androidaba.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 androidaba.com#%#AG_abortOnPropertyWrite('adBlockDetected');
+
+infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
+infotrendy.me#%#//scriptlet("prevent-addEventListener", "load", "2000")
 
