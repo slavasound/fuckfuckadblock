@@ -1912,3 +1912,8 @@ vidstreaming.io#%#//scriptlet("noeval")
 vidstreaming.io#%#AG_abortInlineScript('parseInt', 'decodeURIComponent');
 vidstreaming.io#%#AG_abortInlineScript('tabunder', 'parseInt');
 
+||pagead2.googlesyndication.com/pagead/show_ads.js$script,empty,domain=herokuapp.com
+||pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=herokuapp.com
+herokuapp.com##+js(set-constant.js, gadb, false)
+herokuapp.com#%#AG_setConstant('gadb', 'false');
+
