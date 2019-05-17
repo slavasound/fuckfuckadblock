@@ -150,7 +150,7 @@ pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,op
 @@*/adframe.js$script,domain=kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net|extremereportbot.com
 @@*/adjs.js$domain=atresplayer.com,script
 @@*/ads-*.js$script,domain=duellinksmeta.com
-@@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com|extremereportbot.com|mshare.io
+@@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com|extremereportbot.com|mshare.io|androidplanet.nl
 @@*/ads.min.js$script,domain=certifychat.com|australianfrequentflyer.com.au|reactiongaming.us|verifyemailaddress.io|thehindu.com
 @@*/ads_*.js$script,xmlhttprequest,domain=watch32hd.org
 @@*/adsbygoogle.js$script,domain=embed.kijk.nl|won.pe|duellinksmeta.com|mediaite.com|spinbot.com
