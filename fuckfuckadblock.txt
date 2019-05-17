@@ -1923,3 +1923,9 @@ kinostate.net#%#AG_abortInlineScript('encodeURIComponent');
 pornk.name##+js(abort-current-inline-script.js, encodeURIComponent)
 pornk.name#%#AG_abortInlineScript('encodeURIComponent');
 
+@@||hanime.tv^$generichide
+hanime.tv##+js(abort-current-inline-script.js, BetterJsPop)
+hanime.tv##+js(set-constant.js, ABLK, false)
+hanime.tv#%#AG_abortInlineScript('BetterJsPop');
+hanime.tv#%#AG_setConstant('ABLK', 'false');
+
