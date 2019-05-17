@@ -539,6 +539,12 @@ sciencelife.*,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,earthpiclover.com
 pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com##+js(abort-on-property-read.js, encodeURIComponent)
 pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com#%#AG_abortOnPropertyRead('encodeURIComponent');
 
+thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru##+js(abort-on-property-read.js, anOptions)
+thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
+
+wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
+
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
 @@*/_ads.js$script,domain=geoguessr.com
@@ -600,9 +606,6 @@ anonyviet.com#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,empty,important,domain=chicoer.com
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,redirect=noopjs,important,domain=chicoer.com
 
-readlightnovel.org##+js(abort-on-property-read.js, HTMLCanvasElement)
-readlightnovel.org#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-
 openload.*,oload.*,oladblock.*##+js(abort-current-inline-script.js, adblock, adblock2)
 openload.*,oload.*,oladblock.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 openload.*,oload.*,oladblock.*##+js(set-constant.js, sadbl, false)
@@ -634,9 +637,6 @@ sciencelife.*$popup,third-party,important
 sciencelife.*#%#window.open=function(){};
 sciencelife.*##+js(window.open-defuser.js)
 
-wordexcerpt.com##+js(abort-on-property-read.js, anOptions)
-wordexcerpt.com#%#AG_abortOnPropertyRead('anOptions');
-
 tamiltunes.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 tamiltunes.*#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
 
@@ -666,10 +666,6 @@ rusfishing.ru##.samBannerUnit
 ||rusfishing.ru/forum/js/siropu/am/core.min.js$script,empty,domain=rusfishing.ru
 ||rusfishing.ru/forum/js/siropu/am/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
 
-money-sense.club###adsense
-money-sense.club##+js(abort-on-property-read.js, anOptions)
-money-sense.club#%#AG_abortOnPropertyRead('anOptions');
-
 culturemap.com##+js(abort-on-property-read.js, CatapultTools)
 culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
 
@@ -691,12 +687,6 @@ rim-world.com#%#(function(){var b=window.setTimeout;window.setTimeout=function(a
 
 dojrzewamy.pl##+js(setTimeout-defuser.js, ad-container)
 dojrzewamy.pl#%#AG_abortInlineScript('adblock_info', 'setTimeout');
-
-z3x-team.com##+js(abort-on-property-read.js, anOptions)
-z3x-team.com#%#AG_abortOnPropertyRead('anOptions');
-
-culture-informatique.net##+js(abort-on-property-read.js, anOptions)
-culture-informatique.net#%#AG_abortOnPropertyRead('anOptions');
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
 imgview.net##.adbwarning
@@ -726,9 +716,6 @@ stiffgamerdown.com#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 stiffgamerdown.com#%#//scriptlet("prevent-window-open")
 stiffgamerdown.com$popup,third-party,important
 stiffgamerdown.com#%#window.open=function(){};
-
-tutsgalaxy.com##+js(abort-on-property-read.js, anOptions)
-tutsgalaxy.com#%#AG_abortOnPropertyRead('anOptions');
 
 @@||programiz.com^$xmlhttprequest,domain=programiz.com
 
@@ -770,9 +757,6 @@ derstandard.at##+js(set-constant.js, nuggprof, noopFunc)
 derstandard.at#%#AG_setConstant('property.chain', 'noopFunc');
 
 1fichier.com##.ct_warn
-
-cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-cultofmac.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 licklink.net##.adsbygoogle
 
@@ -830,17 +814,11 @@ pln-pskov.ru###check_ad_block
 usgamer.net##+js(abort-on-property-read.js, _sp_._networkListenerData)
 usgamer.net#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
-wral.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-wral.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=rte.ie
 @@||rte.ie/player/$script,xmlhttprequest
 
 handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
 stiffgamerdown.com#%#AG_abortInlineScript('hcf_userconfig.cgi_adb_redirect_url', 'hcf_userconfig');
-
-stealthz.ru##+js(abort-on-property-read.js, anOptions)
-stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
 
 kstreaming.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 kstreaming.*#%#AG_abortInlineScript('zfgloaded', 'Math');
@@ -878,9 +856,6 @@ macwelt.de#%#AG_abortInlineScript('idgStorage');
 wfaa.com##+js(abort-on-property-read.js, stop)
 wfaa.com#%#AG_abortOnPropertyRead('stop');
 
-thewindowsclub.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-thewindowsclub.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-
 arstechnica.com##.ars-appeal-container
 
 2speed.net##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
@@ -900,9 +875,6 @@ gamesradar.com#%#AG_abortOnPropertyWrite('_sp_');
 besplatka.ua##+js(abort-on-property-write.js, window.adblock)
 besplatka.ua#%#AG_abortOnPropertyWrite('window.adBlock');
 
-thefutureweb.ru##+js(abort-on-property-read.js, anOptions)
-thefutureweb.ru#%#AG_abortOnPropertyRead('anOptions');
-
 ottawacitizen.com##+js(abort-on-property-read.js, stop)
 ottawacitizen.com#%#AG_abortOnPropertyRead('stop');
 
@@ -921,9 +893,6 @@ autoexpress.co.uk#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
 gsmturkey.net#%#AG_abortInlineScript('fuckAdBlock', 'importFAB');
-
-techquila.co.in##+js(abort-on-property-read.js, anOptions)
-techquila.co.in#%#AG_abortOnPropertyRead('anOptions');
 
 click2url.*##.adsbygoogle
 
@@ -1360,9 +1329,6 @@ animeshouse.net#@#.afs_ads
 
 profitstudy.*##.adsbygoogle
 
-scat.gold##+js(abort-on-property-read.js, anOptions)
-scat.gold#%#AG_abortOnPropertyRead('anOptions');
-
 @@||upload.*/advertisement.js$script
 upload.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 upload.*##+js(abort-current-inline-script.js, document.getElementById, banner)
@@ -1457,24 +1423,12 @@ dniwolne.eu#%#AG_setConstant('window.google_jobrunner', 'noopFunc');
 
 1excelbet365.com#@#.adsbygoogle
 
-wokesloth.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-wokesloth.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-
 shrinkearn.com##.adsbygoogle
 
 damnripped.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
-torrentmafya.net##+js(abort-on-property-read.js, anOptions)
-torrentmafya.net#%#AG_abortOnPropertyRead('anOptions');
-
-ucuzaucak.net##+js(abort-on-property-read.js, anOptions)
-ucuzaucak.net#%#AG_abortOnPropertyRead('anOptions');
-
 bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
 bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
-
-mandatory.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-mandatory.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 techfinda.com##.adsbygoogle
 
@@ -1641,9 +1595,6 @@ ez4link.org##.adsbygoogle
 linkshrter.com##+js(abort-on-property-read.js, open)
 linkshrter.com#%#AG_abortOnPropertyRead('open');
 
-news24.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-news24.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-
 wickedsick.tv#%#AG_abortInlineScript(/api\/direct/, 'spot');
 wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
 
@@ -1663,9 +1614,6 @@ sataniabatch.blogspot.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.
 
 hdpornvideo.xxx#%#AG_abortOnPropertyRead('TrybbBlock');
 hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
-
-superherohype.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-superherohype.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 avcao.cc#%#//scriptlet("prevent-window-open")
 avcao.cc$popup,third-party,important
@@ -1863,9 +1811,6 @@ cpmlink.net#%#AG_abortOnPropertyWrite('_pop');
 cpmlink.net$webrtc,important
 ||cpmlink.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.cloudflare.com
 
-aboutchromebooks.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-aboutchromebooks.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-
 @@||zdnet.*/advertising.js$script
 
 etube99.com##.adsbygoogle
@@ -1948,9 +1893,6 @@ templink.org##.adsbygoogle
 
 virtualdata.*##.adsbygoogle
 
-alternet.org##+js(abort-on-property-read.js, HTMLCanvasElement)
-alternet.org#%#AG_abortOnPropertyRead('HTMLCanvasElement');
-
 ratemyteachers.com##+js(abort-current-inline-script.js, document.getElementById, 'block')
 ratemyteachers.com#%#AG_abortInlineScript('block', 'document.getElementById');
 
@@ -1978,9 +1920,6 @@ shtlink.co,shtme.co#%#AG_abortOnPropertyRead('AaDetector');
 
 videopenny.net##+js(abort-current-inline-script.js, Math, zfgloaded)
 videopenny.net#%#AG_abortInlineScript('zfgloaded', 'Math');
-
-landscapenature.*##+js(abort-on-property-read.js, anOptions)
-landscapenature.*#%#AG_abortOnPropertyRead('anOptions');
 
 vivatube.com#%#AG_abortOnPropertyRead('BetterJsPop');
 vivatube.com##+js(abort-on-property-read.js, BetterJsPop)
@@ -2017,9 +1956,6 @@ leporno.org#%#AG_abortInlineScript('tabunder', 'atob');
 ps-insar.com##.adsbygoogle
 
 health-goood.com##.adsbygoogle
-
-playstationlifestyle.net##+js(abort-on-property-read.js, HTMLCanvasElement)
-playstationlifestyle.net#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
 windowcleaningforums.co.uk#@#.adsbygoogle
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,empty,domain=windowcleaningforums.co.uk
