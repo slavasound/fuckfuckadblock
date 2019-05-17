@@ -139,6 +139,7 @@ pornolenta.*,jumpboobs.com,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,op
 
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
+@@*/_ads.js$script,domain=geoguessr.com
 @@*/ad-block-detector.js$script,domain=ncaa.com
 @@*/ad-server.js$script,domain=politiken.dk
 @@*/adIFrame.js$script,domain=bahnbonus-shopping.de
@@ -1507,8 +1508,6 @@ mac-torrent-download.net#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 zspnr1.lowicz.pl##+js(setInterval-defuser.js, seead)
 zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
-
-@@*/_ads/*$script,domain=geoguessr.com
 
 @@||annuaire-ebook.com^$generichide
 
