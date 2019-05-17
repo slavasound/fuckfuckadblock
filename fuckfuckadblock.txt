@@ -1904,3 +1904,10 @@ androidaba.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
 infotrendy.me#%#//scriptlet("prevent-addEventListener", "load", "2000")
 
+vidstreaming.io##+js(abort-current-inline-script.js, decodeURIComponent, parseInt)
+vidstreaming.io##+js(abort-current-inline-script.js, parseInt, tabunder)
+vidstreaming.io##+js(noeval.js)
+vidstreaming.io#%#//scriptlet("noeval")
+vidstreaming.io#%#AG_abortInlineScript('parseInt', 'decodeURIComponent');
+vidstreaming.io#%#AG_abortInlineScript('tabunder', 'parseInt');
+
