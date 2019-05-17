@@ -2016,9 +2016,10 @@ rjno1.com#%#//scriptlet("prevent-setTimeout", "rjnocanrunads", "3000")
 rjno1.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 
-link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 @@||link-to.net^$generichide
-link-to.net#%#AG_abortInlineScript('nextFunction', 'load');
+link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
+link-to.net##.adsbygoogle
+link-to.net#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
 
 @@||skycloud-exploit.weebly.com^$generichide
 
