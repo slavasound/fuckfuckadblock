@@ -684,6 +684,7 @@ wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com
 */preRoll.php$xmlhttprequest,domain=lbtube.com
 */prof.js$script,domain=lbtube.com
 */webpush.ma.js$script,important
+*/sw.js$script,important
 
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 dropupload.com#%#AG_abortInlineScript('adblockinfo', 'document.getElementById');
@@ -2039,4 +2040,15 @@ vidoza.net#%#//scriptlet("noeval")
 
 studopedia.com.ua##+js(abort-current-inline-script.js, detectAdblk)
 studopedia.com.ua#%#AG_abortInlineScript('detectAdblk');
+
+hdvid.*##+js(abort-current-inline-script.js, atob, tabunder)
+hdvid.*#%#AG_abortInlineScript('tabunder', 'atob');
+hdvid.*,onvid.*,ovid.*,vidhd.*##+js(abort-on-property-write.js, Fingerprint2)
+hdvid.*,onvid.*,ovid.*,vidhd.*##+js(abort-on-property-write.js, smrtSB)
+hdvid.*,onvid.*,ovid.*,vidhd.*##+js(nowebrtc.js)
+hdvid.*,onvid.*,ovid.*,vidhd.*#%#AG_abortOnPropertyWrite('Fingerprint2');
+hdvid.*,onvid.*,ovid.*,vidhd.*#%#AG_abortOnPropertyWrite('smrtSB');
+hdvid.*,onvid.*,ovid.*,vidhd.*$webrtc,important
+vidhd.*##+js(abort-on-property-read.js, AaDetector)
+vidhd.*#%#AG_abortOnPropertyRead('AaDetector');
 
