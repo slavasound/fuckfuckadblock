@@ -2087,3 +2087,6 @@ vev.io$popup,third-party,important
 123movies.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 123movies.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 
+gomostream.com##+js(abort-on-property-write.js, Fingerprint2)
+gomostream.com#%#AG_abortOnPropertyWrite('Fingerprint2');
+
