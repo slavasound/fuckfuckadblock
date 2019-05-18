@@ -1931,3 +1931,6 @@ hanime.tv##+js(set-constant.js, ABLK, false)
 hanime.tv#%#AG_abortInlineScript('BetterJsPop');
 hanime.tv#%#AG_setConstant('ABLK', 'false');
 
+njiir.com##+js(set-constant.js, safelink.adblock, false)
+njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
+
