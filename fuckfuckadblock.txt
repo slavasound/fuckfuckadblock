@@ -249,6 +249,7 @@
 @@||dtgaming.*^$generichide
 @@||dunyanews.*^$generichide
 @@||dutchycorp.space^$generichide
+@@||dpstream.*^$generichide
 @@||elcorreo.com^$generichide
 @@||elpais.com^$generichide
 @@||elsfile.org^$generichide
@@ -2000,4 +2001,25 @@ njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
 
 savevideo.me##+js(abort-current-inline-script.js, $, banner)
 savevideo.me#%#AG_abortInlineScript('banner', '$');
+
+@@||upvid.*/pop.js$script
+upvid.*##+js(window.open-defuser.js)
+upvid.*#%#//scriptlet("prevent-window-open")
+upvid.*#%#window.open=function(){};
+upvid.*$popup,third-party,important
+
+mstream.*##+js(noeval.js)
+mstream.*#%#//scriptlet("noeval")
+@@||mystream.*/pop.js$script
+
+@@||dpstream.*/pop.js$script
+
+@@||vidoza.net/*/pop.js$script
+@@||vidoza.net/*/ads.js$script
+vidoza.net##+js(noeval.js)
+vidoza.net##+js(window.open-defuser.js)
+vidoza.net#%#//scriptlet("prevent-window-open")
+vidoza.net#%#window.open=function(){};
+vidoza.net$popup,third-party,important
+vidoza.net#%#//scriptlet("noeval")
 
