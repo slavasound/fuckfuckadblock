@@ -506,6 +506,7 @@
 @@||startseite.to^$generichide
 @@||stfly.*^$generichide
 @@||stiffgamerdown.com^$generichide
+@@||studopedia.com.ua^$generichide
 @@||suarankri.me^$generichide
 @@||sueddeutsche.de^$generichide
 @@||superherohype.com^$generichide
@@ -2034,4 +2035,7 @@ vidoza.net#%#//scriptlet("prevent-window-open")
 vidoza.net#%#window.open=function(){};
 vidoza.net$popup,third-party,important
 vidoza.net#%#//scriptlet("noeval")
+
+studopedia.com.ua##+js(abort-current-inline-script.js, detectAdblk)
+studopedia.com.ua#%#AG_abortInlineScript('detectAdblk');
 
