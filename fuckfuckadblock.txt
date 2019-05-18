@@ -539,6 +539,7 @@
 @@||zdnet.*^$generichide
 @@||zoey-deutch.us^$generichide
 @@||zwergenstadt.com^$generichide
+@@||まったり映画.tokyo^$generichide
 
 abouttech.*,bloggingdekh.*,agradarpan.com,getpocket.*,akl2day.com,anonyviet.com,bankomap.com.ua,baramjdown.com,beast-birds.com,al3amall.com,bit-url.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,click2see.*,farman.*,click2url.*,clik.*,cooltxtgen.com,cut7link.*,d-navi004.com,daily-sale.*,dunyanews.*,dutchycorp.space,earthpiclover.com,etube99.com,ez4link.org,file-up.*,flyurls.com,freecourseweb.com,freemcserver.net,galaxydestek.com,gametimers.it,gossipcorners.com,govtsmartjob.com,health-goood.com,imageoptimizer.*,jainjinvani.com,kpscthulasilogin.info,licklink.net,link-to.net,linkjust.com,linkrag.com,mrtekani.com,oko.sh,ourmagnet.*,partqb2i.com,payco.*,pcportal.org,pinkhindi.com,profitstudy.*,ps-insar.com,sciencelife.*,short.pe,shrinkearn.com,shrtfly.*,sivitechno.com,sk-ip.ru,stfly.*,stiffvip.com,talkittechy.com,techfinda.com,techjad.com,technoslek.com,templink.org,teqniaplus.com,teqnwy.com,tiny.*,tinylink.*,tl.tc,ultraskora.com,urlsamo.com,utimetableresult.*,v6download.com,vinaurl.in,vinaurl.net,virtualdata.*,wishes2.com##.adsbygoogle
 
@@ -1933,4 +1934,7 @@ hanime.tv#%#//scriptlet("set-constant", "ABLK', "false")
 
 njiir.com##+js(set-constant.js, safelink.adblock, false)
 njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
+
+まったり映画.tokyo##+js(addEventListener-defuser.js, load, onload)
+まったり映画.tokyo#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
