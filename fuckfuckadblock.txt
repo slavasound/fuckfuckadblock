@@ -652,6 +652,7 @@ wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com
 @@*/ads_*.js$script,xmlhttprequest,domain=watch32hd.org
 @@*/adsbygoogle.js$script,domain=embed.kijk.nl|won.pe|duellinksmeta.com|mediaite.com|spinbot.com
 @@*/adserver.js$script,domain=cyclismactu.net
+@@*/adunit.js$script,domain=brid.tv
 @@*/adv.js$script,domain=seo-fast.ru|calciomercato.com
 @@*/advert.js$script,domain=hopto.org|overclockers.ru|cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@*/advertisement-*.js$script,domain=geekspin.co
