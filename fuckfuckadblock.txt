@@ -643,7 +643,7 @@ openload.*,oload.*,oladblock.*#%#//scriptlet("prevent-window-open")
 openload.*,oload.*,oladblock.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
 openload.*,oload.*,oladblock.*#%#AG_abortInlineScript(/adblock|adblock2/);
 openload.*,oload.*,oladblock.*#%#AG_abortOnPropertyRead('open');
-openload.*,oload.*,oladblock.*#%#AG_setConstant('sadbl', 'false');
+openload.*,oload.*,oladblock.*#%#//scriptlet("set-constant", "sadbl", "false")
 openload.*,oload.*,oladblock.*#%#window.open=function(){};
 openload.*,oload.*,oladblock.*$popup,third-party,important
 
@@ -679,7 +679,7 @@ file-up.*,file-upload.*,upfiles.*.adsbygoogle
 
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(set-constant.js, adBlockDetected, noopFunc)
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com##+js(window.open-defuser.js)
-blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#AG_setConstant('adBlockDetected', 'noopFunc');
+blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#//scriptlet("set-constant", "adBlockDetected", "noopFunc")
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#//scriptlet("prevent-window-open")
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com$popup,third-party,important
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com#%#window.open=function(){};
@@ -771,10 +771,10 @@ sueddeutsche.de##+js(abort-on-property-write.js, SZAdBlockDetection)
 sueddeutsche.de##+js(set-constant.js, _sp_.config, undefined)
 sueddeutsche.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 sueddeutsche.de#%#AG_abortOnPropertyWrite('SZAdBlockDetection');
-sueddeutsche.de#%#AG_setConstant('_sp_.config', 'undefined')
+sueddeutsche.de#%#//scriptlet("set-constant", "_sp_.config", "undefined")
 
 derstandard.at##+js(set-constant.js, nuggprof, noopFunc)
-derstandard.at#%#AG_setConstant('property.chain', 'noopFunc');
+derstandard.at#%#//scriptlet("set-constant", "property.chain", "noopFunc")
 
 1fichier.com##.ct_warn
 
@@ -792,12 +792,12 @@ money.pl#%#window.open=function(){};
 money.pl$popup,third-party,important
 
 reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
-reviewjournal.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
+reviewjournal.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
 cs-fundamentals.com###adBlockerAlert
 
 temp-mail.org##+js(set-constant.js, checkadBlock, noopFunc)
-temp-mail.org#%#AG_setConstant('checkadBlock', 'noopFunc');
+temp-mail.org#%#//scriptlet("set-constant", "checkadBlock", "noopFunc")
 
 ||popads.net/pop.js$script,empty,important
 ||popads.net/pop.js$script,redirect=noopjs,important
@@ -926,19 +926,19 @@ avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
 avgle.com##center > div > a[target="_blank"]
 avgle.com#%#AG_abortOnPropertyRead('AaDetector');
 avgle.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
-avgle.com#%#AG_setConstant('showBlockIf', 'noopFunc')
+avgle.com#%#//scriptlet("set-constant", "showBlockIf", "noopFunc")
 
 itavisen.no##+js(abort-on-property-write.js, adBlockDetected)
 itavisen.no#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
-qaru.site#%#AG_setConstant('adBlockDetected', 'noopFunc');
+qaru.site#%#//scriptlet("set-constant", "adBlockDetected", "noopFunc")
 
 linkberuang.*##+js(set-constant.js, safelink.adblock, false)
 linkberuang.*#%#AG_defineProperty('safelink.adblock',{value:false});
 
 diariodenavarra.es##+js(set-constant.js, Math.random, trueFunc)
-diariodenavarra.es#%#AG_setConstant('Math.random', 'trueFunc');
+diariodenavarra.es#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 
 *$popup,domain=userscloud.com
 *$third-party,xmlhttprequest,domain=userscloud.com
@@ -1000,15 +1000,15 @@ satoshilabs.net#%#window.open=function(){};
 satoshilabs.net##+js(window.open-defuser.js)
 
 autocentrum.pl##+js(set-constant.js, adblockJsFile, true)
-autocentrum.pl#%#AG_setConstant('adblockJsFile', 'true');
+autocentrum.pl#%#//scriptlet("set-constant", "adblockJsFile", "true")
 
 gamehunt.net##+js(abort-on-property-write.js, adBlockDetected)
 gamehunt.net##+js(set-constant.js, adblock, false)
 gamehunt.net#%#AG_abortOnPropertyWrite('adBlockDetected');
-gamehunt.net#%#AG_setConstant('adblock', 'false');
+gamehunt.net#%#//scriptlet("set-constant", "adblock", "false")
 
 gfycat.com##+js(set-constant.js, setInterval, noopFunc)
-gfycat.com#%#AG_setConstant('setInterval', 'noopFunc');
+gfycat.com#%#//scriptlet("set-constant", "setInterval", "noopFunc")
 
 synonymbog.com##+js(abort-on-property-write.js, adBlockDetected)
 synonymbog.com#%#AG_abortOnPropertyWrite('adBlockDetected');
@@ -1067,7 +1067,7 @@ bit-url.com##.banner
 bit-url.com#%#//scriptlet("noeval")
 bit-url.com#%#AG_abortOnPropertyRead('open');
 bit-url.com#%#AG_abortOnPropertyWrite('_pop');
-bit-url.com#%#AG_setConstant('absda', 'noopFunc');
+bit-url.com#%#//scriptlet("set-constant", "absda", "noopFunc")
 
 linkrag.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 linkrag.com##+js(abort-on-property-read.js, open)
@@ -1103,7 +1103,7 @@ intporn.org#%#AG_abortOnPropertyRead('jsm_reruntime');
 televall.*##+js(addEventListener-defuser.js, load, onload)
 televall.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
 televall.*##+js(set-constant.js, jQuery.adblock, false)
-televall.*#%#AG_setConstant('jQuery.adblock', 'false');
+televall.*#%#//scriptlet("set-constant", "jQuery.adblock", "false")
 
 topsport.bg,news.bg##+js(abort-on-property-read.js, isAdBlockActive)
 topsport.bg,news.bg#%#AG_abortOnPropertyRead('isAdBlockActive');
@@ -1143,7 +1143,7 @@ limetorrent.info#%#AG_abortOnPropertyWrite('adBlockDetected');
 beforeitsnews.com###ad-message
 
 lavoixdux.com##+js(set-constant.js, is_adblocked, false)
-lavoixdux.com#%#AG_setConstant('is_adblocked', 'false');
+lavoixdux.com#%#//scriptlet("set-constant", "is_adblocked", "false")
 
 getlec.blogspot.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 getlec.blogspot.com#%#AG_abortInlineScript('zfgloaded', 'Math');
@@ -1163,7 +1163,7 @@ berryboot.alexgoldcheidt.com#%#AG_abortOnPropertyWrite('KillAdBlock');
 berryboot.alexgoldcheidt.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 bostonherald.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
-bostonherald.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
+bostonherald.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl
 
@@ -1211,7 +1211,7 @@ professionaltutorial.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.t
 aargauerzeitung.ch#@##banner_ad
 
 oeffentlicher-dienst.info##+js(set-constant.js, testerli, false)
-oeffentlicher-dienst.info#%#AG_setConstant('testerli', 'false');
+oeffentlicher-dienst.info#%#//scriptlet("set-constant", "testerli", "false")
 
 tucson.com##+js(abort-on-property-read.js, stop)
 tucson.com#%#AG_abortOnPropertyRead('stop');
@@ -1224,7 +1224,7 @@ uploadocean.com##+js(nowebrtc.js)
 javaguides.net#@#.vertical-ads
 
 fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
-fox.com.tr#%#AG_setConstant('adblockDetector', 'trueFunc');
+fox.com.tr#%#//scriptlet("set-constant", "adblockDetector", "trueFunc")
 
 |https://$script,third-party,xmlhttprequest,domain=rule34hentai.net
 ||rule34hentai.net^$script,~third-party
@@ -1264,7 +1264,7 @@ netdoktor.de##+js(abort-on-property-write.js, _sp_)
 netdoktor.de#%#AG_abortOnPropertyWrite('_sp_');
 
 gutekueche.at##+js(set-constant.js, gkAdsWerbung, true)
-gutekueche.at#%#AG_setConstant('gkAdsWerbung', 'true');
+gutekueche.at#%#//scriptlet("set-constant", "gkAdsWerbung", "true")
 
 @@||www.motortrendondemand.com/advertisements-ad-unit/*$xmlhttprequest,domain=www.motortrendondemand.com
 
@@ -1349,7 +1349,7 @@ smartage.pl#%#AG_abortInlineScript('adblock', 'parseInt');
 gamesubject.com###headb
 
 dniwolne.eu##+js(set-constant.js, window.google_jobrunner, noopFunc)
-dniwolne.eu#%#AG_setConstant('window.google_jobrunner', 'noopFunc');
+dniwolne.eu#%#//scriptlet("set-constant", "window.google_jobrunner", "noopFunc")
 
 ||github.io/aplacer$third-party
 
@@ -1423,8 +1423,8 @@ vidlox.*##+js(set-constant.js, popjs, true)
 vidlox.*##+js(set-constant.js, popns, true)
 vidlox.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 vidlox.*#%#AG_abortOnPropertyRead('decodeURIComponent');
-vidlox.*#%#AG_setConstant('popjs', 'true');
-vidlox.*#%#AG_setConstant('popns', 'true');
+vidlox.*#%#//scriptlet("set-constant", "popjs", "true")
+vidlox.*#%#//scriptlet("set-constant", "popns", "true")
 vidlox.*$webrtc,important
 
 kp.ru###popapIsBlockedAd
@@ -1626,11 +1626,11 @@ anoboy.org#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
 hpjav.tv##+js(abort-on-property-read.js, AaDetector)
 hpjav.tv#%#AG_abortOnPropertyRead('AaDetector');
-hpjav.tv#%#AG_setConstant('NativeAd', 'noopFunc');
+hpjav.tv#%#//scriptlet("set-constant", "NativeAd", "noopFunc")
 hpjav.tv##+js(set-constant.js, NativeAd, noopFunc)
 
 santacruzsentinel.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
-santacruzsentinel.com#%#AG_setConstant('CnnXt.Event.fire', 'noopFunc');
+santacruzsentinel.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
 ouo.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 ouo.*##+js(abort-current-inline-script.js, decodeURI, HTMLIFrameElement)
@@ -1795,7 +1795,7 @@ animeskai.biz##+js(abort-current-inline-script.js, Math, zfgloaded)
 animeskai.biz#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 ceesty.com,gestyy.com##+js(set-constant.js, adsBlockerDetector, noopFunc)
-ceesty.com,gestyy.com#%#AG_setConstant('adsBlockerDetector', 'noopFunc');
+ceesty.com,gestyy.com#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
 ceesty.com,gestyy.com,corneey.com##+js(abort-current-inline-script.js, parseInt, tabunder)
 ceesty.com,gestyy.com,corneey.com##+js(popads-dummy.js)
 ceesty.com,gestyy.com,corneey.com#%#//scriptlet("set-popads-dummy")
@@ -1815,7 +1815,7 @@ movieor.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 movieor.com#%#AG_abortInlineScript('zfgloaded', 'Math');
 
 menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
-menantisenja.com,pafpaf.info#%#AG_setConstant('adblock', '1');
+menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
 
 muhammadyoga.*##+js(addEventListener-defuser.js, load, onload)
 muhammadyoga.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
@@ -1861,7 +1861,7 @@ draug.ru#%#AG_abortInlineScript('AdSense', 'Math.floor');
 
 t66y.com##+js(set-constant.js, Math.random, trueFunc)
 t66y.com##+js(abort-current-inline-script.js, $, undefined)
-t66y.com#%#AG_setConstant('Math.random', 'trueFunc');
+t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 t66y.com#%#AG_abortInlineScript('undefined', '$');
 
 mywrestling.com.pl##+js(abort-on-property-write.js, killAdBlock)
@@ -1918,7 +1918,7 @@ vidstreaming.io#%#AG_abortInlineScript('tabunder', 'parseInt');
 ||pagead2.googlesyndication.com/pagead/show_ads.js$script,empty,domain=herokuapp.com
 ||pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=herokuapp.com
 herokuapp.com##+js(set-constant.js, gadb, false)
-herokuapp.com#%#AG_setConstant('gadb', 'false');
+herokuapp.com#%#//scriptlet("set-constant", "gadb", "false")
 
 kinostate.net##+js(abort-current-inline-script.js, encodeURIComponent)
 kinostate.net#%#AG_abortInlineScript('encodeURIComponent');
@@ -1929,7 +1929,7 @@ pornk.name#%#AG_abortInlineScript('encodeURIComponent');
 hanime.tv##+js(abort-current-inline-script.js, BetterJsPop)
 hanime.tv##+js(set-constant.js, ABLK, false)
 hanime.tv#%#AG_abortInlineScript('BetterJsPop');
-hanime.tv#%#AG_setConstant('ABLK', 'false');
+hanime.tv#%#//scriptlet("set-constant", "ABLK', "false")
 
 njiir.com##+js(set-constant.js, safelink.adblock, false)
 njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
