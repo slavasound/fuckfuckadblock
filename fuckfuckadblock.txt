@@ -479,6 +479,7 @@
 @@||topserialy.*^$generichide
 @@||topspeed.sk^$generichide
 @@||topsport.bg^$generichide
+@@||metabattle.com^$generichide
 @@||ttsmp3.com^$generichide
 @@||tucson.com^$generichide
 @@||tunovelaligera.com^$generichide
