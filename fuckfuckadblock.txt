@@ -647,6 +647,7 @@ wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
 @@*/_ads.js$script,domain=geoguessr.com
+@@*/_ads/*.js$script,domain=geoguessr.com
 @@*/ad-block-detector.js$script,domain=ncaa.com
 @@*/ad-server.js$script,domain=politiken.dk
 @@*/adIFrame.js$script,domain=bahnbonus-shopping.de
@@ -680,7 +681,7 @@ wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com
 @@*/reklama.js$script,domain=gra.pl
 @@*/showAds.js$script,domain=golem.de
 @@*/show_ads.js$script,domain=mp3.teledyski.info|rjno1.com
-@@*/showads.js$script,domain=cnbc.com|sbsports.pro|dmntsf.net|spinbot.com
+@@*/showads.js$script,domain=cnbc.com|sbsports.pro|dmntsf.net|spinbot.com|watch32hd.org
 @@*/videojs-contrib-ads$stylesheet,xmlhttprequest,domain=debilizator.tv
 
 */adb.js$script,domain=allnorilsk.ru
