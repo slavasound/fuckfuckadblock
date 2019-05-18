@@ -637,6 +637,7 @@ thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landsca
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
+@@*/adforce.js$script,domain=anistar.org
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
 @@*/_ads.js$script,domain=geoguessr.com
