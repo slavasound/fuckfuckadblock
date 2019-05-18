@@ -99,6 +99,7 @@
 ##.adblocker-message
 ##.adblocker-wrap
 ##.adcontent
+##.adsbygoogle
 ##.b-blockadblock
 ##.counterAdblocks
 ##.deadblocker-header-bar
@@ -196,6 +197,7 @@
 @@||catchsms.com^$generichide
 @@||ceesty.com^$generichide
 @@||chicoer.com^$generichide
+@@||chloe-lukasiak.net^$generichide
 @@||click2see.*^$generichide
 @@||clik.*^$generichide
 @@||cnbc.com^$generichide
@@ -209,13 +211,16 @@
 @@||cultofmac.com^$generichide
 @@||cut7link.*^$generichide
 @@||d-navi004.com^$generichide
+@@||daddariofan.net^$generichide
 @@||daily-sale.*^$generichide
 @@||damnripped.com^$generichide
 @@||dangotoons.com^$generichide
+@@||danstevensbrasil.com^$generichide
 @@||darckrepacks.com^$generichide
 @@||darmowa-telewizja.online^$generichide
 @@||davinsurance.com^$generichide
 @@||dekhvhai.com^$generichide
+@@||depplovers.com.br^$generichide
 @@||derstandard.at^$generichide
 @@||designmodo.com^$generichide
 @@||desirecourse.net^$generichide
@@ -270,6 +275,7 @@
 @@||futeboltv.com^$generichide
 @@||futurezone.de^$generichide
 @@||galaxydestek.com^$generichide
+@@||galleryaloud.com^$generichide
 @@||gamehunt.net^$generichide
 @@||gametimers.it^$generichide
 @@||geekgiant.in^$generichide
@@ -289,6 +295,7 @@
 @@||gutekueche.at^$generichide
 @@||hackinblood.com^$generichide
 @@||handelsblatt.com^$generichide
+@@||hanime.tv^$generichide
 @@||hdrezka.*^$generichide
 @@||health-goood.com^$generichide
 @@||healthykk.com^$generichide
@@ -309,13 +316,17 @@
 @@||itavisen.no^$generichide
 @@||itopmusic.com^$generichide
 @@||itpro.co.uk^$generichide
+@@||jade-pettyjohn.com^$generichide
 @@||jainjinvani.com^$generichide
 @@||jakimasklad.pl^$generichide
+@@||jamesfranconetwork.net^$generichide
 @@||javadecompilers.com^$generichide
 @@||javhay.net^$generichide
 @@||javsubtitle.*^$generichide
 @@||jelajahinternet.*^$generichide
+@@||jon-bernthal.com^$generichide
 @@||jpopsingles.*^$generichide
+@@||jude-law.net^$generichide
 @@||justnerd.it^$generichide
 @@||ke1.nl^$generichide
 @@||kenkenpuzzle.com^$generichide
@@ -337,13 +348,13 @@
 @@||linkshrter.com^$generichide
 @@||linksop.com^$generichide
 @@||linnk.info^$generichide
+@@||lizzieolsen.us^$generichide
 @@||lkop.me^$generichide
 @@||logrosxbox.com^$generichide
 @@||lookmovie.ag^$generichide
 @@||lustich.de^$generichide
 @@||luzernerzeitung.ch^$generichide
 @@||m-translate.ru^$generichide
-@@||hanime.tv^$generichide
 @@||macappdownload.com^$generichide
 @@||macbed.com^$generichide
 @@||macdailynews.com^$generichide
@@ -356,6 +367,7 @@
 @@||manyak.info^$generichide
 @@||masker-lab.com.tw^$generichide
 @@||mercurynews.com^$generichide
+@@||metabattle.com^$generichide
 @@||mrtekani.com^$generichide
 @@||mshare.io^$generichide
 @@||msueagles.com^$generichide
@@ -479,7 +491,6 @@
 @@||topserialy.*^$generichide
 @@||topspeed.sk^$generichide
 @@||topsport.bg^$generichide
-@@||metabattle.com^$generichide
 @@||ttsmp3.com^$generichide
 @@||tucson.com^$generichide
 @@||tunovelaligera.com^$generichide
@@ -540,16 +551,6 @@
 @@||zoey-deutch.us^$generichide
 @@||zwergenstadt.com^$generichide
 @@||まったり映画.tokyo^$generichide
-@@||daddariofan.net^$generichide
-@@||chloe-lukasiak.net^$generichide
-@@||galleryaloud.com^$generichide
-@@||jade-pettyjohn.com^$generichide
-@@||jamesfranconetwork.net^$generichide
-@@||danstevensbrasil.com^$generichide
-@@||depplovers.com.br^$generichide
-@@||jon-bernthal.com^$generichide
-@@||jude-law.net^$generichide
-@@||lizzieolsen.us^$generichide
 
 abouttech.*,bloggingdekh.*,agradarpan.com,getpocket.*,akl2day.com,anonyviet.com,bankomap.com.ua,baramjdown.com,beast-birds.com,al3amall.com,bit-url.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,click2see.*,farman.*,click2url.*,clik.*,cooltxtgen.com,cut7link.*,d-navi004.com,daily-sale.*,dunyanews.*,dutchycorp.space,earthpiclover.com,etube99.com,ez4link.org,file-up.*,flyurls.com,freecourseweb.com,freemcserver.net,galaxydestek.com,gametimers.it,gossipcorners.com,govtsmartjob.com,health-goood.com,imageoptimizer.*,jainjinvani.com,kpscthulasilogin.info,licklink.net,link-to.net,linkjust.com,linkrag.com,mrtekani.com,oko.sh,ourmagnet.*,partqb2i.com,payco.*,pcportal.org,pinkhindi.com,profitstudy.*,ps-insar.com,sciencelife.*,short.pe,shrinkearn.com,shrtfly.*,sivitechno.com,sk-ip.ru,stfly.*,stiffvip.com,talkittechy.com,techfinda.com,techjad.com,technoslek.com,templink.org,teqniaplus.com,teqnwy.com,tiny.*,tinylink.*,tl.tc,ultraskora.com,urlsamo.com,utimetableresult.*,v6download.com,vinaurl.in,vinaurl.net,virtualdata.*,wishes2.com##.adsbygoogle
 
