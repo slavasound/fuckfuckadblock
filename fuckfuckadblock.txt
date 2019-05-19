@@ -1721,5 +1721,9 @@ freeopenvpn.org#%#//scriptlet("set-constant", "adBlock", "false")
 nutraceuticalsworld.com##+js(abort-on-property-read.js, adblockerpopup)
 nutraceuticalsworld.com#%#AG_abortOnPropertyRead('adblockerpopup');
 
-||youx.xxx^$csp=script-src 'self' www.youx.xxx cdn.youx.xxx
+*/*.php$important,script,domain=youx.xxx
+youx.xxx##+js(abort-on-property-read.js, ExoLoader)
+youx.xxx##+js(addEventListener-defuser.js, click, trigger)
+youx.xxx#%#//scriptlet("prevent-addEventListener", "click", "trigger")
+youx.xxx#%#AG_abortOnPropertyRead(ExoLoader);
 
