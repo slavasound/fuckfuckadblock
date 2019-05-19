@@ -647,6 +647,9 @@ thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landsca
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
+mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com##+js(abort-on-property-write.js, adBlockDetected)
+mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com#%#AG_abortOnPropertyWrite('adBlockDetected');
+
 @@*/adforce.js$script,domain=anistar.org
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
@@ -704,9 +707,6 @@ wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com
 
 dropupload.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 dropupload.com#%#AG_abortInlineScript('adblockinfo', 'document.getElementById');
-
-mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com##+js(abort-on-property-write.js, adBlockDetected)
-mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 getrelax.club,javfree.club#$##adisblock { display: none!important; }
 getrelax.club,javfree.club###main_content:style(display: block !important;)
@@ -1018,9 +1018,6 @@ avgle.com#%#AG_abortOnPropertyRead('AaDetector');
 avgle.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
 avgle.com#%#//scriptlet("set-constant", "showBlockIf", "noopFunc")
 
-itavisen.no##+js(abort-on-property-write.js, adBlockDetected)
-itavisen.no#%#AG_abortOnPropertyWrite('adBlockDetected');
-
 qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
 qaru.site#%#//scriptlet("set-constant", "adBlockDetected", "noopFunc")
 
@@ -1092,16 +1089,11 @@ satoshilabs.net##+js(window.open-defuser.js)
 autocentrum.pl##+js(set-constant.js, adblockJsFile, true)
 autocentrum.pl#%#//scriptlet("set-constant", "adblockJsFile", "true")
 
-gamehunt.net##+js(abort-on-property-write.js, adBlockDetected)
 gamehunt.net##+js(set-constant.js, adblock, false)
-gamehunt.net#%#AG_abortOnPropertyWrite('adBlockDetected');
 gamehunt.net#%#//scriptlet("set-constant", "adblock", "false")
 
 gfycat.com##+js(set-constant.js, setInterval, noopFunc)
 gfycat.com#%#//scriptlet("set-constant", "setInterval", "noopFunc")
-
-synonymbog.com##+js(abort-on-property-write.js, adBlockDetected)
-synonymbog.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 programinadresi.com##+js(abort-on-property-read.js, adBlock)
 programinadresi.com#%#AG_abortOnPropertyRead('adBlock');
@@ -1171,13 +1163,7 @@ linkrag.com#%#window.open=function(){};
 canalesportivo.*##+js(abort-on-property-write.js, _pop)
 canalesportivo.*#%#AG_abortOnPropertyWrite('_pop');
 
-doctorrouter.ru##+js(abort-on-property-write.js, adBlockDetected)
-doctorrouter.ru#%#AG_abortOnPropertyWrite('adBlockDetected');
-
 ||d1swblsd1itapx.cloudfront.net$domain=mobzon.ru
-
-iphonetweak.fr##+js(abort-on-property-write.js, adBlockDetected)
-iphonetweak.fr#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 dunyanews.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 dunyanews.*#%#AG_abortInlineScript('zfgloaded', 'Math');
@@ -1215,20 +1201,12 @@ hopto.org#%#AG_abortInlineScript('undefined', 'document.getElementById');
 bibliacatolica.com.br##+js(abort-on-property-read.js, getSelection)
 bibliacatolica.com.br#%#AG_abortOnPropertyRead('getSelection');
 
-utimetableresult.*##+js(abort-on-property-write.js, adBlockDetected)
-utimetableresult.*#%#AG_abortOnPropertyWrite('adBlockDetected');
-
 bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
 bidouillesikea.com#%#AG_abortOnPropertyRead('adbackDebug');
 
-pleximum.com##+js(abort-on-property-write.js, adBlockDetected)
 pleximum.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-pleximum.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 twojogrodek.pl#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
-
-limetorrent.info##+js(abort-on-property-write.js, adBlockDetected)
-limetorrent.info#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 beforeitsnews.com###ad-message
 
@@ -1346,9 +1324,6 @@ gsmarena.com##+js(abort-on-property-write.js, adonisHash)
 
 mako.co.il##+js(abort-on-property-write.js, upManager)
 mako.co.il#%#AG_abortOnPropertyWrite('upManager');
-
-memoryhackers.org##+js(abort-on-property-write.js, adBlockDetected)
-memoryhackers.org#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 netdoktor.de##+js(abort-on-property-write.js, _sp_)
 netdoktor.de#%#AG_abortOnPropertyWrite('_sp_');
@@ -1468,9 +1443,7 @@ vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
 
 @@||getfreebit.*/advertisement.js$script
 
-1000ps.de##+js(abort-on-property-write.js, adBlockDetected)
 1000ps.de#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
-1000ps.de#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 antiadblockscript.com#@#.ad_box
 
@@ -1616,8 +1589,6 @@ avcao.cc##+js(abort-on-property-read.js, myclick)
 ||avcao.cc/js/p.js$domain=axjbt.com,script,important
 
 svapo.it#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-svapo.it##+js(abort-on-property-write.js, adBlockDetected)
-svapo.it#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-current-inline-script.js, jQuery, TestAdBlock)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-read.js, ExoLoader)
@@ -1959,17 +1930,13 @@ t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 t66y.com#%#AG_abortInlineScript('undefined', '$');
 
 mywrestling.com.pl##+js(abort-on-property-write.js, killAdBlock)
-mywrestling.com.pl##+js(abort-on-property-write.js, adBlockDetected)
 mywrestling.com.pl#%#AG_abortOnPropertyWrite('killAdBlock');
-mywrestling.com.pl#%#AG_abortOnPropertyWrite('adBlockDetected');
 mywrestling.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 bdmbase.ru##+js(setTimeout-defuser.js, $, ins.adsbygoogle)
 bdmbase.ru#%#//scriptlet("prevent-setTimeout", "$", "ins.adsbygoogle")
 
 turkanime.tv#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-turkanime.tv##+js(abort-on-property-write.js, adBlockDetected)
-turkanime.tv#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 xhamster.desi#%#AG_abortOnPropertyRead('dataPopUnder');
 xhamster.desi##+js(abort-on-property-read.js, dataPopUnder)
@@ -1995,9 +1962,7 @@ di.se#%#AG_abortInlineScript('checkAdBlockEnabled');
 ||pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com
 ||pagead2.googlesyndication.com/pagead/show_ads.js$script,empty,domain=agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com
 
-androidaba.com##+js(abort-on-property-write.js, adBlockDetected)
 androidaba.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-androidaba.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
 infotrendy.me#%#//scriptlet("prevent-addEventListener", "load", "2000")
@@ -2100,9 +2065,6 @@ vev.io$popup,third-party,important
 gomostream.com##+js(abort-on-property-write.js, Fingerprint2)
 gomostream.com#%#AG_abortOnPropertyWrite('Fingerprint2');
 
-thesenior.com.au##+js(abort-on-property-write.js, adBlockDetected)
-thesenior.com.au#%#AG_abortOnPropertyWrite('adBlockDetected');
-
 freshstream.*##+js(abort-on-property-read.js, adcashMacros)
 freshstream.*#%#AG_abortOnPropertyRead('adcashMacros');
 
@@ -2110,9 +2072,6 @@ uiz.io##+js(setTimeout-defuser.js, checkAdblockUser)
 uiz.io##+js(abort-on-property-read.js, open)
 uiz.io#%#AG_abortOnPropertyRead('open');
 uiz.io#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
-
-myfaucetslist.com##+js(abort-on-property-write.js, adBlockDetected)
-myfaucetslist.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 @@||galt.hit.gemius.pl/gplayer.js$script,domain=lrt.lt
 
