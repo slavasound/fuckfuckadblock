@@ -999,6 +999,7 @@ dok-film.net##+js(abort-on-property-read.js, adBlockDetected)
 dok-film.net#%#AG_abortOnPropertyRead('adBlockDetected');
 
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
+legia.net#%#//scriptlet("prevent-setTimeout", "timeoutChecker")
 
 uploadbox.io##+js(abort-on-property-read.js, replaceContentWithAdBlockerContent)
 uploadbox.io#%#AG_abortOnPropertyRead('replaceContentWithAdBlockerContent');
