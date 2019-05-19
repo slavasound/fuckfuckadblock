@@ -2116,3 +2116,22 @@ myfaucetslist.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 @@||galt.hit.gemius.pl/gplayer.js$script,domain=lrt.lt
 
+rapidvideo.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+rapidvideo.com##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
+rapidvideo.com##+js(abort-on-property-write.js, executed)
+rapidvideo.com##+js(addEventListener-defuser.js, mousedown, preventDefault)
+rapidvideo.com##+js(noeval.js)
+rapidvideo.com##+js(popads.net.js)
+rapidvideo.com##+js(set-constant.js, onload, noopFunc)
+rapidvideo.com##+js(window.open-defuser.js)
+rapidvideo.com#%#//scriptlet("noeval")
+rapidvideo.com#%#//scriptlet("prevent-addEventListener", "mousedown", "preventDefault")
+rapidvideo.com#%#//scriptlet("prevent-popads-net")
+rapidvideo.com#%#//scriptlet("prevent-window-open")
+rapidvideo.com#%#//scriptlet("set-constant", "onload", "noopFunc")
+rapidvideo.com#%#AG_abortInlineScript('getScriptFromCss', 'decodeURI');
+rapidvideo.com#%#AG_abortInlineScript('zfgloaded', 'Math');
+rapidvideo.com#%#AG_abortOnPropertyWrite('executed');
+rapidvideo.com#%#window.open=function(){};
+rapidvideo.com$popup,third-party,important
+
