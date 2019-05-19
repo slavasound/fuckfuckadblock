@@ -2114,3 +2114,5 @@ uiz.io#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
 myfaucetslist.com##+js(abort-on-property-write.js, adBlockDetected)
 myfaucetslist.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
+@@||galt.hit.gemius.pl/gplayer.js$script,domain=lrt.lt
+
