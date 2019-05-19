@@ -683,6 +683,9 @@ speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,s
 file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*#%#AG_abortInlineScript('zfgloaded', 'Math');
 
+ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*##+js(abort-on-property-write.js, Fingerprint2)
+ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*#%#AG_abortOnPropertyWrite('Fingerprint2');
+
 @@*/adforce.js$script,domain=anistar.org
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
@@ -1112,9 +1115,6 @@ bostonherald.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl
 
-ojomovies.com##+js(abort-on-property-write.js, Fingerprint2)
-ojomovies.com#%#AG_abortOnPropertyWrite('Fingerprint2');
-
 tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.text-ad-links.text-ads.textAd.text_ad.text_ads{display:block!important;}
 
 tv-onlinehd.com##+js(addEventListener-defuser.js, load, onload)
@@ -1387,9 +1387,6 @@ imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyRead('Ex
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('cticodes');
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('imgadbpops');
 
-japscan.*##+js(abort-on-property-write.js, Fingerprint2)
-japscan.*#%#AG_abortOnPropertyWrite('Fingerprint2');
-
 uploadrar.com#%#AG_abortInlineScript('bannerad', 'document.getElementById');
 uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
 
@@ -1430,17 +1427,13 @@ olympine.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_
 indishare.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 indishare.*##+js(abort-current-inline-script.js, decodeURI, atob)
 indishare.*##+js(abort-on-property-read.js, decodeURIComponent)
-indishare.*##+js(abort-on-property-write.js, Fingerprint2)
 indishare.*#%#AG_abortInlineScript('atob', 'decodeURI');
 indishare.*#%#AG_abortInlineScript('vocabulary', 'Math.sin');
 indishare.*#%#AG_abortOnPropertyRead('decodeURIComponent');
-indishare.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 ||indishare.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bootstrapcdn.com *.cloudflare.com *.google-analytics.com
 
-stfly.*##+js(abort-on-property-write.js, Fingerprint2)
 stfly.*##+js(addEventListener-defuser.js, click, trigger)
 stfly.*#%#//scriptlet("prevent-addEventListener", "click", "trigger")
-stfly.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 
 anoboy.org##+js(addEventListener-defuser.js, load, onload)
 anoboy.org#%#//scriptlet("prevent-addEventListener", "load", "onload")
@@ -1464,9 +1457,7 @@ elsfile.org#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
 beelink.in##+js(addEventListener-defuser.js, load, onload)
 beelink.in#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
-uptobox.com##+js(abort-on-property-write.js, Fingerprint2)
 uptobox.com##+js(nowebrtc.js)
-uptobox.com#%#AG_abortOnPropertyWrite('Fingerprint2');
 uptobox.com$webrtc,important
 ||uptobox.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com
 
@@ -1501,12 +1492,6 @@ cpmlink.net$webrtc,important
 
 uppom.live##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 uppom.live#%#AG_abortInlineScript('vocabulary', 'Math.sin');
-
-linksmaza.*##+js(abort-on-property-write.js, Fingerprint2)
-linksmaza.*#%#AG_abortOnPropertyWrite('Fingerprint2');
-
-encurta.net##+js(abort-on-property-write.js, Fingerprint2)
-encurta.net#%#AG_abortOnPropertyWrite('Fingerprint2');
 
 movies1234.net,123moviesgot.com##+js(abort-on-property-read.js, zfgloadednative)
 movies1234.net,123moviesgot.com#%#AG_abortOnPropertyRead('zfgloadednative');
@@ -1693,9 +1678,7 @@ mstream.*#%#//scriptlet("noeval")
 @@||mystream.*/pop.js$script
 
 @@||dpstream.*/pop.js$script
-dpstream.*##+js(abort-on-property-write.js, Fingerprint2)
 dpstream.*##+js(nowebrtc.js)
-dpstream.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 dpstream.*$webrtc,important
 
 @@||vidoza.net/*/pop.js$script
@@ -1708,10 +1691,8 @@ studopedia.com.ua,lektsii.org#%#AG_abortInlineScript('detectAdblk');
 
 hdvid.*##+js(abort-current-inline-script.js, atob, tabunder)
 hdvid.*#%#AG_abortInlineScript('tabunder', 'atob');
-hdvid.*,onvid.*,ovid.*,vidhd.*##+js(abort-on-property-write.js, Fingerprint2)
 hdvid.*,onvid.*,ovid.*,vidhd.*##+js(abort-on-property-write.js, smrtSB)
 hdvid.*,onvid.*,ovid.*,vidhd.*##+js(nowebrtc.js)
-hdvid.*,onvid.*,ovid.*,vidhd.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 hdvid.*,onvid.*,ovid.*,vidhd.*#%#AG_abortOnPropertyWrite('smrtSB');
 hdvid.*,onvid.*,ovid.*,vidhd.*$webrtc,important
 
@@ -1725,12 +1706,6 @@ vev.io##+js(abort-current-inline-script.js, __INITIAL_STATE__)
 vev.io##+js(abort-on-property-read.js, BetterJsPop)
 vev.io#%#AG_abortInlineScript('__INITIAL_STATE__');
 vev.io#%#AG_abortOnPropertyRead('BetterJsPop');
-
-123movies.*##+js(abort-on-property-write.js, Fingerprint2)
-123movies.*#%#AG_abortOnPropertyWrite('Fingerprint2');
-
-gomostream.com##+js(abort-on-property-write.js, Fingerprint2)
-gomostream.com#%#AG_abortOnPropertyWrite('Fingerprint2');
 
 freshstream.*##+js(abort-on-property-read.js, adcashMacros)
 freshstream.*#%#AG_abortOnPropertyRead('adcashMacros');
@@ -1754,9 +1729,6 @@ rapidvideo.com#%#//scriptlet("prevent-popads-net")
 rapidvideo.com#%#//scriptlet("set-constant", "onload", "noopFunc")
 rapidvideo.com#%#AG_abortInlineScript('getScriptFromCss', 'decodeURI');
 rapidvideo.com#%#AG_abortOnPropertyWrite('executed');
-
-dfiles.*##+js(abort-on-property-write.js, Fingerprint2)
-dfiles.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 
 yesmovies.*##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 yesmovies.*#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
