@@ -711,6 +711,12 @@ netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eve
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*##+js(addEventListener-defuser.js, click, trigger)
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 
+businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com##+js(abort-on-property-read.js, stop)
+businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com#%#AG_abortOnPropertyRead('stop');
+
+bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.co.uk,ft.com,cnet.com,pcgamer.com,sueddeutsche.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
+bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.co.uk,ft.com,cnet.com,pcgamer.com,sueddeutsche.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
+
 @@*/adforce.js$script,domain=anistar.org
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
@@ -812,9 +818,6 @@ culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
 larena.it##+js(setTimeout-defuser.js, adblock-check)
 larena.it#%#//scriptlet("prevent-setTimeout", "adblock-check")
 
-bento.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
-bento.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
-
 pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
 pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
 
@@ -843,9 +846,6 @@ igg-games.com##+js(nowebrtc.js)
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,empty,domain=mylink.love
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=mylink.love
 
-businessinsider.*##+js(abort-on-property-read.js, stop)
-businessinsider.*#%#AG_abortOnPropertyRead('stop');
-
 @@||programiz.com^$xmlhttprequest,domain=programiz.com
 
 sembunyi.in##+js(abort-on-property-read.js, popjs)
@@ -856,9 +856,6 @@ faz.net#%#AG_abortInlineScript('_sp_._networkListenerData', '$');
 
 @@||nekopoi.*/adsbygoogle.js$script
 
-blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
-blick.ch#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
-
 polygon.com##+js(abort-on-property-write.js, loadOutbrain)
 polygon.com#%#AG_abortOnPropertyWrite('loadOutbrain');
 
@@ -866,10 +863,8 @@ xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype, 'config/ads', { get: function() { return false; } });
 xnxx.com,xvideos.com#%#Object.defineProperty(window, 'openpop', { get: function() { return; } });
 
-sueddeutsche.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
 sueddeutsche.de##+js(abort-on-property-write.js, SZAdBlockDetection)
 sueddeutsche.de##+js(set-constant.js, _sp_.config, undefined)
-sueddeutsche.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 sueddeutsche.de#%#AG_abortOnPropertyWrite('SZAdBlockDetection');
 sueddeutsche.de#%#//scriptlet("set-constant", "_sp_.config", "undefined")
 
@@ -900,26 +895,17 @@ streamcherry.com#%#Object.defineProperty(window, 'turnoff', { get: function() { 
 
 pln-pskov.ru###check_ad_block
 
-usgamer.net##+js(abort-on-property-read.js, _sp_._networkListenerData)
-usgamer.net#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
-
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=rte.ie
 @@||rte.ie/player/$script,xmlhttprequest
 
 handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
 stiffgamerdown.com#%#AG_abortInlineScript('hcf_userconfig.cgi_adb_redirect_url', 'hcf_userconfig');
 
-itpro.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
-itpro.co.uk#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
-
 gallerix.ru##+js(abort-current-inline-script.js, jQuery, adbk)
 gallerix.ru#%#AG_defineProperty('jQuery.adbk', {value: false});
 
 digitaltrends.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
 digitaltrends.com#%#AG_abortInlineScript('googlefcPresent', 'Uint8Array');
-
-eurogamer.*##+js(abort-on-property-read.js, _sp_._networkListenerData)
-eurogamer.*#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 ||bit.ly^$popup,third-party,important
 ||bit.ly^$popup,important
@@ -929,9 +915,6 @@ windowscentral.com##.swal-modal, .swal-overlay
 macwelt.de##+js(abort-current-inline-script.js, idgStorage)
 macwelt.de##.standard.marketplace:has-text(-Anzeige-)
 macwelt.de#%#AG_abortInlineScript('idgStorage');
-
-wfaa.com##+js(abort-on-property-read.js, stop)
-wfaa.com#%#AG_abortOnPropertyRead('stop');
 
 arstechnica.com##.ars-appeal-container
 
@@ -949,19 +932,11 @@ filmweb.pl#%#AG_abortOnPropertyWrite('sas');
 besplatka.ua##+js(abort-on-property-write.js, window.adblock)
 besplatka.ua#%#AG_abortOnPropertyWrite('window.adBlock');
 
-ottawacitizen.com##+js(abort-on-property-read.js, stop)
-ottawacitizen.com#%#AG_abortOnPropertyRead('stop');
-
-rockpapershotgun.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 rockpapershotgun.com##+js(abort-on-property-write.js, yafaIt)
-rockpapershotgun.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 rockpapershotgun.com#%#AG_abortOnPropertyWrite('yafaIt');
 
 kinoprofi.vip##+js(abort-on-property-write.js, window.adBlock)
 kinoprofi.vip#%#AG_abortOnPropertyWrite('window.adBlock');
-
-autoexpress.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
-autoexpress.co.uk#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
 gsmturkey.net#%#AG_abortInlineScript('fuckAdBlock', 'importFAB');
@@ -1001,9 +976,6 @@ clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*#%#//scriptlet("prevent-addEventListener", "mouseup", "click")
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
 clik.*$webrtc,important
-
-ft.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
-ft.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 ||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 
@@ -1134,9 +1106,6 @@ aargauerzeitung.ch#@##banner_ad
 oeffentlicher-dienst.info##+js(set-constant.js, testerli, false)
 oeffentlicher-dienst.info#%#//scriptlet("set-constant", "testerli", "false")
 
-tucson.com##+js(abort-on-property-read.js, stop)
-tucson.com#%#AG_abortOnPropertyRead('stop');
-
 @@||topserialy.*/js/googlead.js$script
 
 *$webrtc,domain=uploadocean.com,important
@@ -1196,17 +1165,11 @@ finobe.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ad
 
 atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
-cnet.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
-cnet.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
-
 uploadship.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 uploadship.com#%#AG_abortInlineScript('adblockinfo', 'document.getElementById');
 
 123l.pw##+js(abort-on-property-write.js, showAdsBlock)
 123l.pw#%#AG_abortOnPropertyWrite('showAdsBlock');
-
-pcgamer.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
-pcgamer.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
 ||fcportables.com^$inline-script
 
