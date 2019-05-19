@@ -1909,3 +1909,12 @@ rapidvideo.com#%#AG_abortOnPropertyWrite('executed');
 dfiles.*##+js(abort-on-property-write.js, Fingerprint2)
 dfiles.*#%#AG_abortOnPropertyWrite('Fingerprint2');
 
+yesmovies.*##+js(abort-on-property-read.js, AaDetector)
+yesmovies.*#%#AG_abortOnPropertyRead('AaDetector');
+yesmovies.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+yesmovies.*#%#AG_abortInlineScript('zfgloaded', 'Math');
+yesmovies.*##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+yesmovies.*#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
+yesmovies.*##+js(abort-on-property-read.js, zfgloadedpopup)
+yesmovies.*#%#AG_abortOnPropertyRead('zfgloadedpopup');
+
