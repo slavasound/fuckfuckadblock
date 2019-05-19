@@ -705,6 +705,12 @@ openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,talkshowyoutube.blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com##+js(addEventListener-defuser.js, load, onload)
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,talkshowyoutube.blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
+netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eveningtimes.co.uk,warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
+netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eveningtimes.co.uk,warringtonguardian.co.uk#%#AG_abortOnPropertyWrite('_sp_');
+
+shortbit.co,youx.xxx,queenfaucet.website,stfly.*##+js(addEventListener-defuser.js, click, trigger)
+shortbit.co,youx.xxx,queenfaucet.website,stfly.*#%#//scriptlet("prevent-addEventListener", "click", "trigger")
+
 @@*/adforce.js$script,domain=anistar.org
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
@@ -848,9 +854,6 @@ sembunyi.in#%#AG_abortOnPropertyRead('popjs');
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 faz.net#%#AG_abortInlineScript('_sp_._networkListenerData', '$');
 
-tweaktown.com##+js(abort-on-property-write.js, _sp_)
-tweaktown.com#%#AG_abortOnPropertyWrite('_sp_');
-
 @@||nekopoi.*/adsbygoogle.js$script
 
 blick.ch##+js(abort-on-property-read.js, _sp_._networkListenerData)
@@ -942,9 +945,6 @@ filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBo
 filmweb.pl##+js(abort-on-property-write.js, sas)
 filmweb.pl#%#AG_abortInlineScript('newAdblockBoardDisplayed', 'decodeURIComponent');
 filmweb.pl#%#AG_abortOnPropertyWrite('sas');
-
-gamesradar.com##+js(abort-on-property-write.js, _sp_)
-gamesradar.com#%#AG_abortOnPropertyWrite('_sp_');
 
 besplatka.ua##+js(abort-on-property-write.js, window.adblock)
 besplatka.ua#%#AG_abortOnPropertyWrite('window.adBlock');
@@ -1051,7 +1051,6 @@ alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
 agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
 agargold.*#%#AG_abortInlineScript('block', 'document.getElementById');
 
-*$frame,domain=bit-url.com,important
 bit-url.com##+js(noeval.js)
 bit-url.com##+js(set-constant.js, absda, noopFunc)
 bit-url.com##.banner
@@ -1149,23 +1148,8 @@ fox.com.tr#%#//scriptlet("set-constant", "adblockDetector", "trueFunc")
 |https://$script,third-party,xmlhttprequest,domain=rule34hentai.net
 ||rule34hentai.net^$script,~third-party
 
-samo-tech.com#@##Adrectangle
-samo-tech.com#@##PageLeaderAd
-samo-tech.com#@##ad-column
-samo-tech.com#@##adsense
-samo-tech.com#@##advertising2
-samo-tech.com#@##divAdBox
-samo-tech.com#@##mochila-column-right-ad-300x250-1
-samo-tech.com#@##searchAdSenseBox
-
 bmwfaq.org##+js(abort-on-property-write.js, AdBlockDetectorWorkaround)
 bmwfaq.org#%#AG_abortOnPropertyWrite('AdBlockDetectorWorkaround');
-
-eveningtimes.co.uk##+js(abort-on-property-write.js, _sp_)
-eveningtimes.co.uk#%#AG_abortOnPropertyWrite('_sp_');
-
-warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
-warringtonguardian.co.uk#%#AG_abortOnPropertyWrite('_sp_');
 
 *$webrtc,domain=gsmarena.com,important
 gsmarena.com##+js(nowebrtc.js)
@@ -1176,9 +1160,6 @@ gsmarena.com##+js(abort-on-property-write.js, adonisHash)
 
 mako.co.il##+js(abort-on-property-write.js, upManager)
 mako.co.il#%#AG_abortOnPropertyWrite('upManager');
-
-netdoktor.de##+js(abort-on-property-write.js, _sp_)
-netdoktor.de#%#AG_abortOnPropertyWrite('_sp_');
 
 gutekueche.at##+js(set-constant.js, gkAdsWerbung, true)
 gutekueche.at#%#//scriptlet("set-constant", "gkAdsWerbung", "true")
@@ -1251,9 +1232,6 @@ bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_N
 
 andek.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
-lancashiretelegraph.co.uk##+js(abort-on-property-write.js, _sp_)
-lancashiretelegraph.co.uk#%#AG_abortOnPropertyWrite('_sp_');
-
 *$webrtc,domain=cyfostreams.com,important
 cyfostreams.com##+js(nowebrtc.js)
 
@@ -1295,8 +1273,6 @@ kp.ru###popapIsBlockedAd
 watchhowimetyourmother.online##+js(abort-on-property-read.js, require)
 watchhowimetyourmother.online#%#AG_abortOnPropertyRead('require');
 watchhowimetyourmother.online#%#Object.defineProperty(Object.prototype, 'Focm', { get: function(){ throw null; }, set: function(){ throw null; }});
-
-||adsviv.com/banner/$frame,important
 
 independent.co.uk#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
@@ -1384,9 +1360,6 @@ vehicle-techno.cf#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.
 worder.cat##+js(abort-on-property-write.js, ga)
 worder.cat#%#AG_abortOnPropertyWrite('ga');
 
-golem.de##+js(abort-on-property-write.js, _sp_)
-golem.de#%#AG_abortOnPropertyWrite('_sp_');
-
 olympine.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 indishare.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
@@ -1394,9 +1367,6 @@ indishare.*##+js(abort-current-inline-script.js, decodeURI, atob)
 indishare.*#%#AG_abortInlineScript('atob', 'decodeURI');
 indishare.*#%#AG_abortInlineScript('vocabulary', 'Math.sin');
 ||indishare.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bootstrapcdn.com *.cloudflare.com *.google-analytics.com
-
-stfly.*##+js(addEventListener-defuser.js, click, trigger)
-stfly.*#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 
 hpjav.tv#%#//scriptlet("set-constant", "NativeAd", "noopFunc")
 hpjav.tv##+js(set-constant.js, NativeAd, noopFunc)
@@ -1500,13 +1470,6 @@ vivatube.com##+js(abort-on-property-read.js, BetterJsPop)
 
 menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
 menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
-
-shortbit.co##+js(addEventListener-defuser.js, click, trigger)
-shortbit.co#%#//scriptlet("prevent-addEventListener", "click", "trigger")
-*$frame,domain=shortbit.co,third-party,important
-
-queenfaucet.website##+js(addEventListener-defuser.js, click, trigger)
-queenfaucet.website#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 
 leporno.org##+js(abort-current-inline-script.js, atob, tabunder)
 leporno.org#%#AG_abortInlineScript('tabunder', 'atob');
@@ -1669,7 +1632,5 @@ nutraceuticalsworld.com#%#AG_abortOnPropertyRead('adblockerpopup');
 
 */*.php$important,script,domain=youx.xxx
 youx.xxx##+js(abort-on-property-read.js, ExoLoader)
-youx.xxx##+js(addEventListener-defuser.js, click, trigger)
-youx.xxx#%#//scriptlet("prevent-addEventListener", "click", "trigger")
-youx.xxx#%#AG_abortOnPropertyRead(ExoLoader);
+youx.xxx#%#AG_abortOnPropertyRead('ExoLoader');
 
