@@ -791,7 +791,7 @@ culturemap.com##+js(abort-on-property-read.js, CatapultTools)
 culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
 
 larena.it##+js(setTimeout-defuser.js, adblock-check)
-larena.it#%#AG_abortInlineScript('#adblock-check', '$');
+larena.it#%#//scriptlet("prevent-setTimeout", "adblock-check")
 
 bento.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
 bento.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
