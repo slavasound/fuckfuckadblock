@@ -674,8 +674,8 @@ sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimb
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com##+js(abort-on-property-read.js, adBlockDetected)
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com#%#AG_abortOnPropertyRead('adBlockDetected');
 
-speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com##+js(abort-on-property-write.js, _pop)
-speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com#%#AG_abortOnPropertyWrite('_pop');
+speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com##+js(abort-on-property-write.js, _pop)
+speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com#%#AG_abortOnPropertyWrite('_pop');
 
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh##+js(abort-on-property-read.js, AaDetector)
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh#%#AG_abortOnPropertyRead('AaDetector');
@@ -685,6 +685,12 @@ file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3
 
 ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*##+js(abort-on-property-write.js, Fingerprint2)
 ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*#%#AG_abortOnPropertyWrite('Fingerprint2');
+
+convert2mp3.net,vidlox.*,indishare.*##+js(abort-on-property-read.js, decodeURIComponent)
+convert2mp3.net,vidlox.*,indishare.*#%#AG_abortOnPropertyRead('decodeURIComponent');
+
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io#%#AG_abortOnPropertyRead('open');
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io##+js(abort-on-property-read.js, open)
 
 @@*/adforce.js$script,domain=anistar.org
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
@@ -759,7 +765,6 @@ anonyviet.com#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
 openload.*,oload.*,oladblock.*##+js(abort-current-inline-script.js, adblock, adblock2)
 openload.*,oload.*,oladblock.*##+js(set-constant.js, sadbl, false)
 openload.*,oload.*,oladblock.*#%#AG_abortInlineScript(/adblock|adblock2/);
-openload.*,oload.*,oladblock.*#%#AG_abortOnPropertyRead('open');
 openload.*,oload.*,oladblock.*#%#//scriptlet("set-constant", "sadbl", "false")
 
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
@@ -948,9 +953,6 @@ autoexpress.co.uk#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
 gsmturkey.net#%#AG_abortInlineScript('fuckAdBlock', 'importFAB');
 
-shrtfly.*##+js(abort-on-property-read.js, open)
-shrtfly.*#%#AG_abortOnPropertyRead('open');
-
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
 legia.net#%#//scriptlet("prevent-setTimeout", "timeoutChecker")
 
@@ -980,23 +982,16 @@ userscloud.com#%#AG_abortOnPropertyWrite('open');
 
 ocen-piwo.pl###osiemnascielat
 
-clik.*##+js(abort-on-property-read.js, open)
 clik.*##+js(addEventListener-defuser.js, mouseup, click)
 clik.*##+js(nowebrtc.js)
 clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*#%#//scriptlet("prevent-addEventListener", "mouseup", "click")
-clik.*#%#AG_abortOnPropertyRead('open');
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
 clik.*$webrtc,important
 
 ft.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 ft.com#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
 
-urlsamo.com##+js(abort-on-property-read.js, open)
-urlsamo.com#%#AG_abortOnPropertyRead('open');
-
-convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
-convert2mp3.net#%#AG_abortOnPropertyRead('decodeURIComponent');
 ||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 
 payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
@@ -1044,22 +1039,13 @@ agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
 agargold.*#%#AG_abortInlineScript('block', 'document.getElementById');
 
 *$frame,domain=bit-url.com,important
-bit-url.com##+js(abort-on-property-read.js, open)
 bit-url.com##+js(noeval.js)
 bit-url.com##+js(set-constant.js, absda, noopFunc)
 bit-url.com##.banner
 bit-url.com#%#//scriptlet("noeval")
-bit-url.com#%#AG_abortOnPropertyRead('open');
-bit-url.com#%#AG_abortOnPropertyWrite('_pop');
 bit-url.com#%#//scriptlet("set-constant", "absda", "noopFunc")
 
-linkrag.com##+js(abort-on-property-read.js, open)
-linkrag.com#%#AG_abortOnPropertyRead('open');
-
 ||d1swblsd1itapx.cloudfront.net$domain=mobzon.ru
-
-dunyanews.*##+js(abort-on-property-read.js, open)
-dunyanews.*#%#AG_abortOnPropertyRead('open');
 
 go.bucketforms.com##+js(abort-current-inline-script.js, $, adblocker)
 go.bucketforms.com#%#AG_abortInlineScript('adblocker', '$');
@@ -1300,11 +1286,9 @@ jobhunterplg.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
 d-navi004.com###snsbox
 
-vidlox.*##+js(abort-on-property-read.js, decodeURIComponent)
 vidlox.*##+js(nowebrtc.js)
 vidlox.*##+js(set-constant.js, popjs, true)
 vidlox.*##+js(set-constant.js, popns, true)
-vidlox.*#%#AG_abortOnPropertyRead('decodeURIComponent');
 vidlox.*#%#//scriptlet("set-constant", "popjs", "true")
 vidlox.*#%#//scriptlet("set-constant", "popns", "true")
 vidlox.*$webrtc,important
@@ -1355,8 +1339,6 @@ jelajahinternet.*##+js(addEventListener-defuser.js, load, onload)
 jelajahinternet.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
 *$frame,$third-party,domain=linkshrter.com
-linkshrter.com##+js(abort-on-property-read.js, open)
-linkshrter.com#%#AG_abortOnPropertyRead('open');
 
 wickedsick.tv#%#AG_abortInlineScript(/api\/direct/, 'spot');
 wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
@@ -1426,10 +1408,8 @@ olympine.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_
 
 indishare.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 indishare.*##+js(abort-current-inline-script.js, decodeURI, atob)
-indishare.*##+js(abort-on-property-read.js, decodeURIComponent)
 indishare.*#%#AG_abortInlineScript('atob', 'decodeURI');
 indishare.*#%#AG_abortInlineScript('vocabulary', 'Math.sin');
-indishare.*#%#AG_abortOnPropertyRead('decodeURIComponent');
 ||indishare.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bootstrapcdn.com *.cloudflare.com *.google-analytics.com
 
 stfly.*##+js(addEventListener-defuser.js, click, trigger)
@@ -1527,9 +1507,7 @@ papalah.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_a
 @@||hdrezka.*/ads.js$script
 
 pornsexer.com##+js(abort-on-property-read.js, ExoLoader.serve)
-pornsexer.com##+js(abort-on-property-read.js, open)
 pornsexer.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
-pornsexer.com#%#AG_abortOnPropertyRead('open');
 
 letmejerk.com##+js(abort-on-property-read.js, ExoLoader)
 letmejerk.com#%#AG_abortOnPropertyRead('ExoLoader');
@@ -1543,9 +1521,7 @@ talkshowyoutube.blogspot.com##+js(addEventListener-defuser.js, load, onload)
 talkshowyoutube.blogspot.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
 verystream.com##+js(abort-on-property-read.js, adblock)
-verystream.com##+js(abort-on-property-read.js, open)
 verystream.com#%#AG_abortOnPropertyRead('adblock');
-verystream.com#%#AG_abortOnPropertyRead('open');
 
 ceesty.com,gestyy.com##+js(set-constant.js, adsBlockerDetector, noopFunc)
 ceesty.com,gestyy.com#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
@@ -1568,9 +1544,6 @@ muhammadyoga.*#%#//scriptlet("prevent-addEventListener", "load", "onload")
 shortbit.co##+js(addEventListener-defuser.js, click, trigger)
 shortbit.co#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 *$frame,domain=shortbit.co,third-party,important
-
-abtakar.com##+js(abort-on-property-read.js, open)
-abtakar.com#%#AG_abortOnPropertyRead('open');
 
 queenfaucet.website##+js(addEventListener-defuser.js, click, trigger)
 queenfaucet.website#%#//scriptlet("prevent-addEventListener", "click", "trigger")
@@ -1711,8 +1684,6 @@ freshstream.*##+js(abort-on-property-read.js, adcashMacros)
 freshstream.*#%#AG_abortOnPropertyRead('adcashMacros');
 
 uiz.io##+js(setTimeout-defuser.js, checkAdblockUser)
-uiz.io##+js(abort-on-property-read.js, open)
-uiz.io#%#AG_abortOnPropertyRead('open');
 uiz.io#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
 
 @@||galt.hit.gemius.pl/gplayer.js$script,domain=lrt.lt
