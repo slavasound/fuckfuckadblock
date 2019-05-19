@@ -129,6 +129,7 @@
 @@||1excelbet365.com^$generichide
 @@||2d-gate.org^$generichide
 @@||123link.*^$generichide
+@@||123movies.*^$generichide
 @@||1000ps.de^$generichide
 @@||aboutchromebooks.com^$generichide
 @@||abouttech.*^$generichide
@@ -187,6 +188,7 @@
 @@||bento.de^$generichide
 @@||berryboot.alexgoldcheidt.com^$generichide
 @@||best-movies.info^$generichide
+@@||bestbtcfaucets.com^$generichide
 @@||billiekay.com^$generichide
 @@||bit-url.com^$generichide
 @@||blackmod.net^$generichide
@@ -210,6 +212,7 @@
 @@||chloe-lukasiak.net^$generichide
 @@||click2see.*^$generichide
 @@||clik.*^$generichide
+@@||clk.*^$generichide
 @@||cnbc.com^$generichide
 @@||cnet.com^$generichide
 @@||coinkurier.de^$generichide
@@ -235,6 +238,7 @@
 @@||designmodo.com^$generichide
 @@||desirecourse.net^$generichide
 @@||despistaos.es^$generichide
+@@||dfiles.*^$generichide
 @@||di.se^$generichide
 @@||digitaltrends.com^$generichide
 @@||dist-tutor.info^$generichide
@@ -286,8 +290,9 @@
 @@||freecourseweb.com^$generichide
 @@||freemalaysiatoday.com^$generichide
 @@||freetimelearning.com^$generichide
+@@||freeupload.*^$generichide
 @@||frendz4m.com^$generichide
-@@||fstore.biz^$generichide
+@@||fstore.*^$generichide
 @@||ftuforum.com^$generichide
 @@||funnyquiz.blog^$generichide
 @@||futeboltv.com^$generichide
@@ -320,6 +325,7 @@
 @@||harrypotterweb.com^$generichide
 @@||hdrezka.*^$generichide
 @@||health-goood.com^$generichide
+@@||healthfary.com^$generichide
 @@||healthykk.com^$generichide
 @@||hilarie-burton.org^$generichide
 @@||htmlweb.ru^$generichide
@@ -345,12 +351,14 @@
 @@||jainjinvani.com^$generichide
 @@||jakegyllenhaal.org^$generichide
 @@||jakimasklad.pl^$generichide
+@@||jameelajamil.tk^$generichide
 @@||jamesfranconetwork.net^$generichide
 @@||jamie-chung.com^$generichide
 @@||javadecompilers.com^$generichide
 @@||javhay.net^$generichide
 @@||javsubtitle.*^$generichide
 @@||jelajahinternet.*^$generichide
+@@||jessicachastain.tk^$generichide
 @@||jon-bernthal.com^$generichide
 @@||jpopsingles.*^$generichide
 @@||jude-law.net^$generichide
@@ -362,12 +370,12 @@
 @@||kriminalukraine.com.ua^$generichide
 @@||lamitadmas1.net^$generichide
 @@||lanaparrillabrasil.com^$generichide
-@@||shahid.mbc.net^$generichide
 @@||landscapenature.*^$generichide
 @@||landycannononline.com^$generichide
 @@||larkgroup.net^$generichide
 @@||lavozdealmeria.es^$generichide
 @@||leakforums.*^$generichide
+@@||lektsii.org^$generichide
 @@||leporno.org^$generichide
 @@||letsdownloads.com^$generichide
 @@||liamhemsworth.org^$generichide
@@ -379,6 +387,7 @@
 @@||linkrag.com^$generichide
 @@||linkshrter.com^$generichide
 @@||linksop.com^$generichide
+@@||linkwea.com^$generichide
 @@||linnk.info^$generichide
 @@||lizzieolsen.us^$generichide
 @@||lkop.me^$generichide
@@ -404,6 +413,7 @@
 @@||manyak.info^$generichide
 @@||marion-cotillard.org^$generichide
 @@||masker-lab.com.tw^$generichide
+@@||megane.com.pl^$generichide
 @@||mercurynews.com^$generichide
 @@||metabattle.com^$generichide
 @@||mia-yim.com^$generichide
@@ -416,9 +426,11 @@
 @@||msueagles.com^$generichide
 @@||muhammadyoga.*^$generichide
 @@||muzlan.top^$generichide
+@@||myfaucetslist.com^$generichide
 @@||myvidster.com^$generichide
 @@||mywrestling.com.pl^$generichide
 @@||ncaa.com^$generichide
+@@||neko-sama.fr^$generichide
 @@||netdoktor.de^$generichide
 @@||news24.com^$generichide
 @@||news.bg^$generichide
@@ -432,6 +444,7 @@
 @@||odette-annable.net^$generichide
 @@||odkrywamyzakryte.com^$generichide
 @@||oko.sh^$generichide
+@@||olegon.ru^$generichide
 @@||olesyarulin.net^$generichide
 @@||olympine.com^$generichide
 @@||online-courses.club^$generichide
@@ -459,12 +472,14 @@
 @@||politiken.dk^$generichide
 @@||pornbimbo.com^$generichide
 @@||porndish.com^$generichide
+@@||powerclicks.*^$generichide
 @@||professionaltutorial.com^$generichide
 @@||profitstudy.*^$generichide
 @@||programinadresi.com^$generichide
 @@||prosieben.de^$generichide
 @@||ps-insar.com^$generichide
 @@||publico.pt^$generichide
+@@||pvpru.com^$generichide
 @@||qaru.site^$generichide
 @@||queenfaucet.website^$generichide
 @@||ramdan.tv^$generichide
@@ -472,6 +487,7 @@
 @@||ratemyteachers.com^$generichide
 @@||readlightnovel.org^$generichide
 @@||readonepunchman.net^$generichide
+@@||reciclarpapelao.com^$generichide
 @@||rekapp.info^$generichide
 @@||replaytvstreaming.com^$generichide
 @@||replica-watch.info^$generichide
@@ -479,6 +495,7 @@
 @@||rey-mysterio.net^$generichide
 @@||rjno1.com^$generichide
 @@||rmdan.*^$generichide
+@@||rp-online.de^$generichide
 @@||rule34hentai.net^$generichide
 @@||samo-tech.com^$generichide
 @@||santacruzsentinel.com^$generichide
@@ -489,9 +506,11 @@
 @@||sciencelife.*^$generichide
 @@||sexicelebs.ru^$generichide
 @@||shaanig.se^$generichide
+@@||shahid.mbc.net^$generichide
 @@||shara.today^$generichide
 @@||short.pe^$generichide
 @@||shortbit.co^$generichide
+@@||shortzon.com^$generichide
 @@||shrinkearn.com^$generichide
 @@||siberyazilimci.net^$generichide
 @@||sivitechno.com^$generichide
@@ -531,8 +550,10 @@
 @@||tercihiniyap.net^$generichide
 @@||tessa-blanchard.com^$generichide
 @@||thegeekyglobe.com^$generichide
+@@||theglobeandmail.com^$generichide
 @@||thehindu.com^$generichide
 @@||thenation.com^$generichide
+@@||thesenior.com.au^$generichide
 @@||thewindowsclub.com^$generichide
 @@||thuthuatjb.com^$generichide
 @@||tiny.*^$generichide
@@ -540,6 +561,7 @@
 @@||tionghoa.info^$generichide
 @@||titulky.com^$generichide
 @@||tl.tc^$generichide
+@@||tmearn.com^$generichide
 @@||tom-hiddleston.org^$generichide
 @@||topserialy.*^$generichide
 @@||topspeed.sk^$generichide
@@ -558,9 +580,11 @@
 @@||tvple.com^$generichide
 @@||tweaktown.com^$generichide
 @@||twojogrodek.pl^$generichide
+@@||uiz.io^$generichide
 @@||ultraskora.com^$generichide
 @@||upfiles.*^$generichide
 @@||uploadedpremiumlink.*^$generichide
+@@||uploadfree.*^$generichide
 @@||uploadocean.com^$generichide
 @@||uploadrar.com^$generichide
 @@||uptobox.com^$generichide
@@ -575,6 +599,7 @@
 @@||vehicle-techno.cf^$generichide
 @@||venipa.net^$generichide
 @@||verystream.com^$generichide	
+@@||vev.io^$generichide
 @@||videopenny.net^$generichide
 @@||viggo-mortensen.com^$generichide
 @@||vinaurl.in^$generichide
@@ -611,29 +636,6 @@
 @@||zoey-deutch.us^$generichide
 @@||zwergenstadt.com^$generichide
 @@||まったり映画.tokyo^$generichide
-@@||linkwea.com^$generichide
-@@||tmearn.com^$generichide
-@@||clk.*^$generichide
-@@||vev.io^$generichide
-@@||123movies.*^$generichide
-@@||jameelajamil.tk^$generichide
-@@||jessicachastain.tk^$generichide
-@@||thesenior.com.au^$generichide
-@@||neko-sama.fr^$generichide
-@@||healthfary.com^$generichide
-@@||uiz.io^$generichide
-@@||shortzon.com^$generichide
-@@||myfaucetslist.com^$generichide
-@@||pvpru.com^$generichide
-@@||powerclicks.*^$generichide
-@@||bestbtcfaucets.com^$generichide
-@@||dfiles.*^$generichide
-@@||reciclarpapelao.com^$generichide
-@@||lektsii.org^$generichide
-@@||olegon.ru^$generichide
-@@||megane.com.pl^$generichide
-@@||rp-online.de^$generichide
-@@||theglobeandmail.com^$generichide
 
 abouttech.*,bloggingdekh.*,agradarpan.com,getpocket.*,akl2day.com,anonyviet.com,bankomap.com.ua,baramjdown.com,beast-birds.com,al3amall.com,bit-url.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,click2see.*,farman.*,click2url.*,clik.*,cooltxtgen.com,cut7link.*,d-navi004.com,daily-sale.*,dunyanews.*,dutchycorp.space,earthpiclover.com,etube99.com,ez4link.org,file-up.*,flyurls.com,freecourseweb.com,freemcserver.net,galaxydestek.com,gametimers.it,gossipcorners.com,govtsmartjob.com,health-goood.com,imageoptimizer.*,jainjinvani.com,kpscthulasilogin.info,licklink.net,link-to.net,linkjust.com,linkrag.com,mrtekani.com,oko.sh,ourmagnet.*,partqb2i.com,payco.*,pcportal.org,pinkhindi.com,profitstudy.*,ps-insar.com,sciencelife.*,short.pe,shrinkearn.com,shrtfly.*,sivitechno.com,sk-ip.ru,stfly.*,stiffvip.com,talkittechy.com,techfinda.com,techjad.com,technoslek.com,templink.org,teqniaplus.com,teqnwy.com,tiny.*,tinylink.*,tl.tc,ultraskora.com,urlsamo.com,utimetableresult.*,v6download.com,vinaurl.in,vinaurl.net,virtualdata.*,wishes2.com,linkwea.com,tmearn.com,healthfary.com,uiz.io,shortzon.com,file-up.*,file-upload.*,upfiles.*##.adsbygoogle
 
@@ -1491,9 +1493,6 @@ rjno1.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
 link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 link-to.net#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
 
-fstore.biz##+js(abort-current-inline-script.js, document.getElementById, undefined)
-fstore.biz#%#AG_abortInlineScript('undefined', 'document.getElementById');
-
 movie-blog.to#%#AG_abortOnPropertyRead('popns');
 movie-blog.to##+js(popads-dummy.js)
 movie-blog.to#%#//scriptlet("set-popads-dummy")
@@ -1565,8 +1564,8 @@ javplay.me##+js(abort-on-property-read.js, popjs)
 javhihi.com#%#AG_abortInlineScript('getexoloader', 'document.dispatchEvent');
 javhihi.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
 
-freeupload.info,uploadfree.info##+js(abort-current-inline-script.js, document.getElementById, undefined)
-freeupload.info,uploadfree.info#%#AG_abortInlineScript('undefined', 'document.getElementById');
+freeupload.*,fstore.*,uploadfree.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
+freeupload.*,fstore.*,uploadfree.*#%#AG_abortInlineScript('undefined', 'document.getElementById');
 
 draug.ru##+js(abort-current-inline-script.js, Math.floor, AdSense)
 draug.ru#%#AG_abortInlineScript('AdSense', 'Math.floor');
