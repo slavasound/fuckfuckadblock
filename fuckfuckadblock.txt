@@ -626,6 +626,7 @@
 @@||myfaucetslist.com^$generichide
 @@||pvpru.com^$generichide
 @@||powerclicks.*^$generichide
+@@||bestbtcfaucets.com^$generichide
 
 abouttech.*,bloggingdekh.*,agradarpan.com,getpocket.*,akl2day.com,anonyviet.com,bankomap.com.ua,baramjdown.com,beast-birds.com,al3amall.com,bit-url.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,click2see.*,farman.*,click2url.*,clik.*,cooltxtgen.com,cut7link.*,d-navi004.com,daily-sale.*,dunyanews.*,dutchycorp.space,earthpiclover.com,etube99.com,ez4link.org,file-up.*,flyurls.com,freecourseweb.com,freemcserver.net,galaxydestek.com,gametimers.it,gossipcorners.com,govtsmartjob.com,health-goood.com,imageoptimizer.*,jainjinvani.com,kpscthulasilogin.info,licklink.net,link-to.net,linkjust.com,linkrag.com,mrtekani.com,oko.sh,ourmagnet.*,partqb2i.com,payco.*,pcportal.org,pinkhindi.com,profitstudy.*,ps-insar.com,sciencelife.*,short.pe,shrinkearn.com,shrtfly.*,sivitechno.com,sk-ip.ru,stfly.*,stiffvip.com,talkittechy.com,techfinda.com,techjad.com,technoslek.com,templink.org,teqniaplus.com,teqnwy.com,tiny.*,tinylink.*,tl.tc,ultraskora.com,urlsamo.com,utimetableresult.*,v6download.com,vinaurl.in,vinaurl.net,virtualdata.*,wishes2.com,linkwea.com,tmearn.com,healthfary.com,uiz.io,shortzon.com##.adsbygoogle
 
@@ -649,8 +650,8 @@ thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landsca
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
 
-mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com##+js(abort-on-property-write.js, adBlockDetected)
-mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com#%#AG_abortOnPropertyWrite('adBlockDetected');
+mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com##+js(abort-on-property-write.js, adBlockDetected)
+mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com#%#AG_abortOnPropertyWrite('adBlockDetected');
 
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,getlec.blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,getlec.blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
