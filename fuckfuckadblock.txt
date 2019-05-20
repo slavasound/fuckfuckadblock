@@ -776,6 +776,11 @@ streamcherry.com,streamango.com,vivatube.com,vev.io#%#AG_abortOnPropertyRead('Be
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*$webrtc,important
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*##+js(nowebrtc.js)
 
+||pagead2.googlesyndication.com/pagead/show_ads.js$script,empty,domain=herokuapp.com|fullstacks.net
+||pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=herokuapp.com|fullstacks.net
+herokuapp.com,fullstacks.net##+js(set-constant.js, gadb, false)
+herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
+
 @@*/adforce.js$script,domain=anistar.org
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
@@ -1359,11 +1364,6 @@ vidstreaming.io##+js(noeval.js)
 vidstreaming.io#%#//scriptlet("noeval")
 vidstreaming.io#%#AG_abortInlineScript('parseInt', 'decodeURIComponent');
 vidstreaming.io#%#AG_abortInlineScript('tabunder', 'parseInt');
-
-||pagead2.googlesyndication.com/pagead/show_ads.js$script,empty,domain=herokuapp.com
-||pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=herokuapp.com
-herokuapp.com##+js(set-constant.js, gadb, false)
-herokuapp.com#%#//scriptlet("set-constant", "gadb", "false")
 
 hanime.tv##+js(abort-current-inline-script.js, BetterJsPop)
 hanime.tv##+js(set-constant.js, ABLK, false)
