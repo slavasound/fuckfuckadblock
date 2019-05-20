@@ -126,6 +126,32 @@
 ##.warning-adblock
 ##.warning-adblock-box
 
+cs-fundamentals.com###adBlockerAlert
+pln-pskov.ru###check_ad_block
+ridble.com###adblock-wrapper
+ridble.com##.adisclaimer
+ocen-piwo.pl###osiemnascielat
+alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
+beforeitsnews.com###ad-message
+ksta.de,express.de###wl-overlay-wrapper
+gamesubject.com###headb
+d-navi004.com###snsbox
+kp.ru###popapIsBlockedAd
+1fichier.com##.ct_warn
+arstechnica.com##.ars-appeal-container
+forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
+getrelax.club,javfree.club##.loaded-popup-wrapper
+imgview.net##.adbwarning
+macwelt.de##.standard.marketplace:has-text(-Anzeige-)
+pcportal.org##.adb-def
+pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
+rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
+rusfishing.ru##.samBannerUnit
+windowscentral.com##.swal-modal, .swal-overlay
+getrelax.club,javfree.club#$##adisblock { display: none!important; }
+getrelax.club,javfree.club###main_content:style(display: block !important;)
+avgle.com##center > div > a[target="_blank"]
+
 @@||1excelbet365.com^$generichide
 @@||2d-gate.org^$generichide
 @@||123link.*^$generichide
@@ -413,6 +439,7 @@
 @@||manyak.info^$generichide
 @@||marion-cotillard.org^$generichide
 @@||masker-lab.com.tw^$generichide
+@@||getinmac.com^$generichide
 @@||megane.com.pl^$generichide
 @@||mercurynews.com^$generichide
 @@||metabattle.com^$generichide
@@ -740,6 +767,15 @@ berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com#%#AG_abortOnPr
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site#%#//scriptlet("set-constant", "adBlockDetected", "noopFunc")
 
+getrelax.club,javfree.club##+js(abort-current-inline-script.js, document.getElementById, adisblock)
+getrelax.club,javfree.club#%#AG_abortInlineScript('adisblock', 'document.getElementById');
+
+streamcherry.com,streamango.com,vivatube.com,vev.io##+js(abort-on-property-read.js, BetterJsPop)
+streamcherry.com,streamango.com,vivatube.com,vev.io#%#AG_abortOnPropertyRead('BetterJsPop');
+
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*$webrtc,important
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*##+js(nowebrtc.js)
+
 @@*/adforce.js$script,domain=anistar.org
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
@@ -765,7 +801,7 @@ blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site#%#//scriptlet("set-co
 @@*/adv.js$script,domain=seo-fast.ru|calciomercato.com
 @@*/advert.js$script,domain=hopto.org|overclockers.ru|cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@*/advertisement-*.js$script,domain=geekspin.co
-@@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us|blocket.se
+@@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us|blocket.se|rjiblog.org|getinmac.com
 @@*/advertising-*.js$script,domain=wetransfer.com
 @@*/advertising.js$script,domain=rockstargame.su|swatchseries.to
 @@*/gads.js$script,domain=rodzinnywyjazd.pl
@@ -794,12 +830,10 @@ blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site#%#//scriptlet("set-co
 */prof.js$script,domain=lbtube.com
 */webpush.ma.js$script,important
 */sw.js$script,important
-
-getrelax.club,javfree.club#$##adisblock { display: none!important; }
-getrelax.club,javfree.club###main_content:style(display: block !important;)
-getrelax.club,javfree.club##+js(abort-current-inline-script.js, document.getElementById, adisblock)
-getrelax.club,javfree.club##.loaded-popup-wrapper
-getrelax.club,javfree.club#%#AG_abortInlineScript('adisblock', 'document.getElementById');
+*/core.min.js$script,empty,domain=rusfishing.ru
+*/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
+*$script,third-party,domain=shtlink.co|shtme.co
+*$script,third-party,domain=igg-games.com,important
 
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 anonyviet.com#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
@@ -815,13 +849,8 @@ openload.*,oload.*,oladblock.*#%#//scriptlet("set-constant", "sadbl", "false")
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
 pornbimbo.com##+js(disable-newtab-links.js)
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
-pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 ||pornbimbo.com/player/html.php$subdocument
-
-rusfishing.ru##.samBannerUnit
-||rusfishing.ru/forum/js/siropu/am/core.min.js$script,empty,domain=rusfishing.ru
-||rusfishing.ru/forum/js/siropu/am/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
 
 culturemap.com##+js(abort-on-property-read.js, CatapultTools)
 culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
@@ -839,15 +868,10 @@ dojrzewamy.pl##+js(setTimeout-defuser.js, ad-container)
 dojrzewamy.pl#%#AG_abortInlineScript('adblock_info', 'setTimeout');
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
-imgview.net##.adbwarning
 imgview.net#%#AG_abortInlineScript('adbwarning', 'setTimeout');
 
 sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
 sslproxies24.top#%#AG_abortInlineScript('google_ad_client', 'document.addEventListener');
-
-*$script,third-party,domain=igg-games.com,important
-*$webrtc,domain=igg-games.com,important
-igg-games.com##+js(nowebrtc.js)
 
 ||pagead2.googlesyndication.com/pagead/js/$script,empty,domain=ebb.io
 ||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
@@ -882,29 +906,14 @@ sueddeutsche.de#%#//scriptlet("set-constant", "_sp_.config", "undefined")
 derstandard.at##+js(set-constant.js, nuggprof, noopFunc)
 derstandard.at#%#//scriptlet("set-constant", "property.chain", "noopFunc")
 
-1fichier.com##.ct_warn
-
 reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 reviewjournal.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
-
-cs-fundamentals.com###adBlockerAlert
 
 temp-mail.org##+js(set-constant.js, checkadBlock, noopFunc)
 temp-mail.org#%#//scriptlet("set-constant", "checkadBlock", "noopFunc")
 
 ||popads.net/pop.js$script,empty,important
 ||popads.net/pop.js$script,redirect=noopjs,important
-
-streamcherry.com##+js(abort-on-property-read.js, BetterJsPop)
-streamcherry.com#%#AG_abortOnPropertyRead('BetterJsPop');
-streamcherry.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
-streamcherry.com#%#Object.defineProperty(window, 'adblock2', { get: function() { return false; } });
-streamcherry.com#%#Object.defineProperty(window, 'doSecondPop', { get: function() { return; } });
-streamcherry.com#%#Object.defineProperty(window, 'noPopunder', { get: function() { return true; } });
-streamcherry.com#%#Object.defineProperty(window, 'popAdsLoaded', { get: function() { return; } });
-streamcherry.com#%#Object.defineProperty(window, 'turnoff', { get: function() { return true; } });
-
-pln-pskov.ru###check_ad_block
 
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=rte.ie
 @@||rte.ie/player/$script,xmlhttprequest
@@ -921,16 +930,8 @@ digitaltrends.com#%#AG_abortInlineScript('googlefcPresent', 'Uint8Array');
 ||bit.ly^$popup,third-party,important
 ||bit.ly^$popup,important
 
-windowscentral.com##.swal-modal, .swal-overlay
-
 macwelt.de##+js(abort-current-inline-script.js, idgStorage)
-macwelt.de##.standard.marketplace:has-text(-Anzeige-)
 macwelt.de#%#AG_abortInlineScript('idgStorage');
-
-arstechnica.com##.ars-appeal-container
-
-ridble.com###adblock-wrapper
-ridble.com##.adisclaimer
 
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl##+js(abort-on-property-write.js, sas)
@@ -955,10 +956,8 @@ legia.net#%#//scriptlet("prevent-setTimeout", "timeoutChecker")
 uploadbox.io##+js(abort-on-property-read.js, replaceContentWithAdBlockerContent)
 uploadbox.io#%#AG_abortOnPropertyRead('replaceContentWithAdBlockerContent');
 
-*$third-party,popup,domain=avgle.com
 avgle.com##+js(abort-on-property-read.js, ExoLoader.serve)
 avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
-avgle.com##center > div > a[target="_blank"]
 avgle.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
 avgle.com#%#//scriptlet("set-constant", "showBlockIf", "noopFunc")
 
@@ -973,14 +972,10 @@ userscloud.com##+js(abort-on-property-write.js, open)
 userscloud.com#%#AG_abortOnPropertyWrite('open');
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
 
-ocen-piwo.pl###osiemnascielat
-
 clik.*##+js(addEventListener-defuser.js, mouseup, click)
-clik.*##+js(nowebrtc.js)
 clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*#%#//scriptlet("prevent-addEventListener", "mouseup", "click")
 clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
-clik.*$webrtc,important
 
 ||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 
@@ -1005,27 +1000,18 @@ programinadresi.com#%#AG_abortOnPropertyRead('adBlock');
 freemcserver.net##+js(setTimeout-defuser.js, adblock)
 freemcserver.net#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/\/site\/adblock/.test(a.toString()))return b(a,c)};})();
 
-*$webrtc,domain=stiffvip.com,important
-stiffvip.com##+js(nowebrtc.js)
-
 streamporn.pw##+js(abort-on-property-read.js, ExoLoader.serve)
 ||mangovideo.pw/player/html.php?aid=*_html&video_id=*&*&referer$important
 streamporn.pw#%#AG_abortOnPropertyRead('ExoLoader.serve');
 
-myvidster.com##+js(abort-on-property-read.js, adblockDetector)
-myvidster.com#%#AG_abortOnPropertyRead('adblockDetector');
-
 inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
 inmanga.com#%#AG_abortInlineScript('manageAntiBlock', 'setTimeout');
-
-alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
 
 agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
 agargold.*#%#AG_abortInlineScript('block', 'document.getElementById');
 
 bit-url.com##+js(noeval.js)
 bit-url.com##+js(set-constant.js, absda, noopFunc)
-bit-url.com##.banner
 bit-url.com#%#//scriptlet("noeval")
 bit-url.com#%#//scriptlet("set-constant", "absda", "noopFunc")
 
@@ -1060,8 +1046,6 @@ bibliacatolica.com.br#%#AG_abortOnPropertyRead('getSelection');
 bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
 bidouillesikea.com#%#AG_abortOnPropertyRead('adbackDebug');
 
-beforeitsnews.com###ad-message
-
 lavoixdux.com##+js(set-constant.js, is_adblocked, false)
 lavoixdux.com#%#//scriptlet("set-constant", "is_adblocked", "false")
 
@@ -1084,17 +1068,10 @@ jovempan.uol.com.br#%#AG_abortOnPropertyRead('window.abStyle');
 jovempan.uol.com.br#%#AG_abortOnPropertyRead('window.adback_wording');
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 
-express.de###wl-overlay-wrapper
-
-aargauerzeitung.ch#@##banner_ad
-
 oeffentlicher-dienst.info##+js(set-constant.js, testerli, false)
 oeffentlicher-dienst.info#%#//scriptlet("set-constant", "testerli", "false")
 
 @@||topserialy.*/js/googlead.js$script
-
-*$webrtc,domain=uploadocean.com,important
-uploadocean.com##+js(nowebrtc.js)
 
 fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
 fox.com.tr#%#//scriptlet("set-constant", "adblockDetector", "trueFunc")
@@ -1105,8 +1082,6 @@ fox.com.tr#%#//scriptlet("set-constant", "adblockDetector", "trueFunc")
 bmwfaq.org##+js(abort-on-property-write.js, AdBlockDetectorWorkaround)
 bmwfaq.org#%#AG_abortOnPropertyWrite('AdBlockDetectorWorkaround');
 
-*$webrtc,domain=gsmarena.com,important
-gsmarena.com##+js(nowebrtc.js)
 gsmarena.com#%#AG_abortOnPropertyWrite('adonisHash');
 gsmarena.com##+js(abort-on-property-write.js, adonisHash)
 
@@ -1125,23 +1100,12 @@ upload.*##+js(abort-current-inline-script.js, document.getElementById, banner)
 upload.*#%#AG_abortInlineScript('banner', 'document.getElementById');
 
 streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
-streamango.com##+js(abort-on-property-read.js, BetterJsPop)
 streamango.com#%#AG_abortInlineScript('fruitadblock', 'isSandboxed');
-streamango.com#%#AG_abortOnPropertyRead('BetterJsPop');
-streamango.com#%#Object.defineProperty(window, 'BetterJsPop', { get: function() { return { init: function() { } }; } });
-
-rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
-
-@@||getinmac.com^$elemhide
-
-pcportal.org##.adb-def
 
 @@||all-episodes.tv/*/downretl.js$script,domain=all-episodes.tv
 @@||all-episodes.tv/ad/banner/$xmlhttprequest,domain=all-episodes.tv
 ||boostervideo.ru/client/boostervideo.js$script,empty,domain=all-episodes.tv,important
 ||boostervideo.ru/client/boostervideo.js$script,redirect=noopjs,domain=all-episodes.tv
-
-ksta.de###wl-overlay-wrapper
 
 imgdawgknuttz.com##+js(abort-on-property-read.js, ExoLoader)
 imgdawgknuttz.com#%#AG_abortOnPropertyRead('ExoLoader');
@@ -1159,8 +1123,6 @@ smartage.pl#%#AG_abortInlineScript('adblock', 'parseInt');
 
 |http*://$image,domain=ip.cn,badfilter
 
-gamesubject.com###headb
-
 dniwolne.eu##+js(set-constant.js, window.google_jobrunner, noopFunc)
 dniwolne.eu#%#//scriptlet("set-constant", "window.google_jobrunner", "noopFunc")
 
@@ -1168,9 +1130,6 @@ dniwolne.eu#%#//scriptlet("set-constant", "window.google_jobrunner", "noopFunc")
 
 bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
 bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
-
-*$webrtc,domain=cyfostreams.com,important
-cyfostreams.com##+js(nowebrtc.js)
 
 vinaurl.in##+js(abort-on-property-read.js, adsHeight)
 vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
@@ -1183,18 +1142,10 @@ dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "check
 zspnr1.lowicz.pl##+js(setInterval-defuser.js, seead)
 zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
 
-forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
-
-d-navi004.com###snsbox
-
-vidlox.*##+js(nowebrtc.js)
 vidlox.*##+js(set-constant.js, popjs, true)
 vidlox.*##+js(set-constant.js, popns, true)
 vidlox.*#%#//scriptlet("set-constant", "popjs", "true")
 vidlox.*#%#//scriptlet("set-constant", "popns", "true")
-vidlox.*$webrtc,important
-
-kp.ru###popapIsBlockedAd
 
 watchhowimetyourmother.online##+js(abort-on-property-read.js, require)
 watchhowimetyourmother.online#%#AG_abortOnPropertyRead('require');
@@ -1223,9 +1174,6 @@ wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
 
 anitube.cz##+js(addEventListener-defuser.js, load)
 anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
-
-prettyfast.to##+js(nowebrtc.js)
-prettyfast.to$webrtc,important
 
 hdpornvideo.xxx#%#AG_abortOnPropertyRead('TrybbBlock');
 hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
@@ -1282,16 +1230,12 @@ santacruzsentinel.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFun
 
 ouo.*##+js(abort-current-inline-script.js, decodeURI, HTMLIFrameElement)
 ouo.*##+js(abort-on-property-read.js, jsPopunder)
-ouo.*##+js(nowebrtc.js)
 ouo.*#%#AG_abortInlineScript('HTMLIFrameElement', 'decodeURI');
 ouo.*#%#AG_abortOnPropertyRead('jsPopunder');
-ouo.*$webrtc,important
 
 elsfile.org##+js(addEventListener-defuser.js, load, nextFunction)
 elsfile.org#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
 
-uptobox.com##+js(nowebrtc.js)
-uptobox.com$webrtc,important
 ||uptobox.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com
 
 festyy.com##+js(abort-current-inline-script.js, parseInt, tabunder)
@@ -1299,8 +1243,6 @@ festyy.com#%#AG_abortInlineScript('tabunder', 'parseInt');
 
 ||rp5.*/scripts/main.*.js$script
 
-ourl.io##+js(nowebrtc.js)
-ourl.io$webrtc,important
 ||ourl.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com
 
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
@@ -1312,10 +1254,6 @@ postimg.*#%#AG_abortInlineScript('void', 'atob');
 tmearn.*##+js(noeval-if.js, clickAnywhere)
 tmearn.*#%#//scriptlet("prevent-eval-if", "clickAnywhere")
 
-*$subdocument,third-party,domain=cpmlink.net
-cpmlink.net##+js(nowebrtc.js)
-cpmlink.net##iframe[src="about:blank"]
-cpmlink.net$webrtc,important
 ||cpmlink.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.cloudflare.com
 
 @@||zdnet.*/advertising.js$script
@@ -1325,9 +1263,6 @@ uppom.live#%#AG_abortInlineScript('vocabulary', 'Math.sin');
 
 movies1234.net,123moviesgot.com##+js(abort-on-property-read.js, zfgloadednative)
 movies1234.net,123moviesgot.com#%#AG_abortOnPropertyRead('zfgloadednative');
-
-entervideo.net##+js(nowebrtc.js)
-entervideo.net$webrtc,important
 
 fmovies.wtf##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 fmovies.wtf#%#AG_abortInlineScript('atob', 'decodeURIComponent');
@@ -1364,11 +1299,6 @@ ceesty.com,gestyy.com,corneey.com##+js(popads-dummy.js)
 ceesty.com,gestyy.com,corneey.com#%#//scriptlet("set-popads-dummy")
 ceesty.com,gestyy.com,corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
 
-*$script,third-party,domain=shtlink.co|shtme.co
-
-vivatube.com#%#AG_abortOnPropertyRead('BetterJsPop');
-vivatube.com##+js(abort-on-property-read.js, BetterJsPop)
-
 menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
 menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
 
@@ -1403,8 +1333,6 @@ bdmbase.ru#%#//scriptlet("prevent-setTimeout", "$", "ins.adsbygoogle")
 xhamster.desi#%#AG_abortOnPropertyRead('dataPopUnder');
 xhamster.desi##+js(abort-on-property-read.js, dataPopUnder)
 
-yts.*##+js(nowebrtc.js)
-yts.*$webrtc,important
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$important,csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.molyusercontentstage.me *.vidmoly.me
@@ -1455,8 +1383,6 @@ mstream.*#%#//scriptlet("noeval")
 @@||mystream.*/pop.js$script
 
 @@||dpstream.*/pop.js$script
-dpstream.*##+js(nowebrtc.js)
-dpstream.*$webrtc,important
 
 @@||vidoza.net/*/pop.js$script
 @@||vidoza.net/*/ads.js$script
@@ -1469,9 +1395,7 @@ studopedia.com.ua,lektsii.org#%#AG_abortInlineScript('detectAdblk');
 hdvid.*##+js(abort-current-inline-script.js, atob, tabunder)
 hdvid.*#%#AG_abortInlineScript('tabunder', 'atob');
 hdvid.*,onvid.*,ovid.*,vidhd.*##+js(abort-on-property-write.js, smrtSB)
-hdvid.*,onvid.*,ovid.*,vidhd.*##+js(nowebrtc.js)
 hdvid.*,onvid.*,ovid.*,vidhd.*#%#AG_abortOnPropertyWrite('smrtSB');
-hdvid.*,onvid.*,ovid.*,vidhd.*$webrtc,important
 
 tmearn.com##+js(noeval-if.js, clickAnywhere)
 tmearn.com#%#//scriptlet("prevent-eval-if", "clickAnywhere")
@@ -1480,9 +1404,7 @@ clk.*##+js(set-constant.js, blockAdBlock, true)
 clk.*#%#//scriptlet("set-constant", "blockAdBlock", "true")
 
 vev.io##+js(abort-current-inline-script.js, __INITIAL_STATE__)
-vev.io##+js(abort-on-property-read.js, BetterJsPop)
 vev.io#%#AG_abortInlineScript('__INITIAL_STATE__');
-vev.io#%#AG_abortOnPropertyRead('BetterJsPop');
 
 freshstream.*##+js(abort-on-property-read.js, adcashMacros)
 freshstream.*#%#AG_abortOnPropertyRead('adcashMacros');
@@ -1545,4 +1467,7 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#AG_abortOnPropertyRead('ExoLoader.add
 
 pasty.link##+js(abort-on-property-read.js, isAdBlockActive2)
 pasty.link#%#AG_abortOnPropertyRead('isAdBlockActive2');
+
+getinmac.com#%#AG_abortInlineScript(/,displayMessage:/, 'document.addEventListener');
+getinmac.com##+js(abort-current-inline-script.js, document.addEventListener, /,displayMessage:/)
 
