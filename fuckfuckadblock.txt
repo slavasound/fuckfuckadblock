@@ -1618,3 +1618,6 @@ imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader
 imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#AG_abortOnPropertyRead('ExoLoader.addZone');
 @@||imgtown.net^$script,domain=imgtown.pw
 
+udemycouponscode.com##+js(abort-on-property-write.js, KillAdBlock)
+udemycouponscode.com#%#AG_abortOnPropertyWrite('KillAdBlock');
+
