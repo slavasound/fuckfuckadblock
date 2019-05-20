@@ -1542,3 +1542,7 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#AG_abortOnPropertyRead('CustomEvent')
 imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader.addZone)
 imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#AG_abortOnPropertyRead('ExoLoader.addZone');
 @@||imgtown.net^$script,domain=imgtown.pw
+
+pasty.link##+js(abort-on-property-read.js, isAdBlockActive2)
+pasty.link#%#AG_abortOnPropertyRead('isAdBlockActive2');
+
