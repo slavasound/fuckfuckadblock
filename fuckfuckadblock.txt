@@ -776,12 +776,24 @@ streamcherry.com,streamango.com,vivatube.com,vev.io#%#AG_abortOnPropertyRead('Be
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*$webrtc,important
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*##+js(nowebrtc.js)
 
-||pagead2.googlesyndication.com/pagead/show_ads.js$script,empty,domain=herokuapp.com|fullstacks.net
-||pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=herokuapp.com|fullstacks.net
+||pagead2.googlesyndication.com/pagead/$script,empty,domain=herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk
+||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk
+
 herokuapp.com,fullstacks.net##+js(set-constant.js, gadb, false)
 herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 
-@@*/adforce.js$script,domain=anistar.org
+diariodenavarra.es,t66y.com##+js(set-constant.js, Math.random, trueFunc)
+diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
+
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to##+js(popads-dummy.js)
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to#%#//scriptlet("set-popads-dummy")
+
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com##+js(abort-on-property-read.js, ExoLoader)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com#%#AG_abortOnPropertyRead('ExoLoader');
+
+bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com##+js(noeval.js)
+bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com#%#//scriptlet("noeval")
+
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
 @@*/_ads.js$script,domain=geoguessr.com
@@ -794,6 +806,7 @@ herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 @@*/adblockDetect.js$xmlhttprequest,domain=atv.com.tr
 @@*/adblockdetectorwithga.js$domain=fox.com.tr,script
 @@*/adetectads.js$script,domain=jav777.cc
+@@*/adforce.js$script,domain=anistar.org
 @@*/adframe.js$script,domain=kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net|extremereportbot.com
 @@*/adjs.js$domain=atresplayer.com,script
 @@*/ads-*.js$script,domain=duellinksmeta.com
@@ -822,23 +835,25 @@ herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 @@*/showads.js$script,domain=cnbc.com|sbsports.pro|dmntsf.net|spinbot.com|watch32hd.org
 @@*/videojs-contrib-ads$stylesheet,xmlhttprequest,domain=debilizator.tv
 
+*$script,third-party,domain=igg-games.com,important
+*$script,third-party,domain=shtlink.co|shtme.co
+*$third-party,xmlhttprequest,domain=userscloud.com
+*/*.php$important,script,domain=youx.xxx
 */adb.js$script,domain=allnorilsk.ru
 */adblk-v2.js$script,domain=di.se
 */adblocker-feature$xmlhttprequest,domain=washingtonpost.com
 */adbp.js$domain=mobzon.ru,script
 */chaturbate.js$script,important
 */checker.js$script,domain=ruanyifeng.com
+*/core.min.js$script,empty,domain=rusfishing.ru
+*/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
 */entry2.js$important,domain=multileech.net,script
 */googima.js$script,empty,important
 */googima.js$script,redirect=noopjs,important
 */preRoll.php$xmlhttprequest,domain=lbtube.com
 */prof.js$script,domain=lbtube.com
-*/webpush.ma.js$script,important
 */sw.js$script,important
-*/core.min.js$script,empty,domain=rusfishing.ru
-*/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
-*$script,third-party,domain=shtlink.co|shtme.co
-*$script,third-party,domain=igg-games.com,important
+*/webpush.ma.js$script,important
 
 anonyviet.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 anonyviet.com#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
@@ -855,7 +870,6 @@ pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][
 pornbimbo.com##+js(disable-newtab-links.js)
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
-||pornbimbo.com/player/html.php$subdocument
 
 culturemap.com##+js(abort-on-property-read.js, CatapultTools)
 culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
@@ -878,13 +892,7 @@ imgview.net#%#AG_abortInlineScript('adbwarning', 'setTimeout');
 sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
 sslproxies24.top#%#AG_abortInlineScript('google_ad_client', 'document.addEventListener');
 
-||pagead2.googlesyndication.com/pagead/js/$script,empty,domain=ebb.io
-||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
-
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
-
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,empty,domain=mylink.love
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=mylink.love
 
 @@||programiz.com^$xmlhttprequest,domain=programiz.com
 
@@ -924,7 +932,7 @@ temp-mail.org#%#//scriptlet("set-constant", "checkadBlock", "noopFunc")
 @@||rte.ie/player/$script,xmlhttprequest
 
 handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
-stiffgamerdown.com#%#AG_abortInlineScript('hcf_userconfig.cgi_adb_redirect_url', 'hcf_userconfig');
+handelsblatt.com#%#AG_abortInlineScript('hcf_userconfig.cgi_adb_redirect_url', 'hcf_userconfig');
 
 gallerix.ru##+js(abort-current-inline-script.js, jQuery, adbk)
 gallerix.ru#%#AG_defineProperty('jQuery.adbk', {value: false});
@@ -969,10 +977,6 @@ avgle.com#%#//scriptlet("set-constant", "showBlockIf", "noopFunc")
 linkberuang.*##+js(set-constant.js, safelink.adblock, false)
 linkberuang.*#%#AG_defineProperty('safelink.adblock',{value:false});
 
-diariodenavarra.es##+js(set-constant.js, Math.random, trueFunc)
-diariodenavarra.es#%#//scriptlet("set-constant", "Math.random", "trueFunc")
-
-*$third-party,xmlhttprequest,domain=userscloud.com
 userscloud.com##+js(abort-on-property-write.js, open)
 userscloud.com#%#AG_abortOnPropertyWrite('open');
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
@@ -987,7 +991,6 @@ clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x')
 payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*#%#AG_abortInlineScript('charAt', 'parseInt');
 payco.*#%#AG_onLoad(function(){setTimeout(function(){var el=document.querySelector('form[action$="/links/popad"]');if(el)el.remove()},300)});
-payco.*$subdocument,third-party,important
 
 autocentrum.pl##+js(set-constant.js, adblockJsFile, true)
 autocentrum.pl#%#//scriptlet("set-constant", "adblockJsFile", "true")
@@ -1015,9 +1018,7 @@ inmanga.com#%#AG_abortInlineScript('manageAntiBlock', 'setTimeout');
 agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
 agargold.*#%#AG_abortInlineScript('block', 'document.getElementById');
 
-bit-url.com##+js(noeval.js)
 bit-url.com##+js(set-constant.js, absda, noopFunc)
-bit-url.com#%#//scriptlet("noeval")
 bit-url.com#%#//scriptlet("set-constant", "absda", "noopFunc")
 
 ||d1swblsd1itapx.cloudfront.net$domain=mobzon.ru
@@ -1060,13 +1061,6 @@ bostonherald.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 bostonherald.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl
-
-||googletagmanager.com/gtag/$script,empty,domain=di.fm,important
-||googletagmanager.com/gtag/$script,redirect=noopjs,domain=di.fm,important
-||googletagservices.com/tag/js/gpt.js$script,empty,domain=di.fm,important
-||googletagservices.com/tag/js/gpt.js$script,redirect=noopjs,domain=di.fm,important
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,empty,important
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=nooptext,important
 
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
 jovempan.uol.com.br#%#AG_abortOnPropertyRead('window.abStyle');
@@ -1111,9 +1105,6 @@ streamango.com#%#AG_abortInlineScript('fruitadblock', 'isSandboxed');
 @@||all-episodes.tv/ad/banner/$xmlhttprequest,domain=all-episodes.tv
 ||boostervideo.ru/client/boostervideo.js$script,empty,domain=all-episodes.tv,important
 ||boostervideo.ru/client/boostervideo.js$script,redirect=noopjs,domain=all-episodes.tv
-
-imgdawgknuttz.com##+js(abort-on-property-read.js, ExoLoader)
-imgdawgknuttz.com#%#AG_abortOnPropertyRead('ExoLoader');
 
 123l.pw##+js(abort-on-property-write.js, showAdsBlock)
 123l.pw#%#AG_abortOnPropertyWrite('showAdsBlock');
@@ -1188,11 +1179,9 @@ avcao.cc##+js(abort-on-property-read.js, myclick)
 ||avcao.cc/js/p.js$domain=axjbt.com,script,important
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-current-inline-script.js, jQuery, TestAdBlock)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-read.js, ExoLoader)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, cticodes)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, imgadbpops)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortInlineScript('TestAdBlock', 'jQuery');
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyRead('ExoLoader');
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('cticodes');
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('imgadbpops');
 
@@ -1201,9 +1190,6 @@ uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bann
 
 mu2.mobi##+js(abort-on-property-read.js, marker)
 mu2.mobi#%#AG_abortOnPropertyRead('marker');
-
-fc.lc#%#//scriptlet("noeval")
-fc.lc##+js(noeval.js)
 
 empflix.com##+js(abort-on-property-read.js, ALoader)
 empflix.com##+js(abort-on-property-read.js, ads.pop_url)
@@ -1280,8 +1266,6 @@ link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 link-to.net#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
 
 movie-blog.to#%#AG_abortOnPropertyRead('popns');
-movie-blog.to##+js(popads-dummy.js)
-movie-blog.to#%#//scriptlet("set-popads-dummy")
 movie-blog.to##+js(abort-on-property-read.js, popns)
 
 @@||hdrezka.*/ads.js$script
@@ -1289,8 +1273,6 @@ movie-blog.to##+js(abort-on-property-read.js, popns)
 pornsexer.com##+js(abort-on-property-read.js, ExoLoader.serve)
 pornsexer.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
 
-letmejerk.com##+js(abort-on-property-read.js, ExoLoader)
-letmejerk.com#%#AG_abortOnPropertyRead('ExoLoader');
 letmejerk.com##+js(addEventListener-defuser.js, load, _0x)
 letmejerk.com#%#AG_abortInlineScript('_0x', 'load');
 
@@ -1300,8 +1282,6 @@ ratemyteachers.com#%#AG_abortInlineScript('block', 'document.getElementById');
 ceesty.com,gestyy.com##+js(set-constant.js, adsBlockerDetector, noopFunc)
 ceesty.com,gestyy.com#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
 ceesty.com,gestyy.com,corneey.com##+js(abort-current-inline-script.js, parseInt, tabunder)
-ceesty.com,gestyy.com,corneey.com##+js(popads-dummy.js)
-ceesty.com,gestyy.com,corneey.com#%#//scriptlet("set-popads-dummy")
 ceesty.com,gestyy.com,corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
 
 menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
@@ -1309,9 +1289,6 @@ menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
 
 leporno.org##+js(abort-current-inline-script.js, atob, tabunder)
 leporno.org#%#AG_abortInlineScript('tabunder', 'atob');
-
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,empty,domain=windowcleaningforums.co.uk
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=windowcleaningforums.co.uk
 
 @@||muzlan.top^$xmlhttprequest,domain=muzlan.top
 
@@ -1324,9 +1301,7 @@ javhihi.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexol
 draug.ru##+js(abort-current-inline-script.js, Math.floor, AdSense)
 draug.ru#%#AG_abortInlineScript('AdSense', 'Math.floor');
 
-t66y.com##+js(set-constant.js, Math.random, trueFunc)
 t66y.com##+js(abort-current-inline-script.js, $, undefined)
-t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 t66y.com#%#AG_abortInlineScript('undefined', '$');
 
 mywrestling.com.pl##+js(abort-on-property-write.js, killAdBlock)
@@ -1352,16 +1327,11 @@ di.se#%#AG_abortInlineScript('checkAdBlockEnabled');
 ||damoh.tvnow.de/*$media,empty,domain=tvnow.de
 ||damoh.tvnow.de/*$media,redirect=noopmp3-0.1s,domain=tvnow.de
 
-||pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com
-||pagead2.googlesyndication.com/pagead/show_ads.js$script,empty,domain=agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com
-
 infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
 infotrendy.me#%#//scriptlet("prevent-addEventListener", "load", "2000")
 
 vidstreaming.io##+js(abort-current-inline-script.js, decodeURIComponent, parseInt)
 vidstreaming.io##+js(abort-current-inline-script.js, parseInt, tabunder)
-vidstreaming.io##+js(noeval.js)
-vidstreaming.io#%#//scriptlet("noeval")
 vidstreaming.io#%#AG_abortInlineScript('parseInt', 'decodeURIComponent');
 vidstreaming.io#%#AG_abortInlineScript('tabunder', 'parseInt');
 
@@ -1378,16 +1348,12 @@ savevideo.me#%#AG_abortInlineScript('banner', '$');
 
 @@||upvid.*/pop.js$script
 
-mstream.*##+js(noeval.js)
-mstream.*#%#//scriptlet("noeval")
 @@||mystream.*/pop.js$script
 
 @@||dpstream.*/pop.js$script
 
 @@||vidoza.net/*/pop.js$script
 @@||vidoza.net/*/ads.js$script
-vidoza.net##+js(noeval.js)
-vidoza.net#%#//scriptlet("noeval")
 
 studopedia.com.ua,lektsii.org##+js(abort-current-inline-script.js, detectAdblk)
 studopedia.com.ua,lektsii.org#%#AG_abortInlineScript('detectAdblk');
@@ -1417,10 +1383,8 @@ uiz.io#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
 rapidvideo.com##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 rapidvideo.com##+js(abort-on-property-write.js, executed)
 rapidvideo.com##+js(addEventListener-defuser.js, mousedown, preventDefault)
-rapidvideo.com##+js(noeval.js)
 rapidvideo.com##+js(popads.net.js)
 rapidvideo.com##+js(set-constant.js, onload, noopFunc)
-rapidvideo.com#%#//scriptlet("noeval")
 rapidvideo.com#%#//scriptlet("prevent-addEventListener", "mousedown", "preventDefault")
 rapidvideo.com#%#//scriptlet("prevent-popads-net")
 rapidvideo.com#%#//scriptlet("set-constant", "onload", "noopFunc")
@@ -1445,12 +1409,6 @@ freeopenvpn.org#%#//scriptlet("set-constant", "adBlock", "false")
 nutraceuticalsworld.com##+js(abort-on-property-read.js, adblockerpopup)
 nutraceuticalsworld.com#%#AG_abortOnPropertyRead('adblockerpopup');
 
-*/*.php$important,script,domain=youx.xxx
-youx.xxx##+js(abort-on-property-read.js, ExoLoader)
-youx.xxx#%#AG_abortOnPropertyRead('ExoLoader');
-
-hqq.*##+js(popads-dummy.js)
-hqq.*#%#//scriptlet("set-popads-dummy")
 hqq.*##+js(abort-on-property-write.js, smrtSB)
 hqq.*#%#AG_abortOnPropertyWrite('smrtSB');
 hqq.*##+js(abort-on-property-read.js, mscript)
