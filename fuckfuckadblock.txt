@@ -849,6 +849,9 @@ anonyviet.com,yesmovies.*,hdstreams.*#%#AG_abortOnPropertyRead('Date.prototype.t
 javplay.me,sembunyi.in,hdstreams.*#%#AG_abortOnPropertyRead('popjs');
 javplay.me,sembunyi.in,hdstreams.*##+js(abort-on-property-read.js, popjs)
 
+popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com##+js(abort-on-property-read.js, CatapultTools)
+popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
+
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$popup,third-party,important
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
@@ -957,9 +960,6 @@ openload.*,oload.*,oladblock.*#%#//scriptlet("set-constant", "sadbl", "false")
 pornbimbo.com##+js(disable-newtab-links.js)
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
-
-culturemap.com##+js(abort-on-property-read.js, CatapultTools)
-culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
 
 larena.it##+js(setTimeout-defuser.js, adblock-check)
 larena.it#%#//scriptlet("prevent-setTimeout", "adblock-check")
