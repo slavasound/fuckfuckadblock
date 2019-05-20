@@ -647,6 +647,8 @@
 @@||imgview.*^$generichide
 @@||kooramubashir.com^$generichide
 
+mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,sataniabatch.blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
+
 abouttech.*,bloggingdekh.*,agradarpan.com,getpocket.*,akl2day.com,anonyviet.com,bankomap.com.ua,baramjdown.com,beast-birds.com,al3amall.com,bit-url.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,click2see.*,farman.*,click2url.*,clik.*,cooltxtgen.com,cut7link.*,d-navi004.com,daily-sale.*,dunyanews.*,dutchycorp.space,earthpiclover.com,etube99.com,ez4link.org,file-up.*,flyurls.com,freecourseweb.com,freemcserver.net,galaxydestek.com,gametimers.it,gossipcorners.com,govtsmartjob.com,health-goood.com,imageoptimizer.*,jainjinvani.com,kpscthulasilogin.info,licklink.net,link-to.net,linkjust.com,linkrag.com,mrtekani.com,oko.sh,ourmagnet.*,partqb2i.com,payco.*,pcportal.org,pinkhindi.com,profitstudy.*,ps-insar.com,sciencelife.*,short.pe,shrinkearn.com,shrtfly.*,sivitechno.com,sk-ip.ru,stfly.*,stiffvip.com,talkittechy.com,techfinda.com,techjad.com,technoslek.com,templink.org,teqniaplus.com,teqnwy.com,tiny.*,tinylink.*,tl.tc,ultraskora.com,urlsamo.com,utimetableresult.*,v6download.com,vinaurl.in,vinaurl.net,virtualdata.*,wishes2.com,linkwea.com,tmearn.com,healthfary.com,uiz.io,shortzon.com,file-up.*,file-upload.*,upfiles.*,freeopenvpn.org,cutpaid.com,kooramubashir.com##.adsbygoogle
 
 1excelbet365.com,apteka.ua,blogkafem.net,darckrepacks.com,despistaos.es,gidoroom.ru,sosiali.com,windowcleaningforums.co.uk,xiaomifans.pl,megane.com.pl#@#.adsbygoogle
@@ -1015,13 +1017,11 @@ streamporn.pw#%#AG_abortOnPropertyRead('ExoLoader.serve');
 
 myvidster.com##+js(abort-on-property-read.js, adblockDetector)
 myvidster.com#%#AG_abortOnPropertyRead('adblockDetector');
-myvidster.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
 inmanga.com#%#AG_abortInlineScript('manageAntiBlock', 'setTimeout');
 
 arcadepunks.com##+js(abort-on-property-write.js, KillAdBlock)
-arcadepunks.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 arcadepunks.com#%#AG_abortOnPropertyWrite('KillAdBlock');
 
 alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
@@ -1069,10 +1069,6 @@ bibliacatolica.com.br#%#AG_abortOnPropertyRead('getSelection');
 bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
 bidouillesikea.com#%#AG_abortOnPropertyRead('adbackDebug');
 
-pleximum.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
-twojogrodek.pl#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
-
 beforeitsnews.com###ad-message
 
 lavoixdux.com##+js(set-constant.js, is_adblocked, false)
@@ -1082,14 +1078,11 @@ lavoixdux.com#%#//scriptlet("set-constant", "is_adblocked", "false")
 
 berryboot.alexgoldcheidt.com##+js(abort-on-property-write.js, KillAdBlock)
 berryboot.alexgoldcheidt.com#%#AG_abortOnPropertyWrite('KillAdBlock');
-berryboot.alexgoldcheidt.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 bostonherald.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 bostonherald.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl
-
-tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.text-ad-links.text-ads.textAd.text_ad.text_ads{display:block!important;}
 
 ||googletagmanager.com/gtag/$script,empty,domain=di.fm,important
 ||googletagmanager.com/gtag/$script,redirect=noopjs,domain=di.fm,important
@@ -1104,8 +1097,6 @@ jovempan.uol.com.br#%#AG_abortOnPropertyRead('window.adback_wording');
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 
 express.de###wl-overlay-wrapper
-
-professionaltutorial.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 aargauerzeitung.ch#@##banner_ad
 
@@ -1167,10 +1158,6 @@ ksta.de###wl-overlay-wrapper
 imgdawgknuttz.com##+js(abort-on-property-read.js, ExoLoader)
 imgdawgknuttz.com#%#AG_abortOnPropertyRead('ExoLoader');
 
-finobe.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
-
-atresplayer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
 uploadship.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 uploadship.com#%#AG_abortInlineScript('adblockinfo', 'document.getElementById');
 
@@ -1194,31 +1181,16 @@ dniwolne.eu#%#//scriptlet("set-constant", "window.google_jobrunner", "noopFunc")
 
 ||github.io/aplacer$third-party
 
-damnripped.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
 bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
 bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
 
-andek.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
 *$webrtc,domain=cyfostreams.com,important
 cyfostreams.com##+js(nowebrtc.js)
-
-openloadtv.*#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display:block!important; }
-
-online-courses.club###admania_adb_enabled
-online-courses.club#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
-
-logrosxbox.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 vinaurl.in##+js(abort-on-property-read.js, adsHeight)
 vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
 
 @@||getfreebit.*/advertisement.js$script
-
-1000ps.de#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
-
-waw4free.pl#$#.pub_300x250.pub_300x250m.text-ad.textAd.text-ads.text-ad-links{display:block!important;}
 
 dieroten.pl##+js(addEventListener-defuser.js, DOMContentLoaded, checkAdBlock)
 dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "checkAdBlock")
@@ -1243,17 +1215,11 @@ watchhowimetyourmother.online##+js(abort-on-property-read.js, require)
 watchhowimetyourmother.online#%#AG_abortOnPropertyRead('require');
 watchhowimetyourmother.online#%#Object.defineProperty(Object.prototype, 'Focm', { get: function(){ throw null; }, set: function(){ throw null; }});
 
-independent.co.uk#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
-hackinblood.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
 otakustream.tv##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 otakustream.tv#%#AG_abortInlineScript('getScriptFromCss', 'decodeURI');
 
 dailyimages.*##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
 dailyimages.*#%#AG_abortInlineScript('getexoloader', 'document.dispatchEvent');
-
-freemalaysiatoday.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 autocar.co.uk##+js(abort-on-property-read.js, InstallTrigger)
 autocar.co.uk#%#AG_abortOnPropertyRead('InstallTrigger');
@@ -1264,12 +1230,8 @@ axjbt.com#%#AG_abortOnPropertyRead('myclick');
 axjbt.com##+js(abort-on-property-read.js, myclick)
 ||axjbt.com/dbxf/pctc.js$domain=axjbt.com,script,important
 
-playview.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
 full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
 ||full-stream.co/*/logo.png$popup,third-party,important
-
-yumechan.club#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 wickedsick.tv#%#AG_abortInlineScript(/api\/direct/, 'spot');
 wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
@@ -1280,16 +1242,12 @@ anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
 prettyfast.to##+js(nowebrtc.js)
 prettyfast.to$webrtc,important
 
-sataniabatch.blogspot.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
 hdpornvideo.xxx#%#AG_abortOnPropertyRead('TrybbBlock');
 hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
 
 avcao.cc#%#AG_abortOnPropertyRead('myclick');
 avcao.cc##+js(abort-on-property-read.js, myclick)
 ||avcao.cc/js/p.js$domain=axjbt.com,script,important
-
-svapo.it#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-current-inline-script.js, jQuery, TestAdBlock)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-read.js, ExoLoader)
@@ -1302,8 +1260,6 @@ imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('i
 
 uploadrar.com#%#AG_abortInlineScript('bannerad', 'document.getElementById');
 uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
-
-mshare.io#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 mu2.mobi##+js(abort-on-property-read.js, marker)
 mu2.mobi#%#AG_abortOnPropertyRead('marker');
@@ -1324,12 +1280,8 @@ empflix.com#%#AG_abortOnPropertyWrite('popzone');
 gslink.*##+js(abort-current-inline-script.js, atob, TABUNDER)
 gslink.*#%#AG_abortInlineScript('TABUNDER', 'atob');
 
-vehicle-techno.cf#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
 worder.cat##+js(abort-on-property-write.js, ga)
 worder.cat#%#AG_abortOnPropertyWrite('ga');
-
-olympine.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 indishare.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 indishare.*##+js(abort-current-inline-script.js, decodeURI, atob)
@@ -1407,8 +1359,6 @@ movie-blog.to##+js(popads-dummy.js)
 movie-blog.to#%#//scriptlet("set-popads-dummy")
 movie-blog.to##+js(abort-on-property-read.js, popns)
 
-papalah.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
-
 @@||hdrezka.*/ads.js$script
 
 pornsexer.com##+js(abort-on-property-read.js, ExoLoader.serve)
@@ -1467,12 +1417,9 @@ t66y.com#%#AG_abortInlineScript('undefined', '$');
 
 mywrestling.com.pl##+js(abort-on-property-write.js, killAdBlock)
 mywrestling.com.pl#%#AG_abortOnPropertyWrite('killAdBlock');
-mywrestling.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 bdmbase.ru##+js(setTimeout-defuser.js, $, ins.adsbygoogle)
 bdmbase.ru#%#//scriptlet("prevent-setTimeout", "$", "ins.adsbygoogle")
-
-turkanime.tv#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 xhamster.desi#%#AG_abortOnPropertyRead('dataPopUnder');
 xhamster.desi##+js(abort-on-property-read.js, dataPopUnder)
@@ -1495,8 +1442,6 @@ di.se#%#AG_abortInlineScript('checkAdBlockEnabled');
 
 ||pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com
 ||pagead2.googlesyndication.com/pagead/show_ads.js$script,empty,domain=agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com
-
-androidaba.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 
 infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
 infotrendy.me#%#//scriptlet("prevent-addEventListener", "load", "2000")
