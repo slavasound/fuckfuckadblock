@@ -158,7 +158,7 @@ avgle.com##center > div > a[target="_blank"]
 @@||dpstream.*/pop.js$script
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
 @@||freeopenvpn.org/units/*$image
-@@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt
+@@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com
 @@||getfreebit.*/advertisement.js$script
 @@||hdrezka.*/ads.js$script
 @@||imgtown.net^$script,domain=imgtown.pw
