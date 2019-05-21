@@ -707,6 +707,7 @@ pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][
 @@||e7kelyana.com^$generichide
 @@||do2unlock.com^$generichide
 @@||roya.tv^$generichide
+@@||freefaucet.io^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,sataniabatch.blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -749,6 +750,7 @@ sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimb
 sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,bitcoinminingforex.blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#window.open=function(){};
 sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,bitcoinminingforex.blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*##+js(window.open-defuser.js)
 imgmaze.pw$popunder,third-party,important
+hotpornfile.org$popunder,important
 
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com##+js(abort-on-property-read.js, adBlockDetected)
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com#%#AG_abortOnPropertyRead('adBlockDetected');
@@ -822,8 +824,8 @@ diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFu
 hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to##+js(popads-dummy.js)
 hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to#%#//scriptlet("set-popads-dummy")
 
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com##+js(abort-on-property-read.js, ExoLoader)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com#%#AG_abortOnPropertyRead('ExoLoader');
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org##+js(abort-on-property-read.js, ExoLoader)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org#%#AG_abortOnPropertyRead('ExoLoader');
 
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com##+js(noeval.js)
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com#%#//scriptlet("noeval")
@@ -834,8 +836,8 @@ rapidvideo.com,otakustream.tv##+js(abort-current-inline-script.js, decodeURI, ge
 santacruzsentinel.com,bostonherald.com,reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 santacruzsentinel.com,bostonherald.com,reviewjournal.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
-streamporn.pw,pornsexer.com,avgle.com##+js(abort-on-property-read.js, ExoLoader.serve)
-streamporn.pw,pornsexer.com,avgle.com#%#AG_abortOnPropertyRead('ExoLoader.serve');
+streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org##+js(abort-on-property-read.js, ExoLoader.serve)
+streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org#%#AG_abortOnPropertyRead('ExoLoader.serve');
 
 elsfile.org,link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 elsfile.org,link-to.net#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
@@ -1372,4 +1374,21 @@ pasty.link#%#AG_abortOnPropertyRead('isAdBlockActive2');
 
 getinmac.com#%#AG_abortInlineScript(/,displayMessage:/, 'document.addEventListener');
 getinmac.com##+js(abort-current-inline-script.js, document.addEventListener, /,displayMessage:/)
+
+hotpornfile.org##+js(abort-current-inline-script.js, jQuery, perpage)
+hotpornfile.org##+js(abort-on-property-read.js, ExLdr.serve)
+hotpornfile.org##+js(abort-on-property-read.js, document.dispatchEvent)
+hotpornfile.org##+js(abort-on-property-write.js, getIfc)
+hotpornfile.org##+js(abort-on-property-write.js, overlay_as_script)
+hotpornfile.org##+js(abort-on-property-write.js, popns)
+hotpornfile.org##+js(addEventListener-defuser.js, DOMContentLoaded, tabUnder)
+hotpornfile.org##+js(addEventListener-defuser.js, getexoloader)
+hotpornfile.org#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "tabUnder")
+hotpornfile.org#%#//scriptlet("prevent-addEventListener", "getexoloader")
+hotpornfile.org#%#AG_abortInlineScript('perpage', 'jQuery');
+hotpornfile.org#%#AG_abortOnPropertyRead('ExLdr.serve');
+hotpornfile.org#%#AG_abortOnPropertyRead('document.dispatchEvent');
+hotpornfile.org#%#AG_abortOnPropertyWrite('getIfc');
+hotpornfile.org#%#AG_abortOnPropertyWrite('overlay_as_script');
+hotpornfile.org#%#AG_abortOnPropertyWrite('popns');
 
