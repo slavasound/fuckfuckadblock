@@ -152,6 +152,7 @@ getrelax.club,javfree.club#$##adisblock { display: none!important; }
 getrelax.club,javfree.club###main_content:style(display: block !important;)
 avgle.com##center > div > a[target="_blank"]
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
+full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
 
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 @@||all-episodes.tv/*/downretl.js$script,domain=all-episodes.tv
@@ -716,103 +717,103 @@ pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,sataniabatch.blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
-abouttech.*,bloggingdekh.*,agradarpan.com,getpocket.*,akl2day.com,anonyviet.com,bankomap.com.ua,baramjdown.com,beast-birds.com,al3amall.com,bit-url.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,click2see.*,farman.*,click2url.*,clik.*,cooltxtgen.com,cut7link.*,d-navi004.com,daily-sale.*,dunyanews.*,dutchycorp.space,earthpiclover.com,etube99.com,ez4link.org,file-up.*,flyurls.com,freecourseweb.com,freemcserver.net,galaxydestek.com,gametimers.it,gossipcorners.com,govtsmartjob.com,health-goood.com,imageoptimizer.*,jainjinvani.com,kpscthulasilogin.info,licklink.net,link-to.net,linkjust.com,linkrag.com,mrtekani.com,oko.sh,ourmagnet.*,partqb2i.com,payco.*,pcportal.org,pinkhindi.com,profitstudy.*,ps-insar.com,sciencelife.*,short.pe,shrinkearn.com,shrtfly.*,sivitechno.com,sk-ip.ru,stfly.*,stiffvip.com,talkittechy.com,techfinda.com,techjad.com,technoslek.com,templink.org,teqniaplus.com,teqnwy.com,tiny.*,tinylink.*,tl.tc,ultraskora.com,urlsamo.com,utimetableresult.*,v6download.com,vinaurl.in,vinaurl.net,virtualdata.*,wishes2.com,linkwea.com,tmearn.com,healthfary.com,uiz.io,shortzon.com,file-up.*,file-upload.*,upfiles.*,freeopenvpn.org,cutpaid.com,kooramubashir.com,hindibeen.com,aristoderas.com,cu5.io,pastekan.com,livenewsbuzz.com,e7kelyana.com##.adsbygoogle
+abouttech.*,bloggingdekh.*,agradarpan.com,getpocket.*,akl2day.com,anonyviet.com,bankomap.com.ua,baramjdown.com,beast-birds.com,al3amall.com,bit-url.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,click2see.*,farman.*,click2url.*,clik.*,cooltxtgen.com,cut7link.*,d-navi004.com,daily-sale.*,dunyanews.*,dutchycorp.space,earthpiclover.com,etube99.com,ez4link.org,file-up.*,flyurls.com,freecourseweb.com,freemcserver.net,galaxydestek.com,gametimers.it,gossipcorners.com,govtsmartjob.com,health-goood.com,imageoptimizer.*,jainjinvani.com,kpscthulasilogin.info,licklink.net,link-to.net,linkjust.com,linkrag.com,mrtekani.com,oko.sh,ourmagnet.*,partqb2i.com,payco.*,pcportal.org,pinkhindi.com,profitstudy.*,ps-insar.com,sciencelife.*,short.pe,shrinkearn.com,shrtfly.*,sivitechno.com,sk-ip.ru,stfly.*,stiffvip.com,talkittechy.com,techfinda.com,techjad.com,technoslek.com,templink.org,teqniaplus.com,teqnwy.com,tiny.*,tinylink.*,tl.tc,ultraskora.com,urlsamo.com,utimetableresult.*,v6download.com,vinaurl.in,vinaurl.net,virtualdata.*,wishes2.com,linkwea.com,tmearn.com,healthfary.com,uiz.io,shortzon.com,file-up.*,file-upload.*,upfiles.*,freeopenvpn.org,cutpaid.com,kooramubashir.com,hindibeen.com,aristoderas.com,cu5.io,pastekan.com,livenewsbuzz.com,e7kelyana.com,freefaucet.io##.adsbygoogle
 
 1excelbet365.com,apteka.ua,blogkafem.net,darckrepacks.com,despistaos.es,gidoroom.ru,sosiali.com,windowcleaningforums.co.uk,xiaomifans.pl,megane.com.pl#@#.adsbygoogle
 
 mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,filebebo.net,ttsmp3.com,tamiltunes.*,gametimers.it,informazionefiscale.it,mrtekani.com,agradarpan.com,getpocket.*,lamitadmas1.net,profitstudy.*,software-on.com,pokexgames-tutoriais.*,linkdrop.net,daily-sale.*,dtgaming.*,rule34hentai.net,javadecompilers.com,frendz4m.com,vsthouse.ru,tutoriaux-excalibur.com,ftuforum.com,masker-lab.com.tw,colorspire.com,abouttech.*,bloggingdekh.*,slink.bid,arenavision.*,startseite.to,freemcserver.net,satoshilabs.net,payco.*,clik.*,rangdhanu.live,watchtheoffice.online,socientifica.com.br,pipocas.tv,porndish.com,venipa.net,file-up.*,file-upload.*,upfiles.*,akoam.*,linnk.info,uploadedpremiumlink.*,linkshrter.com,c4free.win,macbed.com,adsviv.com,watchhowimetyourmother.online,freecourseweb.com,akl2day.com,linkjust.com,desirecourse.net,nfhost.me,annuaire-ebook.com,rmdan.*,tionghoa.info,webtvhd.com,talkittechy.com,teqnwy.com,gradown.com,siberyazilimci.net,techfinda.com,jakimasklad.pl,ioscreator.com,jainjinvani.com,technoslek.com,itopmusic.com,fcportables.com,allacronyms.com,webgate.tn,javsubtitle.*,slink.bid,dl-protect1.com,anitube.cz,ramdan.tv,csm.dev,uploadrar.com,autoride.pw,goldenmangas.online,sarapbeh.com,olympine.com,sivitechno.com,coinkurier.de,nmac.to,onlinevideoconverter.com,skiehacker.weebly.com,skycloud-exploit.weebly.com,link-to.net,nonsensediamond.online,healthykk.com,replaytvstreaming.com,ps-insar.com,manyak.info,piktag.net,business-mortgage.*,zoey-deutch.us,leporno.org,androidaba.com,animes-mangas-ddl.com,automobile-catalog.com,best-movies.info,blackmod.net,bnonews.com,crazymeds.us,davinsurance.com,freetimelearning.com,futeboltv.com,geekgiant.in,hulkusc.com,ip-address.org,justnerd.it,lustich.de,macappdownload.com,chloe-lukasiak.net,daddariofan.net,galleryaloud.com,jade-pettyjohn.com,jamesfranconetwork.net,danstevensbrasil.com,depplovers.com.br,jon-bernthal.com,jude-law.net,lizzieolsen.us,lucyhaledaily.us,wentworth-miller.org,hilarie-burton.org,iansomerhalderfan.com,liamhemsworth.org,michael-french.net,mileyupdateuk.com,viggo-mortensen.com,ajlee.org,beckylynchsource.com,believe-in-rollins.com,billiekay.com,drew-mcintyre.com,emma-stone.us,mandy-rose.com,mia-yim.com,niajax.com,trishstratus.com,olesyarulin.net,granmetaliksource.com,barbieblanksource.com,inourharts.com,landycannononline.com,trinity-fatu.net,hailee-steinfeld.com,miriammcdonald.org,tom-hiddleston.org,bailee-madison.org,aj-styles.net,fan.pw,lincedorado.com,mandyrose.org,rey-mysterio.net,violett-beane.com,paulalacroixbrasil.com,harrypotterweb.com,zoe-kravitz.com,lanaparrillabrasil.com,michelle-trachtenberg.net,sweetchin.com,maisiewilliams.org,ariana-grande.org,marion-cotillard.org,bella-twins.com,dlovatosource.net,gia-mantegna.com,elizabeth-olsen.org,jakegyllenhaal.org,chelseagreen.org,jamie-chung.com,tessa-blanchard.com,troianbellisario.org,odette-annable.net,eddie-redmayne.net,dylan-sprayberry.com,maggiegracefrance.net,123movies.*,jameelajamil.tk,jessicachastain.tk,healthfary.com,uiz.io,shortzon.com##+js(bab-defuser.js)
-mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,filebebo.net,ttsmp3.com,tamiltunes.*,gametimers.it,informazionefiscale.it,mrtekani.com,agradarpan.com,getpocket.*,lamitadmas1.net,profitstudy.*,software-on.com,pokexgames-tutoriais.*,linkdrop.net,daily-sale.*,dtgaming.*,rule34hentai.net,javadecompilers.com,frendz4m.com,vsthouse.ru,tutoriaux-excalibur.com,ftuforum.com,masker-lab.com.tw,colorspire.com,abouttech.*,bloggingdekh.*,slink.bid,arenavision.*,startseite.to,freemcserver.net,satoshilabs.net,payco.*,clik.*,rangdhanu.live,watchtheoffice.online,socientifica.com.br,pipocas.tv,porndish.com,venipa.net,file-up.*,file-upload.*,upfiles.*,akoam.*,linnk.info,uploadedpremiumlink.*,linkshrter.com,c4free.win,macbed.com,adsviv.com,watchhowimetyourmother.online,freecourseweb.com,akl2day.com,linkjust.com,desirecourse.net,nfhost.me,annuaire-ebook.com,rmdan.*,tionghoa.info,webtvhd.com,talkittechy.com,teqnwy.com,gradown.com,siberyazilimci.net,techfinda.com,jakimasklad.pl,ioscreator.com,jainjinvani.com,technoslek.com,itopmusic.com,fcportables.com,allacronyms.com,webgate.tn,javsubtitle.*,slink.bid,dl-protect1.com,anitube.cz,ramdan.tv,csm.dev,uploadrar.com,autoride.pw,goldenmangas.online,sarapbeh.com,olympine.com,sivitechno.com,coinkurier.de,nmac.to,onlinevideoconverter.com,skiehacker.weebly.com,skycloud-exploit.weebly.com,link-to.net,nonsensediamond.online,healthykk.com,replaytvstreaming.com,ps-insar.com,manyak.info,piktag.net,business-mortgage.*,zoey-deutch.us,leporno.org,androidaba.com,animes-mangas-ddl.com,automobile-catalog.com,best-movies.info,blackmod.net,bnonews.com,crazymeds.us,davinsurance.com,freetimelearning.com,futeboltv.com,geekgiant.in,hulkusc.com,ip-address.org,justnerd.it,lustich.de,macappdownload.com,chloe-lukasiak.net,daddariofan.net,galleryaloud.com,jade-pettyjohn.com,jamesfranconetwork.net,danstevensbrasil.com,depplovers.com.br,jon-bernthal.com,jude-law.net,lizzieolsen.us,lucyhaledaily.us,wentworth-miller.org,hilarie-burton.org,iansomerhalderfan.com,liamhemsworth.org,michael-french.net,mileyupdateuk.com,viggo-mortensen.com,ajlee.org,beckylynchsource.com,believe-in-rollins.com,billiekay.com,drew-mcintyre.com,emma-stone.us,mandy-rose.com,mia-yim.com,niajax.com,trishstratus.com,olesyarulin.net,granmetaliksource.com,barbieblanksource.com,inourharts.com,landycannononline.com,trinity-fatu.net,hailee-steinfeld.com,miriammcdonald.org,tom-hiddleston.org,bailee-madison.org,aj-styles.net,fan.pw,lincedorado.com,mandyrose.org,rey-mysterio.net,violett-beane.com,paulalacroixbrasil.com,harrypotterweb.com,zoe-kravitz.com,lanaparrillabrasil.com,michelle-trachtenberg.net,sweetchin.com,maisiewilliams.org,ariana-grande.org,marion-cotillard.org,bella-twins.com,dlovatosource.net,gia-mantegna.com,elizabeth-olsen.org,jakegyllenhaal.org,chelseagreen.org,jamie-chung.com,tessa-blanchard.com,troianbellisario.org,odette-annable.net,eddie-redmayne.net,dylan-sprayberry.com,maggiegracefrance.net,123movies.*,jameelajamil.tk,jessicachastain.tk,healthfary.com,uiz.io,shortzon.com#%#(function() { var sto = window.setTimeout, re = /\.bab_elementid.$/; window.setTimeout = function(a, b) { if ( typeof a !== 'string' || !re.test(a) ) { return sto(a, b); } }.bind(window); var signatures = [ ['blockadblock'], ['babasbm'], [/getItem\('babn'\)/], ['getElementById','String.fromCharCode','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','charAt','DOMContentLoaded','AdBlock','addEventListener','doScroll','fromCharCode','<<2|r>>4','sessionStorage','clientWidth','localStorage','Math','random'] ]; var check = function(s) { var tokens, match, j, token, pos; for ( var i = 0; i < signatures.length; i++ ) { tokens = signatures[i]; match = 0; for ( j = 0, pos = 0; j < tokens.length; j++ ) { token = tokens[j]; pos = token instanceof RegExp ? s.search(token) : s.indexOf(token); if ( pos !== -1 ) { match += 1; } } if ( (match / tokens.length) >= 0.8 ) { return true; } } return false; }; var realEval = window.eval; window.eval = function(a) { if ( !check(a) ) { return realEval(a); } var el = document.body; if ( el ) { el.style.removeProperty('visibility'); } el = document.getElementById('babasbmsgx'); if ( el ) { el.parentNode.removeChild(el); } }.bind(window); })();
+mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,filebebo.net,ttsmp3.com,tamiltunes.*,gametimers.it,informazionefiscale.it,mrtekani.com,agradarpan.com,getpocket.*,lamitadmas1.net,profitstudy.*,software-on.com,pokexgames-tutoriais.*,linkdrop.net,daily-sale.*,dtgaming.*,rule34hentai.net,javadecompilers.com,frendz4m.com,vsthouse.ru,tutoriaux-excalibur.com,ftuforum.com,masker-lab.com.tw,colorspire.com,abouttech.*,bloggingdekh.*,slink.bid,arenavision.*,startseite.to,freemcserver.net,satoshilabs.net,payco.*,clik.*,rangdhanu.live,watchtheoffice.online,socientifica.com.br,pipocas.tv,porndish.com,venipa.net,file-up.*,file-upload.*,upfiles.*,akoam.*,linnk.info,uploadedpremiumlink.*,linkshrter.com,c4free.win,macbed.com,adsviv.com,watchhowimetyourmother.online,freecourseweb.com,akl2day.com,linkjust.com,desirecourse.net,nfhost.me,annuaire-ebook.com,rmdan.*,tionghoa.info,webtvhd.com,talkittechy.com,teqnwy.com,gradown.com,siberyazilimci.net,techfinda.com,jakimasklad.pl,ioscreator.com,jainjinvani.com,technoslek.com,itopmusic.com,fcportables.com,allacronyms.com,webgate.tn,javsubtitle.*,slink.bid,dl-protect1.com,anitube.cz,ramdan.tv,csm.dev,uploadrar.com,autoride.pw,goldenmangas.online,sarapbeh.com,olympine.com,sivitechno.com,coinkurier.de,nmac.to,onlinevideoconverter.com,skiehacker.weebly.com,skycloud-exploit.weebly.com,link-to.net,nonsensediamond.online,healthykk.com,replaytvstreaming.com,ps-insar.com,manyak.info,piktag.net,business-mortgage.*,zoey-deutch.us,leporno.org,androidaba.com,animes-mangas-ddl.com,automobile-catalog.com,best-movies.info,blackmod.net,bnonews.com,crazymeds.us,davinsurance.com,freetimelearning.com,futeboltv.com,geekgiant.in,hulkusc.com,ip-address.org,justnerd.it,lustich.de,macappdownload.com,chloe-lukasiak.net,daddariofan.net,galleryaloud.com,jade-pettyjohn.com,jamesfranconetwork.net,danstevensbrasil.com,depplovers.com.br,jon-bernthal.com,jude-law.net,lizzieolsen.us,lucyhaledaily.us,wentworth-miller.org,hilarie-burton.org,iansomerhalderfan.com,liamhemsworth.org,michael-french.net,mileyupdateuk.com,viggo-mortensen.com,ajlee.org,beckylynchsource.com,believe-in-rollins.com,billiekay.com,drew-mcintyre.com,emma-stone.us,mandy-rose.com,mia-yim.com,niajax.com,trishstratus.com,olesyarulin.net,granmetaliksource.com,barbieblanksource.com,inourharts.com,landycannononline.com,trinity-fatu.net,hailee-steinfeld.com,miriammcdonald.org,tom-hiddleston.org,bailee-madison.org,aj-styles.net,fan.pw,lincedorado.com,mandyrose.org,rey-mysterio.net,violett-beane.com,paulalacroixbrasil.com,harrypotterweb.com,zoe-kravitz.com,lanaparrillabrasil.com,michelle-trachtenberg.net,sweetchin.com,maisiewilliams.org,ariana-grande.org,marion-cotillard.org,bella-twins.com,dlovatosource.net,gia-mantegna.com,elizabeth-olsen.org,jakegyllenhaal.org,chelseagreen.org,jamie-chung.com,tessa-blanchard.com,troianbellisario.org,odette-annable.net,eddie-redmayne.net,dylan-sprayberry.com,maggiegracefrance.net,123movies.*,jameelajamil.tk,jessicachastain.tk,healthfary.com,uiz.io,shortzon.com#%#//scriptlet("prevent-bab")
 
 tajemnice-swiata.pl,dutchycorp.space,utimetableresult.*,replica-watch.info,thuthuatjb.com,topspeed.sk,huynhhieu.com,phys-kids.com,bankomap.com.ua,svapo.it,papalah.com,vehicle-techno.cf,dist-tutor.info,bitcoinminingforex.blogspot.com,papalah.com,damnripped.com,surfsees.com,safelinkreviewx.com,kriminalukraine.com.ua,apasih.pw,123link.*,turkanime.tv,androidaba.com,dpstream.*##+js(fuckadblock.js-3.2.0)
-tajemnice-swiata.pl,dutchycorp.space,utimetableresult.*,replica-watch.info,thuthuatjb.com,topspeed.sk,huynhhieu.com,phys-kids.com,bankomap.com.ua,svapo.it,papalah.com,vehicle-techno.cf,dist-tutor.info,bitcoinminingforex.blogspot.com,papalah.com,damnripped.com,surfsees.com,safelinkreviewx.com,kriminalukraine.com.ua,apasih.pw,123link.*,turkanime.tv,androidaba.com,dpstream.*#%#(function(){var noopfn=function(){};var Fab=function(){};Fab.prototype.check=noopfn;Fab.prototype.clearEvent=noopfn;Fab.prototype.emitEvent=noopfn;Fab.prototype.on=function(a,b){if(!a){b()}return this};Fab.prototype.onDetected=function(){return this};Fab.prototype.onNotDetected=function(a){a();return this};Fab.prototype.setOption=noopfn;var fab=new Fab(),getSetFab={get:function(){return Fab},set:function(){}},getsetfab={get:function(){return fab},set:function(){}};if(window.hasOwnProperty('FuckAdBlock')){window.FuckAdBlock=Fab}else{Object.defineProperty(window,'FuckAdBlock',getSetFab)}if(window.hasOwnProperty('BlockAdBlock')){window.BlockAdBlock=Fab}else{Object.defineProperty(window,'BlockAdBlock',getSetFab)}if(window.hasOwnProperty('SniffAdBlock')){window.SniffAdBlock=Fab}else{Object.defineProperty(window,'SniffAdBlock',getSetFab)}if(window.hasOwnProperty('fuckAdBlock')){window.fuckAdBlock=fab}else{Object.defineProperty(window,'fuckAdBlock',getsetfab)}if(window.hasOwnProperty('blockAdBlock')){window.blockAdBlock=fab}else{Object.defineProperty(window,'blockAdBlock',getsetfab)}if(window.hasOwnProperty('sniffAdBlock')){window.sniffAdBlock=fab}else{Object.defineProperty(window,'sniffAdBlock',getsetfab)}Object.defineProperty(window,'adBlockDetected',getsetfab)})();
+tajemnice-swiata.pl,dutchycorp.space,utimetableresult.*,replica-watch.info,thuthuatjb.com,topspeed.sk,huynhhieu.com,phys-kids.com,bankomap.com.ua,svapo.it,papalah.com,vehicle-techno.cf,dist-tutor.info,bitcoinminingforex.blogspot.com,papalah.com,damnripped.com,surfsees.com,safelinkreviewx.com,kriminalukraine.com.ua,apasih.pw,123link.*,turkanime.tv,androidaba.com,dpstream.*#%#//scriptlet("prevent-fab-3.2.0")
 
-sciencelife.*,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,earthpiclover.com,licklink.net,pinkhindi.com,cooltxtgen.com,wishes2.com,click2url.*,shrtfly.*,vinaurl.net,tinylink.*,kpscthulasilogin.info,partqb2i.com,imageoptimizer.*,oko.sh,clik.*,tiny.*,sk-ip.ru,urlsamo.com,ourmagnet.*,techjad.com,dutchycorp.space,click2see.*,farman.*,payco.*,cut7link.*,tl.tc,stiffvip.com,abouttech.*,bloggingdekh.*,linkrag.com,dunyanews.*,utimetableresult.*,flyurls.com,daily-sale.*,govtsmartjob.com,teqniaplus.com,profitstudy.*,agradarpan.com,getpocket.*,gossipcorners.com,mrtekani.com,technoslek.com,jainjinvani.com,shrinkearn.com,teqnwy.com,talkittechy.com,vinaurl.in,akl2day.com,linkjust.com,short.pe,beast-birds.com,al3amall.com,ez4link.org,linkshrter.com,fc.lc,akuno.net,akla4.com,larkgroup.net,foodpuff.com,linksop.com,lkop.me,bit-url.com,stfly.*,sivitechno.com,ourl.io,tmearn.*,etube99.com,encurta.net,templink.org,virtualdata.*,shortbit.co,abtakar.com,dragon-url.com,queenfaucet.website,v6download.com,ps-insar.com,health-goood.com,linkszone.*,123link.*,ultraskora.com,linkwea.com,tmearn.com,clk.*,healthfary.com,uiz.io,shortzon.com,powerclicks.*,cutpaid.com,ommantrameditation.com,techsyou.com,kooramubashir.com,hindibeen.com,aristoderas.com,cu5.io,pastekan.com,livenewsbuzz.com,e7kelyana.com#%#AG_abortOnPropertyRead('app_vars.force_disable_adblock');
+sciencelife.*,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,earthpiclover.com,licklink.net,pinkhindi.com,cooltxtgen.com,wishes2.com,click2url.*,shrtfly.*,vinaurl.net,tinylink.*,kpscthulasilogin.info,partqb2i.com,imageoptimizer.*,oko.sh,clik.*,tiny.*,sk-ip.ru,urlsamo.com,ourmagnet.*,techjad.com,dutchycorp.space,click2see.*,farman.*,payco.*,cut7link.*,tl.tc,stiffvip.com,abouttech.*,bloggingdekh.*,linkrag.com,dunyanews.*,utimetableresult.*,flyurls.com,daily-sale.*,govtsmartjob.com,teqniaplus.com,profitstudy.*,agradarpan.com,getpocket.*,gossipcorners.com,mrtekani.com,technoslek.com,jainjinvani.com,shrinkearn.com,teqnwy.com,talkittechy.com,vinaurl.in,akl2day.com,linkjust.com,short.pe,beast-birds.com,al3amall.com,ez4link.org,linkshrter.com,fc.lc,akuno.net,akla4.com,larkgroup.net,foodpuff.com,linksop.com,lkop.me,bit-url.com,stfly.*,sivitechno.com,ourl.io,tmearn.*,etube99.com,encurta.net,templink.org,virtualdata.*,shortbit.co,abtakar.com,dragon-url.com,queenfaucet.website,v6download.com,ps-insar.com,health-goood.com,linkszone.*,123link.*,ultraskora.com,linkwea.com,tmearn.com,clk.*,healthfary.com,uiz.io,shortzon.com,powerclicks.*,cutpaid.com,ommantrameditation.com,techsyou.com,kooramubashir.com,hindibeen.com,aristoderas.com,cu5.io,pastekan.com,livenewsbuzz.com,e7kelyana.com#%#//scriptlet("abort-on-property-read", "app_vars.force_disable_adblock")
 sciencelife.*,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,earthpiclover.com,licklink.net,pinkhindi.com,cooltxtgen.com,wishes2.com,click2url.*,shrtfly.*,vinaurl.net,tinylink.*,kpscthulasilogin.info,partqb2i.com,imageoptimizer.*,oko.sh,clik.*,tiny.*,sk-ip.ru,urlsamo.com,ourmagnet.*,techjad.com,dutchycorp.space,click2see.*,farman.*,payco.*,cut7link.*,tl.tc,stiffvip.com,abouttech.*,bloggingdekh.*,linkrag.com,dunyanews.*,utimetableresult.*,flyurls.com,daily-sale.*,govtsmartjob.com,teqniaplus.com,profitstudy.*,agradarpan.com,getpocket.*,gossipcorners.com,mrtekani.com,technoslek.com,jainjinvani.com,shrinkearn.com,teqnwy.com,talkittechy.com,vinaurl.in,akl2day.com,linkjust.com,short.pe,beast-birds.com,al3amall.com,ez4link.org,linkshrter.com,fc.lc,akuno.net,akla4.com,larkgroup.net,foodpuff.com,linksop.com,lkop.me,bit-url.com,stfly.*,sivitechno.com,ourl.io,tmearn.*,etube99.com,encurta.net,templink.org,virtualdata.*,shortbit.co,abtakar.com,dragon-url.com,queenfaucet.website,v6download.com,ps-insar.com,health-goood.com,linkszone.*,123link.*,ultraskora.com,linkwea.com,tmearn.com,clk.*,healthfary.com,uiz.io,shortzon.com,powerclicks.*,cutpaid.com,ommantrameditation.com,techsyou.com,kooramubashir.com,hindibeen.com,aristoderas.com,cu5.io,pastekan.com,livenewsbuzz.com,e7kelyana.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 pornolenta.*,jumpboobs.*,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com,pornozima.com,hotfiesta.tv,pornorussia.tv,erkiss.live,porno-chiks.com,sveta.tv,tytporno.online,erovideos.*,pornokrik.com,ebun.me,orgasmhdtube.net,eroxxvideos.tv,pornodiesel.biz,uhtube.cc,uzbum.ru##+js(abort-on-property-read.js, encodeURIComponent)
-pornolenta.*,jumpboobs.*,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com,pornozima.com,hotfiesta.tv,pornorussia.tv,erkiss.live,porno-chiks.com,sveta.tv,tytporno.online,erovideos.*,pornokrik.com,ebun.me,orgasmhdtube.net,eroxxvideos.tv,pornodiesel.biz,uhtube.cc,uzbum.ru#%#AG_abortOnPropertyRead('encodeURIComponent');
+pornolenta.*,jumpboobs.*,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com,pornozima.com,hotfiesta.tv,pornorussia.tv,erkiss.live,porno-chiks.com,sveta.tv,tytporno.online,erovideos.*,pornokrik.com,ebun.me,orgasmhdtube.net,eroxxvideos.tv,pornodiesel.biz,uhtube.cc,uzbum.ru#%#//scriptlet("abort-on-property-read", "encodeURIComponent")
 
 kinostate.net,pornk.name##+js(abort-current-inline-script.js, encodeURIComponent)
-kinostate.net,pornk.name#%#AG_abortInlineScript('encodeURIComponent');
+kinostate.net,pornk.name#%#//scriptlet("abort-current-inline-script", "encodeURIComponent")
 
 thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru##+js(abort-on-property-read.js, anOptions)
-thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru#%#AG_abortOnPropertyRead('anOptions');
+thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru#%#//scriptlet("abort-on-property-read", "anOptions")
 
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com#%#AG_abortOnPropertyRead('HTMLCanvasElement');
+wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com#%#//scriptlet("abort-on-property-read", "HTMLCanvasElement")
 
 mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com##+js(abort-on-property-write.js, adBlockDetected)
-mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com#%#AG_abortOnPropertyWrite('adBlockDetected');
+mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com#%#//scriptlet("abort-on-property-write", "adBlockDetected")
 
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,getlec.blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,getlec.blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*#%#AG_abortInlineScript('decodeURIComponent', 'atob');
+openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,getlec.blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*#%#//scriptlet("abort-current-inline-script", "atob", "decodeURIComponent")
 
 tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com#%#AG_abortInlineScript('decodeURIComponent', 'decodeURI');
+tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
 
+/^https?:\/\/(www\.)?dizimag([0-9]{1})\./$popup,third-party,important
+hotpornfile.org$popunder,important
+imgmaze.pw$popunder,third-party,important
+sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,bitcoinminingforex.blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*##+js(window.open-defuser.js)
 sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,bitcoinminingforex.blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("prevent-window-open")
 sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,bitcoinminingforex.blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*$popup,third-party,important
-sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,bitcoinminingforex.blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#window.open=function(){};
-sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,bitcoinminingforex.blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*##+js(window.open-defuser.js)
-imgmaze.pw$popunder,third-party,important
-hotpornfile.org$popunder,important
 
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com##+js(abort-on-property-read.js, adBlockDetected)
-xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com#%#AG_abortOnPropertyRead('adBlockDetected');
+xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 
 speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online##+js(abort-on-property-write.js, _pop)
-speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online#%#AG_abortOnPropertyWrite('_pop');
+speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online#%#//scriptlet("abort-on-property-write", "_pop")
 
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*##+js(abort-on-property-read.js, AaDetector)
-speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*#%#AG_abortOnPropertyRead('AaDetector');
+speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*#%#//scriptlet("abort-on-property-read", "AaDetector")
 
 file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com##+js(abort-current-inline-script.js, Math, zfgloaded)
-file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com#%#AG_abortInlineScript('zfgloaded', 'Math');
+file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com#%#//scriptlet("abort-current-inline-script", "Math", "zfgloaded")
 
 ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*,imgdew.*,imgmaze.*,imgoutlet.*,imgtown.*,imgview.*##+js(abort-on-property-write.js, Fingerprint2)
-ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*,imgdew.*,imgmaze.*,imgoutlet.*,imgtown.*,imgview.*#%#AG_abortOnPropertyWrite('Fingerprint2');
+ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*,imgdew.*,imgmaze.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-write", "Fingerprint2")
 
 convert2mp3.net,vidlox.*,indishare.*##+js(abort-on-property-read.js, decodeURIComponent)
-convert2mp3.net,vidlox.*,indishare.*#%#AG_abortOnPropertyRead('decodeURIComponent');
+convert2mp3.net,vidlox.*,indishare.*#%#//scriptlet("abort-on-property-read", "decodeURIComponent")
 
-openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com#%#AG_abortOnPropertyRead('open');
 openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com##+js(abort-on-property-read.js, open)
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com#%#//scriptlet("abort-on-property-read", "open")
 
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,talkshowyoutube.blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com##+js(addEventListener-defuser.js, load, onload)
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,talkshowyoutube.blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
 
 netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eveningtimes.co.uk,warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
-netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eveningtimes.co.uk,warringtonguardian.co.uk#%#AG_abortOnPropertyWrite('_sp_');
+netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eveningtimes.co.uk,warringtonguardian.co.uk#%#//scriptlet("abort-on-property-write", "_sp_")
 
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com##+js(addEventListener-defuser.js, click, trigger)
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 
 businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com##+js(abort-on-property-read.js, stop)
-businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com#%#AG_abortOnPropertyRead('stop');
+businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com#%#//scriptlet("abort-on-property-read", "stop")
 
 bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.co.uk,ft.com,cnet.com,pcgamer.com,sueddeutsche.de##+js(abort-on-property-read.js, _sp_._networkListenerData)
-bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.co.uk,ft.com,cnet.com,pcgamer.com,sueddeutsche.de#%#AG_abortOnPropertyRead('_sp_._networkListenerData');
+bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.co.uk,ft.com,cnet.com,pcgamer.com,sueddeutsche.de#%#//scriptlet("abort-on-property-read", "_sp_._networkListenerData")
 
 file-up.*,file-upload.*,upfiles.*,freeupload.*,fstore.*,uploadfree.*,hopto.org##+js(abort-current-inline-script.js, document.getElementById, undefined)
-file-up.*,file-upload.*,upfiles.*,freeupload.*,fstore.*,uploadfree.*,hopto.org#%#AG_abortInlineScript('undefined', 'document.getElementById');
+file-up.*,file-upload.*,upfiles.*,freeupload.*,fstore.*,uploadfree.*,hopto.org#%#//scriptlet("abort-current-inline-script", "document.getElementById", "undefined")
 
 dropupload.com,2speed.net,uploadship.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
-dropupload.com,2speed.net,uploadship.com#%#AG_abortInlineScript('adblockinfo', 'document.getElementById');
+dropupload.com,2speed.net,uploadship.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adblockinfo")
 
 leakforums.*,verystream.com##+js(abort-on-property-read.js, adblock)
-leakforums.*,verystream.com#%#AG_abortOnPropertyRead('adblock');
+leakforums.*,verystream.com#%#//scriptlet("abort-on-property-read", "adblock")
 
 berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com##+js(abort-on-property-write.js, KillAdBlock)
-berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com#%#AG_abortOnPropertyWrite('KillAdBlock');
+berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com#%#//scriptlet("abort-on-property-write", "KillAdBlock")
 
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site#%#//scriptlet("set-constant", "adBlockDetected", "noopFunc")
 
 getrelax.club,javfree.club##+js(abort-current-inline-script.js, document.getElementById, adisblock)
-getrelax.club,javfree.club#%#AG_abortInlineScript('adisblock', 'document.getElementById');
+getrelax.club,javfree.club#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adisblock")
 
 streamcherry.com,streamango.com,vivatube.com,vev.io##+js(abort-on-property-read.js, BetterJsPop)
-streamcherry.com,streamango.com,vivatube.com,vev.io#%#AG_abortOnPropertyRead('BetterJsPop');
+streamcherry.com,streamango.com,vivatube.com,vev.io#%#//scriptlet("abort-on-property-read", "BetterJsPop")
 
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*$webrtc,important
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*##+js(nowebrtc.js)
@@ -830,36 +831,65 @@ hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to##+js(popads-dummy.js)
 hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to#%#//scriptlet("set-popads-dummy")
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org##+js(abort-on-property-read.js, ExoLoader)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org#%#AG_abortOnPropertyRead('ExoLoader');
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org#%#//scriptlet("abort-on-property-read", "ExoLoader")
 
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com##+js(noeval.js)
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com#%#//scriptlet("noeval")
 
-rapidvideo.com,otakustream.tv#%#AG_abortInlineScript('getScriptFromCss', 'decodeURI');
+rapidvideo.com,otakustream.tv#%#//scriptlet("abort-current-inline-script", "decodeURI", "getScriptFromCss")
 rapidvideo.com,otakustream.tv##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 
 santacruzsentinel.com,bostonherald.com,reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 santacruzsentinel.com,bostonherald.com,reviewjournal.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
 streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org##+js(abort-on-property-read.js, ExoLoader.serve)
-streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org#%#AG_abortOnPropertyRead('ExoLoader.serve');
+streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org#%#//scriptlet("abort-on-property-read", "ExoLoader.serve")
 
 elsfile.org,link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 elsfile.org,link-to.net#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
 
 hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*##+js(abort-on-property-write.js, smrtSB)
-hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*#%#AG_abortOnPropertyWrite('smrtSB');
+hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*#%#//scriptlet("abort-on-property-write", "smrtSB")
 
 anonyviet.com,yesmovies.*,hdstreams.*##+js(abort-on-property-read.js, Date.prototype.toUTCString)
-anonyviet.com,yesmovies.*,hdstreams.*#%#AG_abortOnPropertyRead('Date.prototype.toUTCString');
+anonyviet.com,yesmovies.*,hdstreams.*#%#//scriptlet("abort-on-property-read", "Date.prototype.toUTCString")
 
-javplay.me,sembunyi.in,hdstreams.*#%#AG_abortOnPropertyRead('popjs');
+javplay.me,sembunyi.in,hdstreams.*#%#//scriptlet("abort-on-property-read", "popjs")
 javplay.me,sembunyi.in,hdstreams.*##+js(abort-on-property-read.js, popjs)
 
 popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com##+js(abort-on-property-read.js, CatapultTools)
-popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#AG_abortOnPropertyRead('CatapultTools');
+popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#//scriptlet("abort-on-property-read", "CatapultTools")
 
-/^https?:\/\/(www\.)?dizimag([0-9]{1})\./$popup,third-party,important
+linkberuang.*,njiir.com##+js(set-constant.js, safelink.adblock, false)
+linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
+
+indishare.*,uppom.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
+indishare.*,uppom.*#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
+
+movies1234.net,123moviesgot.com##+js(abort-on-property-read.js, zfgloadednative)
+movies1234.net,123moviesgot.com#%#//scriptlet("abort-on-property-read", "zfgloadednative")
+
+ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com##+js(abort-current-inline-script.js, parseInt, tabunder)
+ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
+
+ceesty.com,gestyy.com##+js(set-constant.js, adsBlockerDetector, noopFunc)
+ceesty.com,gestyy.com#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
+
+menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
+menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
+
+hdvid.*,leporno.org##+js(abort-current-inline-script.js, atob, tabunder)
+hdvid.*,leporno.org#%#AG_abortInlineScript('tabunder', 'atob');
+
+studopedia.com.ua,lektsii.org##+js(abort-current-inline-script.js, detectAdblk)
+studopedia.com.ua,lektsii.org#%#AG_abortInlineScript('detectAdblk');
+
+imgdew.*,imgoutlet.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, CustomEvent)
+imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "CustomEvent")
+
+imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader.addZone)
+imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
+
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
 |http://$third-party,script,domain=linkdrop.net
@@ -914,7 +944,7 @@ popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#AG_abortOnPro
 @@*/adframe.js$script,domain=kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net|extremereportbot.com
 @@*/adjs.js$domain=atresplayer.com,script
 @@*/ads-*.js$script,domain=duellinksmeta.com
-@@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com|extremereportbot.com|mshare.io|androidplanet.nl|khl.ru|0rechner.de|webcamera.pl
+@@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com|extremereportbot.com|mshare.io|androidplanet.nl|khl.ru|0rechner.de|webcamera.pl|ratemyteachers.com
 @@*/ads.min.js$script,domain=certifychat.com|australianfrequentflyer.com.au|reactiongaming.us|verifyemailaddress.io|thehindu.com
 @@*/ads_*.js$script,xmlhttprequest,domain=watch32hd.org
 @@*/adsbygoogle.js$script,domain=embed.kijk.nl|won.pe|duellinksmeta.com|mediaite.com|spinbot.com
@@ -941,7 +971,8 @@ popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#AG_abortOnPro
 
 *$script,third-party,domain=igg-games.com,important
 *$script,third-party,domain=shtlink.co|shtme.co
-*$third-party,xmlhttprequest,domain=userscloud.com
+*$xmlhttprequest,third-party,domain=userscloud.com
+
 */*.php$important,script,domain=youx.xxx
 */adb.js$script,domain=allnorilsk.ru
 */adblk-v2.js$script,domain=di.se
@@ -961,10 +992,9 @@ popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#AG_abortOnPro
 
 openload.*,oload.*,oladblock.*##+js(abort-current-inline-script.js, adblock, adblock2)
 openload.*,oload.*,oladblock.*##+js(set-constant.js, sadbl, false)
-openload.*,oload.*,oladblock.*#%#AG_abortInlineScript(/adblock|adblock2/);
+openload.*,oload.*,oladblock.*#%#//scriptlet("abort-current-inline-script", "adblock", "adblock2")
 openload.*,oload.*,oladblock.*#%#//scriptlet("set-constant", "sadbl", "false")
 
-pornbimbo.com##+js(disable-newtab-links.js)
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 
@@ -972,25 +1002,25 @@ larena.it##+js(setTimeout-defuser.js, adblock-check)
 larena.it#%#//scriptlet("prevent-setTimeout", "adblock-check")
 
 pantsu.cat##+js(abort-on-property-read.js, TsanPop.add)
-pantsu.cat#%#AG_abortOnPropertyRead('TsanPop.add');
+pantsu.cat#%#//scriptlet("abort-on-property-read", "TsanPop.add")
 
 rim-world.com##+js(setTimeout-defuser.js, adblock, 5000)
-rim-world.com#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/getAdIFrameCount/.test(a.toString()))return b(a,c)};})();
+rim-world.com#%#//scriptlet("prevent-setTimeout", "adblock", "5000")
 
 dojrzewamy.pl##+js(setTimeout-defuser.js, ad-container)
 dojrzewamy.pl#%#AG_abortInlineScript('adblock_info', 'setTimeout');
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
-imgview.net#%#AG_abortInlineScript('adbwarning', 'setTimeout');
+imgview.net#%#//scriptlet("prevent-setTimeout", "adbwarning")
 
 sslproxies24.top##+js(addEventListener-defuser.js, load, 2000)
-sslproxies24.top#%#//scriptlet("prevent-addEventListener", "mouseup", "2000")
+sslproxies24.top#%#//scriptlet("prevent-addEventListener", "load", "2000")
 
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
-faz.net#%#AG_abortInlineScript('_sp_._networkListenerData', '$');
+faz.net#%#//scriptlet("prevent-setTimeout", "$", "_sp_._networkListenerData")
 
 polygon.com##+js(abort-on-property-write.js, loadOutbrain)
-polygon.com#%#AG_abortOnPropertyWrite('loadOutbrain');
+polygon.com#%#//scriptlet("abort-on-property-write", "loadOutbrain")
 
 xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype, 'config/ads', { get: function() { return false; } });
@@ -998,7 +1028,7 @@ xnxx.com,xvideos.com#%#Object.defineProperty(window, 'openpop', { get: function(
 
 sueddeutsche.de##+js(abort-on-property-write.js, SZAdBlockDetection)
 sueddeutsche.de##+js(set-constant.js, _sp_.config, undefined)
-sueddeutsche.de#%#AG_abortOnPropertyWrite('SZAdBlockDetection');
+sueddeutsche.de#%#//scriptlet("abort-on-property-write", "SZAdBlockDetection")
 sueddeutsche.de#%#//scriptlet("set-constant", "_sp_.config", "undefined")
 
 derstandard.at##+js(set-constant.js, nuggprof, noopFunc)
@@ -1008,57 +1038,53 @@ temp-mail.org##+js(set-constant.js, checkadBlock, noopFunc)
 temp-mail.org#%#//scriptlet("set-constant", "checkadBlock", "noopFunc")
 
 handelsblatt.com##+js(abort-current-inline-script.js, hcf_userconfig, hcf_userconfig.cgi_adb_redirect_url)
-handelsblatt.com#%#AG_abortInlineScript('hcf_userconfig.cgi_adb_redirect_url', 'hcf_userconfig');
+handelsblatt.com#%#//scriptlet("abort-current-inline-script", "hcf_userconfig", "hcf_userconfig.cgi_adb_redirect_url")
 
 gallerix.ru##+js(abort-current-inline-script.js, jQuery, adbk)
-gallerix.ru#%#AG_defineProperty('jQuery.adbk', {value: false});
+gallerix.ru#%#//scriptlet("abort-current-inline-script", "jQuery", "adbk")
 
 digitaltrends.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
-digitaltrends.com#%#AG_abortInlineScript('googlefcPresent', 'Uint8Array');
+digitaltrends.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
 
 macwelt.de##+js(abort-current-inline-script.js, idgStorage)
-macwelt.de#%#AG_abortInlineScript('idgStorage');
+macwelt.de#%#//scriptlet("abort-current-inline-script", "idgStorage")
 
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl##+js(abort-on-property-write.js, sas)
-filmweb.pl#%#AG_abortInlineScript('newAdblockBoardDisplayed', 'decodeURIComponent');
-filmweb.pl#%#AG_abortOnPropertyWrite('sas');
+filmweb.pl#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "newAdblockBoardDisplayed")
+filmweb.pl#%#//scriptlet("abort-on-property-write", "sas")
 
 besplatka.ua##+js(abort-on-property-write.js, window.adblock)
-besplatka.ua#%#AG_abortOnPropertyWrite('window.adBlock');
+besplatka.ua#%#//scriptlet("abort-on-property-write", "window.adBlock")
 
 rockpapershotgun.com##+js(abort-on-property-write.js, yafaIt)
-rockpapershotgun.com#%#AG_abortOnPropertyWrite('yafaIt');
+rockpapershotgun.com#%#//scriptlet("abort-on-property-write", "yafaIt")
 
 kinoprofi.vip##+js(abort-on-property-write.js, window.adBlock)
-kinoprofi.vip#%#AG_abortOnPropertyWrite('window.adBlock');
+kinoprofi.vip#%#//scriptlet("abort-on-property-write", "window.adBlock")
 
 gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
-gsmturkey.net#%#AG_abortInlineScript('fuckAdBlock', 'importFAB');
+gsmturkey.net#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "importFAB")
 
 legia.net##+js(setTimeout-defuser.js, timeoutChecker)
 legia.net#%#//scriptlet("prevent-setTimeout", "timeoutChecker")
 
 uploadbox.io##+js(abort-on-property-read.js, replaceContentWithAdBlockerContent)
-uploadbox.io#%#AG_abortOnPropertyRead('replaceContentWithAdBlockerContent');
+uploadbox.io#%#//scriptlet("abort-on-property-read", "replaceContentWithAdBlockerContent")
 
 avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
 avgle.com#%#//scriptlet("set-constant", "showBlockIf", "noopFunc")
 
-linkberuang.*##+js(set-constant.js, safelink.adblock, false)
-linkberuang.*#%#AG_defineProperty('safelink.adblock',{value:false});
-
 userscloud.com##+js(abort-on-property-write.js, open)
-userscloud.com#%#AG_abortOnPropertyWrite('open');
+userscloud.com#%#//scriptlet("abort-on-property-write", "open")
 
 clik.*##+js(addEventListener-defuser.js, mouseup, click)
 clik.*##+js(setTimeout-defuser.js, _0x)
 clik.*#%#//scriptlet("prevent-addEventListener", "mouseup", "click")
-clik.*#%#AG_onLoad(function() { for (var key in window) { if (key.indexOf('_0x') == 0) { window[key] = []; } }; });
+clik.*#%#//scriptlet("prevent-setTimeout", "_0x")
 
 payco.*##+js(abort-current-inline-script.js, parseInt, charAt)
-payco.*#%#AG_abortInlineScript('charAt', 'parseInt');
-payco.*#%#AG_onLoad(function(){setTimeout(function(){var el=document.querySelector('form[action$="/links/popad"]');if(el)el.remove()},300)});
+payco.*#%#//scriptlet("abort-current-inline-script", "parseInt", "charAt")
 
 autocentrum.pl##+js(set-constant.js, adblockJsFile, true)
 autocentrum.pl#%#//scriptlet("set-constant", "adblockJsFile", "true")
@@ -1070,51 +1096,51 @@ gfycat.com##+js(set-constant.js, setInterval, noopFunc)
 gfycat.com#%#//scriptlet("set-constant", "setInterval", "noopFunc")
 
 programinadresi.com##+js(abort-on-property-read.js, adBlock)
-programinadresi.com#%#AG_abortOnPropertyRead('adBlock');
+programinadresi.com#%#//scriptlet("abort-on-property-read", "adBlock")
 
 freemcserver.net##+js(setTimeout-defuser.js, adblock)
 freemcserver.net#%#//scriptlet("prevent-setTimeout", "adblock")
 
 inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
-inmanga.com#%#AG_abortInlineScript('manageAntiBlock', 'setTimeout');
+inmanga.com#%#//scriptlet("abort-current-inline-script", "setTimeout", "manageAntiBlock")
 
 agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
-agargold.*#%#AG_abortInlineScript('block', 'document.getElementById');
+agargold.*#%#//scriptlet("abort-current-inline-script", "document.getElementById", "block")
 
 bit-url.com##+js(set-constant.js, absda, noopFunc)
 bit-url.com#%#//scriptlet("set-constant", "absda", "noopFunc")
 
 go.bucketforms.com##+js(abort-current-inline-script.js, $, adblocker)
-go.bucketforms.com#%#AG_abortInlineScript('adblocker', '$');
+go.bucketforms.com#%#//scriptlet("abort-current-inline-script", "$", "adblocker")
 
 intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
-intporn.org#%#AG_abortOnPropertyRead('jsm_reruntime');
+intporn.org#%#//scriptlet("abort-on-property-read", "jsm_reruntime")
 
 televall.*##+js(set-constant.js, jQuery.adblock, false)
 televall.*#%#//scriptlet("set-constant", "jQuery.adblock", "false")
 
 topsport.bg,news.bg##+js(abort-on-property-read.js, isAdBlockActive)
-topsport.bg,news.bg#%#AG_abortOnPropertyRead('isAdBlockActive');
+topsport.bg,news.bg#%#//scriptlet("abort-on-property-read", "isAdBlockActive")
 
 haaretz.com##+js(abort-current-inline-script.js, AdBlockUtil)
-haaretz.com#%#Object.defineProperty(window,'AdBlockUtil',{get:function(){return}});
+haaretz.com#%#//scriptlet("abort-current-inline-script", "AdBlockUtil")
 
 prevention.com##+js(abort-on-property-read.js, adBlockPromise)
-prevention.com#%#AG_abortOnPropertyRead('adBlockPromise');
+prevention.com#%#//scriptlet("abort-on-property-read", "adBlockPromise")
 
 bibliacatolica.com.br##+js(abort-on-property-read.js, getSelection)
-bibliacatolica.com.br#%#AG_abortOnPropertyRead('getSelection');
+bibliacatolica.com.br#%#//scriptlet("abort-on-property-read", "getSelection")
 
 bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
-bidouillesikea.com#%#AG_abortOnPropertyRead('adbackDebug');
+bidouillesikea.com#%#//scriptlet("abort-on-property-read", "adbackDebug")
 
 lavoixdux.com##+js(set-constant.js, is_adblocked, false)
 lavoixdux.com#%#//scriptlet("set-constant", "is_adblocked", "false")
 
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
-jovempan.uol.com.br#%#AG_abortOnPropertyRead('window.abStyle');
-jovempan.uol.com.br#%#AG_abortOnPropertyRead('window.adback_wording');
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
+jovempan.uol.com.br#%#//scriptlet("abort-on-property-read", "window.abStyle")
+jovempan.uol.com.br#%#//scriptlet("abort-on-property-read", "window.adback_wording")
 
 oeffentlicher-dienst.info##+js(set-constant.js, testerli, false)
 oeffentlicher-dienst.info#%#//scriptlet("set-constant", "testerli", "false")
@@ -1123,31 +1149,31 @@ fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
 fox.com.tr#%#//scriptlet("set-constant", "adblockDetector", "trueFunc")
 
 bmwfaq.org##+js(abort-on-property-write.js, AdBlockDetectorWorkaround)
-bmwfaq.org#%#AG_abortOnPropertyWrite('AdBlockDetectorWorkaround');
+bmwfaq.org#%#//scriptlet("abort-on-property-write", "AdBlockDetectorWorkaround")
 
-gsmarena.com#%#AG_abortOnPropertyWrite('adonisHash');
+gsmarena.com#%#//scriptlet("abort-on-property-write", "adonisHash")
 gsmarena.com##+js(abort-on-property-write.js, adonisHash)
 
 mako.co.il##+js(abort-on-property-write.js, upManager)
-mako.co.il#%#AG_abortOnPropertyWrite('upManager');
+mako.co.il#%#//scriptlet("abort-on-property-write", "upManager")
 
 gutekueche.at##+js(set-constant.js, gkAdsWerbung, true)
 gutekueche.at#%#//scriptlet("set-constant", "gkAdsWerbung", "true")
 
 upload.*##+js(abort-current-inline-script.js, document.getElementById, banner)
-upload.*#%#AG_abortInlineScript('banner', 'document.getElementById');
+upload.*#%#//scriptlet("abort-current-inline-script", "document.getElementById", "banner")
 
 streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
-streamango.com#%#AG_abortInlineScript('fruitadblock', 'isSandboxed');
+streamango.com#%#//scriptlet("abort-current-inline-script", "isSandboxed", "fruitadblock")
 
 123l.pw##+js(abort-on-property-write.js, showAdsBlock)
-123l.pw#%#AG_abortOnPropertyWrite('showAdsBlock');
+123l.pw#%#//scriptlet("abort-on-property-write", "showAdsBlock")
 
 gadzetomania.pl##+js(abort-on-property-write.js, __serviceAbModal)
-gadzetomania.pl#%#AG_abortOnPropertyWrite('__serviceAbModal');
+gadzetomania.pl#%#//scriptlet("abort-on-property-write", "__serviceAbModal")
 
 smartage.pl##+js(abort-current-inline-script.js, parseInt, adblock)
-smartage.pl#%#AG_abortInlineScript('adblock', 'parseInt');
+smartage.pl#%#//scriptlet("abort-current-inline-script", "parseInt", "adblock")
 
 dniwolne.eu##+js(set-constant.js, window.google_jobrunner, noopFunc)
 dniwolne.eu#%#//scriptlet("set-constant", "window.google_jobrunner", "noopFunc")
@@ -1156,7 +1182,7 @@ bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
 bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
 
 vinaurl.in##+js(abort-on-property-read.js, adsHeight)
-vinaurl.in#%#AG_abortOnPropertyRead('adsHeight');
+vinaurl.in#%#//scriptlet("abort-on-property-read", "adsHeight")
 
 dieroten.pl##+js(addEventListener-defuser.js, DOMContentLoaded, checkAdBlock)
 dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "checkAdBlock")
@@ -1170,159 +1196,121 @@ vidlox.*#%#//scriptlet("set-constant", "popjs", "true")
 vidlox.*#%#//scriptlet("set-constant", "popns", "true")
 
 watchhowimetyourmother.online##+js(abort-on-property-read.js, require)
-watchhowimetyourmother.online#%#AG_abortOnPropertyRead('require');
+watchhowimetyourmother.online#%#//scriptlet("abort-on-property-read", "require")
 
 dailyimages.*##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
-dailyimages.*#%#AG_abortInlineScript('getexoloader', 'document.dispatchEvent');
+dailyimages#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
 
 autocar.co.uk##+js(abort-on-property-read.js, InstallTrigger)
-autocar.co.uk#%#AG_abortOnPropertyRead('InstallTrigger');
+autocar.co.uk#%#//scriptlet("abort-on-property-read", "InstallTrigger")
 
-axjbt.com#%#AG_abortOnPropertyRead('myclick');
+axjbt.com#%#//scriptlet("abort-on-property-read", "myclick")
 axjbt.com##+js(abort-on-property-read.js, myclick)
 
-full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
-
-wickedsick.tv#%#AG_abortInlineScript(/api\/direct/, 'spot');
+wickedsick.tv#%#//scriptlet("abort-current-inline-script", "spot", "/api\/direct/")
 wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
 
 anitube.cz##+js(addEventListener-defuser.js, load)
 anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
 
-hdpornvideo.xxx#%#AG_abortOnPropertyRead('TrybbBlock');
+hdpornvideo.xxx#%#//scriptlet("abort-on-property-read", "TrybbBlock")
 hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
 
-avcao.cc#%#AG_abortOnPropertyRead('myclick');
+avcao.cc#%#//scriptlet("abort-on-property-read", "myclick")
 avcao.cc##+js(abort-on-property-read.js, myclick)
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-current-inline-script.js, jQuery, TestAdBlock)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, cticodes)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, imgadbpops)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortInlineScript('TestAdBlock', 'jQuery');
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('cticodes');
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#AG_abortOnPropertyWrite('imgadbpops');
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-current-inline-script", "jQuery", "TestAdBlock")
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-on-property-write", "cticodes")
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-on-property-write", "imgadbpops")
 
-uploadrar.com#%#AG_abortInlineScript('bannerad', 'document.getElementById');
+uploadrar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "bannerad")
 uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
 
 mu2.mobi##+js(abort-on-property-read.js, marker)
-mu2.mobi#%#AG_abortOnPropertyRead('marker');
+mu2.mobi#%#//scriptlet("abort-on-property-read", "marker")
 
 empflix.com##+js(abort-on-property-read.js, ALoader)
 empflix.com##+js(abort-on-property-read.js, ads.pop_url)
 empflix.com##+js(abort-on-property-write.js, popzone)
-empflix.com#%#AG_abortOnPropertyRead('ALoader');
-empflix.com#%#AG_abortOnPropertyRead('ads.pop_url');
-empflix.com#%#AG_abortOnPropertyWrite('popzone');
+empflix.com#%#//scriptlet("abort-on-property-read", "ALoader")
+empflix.com#%#//scriptlet("abort-on-property-read", "ads.pop_url")
+empflix.com#%#//scriptlet("abort-on-property-write", "popzone")
 
 3zfile.net##+js(abort-current-inline-script.js, document.getElementById, adblock)
-3zfile.net#%#AG_abortInlineScript('adblock', 'document.getElementById');
+3zfile.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adblock")
 
 gslink.*##+js(abort-current-inline-script.js, atob, TABUNDER)
-gslink.*#%#AG_abortInlineScript('TABUNDER', 'atob');
+gslink.*#%#//scriptlet("abort-current-inline-script", "atob", "TABUNDER")
 
 worder.cat##+js(abort-on-property-write.js, ga)
-worder.cat#%#AG_abortOnPropertyWrite('ga');
+worder.cat#%#//scriptlet("abort-on-property-write", "ga")
 
-indishare.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 indishare.*##+js(abort-current-inline-script.js, decodeURI, atob)
-indishare.*#%#AG_abortInlineScript('atob', 'decodeURI');
-indishare.*#%#AG_abortInlineScript('vocabulary', 'Math.sin');
+indishare.*#%#//scriptlet("abort-current-inline-script", "decodeURI", "atob")
 
 hpjav.tv#%#//scriptlet("set-constant", "NativeAd", "noopFunc")
 hpjav.tv##+js(set-constant.js, NativeAd, noopFunc)
 
 ouo.*##+js(abort-current-inline-script.js, decodeURI, HTMLIFrameElement)
 ouo.*##+js(abort-on-property-read.js, jsPopunder)
-ouo.*#%#AG_abortInlineScript('HTMLIFrameElement', 'decodeURI');
-ouo.*#%#AG_abortOnPropertyRead('jsPopunder');
-
-festyy.com##+js(abort-current-inline-script.js, parseInt, tabunder)
-festyy.com#%#AG_abortInlineScript('tabunder', 'parseInt');
+ouo.*#%#//scriptlet("abort-current-inline-script", "decodeURI", "HTMLIFrameElement")
+ouo.*#%#//scriptlet("abort-on-property-read", "jsPopunder")
 
 postimg.*##+js(abort-current-inline-script.js, atob, void)
-postimg.*#%#AG_abortInlineScript('void', 'atob');
+postimg.*#%#//scriptlet("abort-current-inline-script", "atob", "void")
 
 tmearn.*##+js(noeval-if.js, clickAnywhere)
 tmearn.*#%#//scriptlet("prevent-eval-if", "clickAnywhere")
 
-uppom.live##+js(abort-current-inline-script.js, Math.sin, vocabulary)
-uppom.live#%#AG_abortInlineScript('vocabulary', 'Math.sin');
-
-movies1234.net,123moviesgot.com##+js(abort-on-property-read.js, zfgloadednative)
-movies1234.net,123moviesgot.com#%#AG_abortOnPropertyRead('zfgloadednative');
-
 fmovies.wtf##+js(abort-current-inline-script.js, decodeURIComponent, atob)
-fmovies.wtf#%#AG_abortInlineScript('atob', 'decodeURIComponent');
+fmovies.wtf#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "atob")
 
 rjno1.com##+js(setTimeout-defuser.js, rjnocanrunads, 3000)
 rjno1.com#%#//scriptlet("prevent-setTimeout", "rjnocanrunads", "3000")
 
-movie-blog.to#%#AG_abortOnPropertyRead('popns');
+movie-blog.to#%#//scriptlet("abort-on-property-read", "popns")
 movie-blog.to##+js(abort-on-property-read.js, popns)
 
 letmejerk.com##+js(addEventListener-defuser.js, load, _0x)
-letmejerk.com#%#AG_abortInlineScript('_0x', 'load');
+letmejerk.com#%#//scriptlet("prevent-addEventListener", "load", "_0x")
 
-ratemyteachers.com##+js(abort-current-inline-script.js, document.getElementById, 'block')
-ratemyteachers.com#%#AG_abortInlineScript('block', 'document.getElementById');
-
-ceesty.com,gestyy.com##+js(set-constant.js, adsBlockerDetector, noopFunc)
-ceesty.com,gestyy.com#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
-ceesty.com,gestyy.com,corneey.com##+js(abort-current-inline-script.js, parseInt, tabunder)
-ceesty.com,gestyy.com,corneey.com#%#AG_abortInlineScript('tabunder', 'parseInt');
-
-menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
-menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
-
-leporno.org##+js(abort-current-inline-script.js, atob, tabunder)
-leporno.org#%#AG_abortInlineScript('tabunder', 'atob');
-
-javhihi.com#%#AG_abortInlineScript('getexoloader', 'document.dispatchEvent');
+javhihi.com#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
 javhihi.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
 
 draug.ru##+js(abort-current-inline-script.js, Math.floor, AdSense)
-draug.ru#%#AG_abortInlineScript('AdSense', 'Math.floor');
+draug.ru#%#//scriptlet("abort-current-inline-script", "Math.floor", "AdSense")
 
 t66y.com##+js(abort-current-inline-script.js, $, undefined)
-t66y.com#%#AG_abortInlineScript('undefined', '$');
+t66y.com#%#//scriptlet("abort-current-inline-script", "$", "undefined")
 
 mywrestling.com.pl##+js(abort-on-property-write.js, killAdBlock)
-mywrestling.com.pl#%#AG_abortOnPropertyWrite('killAdBlock');
+mywrestling.com.pl#%#//scriptlet("abort-on-property-read", "killAdBlock")
 
 bdmbase.ru##+js(setTimeout-defuser.js, $, ins.adsbygoogle)
 bdmbase.ru#%#//scriptlet("prevent-setTimeout", "$", "ins.adsbygoogle")
 
-xhamster.desi#%#AG_abortOnPropertyRead('dataPopUnder');
+xhamster.desi#%#//scriptlet("abort-on-property-read", "dataPopUnder")
 xhamster.desi##+js(abort-on-property-read.js, dataPopUnder)
 
 di.se##+js(abort-current-inline-script.js, checkAdBlockEnabled)
-di.se#%#AG_abortInlineScript('checkAdBlockEnabled');
+di.se#%#//scriptlet("abort-current-inline-script", "checkAdBlockEnabled")
 
 infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
 infotrendy.me#%#//scriptlet("prevent-addEventListener", "load", "2000")
 
 vidstreaming.io##+js(abort-current-inline-script.js, decodeURIComponent, parseInt)
-vidstreaming.io##+js(abort-current-inline-script.js, parseInt, tabunder)
-vidstreaming.io#%#AG_abortInlineScript('parseInt', 'decodeURIComponent');
-vidstreaming.io#%#AG_abortInlineScript('tabunder', 'parseInt');
+vidstreaming.io#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "parseInt")
 
 hanime.tv##+js(abort-current-inline-script.js, BetterJsPop)
 hanime.tv##+js(set-constant.js, ABLK, false)
-hanime.tv#%#AG_abortInlineScript('BetterJsPop');
+hanime.tv#%#//scriptlet("abort-current-inline-script", "BetterJsPop")
 hanime.tv#%#//scriptlet("set-constant", "ABLK', "false")
 
-njiir.com##+js(set-constant.js, safelink.adblock, false)
-njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
-
 savevideo.me##+js(abort-current-inline-script.js, $, banner)
-savevideo.me#%#AG_abortInlineScript('banner', '$');
-
-studopedia.com.ua,lektsii.org##+js(abort-current-inline-script.js, detectAdblk)
-studopedia.com.ua,lektsii.org#%#AG_abortInlineScript('detectAdblk');
-
-hdvid.*##+js(abort-current-inline-script.js, atob, tabunder)
-hdvid.*#%#AG_abortInlineScript('tabunder', 'atob');
+savevideo.me#%#//scriptlet("abort-current-inline-script", "$", "banner")
 
 tmearn.com##+js(noeval-if.js, clickAnywhere)
 tmearn.com#%#//scriptlet("prevent-eval-if", "clickAnywhere")
@@ -1331,10 +1319,10 @@ clk.*##+js(set-constant.js, blockAdBlock, true)
 clk.*#%#//scriptlet("set-constant", "blockAdBlock", "true")
 
 vev.io##+js(abort-current-inline-script.js, __INITIAL_STATE__)
-vev.io#%#AG_abortInlineScript('__INITIAL_STATE__');
+vev.io#%#//scriptlet("abort-current-inline-script", "__INITIAL_STATE__")
 
 freshstream.*##+js(abort-on-property-read.js, adcashMacros)
-freshstream.*#%#AG_abortOnPropertyRead('adcashMacros');
+freshstream.*#%#//scriptlet("abort-on-property-read", "adcashMacros")
 
 uiz.io##+js(setTimeout-defuser.js, checkAdblockUser)
 uiz.io#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
@@ -1346,38 +1334,33 @@ rapidvideo.com##+js(set-constant.js, onload, noopFunc)
 rapidvideo.com#%#//scriptlet("prevent-addEventListener", "mousedown", "preventDefault")
 rapidvideo.com#%#//scriptlet("prevent-popads-net")
 rapidvideo.com#%#//scriptlet("set-constant", "onload", "noopFunc")
-rapidvideo.com#%#AG_abortOnPropertyWrite('executed');
+rapidvideo.com#%#//scriptlet("abort-on-property-write", "executed")
 
 yesmovies.*##+js(abort-on-property-read.js, zfgloadedpopup)
-yesmovies.*#%#AG_abortOnPropertyRead('zfgloadedpopup');
+yesmovies.*#%#//scriptlet("abort-on-property-read", "zfgloadedpopup")
 
 olegon.ru##+js(abort-on-property-read.js, onload)
-olegon.ru#%#AG_abortOnPropertyRead('onload');
+olegon.ru#%#//scriptlet("abort-on-property-read", "onload")
 
 theglobeandmail.com##+js(abort-on-property-write.js, adBlocker)
-theglobeandmail.com#%#AG_abortOnPropertyWrite('adBlocker');
+theglobeandmail.com#%#//scriptlet("abort-on-property-write", "adBlocker")
 
 freeopenvpn.org##+js(set-constant.js, adBlock, false)
 freeopenvpn.org#%#//scriptlet("set-constant", "adBlock", "false")
 
 nutraceuticalsworld.com##+js(abort-on-property-read.js, adblockerpopup)
-nutraceuticalsworld.com#%#AG_abortOnPropertyRead('adblockerpopup');
+nutraceuticalsworld.com#%#//scriptlet("abort-on-property-read", "adblockerpopup")
 
 hqq.*##+js(abort-on-property-read.js, mscript)
-hqq.*#%#AG_abortOnPropertyRead('mscript');
+hqq.*#%#//scriptlet("abort-on-property-read", "mscript")
 
 eldia.es##+js(set-constant.js, pr_okvalida, true)
 eldia.es#%#//scriptlet("set-constant", "pr_okvalida", "true")
 
-imgdew.*,imgoutlet.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, CustomEvent)
-imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#AG_abortOnPropertyRead('CustomEvent');
-imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader.addZone)
-imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#AG_abortOnPropertyRead('ExoLoader.addZone');
-
 pasty.link##+js(abort-on-property-read.js, isAdBlockActive2)
-pasty.link#%#AG_abortOnPropertyRead('isAdBlockActive2');
+pasty.link#%#//scriptlet("abort-on-property-read", "isAdBlockActive2")
 
-getinmac.com#%#AG_abortInlineScript(/,displayMessage:/, 'document.addEventListener');
+getinmac.com#%#//scriptlet("abort-on-property-read", "document.addEventListener", "/,displayMessage:/")
 getinmac.com##+js(abort-current-inline-script.js, document.addEventListener, /,displayMessage:/)
 
 hotpornfile.org##+js(abort-current-inline-script.js, jQuery, perpage)
@@ -1388,12 +1371,12 @@ hotpornfile.org##+js(abort-on-property-write.js, overlay_as_script)
 hotpornfile.org##+js(abort-on-property-write.js, popns)
 hotpornfile.org##+js(addEventListener-defuser.js, DOMContentLoaded, tabUnder)
 hotpornfile.org##+js(addEventListener-defuser.js, getexoloader)
+hotpornfile.org#%#//scriptlet("abort-on-property-read", "ExLdr.serve")
+hotpornfile.org#%#//scriptlet("abort-on-property-read", "document.dispatchEvent")
+hotpornfile.org#%#//scriptlet("abort-on-property-read", "perpage", "jQuery")
+hotpornfile.org#%#//scriptlet("abort-on-property-write", "getIfc")
+hotpornfile.org#%#//scriptlet("abort-on-property-write", "overlay_as_script")
+hotpornfile.org#%#//scriptlet("abort-on-property-write", "popns")
 hotpornfile.org#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "tabUnder")
 hotpornfile.org#%#//scriptlet("prevent-addEventListener", "getexoloader")
-hotpornfile.org#%#AG_abortInlineScript('perpage', 'jQuery');
-hotpornfile.org#%#AG_abortOnPropertyRead('ExLdr.serve');
-hotpornfile.org#%#AG_abortOnPropertyRead('document.dispatchEvent');
-hotpornfile.org#%#AG_abortOnPropertyWrite('getIfc');
-hotpornfile.org#%#AG_abortOnPropertyWrite('overlay_as_script');
-hotpornfile.org#%#AG_abortOnPropertyWrite('popns');
 
