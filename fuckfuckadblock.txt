@@ -821,8 +821,8 @@ getrelax.club,javfree.club#%#//scriptlet("abort-current-inline-script", "documen
 streamcherry.com,streamango.com,vivatube.com,vev.io##+js(abort-on-property-read.js, BetterJsPop)
 streamcherry.com,streamango.com,vivatube.com,vev.io#%#//scriptlet("abort-on-property-read", "BetterJsPop")
 
-stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*$webrtc,important
-stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*##+js(nowebrtc.js)
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com$webrtc,important
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com##+js(nowebrtc.js)
 
 ||pagead2.googlesyndication.com/pagead/$script,empty,domain=herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk|gidoroom.ru
 ||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk|gidoroom.ru
