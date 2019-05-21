@@ -708,6 +708,7 @@ pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][
 @@||do2unlock.com^$generichide
 @@||roya.tv^$generichide
 @@||freefaucet.io^$generichide
+@@||pecetowicz.pl^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,sataniabatch.blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
