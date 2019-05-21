@@ -777,8 +777,8 @@ speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesport
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*##+js(abort-on-property-read.js, AaDetector)
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*#%#//scriptlet("abort-on-property-read", "AaDetector")
 
-file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com,ffmovies.ru##+js(abort-current-inline-script.js, Math, zfgloaded)
-file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com,ffmovies.ru#%#//scriptlet("abort-current-inline-script", "Math", "zfgloaded")
+file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com,ffmovies.ru,firstonetv.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com,ffmovies.ru,firstonetv.*#%#//scriptlet("abort-current-inline-script", "Math", "zfgloaded")
 
 ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*,imgdew.*,imgmaze.*,imgoutlet.*,imgtown.*,imgview.*,moviescouch.*##+js(abort-on-property-write.js, Fingerprint2)
 ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*,imgdew.*,imgmaze.*,imgoutlet.*,imgtown.*,imgview.*,moviescouch.*#%#//scriptlet("abort-on-property-write", "Fingerprint2")
@@ -786,8 +786,8 @@ ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,
 convert2mp3.net,vidlox.*,indishare.*##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net,vidlox.*,indishare.*#%#//scriptlet("abort-on-property-read", "decodeURIComponent")
 
-openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com##+js(abort-on-property-read.js, open)
-openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com#%#//scriptlet("abort-on-property-read", "open")
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*##+js(abort-on-property-read.js, open)
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*#%#//scriptlet("abort-on-property-read", "open")
 
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,talkshowyoutube.blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com##+js(addEventListener-defuser.js, load, onload)
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,talkshowyoutube.blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
@@ -1424,4 +1424,7 @@ linkneverdie.com#%#//scriptlet("prevent-setTimeout", "_$_", "7000")
 
 asiansister.com##+js(abort-current-inline-script.js, document.getElementById, adsBlockAlert)
 asiansister.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adsBlockAlert")
+
+marie-claire.es##+js(set-constant.js, ads, true)
+marie-claire.es#%#//scriptlet("set-constant", "ads", "true")
 
