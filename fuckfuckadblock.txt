@@ -984,6 +984,7 @@ enyenifilmizlet.com,fullhdfilmizleten.org#%#//scriptlet("abort-on-property-read"
 *$script,third-party,domain=igg-games.com,important
 *$script,third-party,domain=shtlink.co|shtme.co
 *$xmlhttprequest,third-party,domain=userscloud.com
+*$xmlhttprequest,domain=sexvid.xxx,important
 
 */*.php$important,script,domain=youx.xxx
 */adb.js$script,domain=allnorilsk.ru
@@ -1405,4 +1406,7 @@ wp.pl#%#//scriptlet("abort-on-property-write", "__serviceAbModal")
 wp.pl#%#//scriptlet("set-constant", "PWA_adbd", "2")
 wp.pl#%#//scriptlet("set-constant", "WP.gaf.addCreation", "noopFunc")
 wp.pl#%#//scriptlet("set-constant", "WP.gaf.setSlotCreation", "noopFunc")
+
+sexvid.xxx##+js(abort-on-property-read.js, pu)
+sexvid.xxx#%#//scriptlet("abort-on-property-read", "pu")
 
