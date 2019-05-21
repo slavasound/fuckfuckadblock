@@ -746,8 +746,8 @@ pornolenta.*,jumpboobs.*,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opap
 kinostate.net,pornk.name##+js(abort-current-inline-script.js, encodeURIComponent)
 kinostate.net,pornk.name#%#//scriptlet("abort-current-inline-script", "encodeURIComponent")
 
-thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru##+js(abort-on-property-read.js, anOptions)
-thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru#%#//scriptlet("abort-on-property-read", "anOptions")
+thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com##+js(abort-on-property-read.js, anOptions)
+thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com#%#//scriptlet("abort-on-property-read", "anOptions")
 
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com#%#//scriptlet("abort-on-property-read", "HTMLCanvasElement")
