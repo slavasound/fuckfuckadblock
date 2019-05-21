@@ -905,6 +905,9 @@ enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*#%#//scriptlet("abort-on-p
 123movies.*,moviescouch.*##+js(abort-on-property-write.js, decodeURIComponent)
 123movies.*,moviescouch.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
 
+rapidvideo.com,123movies.*##+js(popads.net.js)
+rapidvideo.com,123movies.*#%#//scriptlet("prevent-popads-net")
+
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
 |http://$third-party,script,domain=linkdrop.net
