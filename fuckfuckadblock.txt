@@ -892,6 +892,9 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read",
 imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader.addZone)
 imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
 
+enyenifilmizlet.com,fullhdfilmizleten.org##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+enyenifilmizlet.com,fullhdfilmizleten.org#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
+
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
 |http://$third-party,script,domain=linkdrop.net
@@ -921,7 +924,6 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read",
 ||rp5.*/scripts/main.*.js$script
 ||rule34hentai.net^$script,~third-party
 ||ver-pelis.*^$third-party,important
-||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$important,csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.molyusercontentstage.me *.vidmoly.me
 ||cpmlink.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.cloudflare.com
@@ -929,6 +931,7 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read",
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 ||uptobox.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
+||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
@@ -1382,5 +1385,3 @@ hotpornfile.org#%#//scriptlet("abort-on-property-write", "popns")
 hotpornfile.org#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "tabUnder")
 hotpornfile.org#%#//scriptlet("prevent-addEventListener", "getexoloader")
 
-enyenifilmizlet.com,fullhdfilmizleten.org##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
-enyenifilmizlet.com,fullhdfilmizleten.org#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
