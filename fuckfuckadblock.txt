@@ -177,7 +177,9 @@ pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][
 @@||vidoza.net/*/pop.js$script
 @@||zdnet.*/advertising.js$script
 @@||www.motortrendondemand.com/advertisements-ad-unit/*$xmlhttprequest,domain=www.motortrendondemand.com
+@@||freevpn4you.net/ads/*$image
 
+@@||freevpn4you.net^$generichide
 @@||1excelbet365.com^$generichide
 @@||2d-gate.org^$generichide
 @@||123link.*^$generichide
