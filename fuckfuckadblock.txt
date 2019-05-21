@@ -715,6 +715,7 @@ full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="positi
 @@||wcfcourier.com^$generichide
 @@||2o-my.com^$generichide
 @@||gamekit.com^$generichide
+@@||qctimes.com^$generichide
 @@||maxisciences.com^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,sataniabatch.blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
@@ -846,6 +847,9 @@ santacruzsentinel.com,bostonherald.com,reviewjournal.com#%#//scriptlet("set-cons
 
 streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org##+js(abort-on-property-read.js, ExoLoader.serve)
 streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org#%#//scriptlet("abort-on-property-read", "ExoLoader.serve")
+
+xxxonxxx.com,3prn.com##+js(set-constant.js, ExoLoader.serve, noopFunc)
+xxxonxxx.com,3prn.com#%#//scriptlet("set-constant", "ExoLoader.serve", "noopFunc")
 
 elsfile.org,link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 elsfile.org,link-to.net#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
