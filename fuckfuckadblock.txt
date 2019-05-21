@@ -696,7 +696,6 @@ full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="positi
 @@||nutraceuticalsworld.com^$generichide
 @@||udemycouponscode.com^$generichide
 @@||cutpaid.com^$generichide
-@@||zwergenstadt.com^$generichide
 @@||imgtown.*^$generichide
 @@||imgmaze.*^$generichide
 @@||imgoutlet.*^$generichide
@@ -718,7 +717,6 @@ full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="positi
 @@||qctimes.com^$generichide
 @@||maxisciences.com^$generichide
 @@||okdiario.com^$generichide
-@@||hindibeen.com^$generichide
 @@||linkszone.*^$generichide
 @@||annakendrick-fr.com^$generichide
 @@||porngun.net^$generichide
@@ -1325,9 +1323,6 @@ hanime.tv#%#//scriptlet("set-constant", "ABLK', "false")
 
 savevideo.me##+js(abort-current-inline-script.js, $, banner)
 savevideo.me#%#//scriptlet("abort-current-inline-script", "$", "banner")
-
-tmearn.com##+js(noeval-if.js, clickAnywhere)
-tmearn.com#%#//scriptlet("prevent-eval-if", "clickAnywhere")
 
 clk.*##+js(set-constant.js, blockAdBlock, true)
 clk.*#%#//scriptlet("set-constant", "blockAdBlock", "true")
