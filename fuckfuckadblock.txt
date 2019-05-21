@@ -981,9 +981,8 @@ enyenifilmizlet.com,fullhdfilmizleten.org#%#//scriptlet("abort-on-property-read"
 @@*/showads.js$script,domain=cnbc.com|sbsports.pro|dmntsf.net|spinbot.com|watch32hd.org
 @@*/videojs-contrib-ads$stylesheet,xmlhttprequest,domain=debilizator.tv
 
-*$script,third-party,domain=igg-games.com,important
-*$script,third-party,domain=shtlink.co|shtme.co
-*$xmlhttprequest,third-party,domain=userscloud.com
+*$script,third-party,important,domain=igg-games.com|shtlink.co|shtme.co
+*$xmlhttprequest,important,third-party,domain=userscloud.com
 *$xmlhttprequest,domain=sexvid.xxx,important
 
 */*.php$important,script,domain=youx.xxx
