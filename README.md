@@ -9,3 +9,12 @@ Filters for blocking pop-ups and anti-adblock bypass.
 ### RAW
 
 `https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
+
+### Disclaimer
+#### Adguard
+
+This list uses scriptlets, some products from Adguard, for example Adguard for Windows, do not yet support scriptlets, if you want to use this sheet, then I recommend you to use the Adguard extension.
+
+#### Adblock Plus
+
+Since Adblock Plus has functional limitations, it cannot be supported.
