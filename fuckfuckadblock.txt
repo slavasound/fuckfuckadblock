@@ -755,8 +755,8 @@ mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gameh
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,getlec.blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,getlec.blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*#%#//scriptlet("abort-current-inline-script", "atob", "decodeURIComponent")
 
-tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
+tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
 
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$popup,third-party,important
 hotpornfile.org$popunder,important
@@ -834,8 +834,8 @@ herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 diariodenavarra.es,t66y.com##+js(set-constant.js, Math.random, trueFunc)
 diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.eu##+js(popads-dummy.js)
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.eu#%#//scriptlet("set-popads-dummy")
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.eu,movie-blog.*##+js(popads-dummy.js)
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.eu,movie-blog.*#%#//scriptlet("set-popads-dummy")
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.com##+js(abort-on-property-read.js, ExoLoader)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
@@ -900,8 +900,8 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read",
 imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader.addZone)
 imgdew.*,imgoutlet.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
 
-enyenifilmizlet.com,fullhdfilmizleten.org##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
-enyenifilmizlet.com,fullhdfilmizleten.org#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
 
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
@@ -1283,9 +1283,6 @@ fmovies.wtf#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "
 
 rjno1.com##+js(setTimeout-defuser.js, rjnocanrunads, 3000)
 rjno1.com#%#//scriptlet("prevent-setTimeout", "rjnocanrunads", "3000")
-
-movie-blog.to#%#//scriptlet("abort-on-property-read", "popns")
-movie-blog.to##+js(abort-on-property-read.js, popns)
 
 letmejerk.com##+js(addEventListener-defuser.js, load, _0x)
 letmejerk.com#%#//scriptlet("prevent-addEventListener", "load", "_0x")
