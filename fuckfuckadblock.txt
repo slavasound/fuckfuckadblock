@@ -731,6 +731,7 @@ full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="positi
 @@||gq-magazine.co.uk^$generichide
 @@||anime-vf.fr^$generichide
 @@||citynow.it^$generichide
+@@||thesouthern.com^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,sataniabatch.blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -805,8 +806,8 @@ netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eve
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com##+js(addEventListener-defuser.js, click, trigger)
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 
-businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com##+js(abort-on-property-read.js, stop)
-businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com#%#//scriptlet("abort-on-property-read", "stop")
+businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com##+js(abort-on-property-read.js, stop)
+businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com#%#//scriptlet("abort-on-property-read", "stop")
 
 bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com#%#//scriptlet("abort-on-property-read", "_sp_._networkListenerData")
