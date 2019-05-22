@@ -728,6 +728,7 @@ full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="positi
 @@||tmohentai.com^$generichide
 @@||mediatorrentz.org^$generichide
 @@||yesmangasbr.com^$generichide
+@@||gq-magazine.co.uk^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,sataniabatch.blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -983,7 +984,7 @@ porndr.com,tmohentai.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|cl
 @@*/adframe.js$script,domain=kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net|extremereportbot.com
 @@*/adjs.js$domain=atresplayer.com,script
 @@*/ads-*.js$script,domain=duellinksmeta.com
-@@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com|extremereportbot.com|mshare.io|androidplanet.nl|khl.ru|0rechner.de|webcamera.pl|ratemyteachers.com|sub2unlock.net|pasty.link|mp4upload.com
+@@*/ads.js$script,xmlhttprequest,domain=qrz.ru|notebookcheck.net|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com|extremereportbot.com|mshare.io|androidplanet.nl|khl.ru|0rechner.de|webcamera.pl|ratemyteachers.com|sub2unlock.net|pasty.link|mp4upload.com|gq-magazine.co.uk
 @@*/ads.min.js$script,domain=certifychat.com|australianfrequentflyer.com.au|reactiongaming.us|verifyemailaddress.io|thehindu.com
 @@*/ads_*.js$script,xmlhttprequest,domain=watch32hd.org
 @@*/adsbygoogle.js$script,domain=embed.kijk.nl|won.pe|duellinksmeta.com|mediaite.com|spinbot.com
