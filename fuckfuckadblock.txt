@@ -1443,3 +1443,6 @@ imgmaze.*##+js(abort-on-property-read.js, popjs.init)
 yesmangasbr.com##+js(setTimeout-defuser.js, testDisplay)
 yesmangasbr.com#%#//scriptlet("prevent-setTimeout", "testDisplay")
 
+pussyspace.com##+js(set-constant.js, DontFuckMyMind.serve, noopFunc)
+pussyspace.com#%#//scriptlet("set-constant", "DontFuckMyMind.serve", "noopFunc")
+
