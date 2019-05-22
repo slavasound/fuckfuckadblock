@@ -231,7 +231,7 @@ full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="positi
 @@||ausbt.com.au^$generichide
 @@||australianfrequentflyer.com.au^$generichide
 @@||autocar.co.uk^$generichide
-@@||autoexpress.co.uk^$generichide
+@@||autoexpress.*^$generichide
 @@||automobile-catalog.com^$generichide
 @@||bailee-madison.org^$generichide
 @@||bankomap.com.ua^$generichide
@@ -807,8 +807,8 @@ shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hind
 businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com##+js(abort-on-property-read.js, stop)
 businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com#%#//scriptlet("abort-on-property-read", "stop")
 
-bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.co.uk,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
-bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.co.uk,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com#%#//scriptlet("abort-on-property-read", "_sp_._networkListenerData")
+bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
+bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com#%#//scriptlet("abort-on-property-read", "_sp_._networkListenerData")
 
 file-up.*,file-upload.*,upfiles.*,freeupload.*,fstore.*,uploadfree.*,hopto.org##+js(abort-current-inline-script.js, document.getElementById, undefined)
 file-up.*,file-upload.*,upfiles.*,freeupload.*,fstore.*,uploadfree.*,hopto.org#%#//scriptlet("abort-current-inline-script", "document.getElementById", "undefined")
