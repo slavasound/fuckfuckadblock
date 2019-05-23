@@ -786,8 +786,8 @@ speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesport
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*##+js(abort-on-property-read.js, AaDetector)
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*#%#//scriptlet("abort-on-property-read", "AaDetector")
 
-file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com,ffmovies.ru,firstonetv.*##+js(abort-current-inline-script.js, Math, zfgloaded)
-file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com,ffmovies.ru,firstonetv.*#%#//scriptlet("abort-current-inline-script", "Math", "zfgloaded")
+file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com,ffmovies.ru,firstonetv.*,warefree01.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+file-up.*,file-upload.*,upfiles.*,kstreaming.*,userscloud.com,clik.*,convert2mp3.net,payco.*,stiffvip.com,linkrag.com,dunyanews.*,getlec.blogspot.com,darmowa-telewizja.online,upload.*,mac-torrent-download.net,xmovies.*,filerio.in,vidlox.*,adsviv.com,otakustream.tv,dailyimages.*,full-stream.co,anitube.cz,123moviesfull.net,japscan.*,3zfile.net,4shared.com,ouo.*,cpmlink.net,movies1234.net,123moviesgot.com,fmovies.wtf,animeskai.biz,videopenny.net,movieor.com,v6download.com,yts.*,123movies.*,rapidvideo.com,yesmovies.*,ommantrameditation.com,techsyou.com,ffmovies.ru,firstonetv.*,warefree01.com#%#//scriptlet("abort-current-inline-script", "Math", "zfgloaded")
 
 ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*,imgdew.*,imgmaze.*,imgoutlet.*,imgtown.*,imgview.*,moviescouch.*,adsrt.*##+js(abort-on-property-write.js, Fingerprint2)
 ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,gomostream.com,dfiles.*,imgdew.*,imgmaze.*,imgoutlet.*,imgtown.*,imgview.*,moviescouch.*,adsrt.*#%#//scriptlet("abort-on-property-write", "Fingerprint2")
@@ -1166,8 +1166,8 @@ televall.*#%#//scriptlet("set-constant", "jQuery.adblock", "false")
 topsport.bg,news.bg##+js(abort-on-property-read.js, isAdBlockActive)
 topsport.bg,news.bg#%#//scriptlet("abort-on-property-read", "isAdBlockActive")
 
-haaretz.com##+js(abort-current-inline-script.js, AdBlockUtil)
-haaretz.com#%#//scriptlet("abort-current-inline-script", "AdBlockUtil")
+haaretz.com##+js(abort-current-inline-script.js, $, AdBlockUtil)
+haaretz.com#%#//scriptlet("abort-current-inline-script", "$", "AdBlockUtil")
 
 prevention.com##+js(abort-on-property-read.js, adBlockPromise)
 prevention.com#%#//scriptlet("abort-on-property-read", "adBlockPromise")
@@ -1442,6 +1442,7 @@ tmohentai.com##+js(abort-on-property-read.js, blockAdBlock)
 tmohentai.com#%#//scriptlet("abort-on-property-read", "blockAdBlock")
 
 imgmaze.*##+js(abort-on-property-read.js, popjs.init)
+imgmaze.*#%#//scriptlet("abort-on-property-read", "popjs.init")
 
 yesmangasbr.com##+js(setTimeout-defuser.js, testDisplay)
 yesmangasbr.com#%#//scriptlet("prevent-setTimeout", "testDisplay")
@@ -1449,6 +1450,8 @@ yesmangasbr.com#%#//scriptlet("prevent-setTimeout", "testDisplay")
 pussyspace.com##+js(set-constant.js, DontFuckMyMind.serve, noopFunc)
 pussyspace.com#%#//scriptlet("set-constant", "DontFuckMyMind.serve", "noopFunc")
 
-citynow.it##+js(set-constant.js, advanced_ads_check_adblocker, noopFunc)
-citynow.it#%#//scriptlet("set-constant", "advanced_ads_check_adblocker", "noopFunc")
+citynow.it##+js(abort-on-property-write.js, advanced_ads_check_adblocker)
+citynow.it#%#//scriptlet("abort-on-property-write", "advanced_ads_check_adblocker")
+citynow.it##+js(abort-on-property-read.js, advads_passive_ads)
+citynow.it#%#//scriptlet("abort-on-property-read", "advads_passive_ads")
 
