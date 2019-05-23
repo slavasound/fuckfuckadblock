@@ -735,6 +735,7 @@ wize.life###wl-container
 @@||dundi.it^$generichide
 @@||pitbullofficial.com^$generichide
 @@||fastoshi.site^$generichide
+@@||thefilmbay.com^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -937,6 +938,9 @@ porndr.com,tmohentai.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|cl
 
 gsmturkey.net,pitbullofficial.com##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
 gsmturkey.net,pitbullofficial.com#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "importFAB")
+
+tmohentai.com,thefilmbay.com##+js(abort-on-property-read.js, blockAdBlock)
+tmohentai.com,thefilmbay.com#%#//scriptlet("abort-on-property-read", "blockAdBlock")
 
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
@@ -1440,9 +1444,6 @@ asiansister.com#%#//scriptlet("abort-current-inline-script", "document.getElemen
 
 marie-claire.es##+js(set-constant.js, ads, true)
 marie-claire.es#%#//scriptlet("set-constant", "ads", "true")
-
-tmohentai.com##+js(abort-on-property-read.js, blockAdBlock)
-tmohentai.com#%#//scriptlet("abort-on-property-read", "blockAdBlock")
 
 imgmaze.*##+js(abort-on-property-read.js, popjs.init)
 imgmaze.*#%#//scriptlet("abort-on-property-read", "popjs.init")
