@@ -737,6 +737,7 @@ wize.life###wl-container
 @@||fastoshi.site^$generichide
 @@||thefilmbay.com^$generichide
 @@||rp5.*^$generichide
+@@||bellinghamherald.com^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -942,6 +943,9 @@ gsmturkey.net,pitbullofficial.com#%#//scriptlet("abort-current-inline-script", "
 
 tmohentai.com,thefilmbay.com##+js(abort-on-property-read.js, blockAdBlock)
 tmohentai.com,thefilmbay.com#%#//scriptlet("abort-on-property-read", "blockAdBlock")
+
+bellinghamherald.com,elpais.com,okdiario.com##+js(abort-current-inline-script.js, googlefc)
+bellinghamherald.com,elpais.com,okdiario.com#%#//scriptlet("abort-current-inline-script", "googlefc")
 
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
@@ -1468,7 +1472,4 @@ m.rp5.*#%#//scriptlet("abort-on-property-read", "adInvite_id")
 
 notebookcheck.com,notebookcheck.net##+js(abort-current-inline-script.js, document.getElementById, XMLHttpRequest)
 notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "XMLHttpRequest")
-
-okdiario.com##+js(abort-current-inline-script.js, googlefc)
-okdiario.com#%#//scriptlet("abort-current-inline-script", "googlefc")
 
