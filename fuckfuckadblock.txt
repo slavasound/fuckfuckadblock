@@ -153,6 +153,7 @@ getrelax.club,javfree.club###main_content:style(display: block !important;)
 avgle.com##center > div > a[target="_blank"]
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
 full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
+wize.life###wl-container
 
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 @@||all-episodes.tv/*/downretl.js$script,domain=all-episodes.tv
@@ -833,8 +834,8 @@ blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site#%#//scriptlet("set-co
 getrelax.club,javfree.club##+js(abort-current-inline-script.js, document.getElementById, adisblock)
 getrelax.club,javfree.club#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adisblock")
 
-streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co##+js(abort-on-property-read.js, BetterJsPop)
-streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co#%#//scriptlet("abort-on-property-read", "BetterJsPop")
+streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co,eporner.*##+js(abort-on-property-read.js, BetterJsPop)
+streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co,eporner.*#%#//scriptlet("abort-on-property-read", "BetterJsPop")
 
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com$webrtc,important
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com##+js(nowebrtc.js)
