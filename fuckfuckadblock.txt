@@ -1070,7 +1070,7 @@ rim-world.com##+js(setTimeout-defuser.js, adblock, 5000)
 rim-world.com#%#//scriptlet("prevent-setTimeout", "adblock", "5000")
 
 dojrzewamy.pl##+js(setTimeout-defuser.js, ad-container)
-dojrzewamy.pl#%#AG_abortInlineScript('adblock_info', 'setTimeout');
+dojrzewamy.pl#%#//scriptlet("prevent-setTimeout", "ad-container")
 
 imgview.net##+js(setTimeout-defuser.js, adbwarning)
 imgview.net#%#//scriptlet("prevent-setTimeout", "adbwarning")
