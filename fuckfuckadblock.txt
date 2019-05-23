@@ -736,6 +736,7 @@ wize.life###wl-container
 @@||pitbullofficial.com^$generichide
 @@||fastoshi.site^$generichide
 @@||thefilmbay.com^$generichide
+@@||rp5.*^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -1461,4 +1462,7 @@ citynow.it#%#//scriptlet("abort-on-property-read", "advads_passive_ads")
 
 samlab.*##+js(abort-on-property-read.js, ad_block)
 samlab.*#%#//scriptlet("abort-on-property-read", "ad_block")
+
+m.rp5.*##+js(abort-on-property-read.js, adInvite_id)
+m.rp5.*#%#//scriptlet("abort-on-property-read", "adInvite_id")
 
