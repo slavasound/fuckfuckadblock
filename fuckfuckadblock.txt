@@ -1479,3 +1479,6 @@ notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script",
 sme.sk##+js(abort-on-property-read.js, adBlockDetector)
 sme.sk#%#//scriptlet("abort-on-property-read", "adBlockDetector")
 
+sportsplays.com#%#//scriptlet("prevent-setTimeout", "abDetected")
+sportsplays.com##+js(setTimeout-defuser.js, abDetected)
+
