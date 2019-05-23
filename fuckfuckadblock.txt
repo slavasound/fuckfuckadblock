@@ -1469,3 +1469,6 @@ m.rp5.*#%#//scriptlet("abort-on-property-read", "adInvite_id")
 notebookcheck.com,notebookcheck.net##+js(abort-current-inline-script.js, document.getElementById, XMLHttpRequest)
 notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "XMLHttpRequest")
 
+okdiario.com##+js(abort-current-inline-script.js, googlefc)
+okdiario.com#%#//scriptlet("abort-current-inline-script", "googlefc")
+
