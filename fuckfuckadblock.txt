@@ -1017,7 +1017,7 @@ bellinghamherald.com,elpais.com,okdiario.com#%#//scriptlet("abort-current-inline
 @@*/advertisement-*.js$script,domain=geekspin.co
 @@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us|blocket.se|rjiblog.org|getinmac.com|lurlo.news
 @@*/advertising-*.js$script,domain=wetransfer.com
-@@*/advertising.js$script,domain=rockstargame.su|swatchseries.to
+@@*/advertising.js$script,domain=rockstargame.su|swatchseries.to|ktozvonit.com.ua
 @@*/gads.js$script,domain=rodzinnywyjazd.pl
 @@*/google_ima.min.js$script,domain=ccmbg.com
 @@*/googlead.js$script,domain=streamcherry.com
