@@ -1486,3 +1486,6 @@ sme.sk#%#//scriptlet("abort-on-property-read", "adBlockDetector")
 sportsplays.com#%#//scriptlet("prevent-setTimeout", "abDetected")
 sportsplays.com##+js(setTimeout-defuser.js, abDetected)
 
+pornodoma.tv##+js(abort-on-property-write.js, tnAdditionalParams)
+pornodoma.tv#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
+
