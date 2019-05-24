@@ -154,6 +154,7 @@ avgle.com##center > div > a[target="_blank"]
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
 full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
 wize.life###wl-container
+@@||pixlr.com^$content,jsinject,badfilter
 
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 @@||all-episodes.tv/*/downretl.js$script,domain=all-episodes.tv
