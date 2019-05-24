@@ -754,7 +754,7 @@ wize.life###wl-container
 @@||mylink.*^$generichide
 @@||urlcash.*^$generichide
 @@||urlgalleries.*^$generichide
-@@||ceesty.com^$generichide
+@@||clkmein.com^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -871,8 +871,8 @@ herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 diariodenavarra.es,t66y.com##+js(set-constant.js, Math.random, trueFunc)
 diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*##+js(popads-dummy.js)
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*#%#//scriptlet("set-popads-dummy")
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com##+js(popads-dummy.js)
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com#%#//scriptlet("set-popads-dummy")
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com##+js(abort-on-property-read.js, ExoLoader)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
@@ -916,11 +916,11 @@ indishare.*,uppom.*,moviescouch.*,thefilmbay.com#%#//scriptlet("abort-current-in
 movies1234.net,123moviesgot.com##+js(abort-on-property-read.js, zfgloadednative)
 movies1234.net,123moviesgot.com#%#//scriptlet("abort-on-property-read", "zfgloadednative")
 
-ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com##+js(abort-current-inline-script.js, parseInt, tabunder)
-ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
+ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com##+js(abort-current-inline-script.js, parseInt, tabunder)
+ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
 
-ceesty.com,gestyy.com##+js(set-constant.js, adsBlockerDetector, noopFunc)
-ceesty.com,gestyy.com#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
+ceesty.com,gestyy.com,clkmein.com##+js(set-constant.js, adsBlockerDetector, noopFunc)
+ceesty.com,gestyy.com,clkmein.com#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
 
 menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
 menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
