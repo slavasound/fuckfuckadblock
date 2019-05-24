@@ -1035,7 +1035,7 @@ bellinghamherald.com,elpais.com,okdiario.com#%#//scriptlet("abort-current-inline
 *$xmlhttprequest,important,third-party,domain=userscloud.com
 *$xmlhttprequest,domain=sexvid.xxx,important
 
-*/*.php$important,script,domain=youx.xxx
+*/*.php$important,script,domain=youx.xxx|hotpornfile.org
 */adb.js$script,domain=allnorilsk.ru
 */adblk-v2.js$script,domain=di.se
 */adblocker-feature$xmlhttprequest,domain=washingtonpost.com
@@ -1418,6 +1418,8 @@ hotpornfile.org#%#//scriptlet("abort-on-property-write", "overlay_as_script")
 hotpornfile.org#%#//scriptlet("abort-on-property-write", "popns")
 hotpornfile.org#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "tabUnder")
 hotpornfile.org#%#//scriptlet("prevent-addEventListener", "getexoloader")
+hotpornfile.org##+js(setInterval-defuser.js, _0x)
+hotpornfile.org#%#//scriptlet("prevent-setInterval", "_0x")
 
 eporner.*##+js(abort-on-property-read.js, exoDocumentProtocol)
 eporner.*##+js(abort-on-property-write.js, EPeventFire)
