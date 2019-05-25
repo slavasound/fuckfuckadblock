@@ -1016,6 +1016,9 @@ billingsgazette.com,bismarcktribune.com,jg-tc.com,rapidcityjournal.com,stltoday.
 jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.net,opjav.com##+js(addEventListener-defuser.js, click, popunder)
 jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.net,opjav.com#%#//scriptlet("prevent-addEventListener", "click", "popunder")
 
+notebookcheck.com,notebookcheck.net##+js(abort-current-inline-script.js, document.getElementById, XMLHttpRequest)
+notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "XMLHttpRequest")
+
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
@@ -1539,9 +1542,6 @@ samlab.*#%#//scriptlet("abort-on-property-read", "ad_block")
 
 m.rp5.*##+js(abort-on-property-read.js, adInvite_id)
 m.rp5.*#%#//scriptlet("abort-on-property-read", "adInvite_id")
-
-notebookcheck.com,notebookcheck.net##+js(abort-current-inline-script.js, document.getElementById, XMLHttpRequest)
-notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "XMLHttpRequest")
 
 sme.sk##+js(abort-on-property-read.js, adBlockDetector)
 sme.sk#%#//scriptlet("abort-on-property-read", "adBlockDetector")
