@@ -15,6 +15,8 @@ Filters for blocking pop-ups and anti-adblock bypass.
 
 This list uses scriptlets, some products from Adguard, for example Adguard for Windows, do not yet support scriptlets, if you want to use this sheet, then I recommend you to use the Adguard extension.
 
+Please read this [issue #2](https://github.com/bogachenko/fuckfuckadblock/issues/2)
+
 #### Adblock Plus
 
 Since Adblock Plus has functional limitations, it cannot be supported.
