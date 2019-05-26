@@ -1043,6 +1043,28 @@ notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script",
 pornodoma.tv,orgazmtv.com,krasivoeporno.tv##+js(abort-on-property-write.js, tnAdditionalParams)
 pornodoma.tv,orgazmtv.com,krasivoeporno.tv#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
 
+televall.*,tuotromedico.com##+js(set-constant.js, jQuery.adblock, false)
+televall.*,tuotromedico.com#%#//scriptlet("set-constant", "jQuery.adblock", "false")
+
+topsport.bg,news.bg##+js(abort-on-property-read.js, isAdBlockActive)
+topsport.bg,news.bg#%#//scriptlet("abort-on-property-read", "isAdBlockActive")
+
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-current-inline-script.js, jQuery, TestAdBlock)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, cticodes)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, imgadbpops)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-current-inline-script", "jQuery", "TestAdBlock")
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-on-property-write", "cticodes")
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-on-property-write", "imgadbpops")
+
+openload.*,oload.*,oladblock.*##+js(abort-current-inline-script.js, adblock, adblock2)
+openload.*,oload.*,oladblock.*##+js(set-constant.js, sadbl, false)
+openload.*,oload.*,oladblock.*#%#//scriptlet("abort-current-inline-script", "adblock", "adblock2")
+openload.*,oload.*,oladblock.*#%#//scriptlet("set-constant", "sadbl", "false")
+
+xnxx.com,xvideos.com##+js(xvideos.com.js)
+xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype, 'config/ads', { get: function() { return false; } });
+xnxx.com,xvideos.com#%#Object.defineProperty(window, 'openpop', { get: function() { return; } });
+
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
@@ -1151,11 +1173,6 @@ pornodoma.tv,orgazmtv.com,krasivoeporno.tv#%#//scriptlet("abort-on-property-writ
 */sw.js$script,important
 */webpush.ma.js$script,important
 
-openload.*,oload.*,oladblock.*##+js(abort-current-inline-script.js, adblock, adblock2)
-openload.*,oload.*,oladblock.*##+js(set-constant.js, sadbl, false)
-openload.*,oload.*,oladblock.*#%#//scriptlet("abort-current-inline-script", "adblock", "adblock2")
-openload.*,oload.*,oladblock.*#%#//scriptlet("set-constant", "sadbl", "false")
-
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 
@@ -1182,10 +1199,6 @@ faz.net#%#//scriptlet("prevent-setTimeout", "$", "_sp_._networkListenerData")
 
 polygon.com##+js(abort-on-property-write.js, loadOutbrain)
 polygon.com#%#//scriptlet("abort-on-property-write", "loadOutbrain")
-
-xnxx.com,xvideos.com##+js(xvideos.com.js)
-xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype, 'config/ads', { get: function() { return false; } });
-xnxx.com,xvideos.com#%#Object.defineProperty(window, 'openpop', { get: function() { return; } });
 
 sueddeutsche.de##+js(abort-on-property-write.js, SZAdBlockDetection)
 sueddeutsche.de##+js(set-constant.js, _sp_.config, undefined)
@@ -1270,12 +1283,6 @@ go.bucketforms.com#%#//scriptlet("abort-current-inline-script", "$", "adblocker"
 
 intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
 intporn.org#%#//scriptlet("abort-on-property-read", "jsm_reruntime")
-
-televall.*##+js(set-constant.js, jQuery.adblock, false)
-televall.*#%#//scriptlet("set-constant", "jQuery.adblock", "false")
-
-topsport.bg,news.bg##+js(abort-on-property-read.js, isAdBlockActive)
-topsport.bg,news.bg#%#//scriptlet("abort-on-property-read", "isAdBlockActive")
 
 haaretz.com##+js(abort-current-inline-script.js, $, AdBlockUtil)
 haaretz.com#%#//scriptlet("abort-current-inline-script", "$", "AdBlockUtil")
@@ -1367,13 +1374,6 @@ hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
 
 avcao.cc#%#//scriptlet("abort-on-property-read", "myclick")
 avcao.cc##+js(abort-on-property-read.js, myclick)
-
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-current-inline-script.js, jQuery, TestAdBlock)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, cticodes)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-on-property-write.js, imgadbpops)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-current-inline-script", "jQuery", "TestAdBlock")
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-on-property-write", "cticodes")
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-on-property-write", "imgadbpops")
 
 uploadrar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "bannerad")
 uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
@@ -1621,4 +1621,7 @@ innpoland.pl#%#//scriptlet("abort-current-inline-script", "parseInt", "adBlock")
 
 gratisaftehalen.nl##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
 gratisaftehalen.nl#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
+
+lesoir.be##+js(setTimeout-defuser.js, adb)
+lesoir.be#%#//scriptlet("prevent-setTimeout", "adb")
 
