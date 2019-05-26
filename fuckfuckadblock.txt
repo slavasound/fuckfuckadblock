@@ -815,8 +815,8 @@ sciencelife.*,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,earthpiclover.com
 pornolenta.*,jumpboobs.*,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com,pornozima.com,hotfiesta.tv,pornorussia.tv,erkiss.live,porno-chiks.com,sveta.tv,tytporno.online,erovideos.*,pornokrik.com,ebun.me,orgasmhdtube.net,eroxxvideos.tv,pornodiesel.biz,uhtube.cc,uzbum.ru,moviescouch.*,pornohype.cc##+js(abort-on-property-read.js, encodeURIComponent)
 pornolenta.*,jumpboobs.*,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com,pornozima.com,hotfiesta.tv,pornorussia.tv,erkiss.live,porno-chiks.com,sveta.tv,tytporno.online,erovideos.*,pornokrik.com,ebun.me,orgasmhdtube.net,eroxxvideos.tv,pornodiesel.biz,uhtube.cc,uzbum.ru,moviescouch.*,pornohype.cc#%#//scriptlet("abort-on-property-read", "encodeURIComponent")
 
-kinostate.net,pornk.name,xn--80aa3agbm7d.com##+js(abort-current-inline-script.js, encodeURIComponent)
-kinostate.net,pornk.name,xn--80aa3agbm7d.com#%#//scriptlet("abort-current-inline-script", "encodeURIComponent")
+kinostate.net,pornk.name,xn--80aa3agbm7d.com,pornosexrolik.com##+js(abort-current-inline-script.js, encodeURIComponent)
+kinostate.net,pornk.name,xn--80aa3agbm7d.com,pornosexrolik.com#%#//scriptlet("abort-current-inline-script", "encodeURIComponent")
 
 thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me,precitaj.si##+js(abort-on-property-read.js, anOptions)
 thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me,precitaj.si#%#//scriptlet("abort-on-property-read", "anOptions")
