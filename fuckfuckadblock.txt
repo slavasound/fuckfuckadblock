@@ -1099,7 +1099,7 @@ pornodoma.tv,orgazmtv.com,krasivoeporno.tv#%#//scriptlet("abort-on-property-writ
 @@*/adserver.js$script,domain=cyclismactu.net
 @@*/adunit.js$script,domain=brid.tv
 @@*/adv.js$script,domain=seo-fast.ru|calciomercato.com
-@@*/advert.js$script,domain=hopto.org|overclockers.ru|cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
+@@*/advert.js$script,domain=hopto.org|overclockers.ru|cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv|thedailybeast.com
 @@*/advertisement-*.js$script,domain=geekspin.co
 @@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us|blocket.se|rjiblog.org|getinmac.com|lurlo.news|ferrovie.info
 @@*/advertising-*.js$script,domain=wetransfer.com
