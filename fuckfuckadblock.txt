@@ -208,6 +208,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||alghad.com^$generichide
 @@||all-episodes.tv^$generichide
 @@||allacronyms.com^$generichide
+@@||alphr.com^$generichide
 @@||alternet.org^$generichide
 @@||amc.com^$generichide
 @@||andek.com.pl^$generichide
@@ -287,6 +288,9 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||clk.*^$generichide
 @@||clkmein.com^$generichide
 @@||cllkme.com^$generichide
+@@||closeload.com^$generichide
+@@||closetopic.site^$generichide
+@@||closetopic.site^$generichide
 @@||cnbc.com^$generichide
 @@||cnet.com^$generichide
 @@||coinkurier.de^$generichide
@@ -350,6 +354,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||extremereportbot.com^$generichide
 @@||ez4link.org^$generichide
 @@||fabsdeals.com^$generichide
+@@||fakt.pl^$generichide
 @@||fan.pw^$generichide
 @@||farman.*^$generichide
 @@||farmeramania.de^$generichide
@@ -383,6 +388,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||funnyquiz.blog^$generichide
 @@||futeboltv.com^$generichide
 @@||futurezone.de^$generichide
+@@||g1novelas.online^$generichide
 @@||galaxydestek.com^$generichide
 @@||galleryaloud.com^$generichide
 @@||gamehunt.net^$generichide
@@ -393,6 +399,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||geekgiant.in^$generichide
 @@||gestyy.com^$generichide
 @@||getfreebit.*^$generichide
+@@||getfreecourses.me^$generichide
 @@||getinfos.net^$generichide
 @@||getinmac.com^$generichide
 @@||getpocket.*^$generichide
@@ -409,6 +416,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||granmetaliksource.com^$generichide
 @@||gsmarena.com^$generichide
 @@||gsmturkey.net^$generichide
+@@||gtaforum.pl^$generichide
 @@||gutekueche.at^$generichide
 @@||hackinblood.com^$generichide
 @@||hailee-steinfeld.com^$generichide
@@ -419,9 +427,11 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||health-goood.com^$generichide
 @@||healthfary.com^$generichide
 @@||healthykk.com^$generichide
+@@||hevchub.com^$generichide
 @@||hilarie-burton.org^$generichide
 @@||hindibeen.com^$generichide
 @@||htmlweb.ru^$generichide
+@@||hulblog.com^$generichide
 @@||hulkusc.com^$generichide
 @@||huynhhieu.com^$generichide
 @@||iansomerhalderfan.com^$generichide
@@ -465,12 +475,15 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||justlikeyojna.com^$generichide
 @@||justnerd.it^$generichide
 @@||kakkoiisafe.us^$generichide
+@@||katowickisport.pl^$generichide
 @@||ke1.nl^$generichide
 @@||kenkenpuzzle.com^$generichide
+@@||komiupdates.*^$generichide
 @@||konuneydi.com^$generichide
 @@||kooramubashir.com^$generichide
 @@||kpscthulasilogin.info^$generichide
 @@||kriminalukraine.com.ua^$generichide
+@@||kubadownload.com^$generichide
 @@||lamitadmas1.net^$generichide
 @@||lanaparrillabrasil.com^$generichide
 @@||landscapenature.*^$generichide
@@ -484,6 +497,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||liamhemsworth.org^$generichide
 @@||licklink.net^$generichide
 @@||lincedorado.com^$generichide
+@@||lindung.*^$generichide
 @@||link-to.net^$generichide
 @@||linkdrop.net^$generichide
 @@||linkjust.com^$generichide
@@ -498,6 +512,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||livenewsbuzz.com^$generichide
 @@||lizzieolsen.us^$generichide
 @@||lkop.me^$generichide
+@@||lnkjob.com^$generichide
 @@||logrosxbox.com^$generichide
 @@||lookmovie.ag^$generichide
 @@||lucyhaledaily.us^$generichide
@@ -529,6 +544,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||michael-french.net^$generichide
 @@||michelle-trachtenberg.net^$generichide
 @@||mileyupdateuk.com^$generichide
+@@||miniminiplus.pl^$generichide
 @@||miriammcdonald.org^$generichide
 @@||mrtekani.com^$generichide
 @@||mshare.io^$generichide
@@ -539,6 +555,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||mylink.*^$generichide
 @@||myvidster.com^$generichide
 @@||mywrestling.com.pl^$generichide
+@@||naturalhealthy.*^$generichide
 @@||ncaa.com^$generichide
 @@||neko-sama.fr^$generichide
 @@||netdoktor.de^$generichide
@@ -548,6 +565,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||niajax.com^$generichide
 @@||nmac.to^$generichide
 @@||nonsensediamond.online^$generichide
+@@||nooyul.co^$generichide
 @@||noz.de^$generichide
 @@||nudecelebs.pro^$generichide
 @@||nutraceuticalsworld.com^$generichide
@@ -559,6 +577,8 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||olegon.ru^$generichide
 @@||olesyarulin.net^$generichide
 @@||olympine.com^$generichide
+@@||omglyrics.com^$generichide
+@@||omgmusik.com^$generichide
 @@||online-courses.club^$generichide
 @@||onlinevideoconverter.com^$generichide
 @@||openloadtv.*^$generichide
@@ -589,6 +609,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||porndish.com^$generichide
 @@||porngun.net^$generichide
 @@||powerclicks.*^$generichide
+@@||precitaj.si^$generichide
 @@||professionaltutorial.com^$generichide
 @@||profitstudy.*^$generichide
 @@||programinadresi.com^$generichide
@@ -620,9 +641,13 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||samo-tech.com^$generichide
 @@||santacruzsentinel.com^$generichide
 @@||sarapbeh.com^$generichide
+@@||sarkarijobsresultss.com^$generichide
 @@||satoshilabs.net^$generichide
 @@||savevideo.me^$generichide
 @@||sciencelife.*^$generichide
+@@||sehatlega.com^$generichide
+@@||sehatsegar.net^$generichide
+@@||senpa.io^$generichide
 @@||seomafia.net^$generichide
 @@||sexicelebs.ru^$generichide
 @@||sh.st^$generichide
@@ -665,7 +690,9 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||techfinda.com^$generichide
 @@||techjad.com^$generichide
 @@||technoslek.com^$generichide
+@@||teknocyber1.com^$generichide
 @@||teknologilink.com^$generichide
+@@||teletoonplus.pl^$generichide
 @@||televall.*^$generichide
 @@||templink.org^$generichide
 @@||teqniaplus.com^$generichide
@@ -673,6 +700,8 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||tercihiniyap.net^$generichide
 @@||tessa-blanchard.com^$generichide
 @@||thefilmbay.com^$generichide
+@@||thefreech.com^$generichide
+@@||thefreech.com^$generichide
 @@||thegeekyglobe.com^$generichide
 @@||theglobeandmail.com^$generichide
 @@||thehindu.com^$generichide
@@ -693,6 +722,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||topserialy.*^$generichide
 @@||topspeed.sk^$generichide
 @@||topsport.bg^$generichide
+@@||tout-debrid.com^$generichide
 @@||trinity-fatu.net^$generichide
 @@||trishstratus.com^$generichide
 @@||troianbellisario.org^$generichide
@@ -704,7 +734,10 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||tutsgalaxy.com^$generichide
 @@||tv-onlinehd.com^$generichide
 @@||tv.iptvvall.com^$generichide
+@@||tvn24.pl^$generichide
+@@||tvn.pl^$generichide
 @@||tvnow.de^$generichide
+@@||tvnturbo.pl$generichide
 @@||tvple.com^$generichide
 @@||tweaktown.com^$generichide
 @@||twojogrodek.pl^$generichide
@@ -749,6 +782,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||wentworth-miller.org^$generichide
 @@||westernjournal.com^$generichide
 @@||whosampled.com^$generichide
+@@||wikiall.org^$generichide
 @@||windowcleaningforums.co.uk^$generichide
 @@||wishes2.com^$generichide
 @@||wokesloth.com^$generichide
@@ -766,46 +800,12 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||yesmangasbr.com^$generichide
 @@||yumechan.club^$generichide
 @@||zahipedia.net^$generichide
+@@||zalipay.com^$generichide
 @@||zdnet.*^$generichide
 @@||zoe-kravitz.com^$generichide
 @@||zoey-deutch.us^$generichide
 @@||zwergenstadt.com^$generichide
 @@||まったり映画.tokyo^$generichide
-@@||hevchub.com^$generichide
-@@||komiupdates.*^$generichide
-@@||lindung.*^$generichide
-@@||naturalhealthy.*^$generichide
-@@||nooyul.co^$generichide
-@@||omglyrics.com^$generichide
-@@||omgmusik.com^$generichide
-@@||sehatlega.com^$generichide
-@@||sehatsegar.net^$generichide
-@@||senpa.io^$generichide
-@@||getfreecourses.me^$generichide
-@@||g1novelas.online^$generichide
-@@||sarkarijobsresultss.com^$generichide
-@@||lnkjob.com^$generichide
-@@||thefreech.com^$generichide
-@@||alphr.com^$generichide
-@@||closeload.com^$generichide
-@@||tout-debrid.com^$generichide
-@@||hulblog.com^$generichide
-@@||wikiall.org^$generichide
-@@||zalipay.com^$generichide
-@@||thefreech.com^$generichide
-@@||kubadownload.com^$generichide
-@@||precitaj.si^$generichide
-@@||teknocyber1.com^$generichide
-@@||closetopic.site^$generichide
-@@||gtaforum.pl^$generichide
-@@||closetopic.site^$generichide
-@@||fakt.pl^$generichide
-@@||katowickisport.pl^$generichide
-@@||miniminiplus.pl^$generichide
-@@||teletoonplus.pl^$generichide
-@@||tvn24.pl^$generichide
-@@||tvn.pl^$generichide
-@@||tvnturbo.pl$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
