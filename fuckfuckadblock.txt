@@ -794,6 +794,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||zalipay.com^$generichide
 @@||thefreech.com^$generichide
 @@||kubadownload.com^$generichide
+@@||precitaj.si^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -816,8 +817,8 @@ pornolenta.*,jumpboobs.*,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opap
 kinostate.net,pornk.name##+js(abort-current-inline-script.js, encodeURIComponent)
 kinostate.net,pornk.name#%#//scriptlet("abort-current-inline-script", "encodeURIComponent")
 
-thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me##+js(abort-on-property-read.js, anOptions)
-thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me#%#//scriptlet("abort-on-property-read", "anOptions")
+thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me,precitaj.si##+js(abort-on-property-read.js, anOptions)
+thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me,precitaj.si#%#//scriptlet("abort-on-property-read", "anOptions")
 
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com#%#//scriptlet("abort-on-property-read", "HTMLCanvasElement")
