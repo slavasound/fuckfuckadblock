@@ -815,8 +815,8 @@ sciencelife.*,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,earthpiclover.com
 pornolenta.*,jumpboobs.*,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com,pornozima.com,hotfiesta.tv,pornorussia.tv,erkiss.live,porno-chiks.com,sveta.tv,tytporno.online,erovideos.*,pornokrik.com,ebun.me,orgasmhdtube.net,eroxxvideos.tv,pornodiesel.biz,uhtube.cc,uzbum.ru,moviescouch.*##+js(abort-on-property-read.js, encodeURIComponent)
 pornolenta.*,jumpboobs.*,megahdporno.*,pornosveta.net,yaeby.com,porno666.tv,opaporno.com,joxy.me,pornolika.com,arrs.net,xn--80aa3agb.com,potrahushki.*,zagruzi.com,pornozima.com,hotfiesta.tv,pornorussia.tv,erkiss.live,porno-chiks.com,sveta.tv,tytporno.online,erovideos.*,pornokrik.com,ebun.me,orgasmhdtube.net,eroxxvideos.tv,pornodiesel.biz,uhtube.cc,uzbum.ru,moviescouch.*#%#//scriptlet("abort-on-property-read", "encodeURIComponent")
 
-kinostate.net,pornk.name##+js(abort-current-inline-script.js, encodeURIComponent)
-kinostate.net,pornk.name#%#//scriptlet("abort-current-inline-script", "encodeURIComponent")
+kinostate.net,pornk.name,xn--80aa3agbm7d.com##+js(abort-current-inline-script.js, encodeURIComponent)
+kinostate.net,pornk.name,xn--80aa3agbm7d.com#%#//scriptlet("abort-current-inline-script", "encodeURIComponent")
 
 thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me,precitaj.si##+js(abort-on-property-read.js, anOptions)
 thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me,precitaj.si#%#//scriptlet("abort-on-property-read", "anOptions")
@@ -1027,6 +1027,9 @@ jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.n
 notebookcheck.com,notebookcheck.net##+js(abort-current-inline-script.js, document.getElementById, XMLHttpRequest)
 notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "XMLHttpRequest")
 
+pornodoma.tv,orgazmtv.com##+js(abort-on-property-write.js, tnAdditionalParams)
+pornodoma.tv,orgazmtv.com#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
+
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
@@ -1118,7 +1121,7 @@ notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script",
 *$xmlhttprequest,important,third-party,domain=userscloud.com
 *$xmlhttprequest,domain=sexvid.xxx,important
 
-*/*.php$important,script,domain=youx.xxx|hotpornfile.org
+*/*.php$important,script,domain=youx.xxx|hotpornfile.org|orgazmtv.com
 */adb.js$script,domain=allnorilsk.ru
 */adblk-v2.js$script,domain=di.se
 */adblocker-feature$xmlhttprequest,domain=washingtonpost.com
@@ -1559,9 +1562,6 @@ sme.sk#%#//scriptlet("abort-on-property-read", "GoogleContributor")
 
 sportsplays.com#%#//scriptlet("prevent-setTimeout", "abDetected")
 sportsplays.com##+js(setTimeout-defuser.js, abDetected)
-
-pornodoma.tv##+js(abort-on-property-write.js, tnAdditionalParams)
-pornodoma.tv#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
 
 tomshw.it##+js(setTimeout-defuser.js, bioEp.showPopup)
 tomshw.it#%#//scriptlet("prevent-setTimeout", "bioEp.showPopup")
