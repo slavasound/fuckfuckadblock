@@ -1027,8 +1027,8 @@ jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.n
 notebookcheck.com,notebookcheck.net##+js(abort-current-inline-script.js, document.getElementById, XMLHttpRequest)
 notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "XMLHttpRequest")
 
-pornodoma.tv,orgazmtv.com##+js(abort-on-property-write.js, tnAdditionalParams)
-pornodoma.tv,orgazmtv.com#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
+pornodoma.tv,orgazmtv.com,krasivoeporno.tv##+js(abort-on-property-write.js, tnAdditionalParams)
+pornodoma.tv,orgazmtv.com,krasivoeporno.tv#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
 
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
@@ -1121,7 +1121,7 @@ pornodoma.tv,orgazmtv.com#%#//scriptlet("abort-on-property-write", "tnAdditional
 *$xmlhttprequest,important,third-party,domain=userscloud.com
 *$xmlhttprequest,domain=sexvid.xxx,important
 
-*/*.php$important,script,domain=youx.xxx|hotpornfile.org|orgazmtv.com
+*/*.php$important,script,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv
 */adb.js$script,domain=allnorilsk.ru
 */adblk-v2.js$script,domain=di.se
 */adblocker-feature$xmlhttprequest,domain=washingtonpost.com
