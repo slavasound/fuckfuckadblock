@@ -797,6 +797,7 @@ gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 @@||precitaj.si^$generichide
 @@||teknocyber1.com^$generichide
 @@||closetopic.site^$generichide
+@@||gtaforum.pl^$generichide
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
