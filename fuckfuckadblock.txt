@@ -271,8 +271,8 @@ ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,
 convert2mp3.net,vidlox.*,indishare.*,300mbmovies.life,drivehub.*##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net,vidlox.*,indishare.*,300mbmovies.life,drivehub.*#%#//scriptlet("abort-on-property-read", "decodeURIComponent")
 
-openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com##+js(abort-on-property-read.js, open)
-openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com#%#//scriptlet("abort-on-property-read", "open")
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,hotpornfile.org##+js(abort-on-property-read.js, open)
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,hotpornfile.org#%#//scriptlet("abort-on-property-read", "open")
 
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com,xbox360torrent.com,tv.iptvvall.com,animeforce.*,g1novelas.online,maxpark.com,1idsly.com,vabstutorials.com##+js(addEventListener-defuser.js, load, onload)
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com,xbox360torrent.com,tv.iptvvall.com,animeforce.*,g1novelas.online,maxpark.com,1idsly.com,vabstutorials.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
@@ -877,6 +877,8 @@ hotpornfile.org#%#//scriptlet("abort-on-property-write", "popns")
 hotpornfile.org#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "tabUnder")
 hotpornfile.org#%#//scriptlet("prevent-addEventListener", "getexoloader")
 hotpornfile.org##+js(setInterval-defuser.js, _0x)
+hotpornfile.org##+js(abort-current-inline-script.js, postscribe, setTimeout)
+hotpornfile.org#%#//scriptlet("abort-current-inline-script", "postscribe", "setTimeout")
 hotpornfile.org#%#//scriptlet("prevent-setInterval", "_0x")
 
 eporner.*##+js(abort-on-property-read.js, exoDocumentProtocol)
