@@ -1018,3 +1018,6 @@ shink.*#%#//scriptlet("abort-on-property-read", "pup")
 300mbmovies.life##+js(abort-on-property-read.js, XMLHttpRequest)
 300mbmovies.life#%#//scriptlet("abort-on-property-read", "XMLHttpRequest")
 
+game2day.ru##+js(set-constant.js, adblock_open, noopFunc)
+game2day.ru#%#//scriptlet("set-constant", "adblock_open", "noopFunc")
+
