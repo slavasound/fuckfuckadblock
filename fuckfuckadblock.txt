@@ -207,6 +207,7 @@ wize.life###wl-container
 @@||vidoza.net/*/pop.js$script
 @@||www.motortrendondemand.com/advertisements-ad-unit/*$xmlhttprequest,domain=www.motortrendondemand.com
 @@||zdnet.*/advertising.js$script
+@@*/ad.jpg|$image,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -327,8 +328,8 @@ hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,por
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com##+js(abort-on-property-read.js, ExoLoader)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
 
-bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com,imgclick.net##+js(noeval.js)
-bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com,imgclick.net#%#//scriptlet("noeval")
+bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com,imgclick.net,duellinksmeta.com##+js(noeval.js)
+bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com,imgclick.net,duellinksmeta.com#%#//scriptlet("noeval")
 
 rapidvideo.com,otakustream.tv,123movies.*,igg-games.com#%#//scriptlet("abort-current-inline-script", "decodeURI", "getScriptFromCss")
 rapidvideo.com,otakustream.tv,123movies.*,igg-games.com##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
