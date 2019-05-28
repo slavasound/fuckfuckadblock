@@ -152,7 +152,7 @@
 */prof.js$script,domain=lbtube.com
 */sw.js$script,important
 */webpush.ma.js$script,important
-/^https?:\/\/(www)?.*\/adb(locker((\W|\_)?feature)?|p|lk\-v2)?(\.js)?/$important,xmlhttprequest,script,domain=allnorilsk.ru|di.se|mobzon.ru|washingtonpost.com
+/^https?:\/\/(www\.)?.*\/adb(locker((\W|\_)?feature)?|p|lk\-v2)?(\.js)?/$important,xmlhttprequest,script,domain=allnorilsk.ru|di.se|mobzon.ru|washingtonpost.com
 
 1fichier.com##.ct_warn
 @@||pixlr.com^$content,jsinject,badfilter
@@ -518,6 +518,7 @@ olegon.ru,allnorilsk.ru#%#//scriptlet("abort-on-property-read", "onload")
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 
+@@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?((\W|\_).*)?\.js/$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us|blocket.se|rjiblog.org|getinmac.com|lurlo.news|ferrovie.info|infosia.xyz|hopto.org|overclockers.ru|cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv|thedailybeast.com|seo-fast.ru|calciomercato.com|geekspin.co|wetransfer.com|rockstargame.su|swatchseries.to|ktozvonit.com.ua
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/*_ads_*.js$script,domain=bingfeng.tw
 @@*/_ads.js$script,domain=geoguessr.com
@@ -540,12 +541,6 @@ olegon.ru,allnorilsk.ru#%#//scriptlet("abort-on-property-read", "onload")
 @@*/adsbygoogle.js$script,domain=embed.kijk.nl|won.pe|duellinksmeta.com|mediaite.com|spinbot.com
 @@*/adserver.js$script,domain=cyclismactu.net
 @@*/adunit.js$script,domain=brid.tv
-@@*/adv.js$script,domain=seo-fast.ru|calciomercato.com
-@@*/advert.js$script,domain=hopto.org|overclockers.ru|cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv|thedailybeast.com
-@@*/advertisement-*.js$script,domain=geekspin.co
-@@*/advertisement.js$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us|blocket.se|rjiblog.org|getinmac.com|lurlo.news|ferrovie.info|infosia.xyz
-@@*/advertising-*.js$script,domain=wetransfer.com
-@@*/advertising.js$script,domain=rockstargame.su|swatchseries.to|ktozvonit.com.ua
 @@*/gads.js$script,domain=rodzinnywyjazd.pl
 @@*/google_ima.min.js$script,domain=ccmbg.com
 @@*/googlead.js$script,domain=streamcherry.com
