@@ -242,8 +242,8 @@ mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gameh
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*,123movies.*,myvidmate.*,adsrt.*,urlcash.*,2fly.me##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*,123movies.*,myvidmate.*,adsrt.*,urlcash.*,2fly.me#%#//scriptlet("abort-current-inline-script", "atob", "decodeURIComponent")
 
-9xupload.me,tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-9xupload.me,tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
+9xupload.me,tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*,world4ufree.to##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+9xupload.me,tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*,world4ufree.to#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
 
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$popup,third-party,important
 hotpornfile.org,opjav.com$popunder,important
@@ -349,8 +349,8 @@ elsfile.org,link-to.net#%#//scriptlet("prevent-addEventListener", "load", "nextF
 hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*##+js(abort-on-property-write.js, smrtSB)
 hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*#%#//scriptlet("abort-on-property-write", "smrtSB")
 
-anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co##+js(abort-on-property-read.js, Date.prototype.toUTCString)
-anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co#%#//scriptlet("abort-on-property-read", "Date.prototype.toUTCString")
+anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co,world4ufree.com.co##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co,world4ufree.com.co#%#//scriptlet("abort-on-property-read", "Date.prototype.toUTCString")
 
 javplay.me,sembunyi.in,hdstreams.*#%#//scriptlet("abort-on-property-read", "popjs")
 javplay.me,sembunyi.in,hdstreams.*##+js(abort-on-property-read.js, popjs)
