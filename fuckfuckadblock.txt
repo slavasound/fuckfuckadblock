@@ -1024,3 +1024,6 @@ game2day.ru#%#//scriptlet("set-constant", "adblock_open", "noopFunc")
 theguardian.com##+js(abort-current-inline-script.js, InstallTrigger, ad-blocker)
 theguardian.com#%#//scriptlet("abort-current-inline-script", "InstallTrigger", "ad-blocker")
 
+ddl-music.*##+js(abort-current-inline-script.js, $, ddlpop)
+ddl-music.*#%#//scriptlet("abort-current-inline-script", "$", "ddlpop")
+
