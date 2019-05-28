@@ -242,16 +242,16 @@ mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gameh
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*,123movies.*,myvidmate.*,adsrt.*,urlcash.*,2fly.me##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*,123movies.*,myvidmate.*,adsrt.*,urlcash.*,2fly.me#%#//scriptlet("abort-current-inline-script", "atob", "decodeURIComponent")
 
-9xupload.me,tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*,world4ufree.to##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-9xupload.me,tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*,world4ufree.to#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
+9xupload.me,tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*,world4ufree.to,desiupload.info,300mbfree4u.org,upgrand.*,uploadbaz.net##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+9xupload.me,tamiltunes.*,arenavision.*,ver-pelis.*,dailyimages.*,full-stream.co,skiehacker.weebly.com,cpmlink.net,movies1234.net,123moviesgot.com,movie-blog.*,world4ufree.to,desiupload.info,300mbfree4u.org,upgrand.*,uploadbaz.net#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
 
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$popup,third-party,important
 hotpornfile.org,opjav.com$popunder,important
 imgmaze.pw,imgrock.pw,opjav.com$popunder,third-party,important
 jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.net$popup,important
-sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*,enyenifilmizlet.com,fullhdfilmizleten.org,eporner.*,adsrt.*,porndr.com,tmohentai.com,goovie.co,samlab.*,dwrfslsqpdfqfwy.net,jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.net,imgsin.com,imgspice.com,bc.vc,imgsee.*,zeefiles.*,opjav.com,fembed.com,techcraze.online,xn--80aa3agbm7d.com,pornohype.cc,tolko-russkoe.com,pornosexrolik.com,porno-hd.xxx,novaenreta.space,sloomp.space,likn.xyz,stratege.ru,ecoimages.xyz##+js(window.open-defuser.js)
-sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*,enyenifilmizlet.com,fullhdfilmizleten.org,eporner.*,adsrt.*,porndr.com,tmohentai.com,goovie.co,samlab.*,dwrfslsqpdfqfwy.net,jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.net,imgsin.com,imgspice.com,bc.vc,imgsee.*,zeefiles.*,opjav.com,fembed.com,techcraze.online,xn--80aa3agbm7d.com,pornohype.cc,tolko-russkoe.com,pornosexrolik.com,porno-hd.xxx,novaenreta.space,sloomp.space,likn.xyz,stratege.ru,ecoimages.xyz#%#//scriptlet("prevent-window-open")
-sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*,enyenifilmizlet.com,fullhdfilmizleten.org,eporner.*,adsrt.*,porndr.com,tmohentai.com,goovie.co,samlab.*,dwrfslsqpdfqfwy.net,jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.net,imgsin.com,imgspice.com,bc.vc,imgsee.*,zeefiles.*,opjav.com,fembed.com,techcraze.online,xn--80aa3agbm7d.com,pornohype.cc,tolko-russkoe.com,pornosexrolik.com,porno-hd.xxx,novaenreta.space,sloomp.space,likn.xyz,stratege.ru,ecoimages.xyz$popup,third-party,important
+sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*,enyenifilmizlet.com,fullhdfilmizleten.org,eporner.*,adsrt.*,porndr.com,tmohentai.com,goovie.co,samlab.*,dwrfslsqpdfqfwy.net,jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.net,imgsin.com,imgspice.com,bc.vc,imgsee.*,zeefiles.*,opjav.com,fembed.com,techcraze.online,xn--80aa3agbm7d.com,pornohype.cc,tolko-russkoe.com,pornosexrolik.com,porno-hd.xxx,novaenreta.space,sloomp.space,likn.xyz,stratege.ru,ecoimages.xyz,uploadbaz.net##+js(window.open-defuser.js)
+sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*,enyenifilmizlet.com,fullhdfilmizleten.org,eporner.*,adsrt.*,porndr.com,tmohentai.com,goovie.co,samlab.*,dwrfslsqpdfqfwy.net,jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.net,imgsin.com,imgspice.com,bc.vc,imgsee.*,zeefiles.*,opjav.com,fembed.com,techcraze.online,xn--80aa3agbm7d.com,pornohype.cc,tolko-russkoe.com,pornosexrolik.com,porno-hd.xxx,novaenreta.space,sloomp.space,likn.xyz,stratege.ru,ecoimages.xyz,uploadbaz.net#%#//scriptlet("prevent-window-open")
+sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimbo.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,pantsu.cat,stiffgamerdown.com,xnxx.com,xvideos.com,clipwatching.com,money.pl,datoporn.co,speedvid.net,payco.*,satoshilabs.net,linkrag.com,ver-pelis.*,tv-onlinehd.com,kastream.biz,twojetv.ws,software-on.com,upload.*,streamango.com,sbsports.pro,axjbt.com,avcao.cc,empflix.com,ouo.*,ourl.io,henpoi.in,tmearn.*,entervideo.net,blogspot.com,upvid.*,vidoza.net,tmearn.com,vev.io,rapidvideo.com,userscloud.com,clik.*,streamcherry.com,youx.xxx,cutpaid.com,imgdew.*,imgoutlet.*,imgtown.*,imgview.*,enyenifilmizlet.com,fullhdfilmizleten.org,eporner.*,adsrt.*,porndr.com,tmohentai.com,goovie.co,samlab.*,dwrfslsqpdfqfwy.net,jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.net,imgsin.com,imgspice.com,bc.vc,imgsee.*,zeefiles.*,opjav.com,fembed.com,techcraze.online,xn--80aa3agbm7d.com,pornohype.cc,tolko-russkoe.com,pornosexrolik.com,porno-hd.xxx,novaenreta.space,sloomp.space,likn.xyz,stratege.ru,ecoimages.xyz,uploadbaz.net$popup,third-party,important
 
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com,gamesource.it##+js(abort-on-property-read.js, adBlockDetected)
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com,gamesource.it#%#//scriptlet("abort-on-property-read", "adBlockDetected")
@@ -388,11 +388,11 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*,imgrock.*#%#//scriptlet("abort-on-prope
 imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader.addZone)
 imgdew.*,imgmaze.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
 
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
 
-123movies.*,moviescouch.*##+js(abort-on-property-write.js, decodeURIComponent)
-123movies.*,moviescouch.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
+123movies.*,moviescouch.*,desiupload.*##+js(abort-on-property-write.js, decodeURIComponent)
+123movies.*,moviescouch.*,desiupload.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
 
 rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*##+js(popads.net.js)
 rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*#%#//scriptlet("prevent-popads-net")
@@ -476,8 +476,11 @@ olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", 
 hotpornfile.org,ecoimages.xyz#%#//scriptlet("prevent-addEventListener", "getexoloader")
 hotpornfile.org,ecoimages.xyz##+js(addEventListener-defuser.js, getexoloader)
 
-9xupload.me,fembed.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
-9xupload.me,fembed.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+9xupload.me,fembed.com,uploadbaz.net#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
+9xupload.me,fembed.com,uploadbaz.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+
+desiupload.in,upgrand.*##+js(abort-on-property-write.js, encodeURIComponent)
+desiupload.in,upgrand.*#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
 
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
@@ -1022,4 +1025,7 @@ swatchseries.to#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "tr
 
 9xupload.me##+js(setInterval-defuser.js, (), 500)
 9xupload.me#%#//scriptlet("prevent-setInterval", "value", "500")
+
+upgrand.*##+js(addEventListener-defuser.js, click)
+upgrand.*#%#//scriptlet("prevent-addEventListener", "click")
 
