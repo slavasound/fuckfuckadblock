@@ -469,8 +469,8 @@ ouo.*,shink.*#%#//scriptlet("abort-on-property-read", "jsPopunder")
 clk.*,1921681254.tech##+js(set-constant.js, blockAdBlock, true)
 clk.*,1921681254.tech#%#//scriptlet("set-constant", "blockAdBlock", "true")
 
-olegon.ru,allnorilsk.ru##+js(abort-on-property-read.js, onload)
-olegon.ru,allnorilsk.ru#%#//scriptlet("abort-on-property-read", "onload")
+olegon.ru,allnorilsk.ru,hotpornfile.org##+js(abort-on-property-read.js, onload)
+olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", "onload")
 
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
