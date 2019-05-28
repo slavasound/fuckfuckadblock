@@ -523,18 +523,6 @@ olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", 
 @@*/*.ad.json$xmlhttprequest,domain=muzlan.top
 @@*/_ads/*.js$script,domain=geoguessr.com
 @@*/ad-block-detector.js$script,domain=ncaa.com
-@@*/ad-server.js$script,domain=politiken.dk
-@@*/adIFrame.js$script,domain=bahnbonus-shopping.de|bahnbonus-shoppingwelt.de
-@@*/adblock.js$script,domain=svapo.it
-@@*/adblockDetect.js$xmlhttprequest,domain=atv.com.tr
-@@*/adblockdetectorwithga.js$domain=fox.com.tr,script
-@@*/adetectads.js$script,domain=jav777.cc
-@@*/adforce.js$script,domain=anistar.org
-@@*/adframe.js$script,domain=kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net|extremereportbot.com
-@@*/adjs.js$domain=atresplayer.com,script
-@@*/adsbygoogle.js$script,domain=embed.kijk.nl|won.pe|duellinksmeta.com|mediaite.com|spinbot.com
-@@*/adserver.js$script,domain=cyclismactu.net
-@@*/adunit.js$script,domain=brid.tv
 @@*/gads.js$script,domain=rodzinnywyjazd.pl
 @@*/google_ima.min.js$script,domain=ccmbg.com
 @@*/googlead.js$script,domain=streamcherry.com
@@ -547,7 +535,8 @@ olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", 
 @@*/show_ads.js$script,domain=mp3.teledyski.info|rjno1.com
 @@*/showads.js$script,domain=cnbc.com|sbsports.pro|dmntsf.net|spinbot.com|watch32hd.org
 @@*/videojs-contrib-ads$stylesheet,xmlhttprequest,domain=debilizator.tv
-@@/^https?:\/\/(www\.)?.*\/(\W|\_)?ad[sb]((\W|\_).*|\.min)?\.js/$script,xmlhttprequest,domain=geoguessr.com|playtor.tv|duellinksmeta.com|mustget.ru|qrz.ru|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com|extremereportbot.com|mshare.io|androidplanet.nl|khl.ru|0rechner.de|webcamera.pl|ratemyteachers.com|sub2unlock.net|pasty.link|mp4upload.com|gq-magazine.co.uk|anime-vf.fr|gelbooru.com|it-actual.ru|freepsdvn.com|certifychat.com|australianfrequentflyer.com.au|reactiongaming.us|verifyemailaddress.io|thehindu.com
+@@/^https?:\/\/(www\.)?.*\/(\W|\_)?ad[sb]((\W|\_).*|\.min)?\.js/$script,xmlhttprequest,domain=geoguessr.com|playtor.tv|duellinksmeta.com|mustget.ru|qrz.ru|coop-land.ru|teleportal.ua|serpadres.es|masterchef.stb.ua|bspin.club|icegay.tv|gayporno.fm|sexicelebs.ru|nudecelebs.pro|wotlk.evowow.com|anitube.site|mshare.io|web2.0calc.com|pleshka.com|ynet.co.il|kinokrad.co|version2.dk|foxplay.com.tr|aargauerzeitung.ch|minecraft-schematics.com|noz.de|kanald.com.tr|mercurynews.com|featurecompare.com|extremereportbot.com|mshare.io|androidplanet.nl|khl.ru|0rechner.de|webcamera.pl|ratemyteachers.com|sub2unlock.net|pasty.link|mp4upload.com|gq-magazine.co.uk|anime-vf.fr|gelbooru.com|it-actual.ru|freepsdvn.com|certifychat.com|australianfrequentflyer.com.au|reactiongaming.us|verifyemailaddress.io|thehindu.com|fox.com.tr
+@@/^https?:\/\/(www\.)?.*\/ads?((\W|\_)?server|js|[Ii]?[Ff]rame|block([Dd]etect(or[Ww]ith[Gg][Aa])?)?|etect(ads)?|force|unit|bygoogle)?((\W|\_).*|\.min)?\.js/$xmlhttprequest,script,domain=politiken.dk|atresplayer.com|bingfeng.tw|bahnbonus-shopping.de|bahnbonus-shoppingwelt.de|svapo.it|atv.com.tr|fox.com.tr|jav777.cc|kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net|extremereportbot.com|anistar.org|cyclismactu.net|brid.tv|embed.kijk.nl|won.pe|duellinksmeta.com|mediaite.com|spinbot.com
 @@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?((\W|\_).*)?\.js/$xmlhttprequest,script,domain=alghad.com|nohat.cc|kertashitam.com|teknologilink.com|arkowcy.pl|cyfostreams.com|vw-page.com|uploadship.com|atresplayer.com|bolgegundem.com|clksite.com|haaretz.com|uploadbox.io|insurance-info.us|blocket.se|rjiblog.org|getinmac.com|lurlo.news|ferrovie.info|infosia.xyz|hopto.org|overclockers.ru|cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv|thedailybeast.com|seo-fast.ru|calciomercato.com|geekspin.co|wetransfer.com|rockstargame.su|swatchseries.to|ktozvonit.com.ua|schwaebische.de
 
 *$script,third-party,important,domain=igg-games.com|shtlink.co|shtme.co
