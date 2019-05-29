@@ -1039,4 +1039,6 @@ imageshtorm.com#%#//scriptlet("abort-current-inline-script", "document.createEle
 hqq.*##+js(abort-on-property-write.js, smrtSP)
 hqq.*#%#//scriptlet("abort-on-property-write", "smrtSP")
 
+hqq.tv##+js(abort-on-property-read.js, mscript)
+hqq.tv#%#//scriptlet("abort-on-property-read", "mscript")
 
