@@ -1042,3 +1042,6 @@ hqq.*#%#//scriptlet("abort-on-property-write", "smrtSP")
 hqq.tv##+js(abort-on-property-read.js, mscript)
 hqq.tv#%#//scriptlet("abort-on-property-read", "mscript")
 
+satellite-calculations.com##+js(set-constant.js, blck_enabled, false)
+satellite-calculations.com#%#//scriptlet("set-constant", "blck_enabled", "false")
+
