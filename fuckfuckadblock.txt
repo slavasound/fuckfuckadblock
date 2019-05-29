@@ -348,8 +348,8 @@ xxxonxxx.com,3prn.com,spankwire.com#%#//scriptlet("set-constant", "ExoLoader.ser
 elsfile.org,link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 elsfile.org,link-to.net#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
 
-hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*##+js(abort-on-property-write.js, smrtSB)
-hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*#%#//scriptlet("abort-on-property-write", "smrtSB")
+hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*,seriesgato.tv##+js(abort-on-property-write.js, smrtSB)
+hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*,seriesgato.tv#%#//scriptlet("abort-on-property-write", "smrtSB")
 
 anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co,world4ufree.com.co##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co,world4ufree.com.co#%#//scriptlet("abort-on-property-read", "Date.prototype.toUTCString")
@@ -524,6 +524,7 @@ hotpornfile.org,underpic.club#%#//scriptlet("abort-on-property-read", "document.
 ||rule34hentai.net^$script,~third-party
 ||samlab.*/samlab.js$script
 ||ver-pelis.*^$third-party,important
+||welect.de^$third-party
 |http*://$important,script,third-party,domain=fembed.com
 
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$important,csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.molyusercontentstage.me *.vidmoly.me
