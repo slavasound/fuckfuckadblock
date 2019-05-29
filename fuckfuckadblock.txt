@@ -863,9 +863,6 @@ freeopenvpn.org#%#//scriptlet("set-constant", "adBlock", "false")
 nutraceuticalsworld.com##+js(abort-on-property-read.js, adblockerpopup)
 nutraceuticalsworld.com#%#//scriptlet("abort-on-property-read", "adblockerpopup")
 
-hqq.*##+js(abort-on-property-read.js, mscript)
-hqq.*#%#//scriptlet("abort-on-property-read", "mscript")
-
 eldia.es##+js(set-constant.js, pr_okvalida, true)
 eldia.es#%#//scriptlet("set-constant", "pr_okvalida", "true")
 
@@ -1038,4 +1035,8 @@ mshelxxx.ru.com#%#//scriptlet("set-constant", "String.fromCharCode", "noopFunc")
 
 imageshtorm.com##+js(abort-current-inline-script.js, document.createElement, 'script')
 imageshtorm.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
+
+hqq.*##+js(abort-on-property-write.js, smrtSP)
+hqq.*#%#//scriptlet("abort-on-property-write", "smrtSP")
+
 
