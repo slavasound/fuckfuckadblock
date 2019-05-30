@@ -475,8 +475,8 @@ clk.*,1921681254.tech#%#//scriptlet("set-constant", "blockAdBlock", "true")
 olegon.ru,allnorilsk.ru,hotpornfile.org##+js(abort-on-property-read.js, onload)
 olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", "onload")
 
-hotpornfile.org,ecoimages.xyz,xaoutchouc.live#%#//scriptlet("prevent-addEventListener", "getexoloader")
-hotpornfile.org,ecoimages.xyz,xaoutchouc.live##+js(addEventListener-defuser.js, getexoloader)
+hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site#%#//scriptlet("prevent-addEventListener", "getexoloader")
+hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site##+js(addEventListener-defuser.js, getexoloader)
 
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
