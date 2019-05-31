@@ -158,6 +158,7 @@
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 ||adshorte.com^$csp=script-src 'self' 'unsafe-inline' data: *.google.com *.gstatic.com *.google-analytics.com
+||rule34hentai.net^$csp=script-src 'self' 'unsafe-inline' *.googleapis.com *.cloudflare.com *.fluidplayer.com *.google.com *.gstatic.com *.google-analytics.com
 
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
@@ -177,7 +178,9 @@
 @@||geoguessr.com/_ads/$script
 @@||hit.stat24.com/$xmlhttprequest,domain=polsatnews.pl
 @@||imgtown.net^$script,domain=imgtown.pw|imgtown.net
+@@||fluidplayer.com^$script,domain=rule34hentai.net
 @@||motortrendondemand.com/advertisements-ad-unit/$xmlhttprequest,domain=motortrendondemand.com
+||samlab.ws/samlab.js$script
 ||rp5.*/scripts/main.*.js$script
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,third-party
 ||9anime.*^$script,~third-party
@@ -319,8 +322,8 @@ herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 diariodenavarra.es,t66y.com##+js(set-constant.js, Math.random, trueFunc)
 diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*##+js(popads-dummy.js)
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*#%#//scriptlet("set-popads-dummy")
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net##+js(popads-dummy.js)
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net#%#//scriptlet("set-popads-dummy")
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com##+js(abort-on-property-read.js, ExoLoader)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
@@ -373,8 +376,8 @@ ceesty.com,gestyy.com,clkmein.com,viid.me#%#//scriptlet("set-constant", "adsBloc
 menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
 menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
 
-hdvid.*,leporno.org,fastplay.*##+js(abort-current-inline-script.js, atob, tabunder)
-hdvid.*,leporno.org,fastplay.*#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
+hdvid.*,leporno.org,fastplay.*,rule34hentai.net##+js(abort-current-inline-script.js, atob, tabunder)
+hdvid.*,leporno.org,fastplay.*,rule34hentai.net#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
 
 studopedia.com.ua,lektsii.org##+js(abort-current-inline-script.js, detectAdblk)
 studopedia.com.ua,lektsii.org#%#//scriptlet("abort-current-inline-script", "detectAdblk")
