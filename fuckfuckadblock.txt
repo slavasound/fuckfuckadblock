@@ -140,7 +140,7 @@
 @@/^https?:\/\/(www\.)?.*\/g?ads?((\W|\_)?server|js|[Ii]?[Ff]rame|(\W|\_)?block([Dd]etect(or([Ww]ith[Gg][Aa])?)?)?|etect(ads)?|force|unit|bygoogle)?((\W|\_).*|\.min)?\.js/$xmlhttprequest,script,domain=politiken.dk|atresplayer.com|bingfeng.tw|bahnbonus-shopping.de|bahnbonus-shoppingwelt.de|svapo.it|atv.com.tr|fox.com.tr|jav777.cc|kenkenpuzzle.com|beelink.in|3dtuning.com|clipwatching.com|habbowert.de|laradiobbs.net|extremereportbot.com|anistar.org|cyclismactu.net|brid.tv|embed.kijk.nl|won.pe|duellinksmeta.com|mediaite.com|spinbot.com|ncaa.com|rodzinnywyjazd.pl|nekopoi.ga|nekopoi.care|nekopoi.lol
 @@/^https?:\/\/(www\.)?.*\/google(ads?|([_-]?ima)?\.min)\.js/$script,domain=ccmbg.com|streamcherry.com|topserialy.to|getintopc.com|unique-tutorials.info|solvetube.site
 @@/^https?:\/\/(www\.)?.*\/show(\W|\_)?[Aa]ds\.js/$script,domain=cnbc.com|sbsports.pro|dmntsf.net|spinbot.com|watch32hd.org|mp3.teledyski.info|rjno1.com|golem.de
-@@/^https?:\/\/.*?(freevpn4you.net\/ads\/|freeopenvpn.org\/units\/|all-episodes.tv\/ad\/banner\/|(nf|cc|cn|fox)\-fan\.tv\/images\/ad\.jpg)/$image,xmlhttprequest,domain=all-episodes.tv|freeopenvpn.org|freevpn4you.net|nf-fan.tv|cc-fan.tv|cn-fan.tv|fox-fan.tv
+@@/^https?:\/\/.*?(freevpn4you\.net\/ads\/|freeopenvpn\.org\/units\/|all\-episodes\.tv\/ad\/banner\/|(nf|cc|cn|fox)\-fan\.tv\/images\/ad\.jpg)/$image,xmlhttprequest,domain=all-episodes.tv|freeopenvpn.org|freevpn4you.net|nf-fan.tv|cc-fan.tv|cn-fan.tv|fox-fan.tv
 
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$important,csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.molyusercontentstage.me *.vidmoly.me
 ||admew.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.googletagmanager.com *.gstatic.com
