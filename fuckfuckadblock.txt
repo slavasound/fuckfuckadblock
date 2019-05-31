@@ -186,9 +186,7 @@
 ||popads.net/pop.js$script,empty,important
 ||popads.net/pop.js$script,redirect=noopjs,important
 
-*$script,third-party,domain=igg-games.com|shtlink.co|shtme.co|fembed.com
-*$script,third-party,xmlhttprequest,domain=rule34hentai.net
-*$third-party,script,domain=linkdrop.net
+*$script,third-party,domain=igg-games.com|shtlink.co|shtme.co|fembed.com|linkdrop.net
 *$xmlhttprequest,domain=sexvid.xxx
 *$xmlhttprequest,third-party,domain=userscloud.com
 @@*$xmlhttprequest,domain=muzlan.top|programiz.com
