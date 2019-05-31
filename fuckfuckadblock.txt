@@ -164,58 +164,11 @@
 /^https?:\/\/(www\.)?.*\/adb(locker((\W|\_)?feature)?|p|lk\-v2)?(\.js)?/$important,xmlhttprequest,script,domain=allnorilsk.ru|di.se|mobzon.ru|washingtonpost.com
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$popup,third-party,important
 
-*/*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv
-*/blockadblock-$script,empty
-*/blockadblock-$script,redirect=fuckadblock.js-3.2.0
-*/blockadblock.$script,empty
-*/blockadblock.$script,redirect=fuckadblock.js-3.2.0
-*/chaturbate.js$script,important
-*/checker.js$script,domain=ruanyifeng.com
-*/core.min.js$script,empty,domain=rusfishing.ru
-*/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
-*/fuckadblock-$script,empty
-*/fuckadblock-$script,redirect=fuckadblock.js-3.2.0
-*/fuckadblock.$script,empty
-*/fuckadblock.$script,redirect=fuckadblock.js-3.2.0
-*/googima.js$script,empty
-*/googima.js$script,redirect=noopjs
-*/prof.js$script,domain=lbtube.com
-*/sw.js$script,important,empty
-*/sw.js$script,important,redirect=noopjs
-*/webpush.ma.js$script,important
-||popads.net/pop.js$script,empty,important
-||popads.net/pop.js$script,redirect=noopjs,important
-
 *$script,third-party,domain=igg-games.com|shtlink.co|shtme.co|fembed.com|linkdrop.net
 *$xmlhttprequest,domain=sexvid.xxx
 *$xmlhttprequest,third-party,domain=userscloud.com
+*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv
 @@*$xmlhttprequest,domain=muzlan.top|programiz.com
-
-1fichier.com##.ct_warn
-@@||pixlr.com^$content,jsinject,badfilter
-alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
-arstechnica.com##.ars-appeal-container
-avgle.com##center > div > a[target="_blank"]
-beforeitsnews.com###ad-message
-d-navi004.com###snsbox
-forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
-full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
-gamesubject.com###headb
-gelbooru.com##a[href*="/track/"][target="_blank"]
-gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
-getrelax.club,javfree.club###main_content:style(display: block !important;)
-getrelax.club,javfree.club##.loaded-popup-wrapper
-getrelax.club,javfree.club#$##adisblock { display: none!important; }
-imgmonkey.com##A[href$=".html"][rel="nofollow norefferer noopener"]
-ksta.de,express.de###wl-overlay-wrapper
-macwelt.de##.standard.marketplace:has-text(-Anzeige-)
-ocen-piwo.pl###osiemnascielat
-pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
-pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
-rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
-rusfishing.ru##.samBannerUnit
-windowscentral.com##.swal-modal, .swal-overlay
-wize.life###wl-container
 
 @@||9anime.*/assets/$script
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
@@ -230,12 +183,29 @@ wize.life###wl-container
 ||9anime.*^$script,~third-party
 ||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 
-||imasdk.googleapis.com^$redirect=noopjs,script,domain=debilizator.tv,important
-||imasdk.googleapis.com^$empty,script,domain=debilizator.tv,important
+*/blockadblock-$script,empty
+*/blockadblock-$script,redirect=fuckadblock.js-3.2.0
+*/blockadblock.$script,empty
+*/blockadblock.$script,redirect=fuckadblock.js-3.2.0
+*/core.min.js$script,empty,domain=rusfishing.ru
+*/core.min.js$script,redirect=noopjs,domain=rusfishing.ru
+*/fuckadblock-$script,empty
+*/fuckadblock-$script,redirect=fuckadblock.js-3.2.0
+*/fuckadblock.$script,empty
+*/fuckadblock.$script,redirect=fuckadblock.js-3.2.0
+*/googima.js$script,empty
+*/googima.js$script,redirect=noopjs
+*/prof.js$script,domain=lbtube.com
+*/sw.js$script,important,empty
+*/sw.js$script,important,redirect=noopjs
 ||cdn.zomap.de^$media,empty,domain=prosieben.de
 ||cdn.zomap.de^$media,redirect=noopmp3-0.1s,domain=prosieben.de
 ||damoh.tvnow.de/*$media,empty,domain=tvnow.de
 ||damoh.tvnow.de/*$media,redirect=noopmp3-0.1s,domain=tvnow.de
+||imasdk.googleapis.com^$empty,script,domain=debilizator.tv,important
+||imasdk.googleapis.com^$redirect=noopjs,script,domain=debilizator.tv,important
+||popads.net/pop.js$script,empty,important
+||popads.net/pop.js$script,redirect=noopjs,important
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl,chicoer.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
