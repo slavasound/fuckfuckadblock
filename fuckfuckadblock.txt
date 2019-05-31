@@ -228,8 +228,9 @@ wize.life###wl-container
 @@||imgtown.net^$script,domain=imgtown.pw|imgtown.net
 @@||motortrendondemand.com/advertisements-ad-unit/$xmlhttprequest,domain=motortrendondemand.com
 ||rp5.*/scripts/main.*.js$script
-||d1wa9546y9kg0n.cloudfront.net/index.js$script
+||d1wa9546y9kg0n.cloudfront.net/index.js$script,third-party
 ||9anime.*^$script,~third-party
+||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 
 ||imasdk.googleapis.com^$redirect=noopjs,script,domain=debilizator.tv,important
 ||imasdk.googleapis.com^$empty,script,domain=debilizator.tv,important
@@ -522,6 +523,9 @@ hotpornfile.org,underpic.club#%#//scriptlet("abort-on-property-read", "document.
 clik.*,pasty.link##+js(setTimeout-defuser.js, _0x)
 clik.*,pasty.link#%#//scriptlet("prevent-setTimeout", "_0x")
 
+axjbt.com,avcao.cc#%#//scriptlet("abort-on-property-read", "myclick")
+axjbt.com,avcao.cc##+js(abort-on-property-read.js, myclick)
+
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 
@@ -704,9 +708,6 @@ vidlox.*#%#//scriptlet("set-constant", "popns", "true")
 autocar.co.uk##+js(abort-on-property-read.js, InstallTrigger)
 autocar.co.uk#%#//scriptlet("abort-on-property-read", "InstallTrigger")
 
-axjbt.com#%#//scriptlet("abort-on-property-read", "myclick")
-axjbt.com##+js(abort-on-property-read.js, myclick)
-
 wickedsick.tv#%#//scriptlet("abort-current-inline-script", "spot", "/api\/direct/")
 wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
 
@@ -715,9 +716,6 @@ anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
 
 hdpornvideo.xxx#%#//scriptlet("abort-on-property-read", "TrybbBlock")
 hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
-
-avcao.cc#%#//scriptlet("abort-on-property-read", "myclick")
-avcao.cc##+js(abort-on-property-read.js, myclick)
 
 uploadrar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "bannerad")
 uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
