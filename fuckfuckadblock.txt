@@ -180,6 +180,8 @@ rusfishing.ru##.samBannerUnit
 windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
 
+@@*/ad.jpg|$image,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
+@@||9anime.*/assets/$script
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 @@||all-episodes.tv/*/downretl.js$script,domain=all-episodes.tv
 @@||all-episodes.tv/ad/banner/$xmlhttprequest,domain=all-episodes.tv
@@ -190,10 +192,10 @@ wize.life###wl-container
 @@||freevpn4you.net/ads/*$image
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com
 @@||getfreebit.*/advertisement.js$script
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=polsatnews.pl
-@@||hit.stat24.com/$xmlhttprequest,domain=polsatnews.pl
 @@||hdrezka.*/ads.js$script
+@@||hit.stat24.com/$xmlhttprequest,domain=polsatnews.pl
 @@||homegrownfreaks.net/player/player_ads.html$subdocument
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=polsatnews.pl
 @@||imgtown.net^$script,domain=imgtown.pw
 @@||muzlan.top^$xmlhttprequest,domain=muzlan.top
 @@||mystream.*/pop.js$script
@@ -207,10 +209,8 @@ wize.life###wl-container
 @@||upvid.*/pop.js$script
 @@||vidoza.net/*/ads.js$script
 @@||vidoza.net/*/pop.js$script
-@@||9anime.*/assets/$script
 @@||www.motortrendondemand.com/advertisements-ad-unit/*$xmlhttprequest,domain=www.motortrendondemand.com
 @@||zdnet.*/advertising.js$script
-@@*/ad.jpg|$image,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -500,8 +500,10 @@ clik.*,pasty.link#%#//scriptlet("prevent-setTimeout", "_0x")
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important,domain=lbtube.com|icegay.tv|gayporno.fm
 |http*://$image,domain=ip.cn,badfilter
+|http*://$important,script,third-party,domain=fembed.com
 |http://$third-party,script,domain=linkdrop.net
 |https://$script,third-party,xmlhttprequest,domain=rule34hentai.net
+||9anime.*^$script,~third-party
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
 ||avcao.cc/js/p.js$domain=axjbt.com,script,important
 ||axjbt.com/dbxf/pctc.js$domain=axjbt.com,script,important
@@ -529,8 +531,6 @@ clik.*,pasty.link#%#//scriptlet("prevent-setTimeout", "_0x")
 ||samlab.*/samlab.js$script
 ||ver-pelis.*^$third-party,important
 ||welect.de^$third-party
-||9anime.*^$script,third-party
-|http*://$important,script,third-party,domain=fembed.com
 
 /^https?:\/\/(www\.)?dizimag([0-9]{1})\./$important,csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.molyusercontentstage.me *.vidmoly.me
 ||admew.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.googletagmanager.com *.gstatic.com
