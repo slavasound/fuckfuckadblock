@@ -312,8 +312,8 @@ getrelax.club,javfree.club#%#//scriptlet("abort-current-inline-script", "documen
 streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co,eporner.*,imgmonkey.com,animeforce.*##+js(abort-on-property-read.js, BetterJsPop)
 streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co,eporner.*,imgmonkey.com,animeforce.*#%#//scriptlet("abort-on-property-read", "BetterJsPop")
 
-stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to$webrtc,important
-stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to##+js(nowebrtc.js)
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net$webrtc,important
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.*,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net##+js(nowebrtc.js)
 
 ||pagead2.googlesyndication.com/pagead/$script,empty,domain=herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk|gidoroom.ru|tanked.io|mylink.how|mylink.zone|mylink.us
 ||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk|gidoroom.ru|tanked.io|mylink.how|mylink.zone|mylink.us
@@ -971,10 +971,8 @@ xopenload.me#%#//scriptlet("set-constant", "jsUnda", "noopFunc")
 animeforce.*##+js(abort-on-property-read.js, popns)
 animeforce.*#%#//scriptlet("abort-on-property-read", "popns")
 
-pluspremieres.*##+js(setTimeout-defuser.js, dequeue)
-pluspremieres.*#%#//scriptlet("prevent-setTimeout", "dequeue")
-pluspremieres.*#%#//scriptlet("prevent-setTimeout", "replace")
-pluspremieres.*##+js(setTimeout-defuser.js, replace)
+pluspremieres.*##+js(setTimeout-defuser.js, adv)
+pluspremieres.*#%#//scriptlet("prevent-setTimeout", "adv")
 pluspremieres.*##+js(setInterval-defuser.js)
 pluspremieres.*#%#//scriptlet("prevent-setInterval")
 
