@@ -215,6 +215,30 @@
 ||popads.net/pop.js$script,redirect=noopjs,important
 
 inoreader.com###sinner_container
+1fichier.com##.ct_warn
+@@||pixlr.com^$content,jsinject,badfilter
+alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
+arstechnica.com##.ars-appeal-container
+avgle.com##center > div > a[target="_blank"]
+beforeitsnews.com###ad-message
+d-navi004.com###snsbox
+forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
+full-stream.co##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
+gamesubject.com###headb
+gelbooru.com##a[href*="/track/"][target="_blank"]
+gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
+getrelax.club,javfree.club###main_content:style(display: block !important;)
+getrelax.club,javfree.club##.loaded-popup-wrapper
+getrelax.club,javfree.club#$##adisblock { display: none!important; }
+imgmonkey.com##A[href$=".html"][rel="nofollow norefferer noopener"]
+ksta.de,express.de###wl-overlay-wrapper
+ocen-piwo.pl###osiemnascielat
+pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
+pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
+rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
+rusfishing.ru##.samBannerUnit
+windowscentral.com##.swal-modal, .swal-overlay
+wize.life###wl-container
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl,chicoer.com,ad4msan.*,onet.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
