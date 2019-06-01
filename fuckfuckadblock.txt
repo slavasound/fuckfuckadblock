@@ -1022,6 +1022,3 @@ adshorte.*#%#//scriptlet("abort-on-property-write", "window.open")
 24-info.info##+js(abort-current-inline-script.js, Math.random)
 24-info.info#%#//scriptlet("abort-current-inline-script", "Math.random")
 
-adyou.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, bypassEventsInProxies)
-adyou.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "bypassEventsInProxies")
-
