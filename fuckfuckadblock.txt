@@ -209,8 +209,8 @@
 ||damoh.tvnow.de/*$media,redirect=noopmp3-0.1s,domain=tvnow.de
 ||imasdk.googleapis.com^$empty,script,domain=debilizator.tv,important
 ||imasdk.googleapis.com^$redirect=noopjs,script,domain=debilizator.tv,important
-||pagead2.googlesyndication.com^$empty,script,domain=inoreader.com,important
-||pagead2.googlesyndication.com^$redirect=noopjs,script,domain=inoreader.com,important
+||pagead2.googlesyndication.com^$empty,script,domain=inoreader.com|moroa.tistory.com,important
+||pagead2.googlesyndication.com^$redirect=noopjs,script,domain=inoreader.com|moroa.tistory.com,important
 ||popads.net/pop.js$script,empty,important
 ||popads.net/pop.js$script,redirect=noopjs,important
 
@@ -1021,4 +1021,7 @@ adshorte.*#%#//scriptlet("abort-on-property-write", "window.open")
 
 24-info.info##+js(abort-current-inline-script.js, Math.random)
 24-info.info#%#//scriptlet("abort-current-inline-script", "Math.random")
+
+moroa.tistory.com##+js(set-constant.js, adsbygoogle.loaded, true)
+moroa.tistory.com#%#//scriptlet("set-constant", "adsbygoogle.loaded", "true")
 
