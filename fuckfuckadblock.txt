@@ -288,8 +288,8 @@ sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimb
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com,gamesource.it##+js(abort-on-property-read.js, adBlockDetected)
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com,gamesource.it#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 
-speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live##+js(abort-on-property-write.js, _pop)
-speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live#%#//scriptlet("abort-on-property-write", "_pop")
+speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live,psntvs.me##+js(abort-on-property-write.js, _pop)
+speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live,psntvs.me#%#//scriptlet("abort-on-property-write", "_pop")
 
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*,ddl.to,dailyimages.xyz,xaoutchouc.live,daddylive.live,ckk.ai,fembed.com,vipracing.*##+js(abort-on-property-read.js, AaDetector)
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*,ddl.to,dailyimages.xyz,xaoutchouc.live,daddylive.live,ckk.ai,fembed.com,vipracing.*#%#//scriptlet("abort-on-property-read", "AaDetector")
@@ -534,6 +534,9 @@ axjbt.com,avcao.cc##+js(abort-on-property-read.js, myclick)
 
 payco.*,streamlive.to##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*,streamlive.to#%#//scriptlet("abort-current-inline-script", "parseInt", "charAt")
+
+freshstream.*,psntvs.me##+js(abort-on-property-write.js, adcashMacros)
+freshstream.*,psntvs.me#%#//scriptlet("abort-on-property-write", "adcashMacros")
 
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
@@ -797,9 +800,6 @@ savevideo.me#%#//scriptlet("abort-current-inline-script", "$", "banner")
 
 vev.io##+js(abort-current-inline-script.js, __INITIAL_STATE__)
 vev.io#%#//scriptlet("abort-current-inline-script", "__INITIAL_STATE__")
-
-freshstream.*##+js(abort-on-property-read.js, adcashMacros)
-freshstream.*#%#//scriptlet("abort-on-property-read", "adcashMacros")
 
 uiz.io##+js(setTimeout-defuser.js, checkAdblockUser)
 uiz.io#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
