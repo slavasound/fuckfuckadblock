@@ -169,7 +169,7 @@
 *$script,third-party,domain=igg-games.com|shtlink.co|shtme.co|fembed.com|linkdrop.net
 *$xmlhttprequest,domain=sexvid.xxx
 *$xmlhttprequest,third-party,domain=userscloud.com
-*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv
+*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv|fullhdtekpartizle.org
 @@*$xmlhttprequest,domain=muzlan.top|programiz.com
 
 @@||9anime.*/assets/$script
@@ -420,8 +420,8 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*,imgrock.*#%#//scriptlet("abort-on-prope
 imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader.addZone)
 imgdew.*,imgmaze.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
 
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
 
 123movies.*,moviescouch.*,desiupload.*##+js(abort-on-property-write.js, decodeURIComponent)
 123movies.*,moviescouch.*,desiupload.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
