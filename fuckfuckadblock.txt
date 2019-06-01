@@ -189,6 +189,7 @@
 ||9anime.*^$script,~third-party
 ||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
+||girisx.me^$domain=nagel-en-pedicure-studio-enkhuizen.nl,script
 */kvideo.js$script
 
 ||reklamtrk.com^$third-party
@@ -424,8 +425,8 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*,imgrock.*#%#//scriptlet("abort-on-prope
 imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader.addZone)
 imgdew.*,imgmaze.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
 
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
 
 123movies.*,moviescouch.*,desiupload.*##+js(abort-on-property-write.js, decodeURIComponent)
 123movies.*,moviescouch.*,desiupload.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
