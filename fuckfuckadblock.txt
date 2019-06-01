@@ -266,8 +266,8 @@ kinostate.net,pornk.name,xn--80aa3agbm7d.com,pornosexrolik.com,porno-hd.xxx#%#//
 thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me,precitaj.si,windowsaplicaciones.com##+js(abort-on-property-read.js, anOptions)
 thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landscapenature.*,wordexcerpt.com,money-sense.club,z3x-team.com,culture-informatique.net,tutsgalaxy.com,stealthz.ru,warefree01.com,businessforyouand.me,getfreecourses.me,precitaj.si,windowsaplicaciones.com#%#//scriptlet("abort-on-property-read", "anOptions")
 
-wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com,dogtime.com##+js(abort-on-property-read.js, HTMLCanvasElement)
-wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com,dogtime.com#%#//scriptlet("abort-on-property-read", "HTMLCanvasElement")
+wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com,dogtime.com,rawstory.com##+js(abort-on-property-read.js, HTMLCanvasElement)
+wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com,dogtime.com,rawstory.com#%#//scriptlet("abort-on-property-read", "HTMLCanvasElement")
 
 mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com,autolinkach.com,closeload.com,starzone.cc,sexgayhot.com##+js(abort-on-property-write.js, adBlockDetected)
 mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com,autolinkach.com,closeload.com,starzone.cc,sexgayhot.com#%#//scriptlet("abort-on-property-write", "adBlockDetected")
@@ -315,8 +315,8 @@ netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eve
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com,adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site##+js(addEventListener-defuser.js, click, trigger)
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com,adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 
-businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com##+js(abort-on-property-read.js, stop)
-businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com#%#//scriptlet("abort-on-property-read", "stop")
+businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com##+js(abort-on-property-read.js, stop)
+businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com#%#//scriptlet("abort-on-property-read", "stop")
 
 bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com,alphr.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com,alphr.com#%#//scriptlet("abort-on-property-read", "_sp_._networkListenerData")
