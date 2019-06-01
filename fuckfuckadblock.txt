@@ -518,8 +518,8 @@ hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site##+js(addEventListener-
 desiupload.in,upgrand.*##+js(abort-on-property-write.js, encodeURIComponent)
 desiupload.in,upgrand.*#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
 
-bit-url.com,imageshtorm.com##+js(set-constant.js, absda, noopFunc)
-bit-url.com,imageshtorm.com#%#//scriptlet("set-constant", "absda", "noopFunc")
+bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*##+js(set-constant.js, absda, noopFunc)
+bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("set-constant", "absda", "noopFunc")
 
 mshelxxx.ru.com,imageshtorm.com##+js(abort-on-property-read.js, visitweb_script)
 mshelxxx.ru.com,imageshtorm.com#%#//scriptlet("abort-on-property-read", "visitweb_script")
@@ -1034,4 +1034,7 @@ kino-live2.*,kino-live1.*#%#//scriptlet("abort-on-property-read", "_0x5e79")
 
 camuploads.com##+js(abort-on-property-read.js, popunders)
 camuploads.com#%#//scriptlet("abort-on-property-read", "popunders")
+
+sound-park.club,soundpark.red,soundpark-club.*##+js(abort-current-inline-script.js, $, open)
+sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("abort-current-inline-script", "$", "open")
 
