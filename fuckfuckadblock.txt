@@ -199,6 +199,7 @@
 ||reklamtrk.com^$third-party
 ||am15.net^$third-party
 ||aliru1.ru^$third-party
+||adbetnet.com^$third-party
 ||propellerclick.com^$third-party
 ||dolohen.com^$third-party
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$third-party
