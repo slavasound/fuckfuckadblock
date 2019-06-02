@@ -174,6 +174,7 @@
 *.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv|fullhdtekpartizle.org|xxxdessert.com|javfinder.is
 */kvideo.js$script
 */invoke.js$script
+*/stl.js$script,domain=thatav.net
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 @@||9anime.*/assets/$script
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
@@ -307,8 +308,8 @@ sciencelife.*,getrelax.club,javfree.club,openload.*,oload.*,oladblock.*,pornbimb
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com,gamesource.it##+js(abort-on-property-read.js, adBlockDetected)
 xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycouponscode.com,gamesource.it#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 
-speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live,psntvs.me,javhub.net,javdude.com,thplayers.com,hitomi.la,mirrorace.com##+js(abort-on-property-write.js, _pop)
-speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live,psntvs.me,javhub.net,javdude.com,thplayers.com,hitomi.la,mirrorace.com#%#//scriptlet("abort-on-property-write", "_pop")
+speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live,psntvs.me,javhub.net,javdude.com,thplayers.com,hitomi.la,mirrorace.com,thatav.net##+js(abort-on-property-write.js, _pop)
+speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.*,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live,psntvs.me,javhub.net,javdude.com,thplayers.com,hitomi.la,mirrorace.com,thatav.net#%#//scriptlet("abort-on-property-write", "_pop")
 
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*,ddl.to,dailyimages.xyz,xaoutchouc.live,daddylive.live,ckk.ai,fembed.com,vipracing.*,openloed.co,javfinder.is,mirrorace.com##+js(abort-on-property-read.js, AaDetector)
 speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.*,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*,ddl.to,dailyimages.xyz,xaoutchouc.live,daddylive.live,ckk.ai,fembed.com,vipracing.*,openloed.co,javfinder.is,mirrorace.com#%#//scriptlet("abort-on-property-read", "AaDetector")
