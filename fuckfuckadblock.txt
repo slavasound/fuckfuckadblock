@@ -171,9 +171,9 @@
 *$xmlhttprequest,third-party,domain=userscloud.com
 @@*$xmlhttprequest,domain=muzlan.top|programiz.com
 
-*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv|fullhdtekpartizle.org|xxxdessert.com|javfinder.is
-*/kvideo.js$script
+*/*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv|fullhdtekpartizle.org|xxxdessert.com|javfinder.is
 */invoke.js$script
+*/kvideo.js$script
 */stl.js$script,domain=thatav.net
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 @@||9anime.*/assets/$script
@@ -198,13 +198,13 @@
 ||samlab.ws/samlab.js$script
 ||t1.daumcdn.net/adfit/static/ad.min.js^$script
 
-||reklamtrk.com^$third-party
-||am15.net^$third-party
-||aliru1.ru^$third-party
-||adbetnet.com^$third-party
-||propellerclick.com^$third-party
-||dolohen.com^$third-party
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$third-party
+||adbetnet.com^$third-party
+||aliru1.ru^$third-party
+||am15.net^$third-party
+||dolohen.com^$third-party
+||propellerclick.com^$third-party
+||reklamtrk.com^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -232,8 +232,8 @@
 ||popads.net/pop.js$script,empty,important
 ||popads.net/pop.js$script,redirect=noopjs,important
 
-inoreader.com###sinner_container
 1fichier.com##.ct_warn
+adyou.*#@#.adscontainer
 alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
 arstechnica.com##.ars-appeal-container
 avgle.com##center > div > a[target="_blank"]
@@ -248,6 +248,7 @@ getrelax.club,javfree.club###main_content:style(display: block !important;)
 getrelax.club,javfree.club##.loaded-popup-wrapper
 getrelax.club,javfree.club#$##adisblock { display: none!important; }
 imgmonkey.com##A[href$=".html"][rel="nofollow norefferer noopener"]
+inoreader.com###sinner_container
 ksta.de,express.de###wl-overlay-wrapper
 ocen-piwo.pl###osiemnascielat
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
@@ -256,7 +257,6 @@ rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
 rusfishing.ru##.samBannerUnit
 windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
-adyou.*#@#.adscontainer
 
 @@||pixlr.com^$content,jsinject,badfilter
 |http*://$image,domain=ip.cn,badfilter
