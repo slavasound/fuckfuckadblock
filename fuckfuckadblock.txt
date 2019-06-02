@@ -408,8 +408,8 @@ popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#//scriptlet("
 linkberuang.*,njiir.com##+js(set-constant.js, safelink.adblock, false)
 linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
 
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me##+js(abort-current-inline-script.js, Math.sin, vocabulary)
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
+indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in##+js(abort-current-inline-script.js, Math.sin, vocabulary)
+indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
 
 movies1234.net,123moviesgot.com##+js(abort-on-property-read.js, zfgloadednative)
 movies1234.net,123moviesgot.com#%#//scriptlet("abort-on-property-read", "zfgloadednative")
@@ -526,8 +526,8 @@ hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com##+js(ad
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 
-desiupload.in,upgrand.*##+js(abort-on-property-write.js, encodeURIComponent)
-desiupload.in,upgrand.*#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
+desiupload.in,upgrand.*,gorillavid.in##+js(abort-on-property-write.js, encodeURIComponent)
+desiupload.in,upgrand.*,gorillavid.in#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
 
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*##+js(set-constant.js, absda, noopFunc)
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("set-constant", "absda", "noopFunc")
