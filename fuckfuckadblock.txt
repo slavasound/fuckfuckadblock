@@ -198,6 +198,7 @@
 
 ||reklamtrk.com^$third-party
 ||am15.net^$third-party
+||aliru1.ru^$third-party
 ||propellerclick.com^$third-party
 ||dolohen.com^$third-party
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$third-party
@@ -1065,4 +1066,9 @@ onitube.com#%#//scriptlet("prevent-setTimeout", "newBody")
 
 finalservers.net##+js(setInterval-defuser.js, visibility, 1000)
 finalservers.net#%#//scriptlet("prevent-setInterval", "visibility", "1000")
+
+rustorka.com##+js(abort-on-property-write.js, antiadblock)
+rustorka.com#%#//scriptlet("abort-on-property-write", "antiadblock")
+rustorka.com##+js(abort-current-inline-script.js, ads_script)
+rustorka.com#%#//scriptlet("abort-current-inline-script", "ads_script")
 
