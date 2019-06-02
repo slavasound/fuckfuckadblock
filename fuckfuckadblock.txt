@@ -563,6 +563,17 @@ streamplay.*,onitube.com,javdude.com,grantorrent.com,vidup.me,iiv.pl#%#//scriptl
 povvideo.*,powvldeo.*##+js(set-constant.js, isAdb, false)
 povvideo.*,powvldeo.*#%#//scriptlet("set-constant", "isAdb", "false")
 
+kino-live2.*,kino-live1.*##+js(abort-on-property-read.js, _0x207d)
+kino-live2.*,kino-live1.*##+js(abort-on-property-read.js, _0x5e79)
+kino-live2.*,kino-live1.*#%#//scriptlet("abort-on-property-read", "_0x5e79")
+kino-live2.*,kino-live1.*#%#//scriptlet("abort-on-property-read", "_0x5e79")
+
+camuploads.com,xxxdessert.com##+js(abort-on-property-read.js, popunders)
+camuploads.com,xxxdessert.com#%#//scriptlet("abort-on-property-read", "popunders")
+
+sound-park.club,soundpark.red,soundpark-club.*##+js(abort-current-inline-script.js, $, open)
+sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("abort-current-inline-script", "$", "open")
+
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 
@@ -1042,17 +1053,6 @@ adshorte.*#%#//scriptlet("abort-on-property-write", "window.open")
 
 moroa.tistory.com##+js(set-constant.js, adsbygoogle.loaded, true)
 moroa.tistory.com#%#//scriptlet("set-constant", "adsbygoogle.loaded", "true")
-
-kino-live2.*,kino-live1.*##+js(abort-on-property-read.js, _0x207d)
-kino-live2.*,kino-live1.*##+js(abort-on-property-read.js, _0x5e79)
-kino-live2.*,kino-live1.*#%#//scriptlet("abort-on-property-read", "_0x5e79")
-kino-live2.*,kino-live1.*#%#//scriptlet("abort-on-property-read", "_0x5e79")
-
-camuploads.com,xxxdessert.com##+js(abort-on-property-read.js, popunders)
-camuploads.com,xxxdessert.com#%#//scriptlet("abort-on-property-read", "popunders")
-
-sound-park.club,soundpark.red,soundpark-club.*##+js(abort-current-inline-script.js, $, open)
-sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("abort-current-inline-script", "$", "open")
 
 tistory.com##+js(abort-on-property-read.js, fuckAdBlock)
 tistory.com#%#//scriptlet("abort-on-property-read", "fuckAdBlock")
