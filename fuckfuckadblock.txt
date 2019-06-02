@@ -197,6 +197,7 @@
 ||rp5.*/scripts/main.*.js$script
 ||samlab.ws/samlab.js$script
 ||t1.daumcdn.net/adfit/static/ad.min.js^$script
+@@||turkanime.tv/ad/$~third-party,xmlhttprequest
 
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$third-party
 ||adbetnet.com^$third-party
@@ -228,8 +229,8 @@
 ||damoh.tvnow.de/*$media,redirect=noopmp3-0.1s,domain=tvnow.de
 ||imasdk.googleapis.com^$empty,script,domain=debilizator.tv,important
 ||imasdk.googleapis.com^$redirect=noopjs,script,domain=debilizator.tv,important
-||pagead2.googlesyndication.com^$empty,script,domain=inoreader.com|moroa.tistory.com,important
-||pagead2.googlesyndication.com^$redirect=noopjs,script,domain=inoreader.com|moroa.tistory.com,important
+||pagead2.googlesyndication.com^$empty,script,domain=inoreader.com|moroa.tistory.com|herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk|gidoroom.ru|tanked.io|mylink.how|mylink.zone|mylink.us,important
+||pagead2.googlesyndication.com^$redirect=noopjs,script,domain=inoreader.com|moroa.tistory.com|herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk|gidoroom.ru|tanked.io|mylink.how|mylink.zone|mylink.us,important
 ||popads.net/pop.js$script,empty,important
 ||popads.net/pop.js$script,redirect=noopjs,important
 
@@ -263,7 +264,7 @@ wize.life###wl-container
 |http*://$image,domain=ip.cn,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 
-mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl,chicoer.com,ad4msan.*,onet.pl,18tube.club#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
+berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl,chicoer.com,ad4msan.*,onet.pl,18tube.club#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
 abouttech.*,bloggingdekh.*,agradarpan.com,getpocket.*,akl2day.com,anonyviet.com,bankomap.com.ua,baramjdown.com,beast-birds.com,al3amall.com,bit-url.com,blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,click2see.*,farman.*,click2url.*,clik.*,cooltxtgen.com,cut7link.*,d-navi004.com,daily-sale.*,dunyanews.*,dutchycorp.space,earthpiclover.com,etube99.com,ez4link.org,file-up.*,flyurls.com,freecourseweb.com,freemcserver.net,galaxydestek.com,gametimers.it,gossipcorners.com,govtsmartjob.com,health-goood.com,imageoptimizer.*,jainjinvani.com,kpscthulasilogin.info,licklink.net,link-to.net,linkjust.com,linkrag.com,mrtekani.com,oko.sh,ourmagnet.*,partqb2i.com,payco.*,pcportal.org,pinkhindi.com,profitstudy.*,ps-insar.com,sciencelife.*,short.pe,shrinkearn.com,shrtfly.*,sivitechno.com,sk-ip.ru,stfly.*,stiffvip.com,talkittechy.com,techfinda.com,techjad.com,technoslek.com,templink.org,teqniaplus.com,teqnwy.com,tiny.*,tinylink.*,tl.tc,ultraskora.com,urlsamo.com,utimetableresult.*,v6download.com,vinaurl.in,vinaurl.net,virtualdata.*,wishes2.com,linkwea.com,tmearn.com,healthfary.com,uiz.io,shortzon.com,file-up.*,file-upload.*,upfiles.*,freeopenvpn.org,cutpaid.com,kooramubashir.com,hindibeen.com,aristoderas.com,cu5.io,pastekan.com,livenewsbuzz.com,e7kelyana.com,freefaucet.io,hindibeen.com,linkszone.*,blogspot.com,justlikeyojna.com,freebcc.org,litepaste.com,shrink.*,tinylinks.*,ad5.pw,urlcash.*,urlgalleries.*,fmlawkers.club,gameinfo.pw,komiupdates.*,lindung.*,naturalhealthy.*,sarkarijobsresultss.com,lnkjob.com,thefreech.com,zalipay.com,thefreech.com,teknocyber1.com,kubadownload.com,gmlshorter.wrpoetry.com,geekbangla.com,trading-area.com,infosia.xyz,alspoort.com,esy.es,abouttech.space,adlpu.com,allreports.site,autech.xyz,viraltechnical.in,6aaba.com,adyou.*,gamesindians.com,pohmy.com,themesradar.com,shrtz.me,ushortx.com,waifusafe.ooo,brenhealth.com##.adsbygoogle
 
@@ -290,8 +291,8 @@ thefutureweb.ru,techquila.co.in,scat.gold,torrentmafya.net,ucuzaucak.net,landsca
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com,dogtime.com,rawstory.com##+js(abort-on-property-read.js, HTMLCanvasElement)
 wral.com,aboutchromebooks.com,superherohype.com,thewindowsclub.com,wokesloth.com,mandatory.com,news24.com,alternet.org,playstationlifestyle.net,readlightnovel.org,cultofmac.com,westernjournal.com,dogtime.com,rawstory.com#%#//scriptlet("abort-on-property-read", "HTMLCanvasElement")
 
-mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com,autolinkach.com,closeload.com,starzone.cc,sexgayhot.com,18tube.club##+js(abort-on-property-write.js, adBlockDetected)
-mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com,autolinkach.com,closeload.com,starzone.cc,sexgayhot.com,18tube.club#%#//scriptlet("abort-on-property-write", "adBlockDetected")
+mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com,autolinkach.com,closeload.com,starzone.cc,sexgayhot.com,18tube.club,andek.com.pl,arcadepunks.com##+js(abort-on-property-write.js, adBlockDetected)
+mangahost1.com,mangahost2.com,mangahost-br.com,mangahosted.com,itavisen.no,gamehunt.net,synonymbog.com,doctorrouter.ru,iphonetweak.fr,utimetableresult.*,pleximum.com,limetorrent.info,memoryhackers.org,1000ps.de,svapo.it,mywrestling.com.pl,turkanime.tv,androidaba.com,thesenior.com.au,myfaucetslist.com,bestbtcfaucets.com,autolinkach.com,closeload.com,starzone.cc,sexgayhot.com,18tube.club,andek.com.pl,arcadepunks.com#%#//scriptlet("abort-on-property-write", "adBlockDetected")
 
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*,123movies.*,myvidmate.*,adsrt.*,urlcash.*,2fly.me,uploadhaven.com,kino-live2.*,kino-live1.*,rurafs.me,putlockerfree.net,idtbox.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 openload.*,oload.*,oladblock.*,sciencelife.*,stiffgamerdown.com,userscloud.com,convert2mp3.net,keepvid.*,blogspot.com,ojomovies.com,twojetv.ws,anitube.cz,japscan.*,uploadrar.com,indishare.*,123movies.*,myvidmate.*,adsrt.*,urlcash.*,2fly.me,uploadhaven.com,kino-live2.*,kino-live1.*,rurafs.me,putlockerfree.net,idtbox.com#%#//scriptlet("abort-current-inline-script", "atob", "decodeURIComponent")
@@ -351,8 +352,8 @@ dropupload.com,2speed.net,uploadship.com#%#//scriptlet("abort-current-inline-scr
 leakforums.*,verystream.com##+js(abort-on-property-read.js, adblock)
 leakforums.*,verystream.com#%#//scriptlet("abort-on-property-read", "adblock")
 
-berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com,sexgayhot.com,mywrestling.com.pl,18tube.club##+js(abort-on-property-write.js, KillAdBlock)
-berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com,sexgayhot.com,mywrestling.com.pl,18tube.club#%#//scriptlet("abort-on-property-write", "KillAdBlock")
+berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com,sexgayhot.com,mywrestling.com.pl,18tube.club,andek.com.pl##+js(abort-on-property-write.js, KillAdBlock)
+berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com,sexgayhot.com,mywrestling.com.pl,18tube.club,andek.com.pl#%#//scriptlet("abort-on-property-write", "KillAdBlock")
 
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site#%#//scriptlet("set-constant", "adBlockDetected", "noopFunc")
@@ -365,9 +366,6 @@ streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co,eporner.*,imgmonke
 
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*$webrtc,important
 stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*##+js(nowebrtc.js)
-
-||pagead2.googlesyndication.com/pagead/$script,empty,domain=herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk|gidoroom.ru|tanked.io|mylink.how|mylink.zone|mylink.us
-||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=herokuapp.com|fullstacks.net|agame.com|giochi.it|jeu.fr|plinga.com|spel.nl|spielen.com|ebb.io|mylink.love|windowcleaningforums.co.uk|gidoroom.ru|tanked.io|mylink.how|mylink.zone|mylink.us
 
 herokuapp.com,fullstacks.net##+js(set-constant.js, gadb, false)
 herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
@@ -1084,4 +1082,7 @@ mirrorace.com#%#//scriptlet("prevent-addEventListener", "click", "_0x")
 
 idnes.cz##+js(abort-current-inline-script.js, adbDetect)
 idnes.cz#%#//scriptlet("abort-current-inline-script", "adbDetect")
+
+atresplayer.com##+js(setTimeout-defuser.js, _creatBait)
+atresplayer.com#%#//scriptlet("prevent-setTimeout", "_creatBait")
 
