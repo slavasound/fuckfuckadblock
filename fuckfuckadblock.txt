@@ -821,8 +821,10 @@ bdmbase.ru#%#//scriptlet("prevent-setTimeout", "$", "ins.adsbygoogle")
 xhamster.desi#%#//scriptlet("abort-on-property-read", "dataPopUnder")
 xhamster.desi##+js(abort-on-property-read.js, dataPopUnder)
 
-di.se##+js(abort-current-inline-script.js, checkAdBlockEnabled)
-di.se#%#//scriptlet("abort-current-inline-script", "checkAdBlockEnabled")
+di.se##+js(setInterval-defuser.js, runAdBlockPaywall, 1000)
+di.se#%#//scriptlet("prevent-setInterval", "runAdBlockPaywall", "1000")
+di.se##+js(abort-on-property-read.js, diConf.servicePlusClientId)
+di.se#%#//scriptlet("abort-on-property-read", "diConf.servicePlusClientId")
 
 vidstreaming.io##+js(abort-current-inline-script.js, decodeURIComponent, parseInt)
 vidstreaming.io#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "parseInt")
