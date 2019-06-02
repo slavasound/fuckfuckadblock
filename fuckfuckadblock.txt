@@ -343,8 +343,8 @@ dropupload.com,2speed.net,uploadship.com#%#//scriptlet("abort-current-inline-scr
 leakforums.*,verystream.com##+js(abort-on-property-read.js, adblock)
 leakforums.*,verystream.com#%#//scriptlet("abort-on-property-read", "adblock")
 
-berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com,sexgayhot.com##+js(abort-on-property-write.js, KillAdBlock)
-berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com,sexgayhot.com#%#//scriptlet("abort-on-property-write", "KillAdBlock")
+berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com,sexgayhot.com,mywrestling.com.pl##+js(abort-on-property-write.js, KillAdBlock)
+berryboot.alexgoldcheidt.com,arcadepunks.com,udemycouponscode.com,sexgayhot.com,mywrestling.com.pl#%#//scriptlet("abort-on-property-write", "KillAdBlock")
 
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site##+js(set-constant.js, adBlockDetected, noopFunc)
 blogginggyanbox.com,funnyquiz.blog,fabsdeals.com,qaru.site#%#//scriptlet("set-constant", "adBlockDetected", "noopFunc")
@@ -804,9 +804,6 @@ draug.ru#%#//scriptlet("abort-current-inline-script", "Math.floor", "AdSense")
 
 t66y.com##+js(abort-current-inline-script.js, $, undefined)
 t66y.com#%#//scriptlet("abort-current-inline-script", "$", "undefined")
-
-mywrestling.com.pl##+js(abort-on-property-write.js, killAdBlock)
-mywrestling.com.pl#%#//scriptlet("abort-on-property-read", "killAdBlock")
 
 bdmbase.ru##+js(setTimeout-defuser.js, $, ins.adsbygoogle)
 bdmbase.ru#%#//scriptlet("prevent-setTimeout", "$", "ins.adsbygoogle")
