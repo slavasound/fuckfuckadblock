@@ -171,7 +171,8 @@
 *$xmlhttprequest,third-party,domain=userscloud.com
 @@*$xmlhttprequest,domain=muzlan.top|programiz.com
 
-*/*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv|fullhdtekpartizle.org|xxxdessert.com|javfinder.is
+*/*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv|fullhdtekpartizle.org|xxxdessert.com|javfinder.is|girlsofdesire.org
+*/gofd_fl.js$script
 */invoke.js$script
 */kvideo.js$script
 */stl.js$script,domain=thatav.net
@@ -385,8 +386,8 @@ rapidvideo.com,otakustream.tv,123movies.*,igg-games.com##+js(abort-current-inlin
 santacruzsentinel.com,bostonherald.com,reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 santacruzsentinel.com,bostonherald.com,reviewjournal.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
-streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info,wantedbabes.com##+js(abort-on-property-read.js, ExoLoader.serve)
-streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info,wantedbabes.com#%#//scriptlet("abort-on-property-read", "ExoLoader.serve")
+streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info,wantedbabes.com,girlsofdesire.org##+js(abort-on-property-read.js, ExoLoader.serve)
+streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info,wantedbabes.com,girlsofdesire.org#%#//scriptlet("abort-on-property-read", "ExoLoader.serve")
 
 xxxonxxx.com,3prn.com,spankwire.com##+js(set-constant.js, ExoLoader.serve, noopFunc)
 xxxonxxx.com,3prn.com,spankwire.com#%#//scriptlet("set-constant", "ExoLoader.serve", "noopFunc")
@@ -451,8 +452,8 @@ fmovies.wtf,fastplay.*,ffmovies.ru#%#//scriptlet("abort-current-inline-script", 
 watchhowimetyourmother.online,faselhd.*,daddylive.live##+js(abort-on-property-read.js, require)
 watchhowimetyourmother.online,faselhd.*,daddylive.live#%#//scriptlet("abort-on-property-read", "require")
 
-dailyimages.*,javhihi.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
-dailyimages.*,javhihi.com#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
+dailyimages.*,javhihi.com,girlsofdesire.org##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
+dailyimages.*,javhihi.com,girlsofdesire.org#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
 
 porndr.com,tmohentai.com##+js(addEventListener-defuser.js, /^(?:load|click)$/, popMagic)
 porndr.com,tmohentai.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|click)$/", "popMagic")
