@@ -152,23 +152,26 @@
 ||animeforce.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.facebook.com *.pinterest.com *.google-analytics.com
 ||cpmlink.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.cloudflare.com
 ||gelbooru.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com *.bootstrapcdn.com
+||grantorrent.co^$csp=script-src 'unsafe-inline' 'self' *.ytimg.com *.youtube.com
+||grantorrent.com^$csp=script-src 'unsafe-inline' 'self' *.ytimg.com *.youtube.com
 ||indishare.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bootstrapcdn.com *.cloudflare.com *.google-analytics.com
 ||ourl.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com
 ||picbaron.com^$csp=script-src 'self'
-||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 ||rule34hentai.net^$csp=script-src 'self' 'unsafe-inline' *.googleapis.com *.cloudflare.com *.fluidplayer.com *.google.com *.gstatic.com *.google-analytics.com
 ||swatchseries.to^$csp=script-src 'self' * 'unsafe-inline'
 ||uptobox.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
+||vidup.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.facebook.com *.facebook.net
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 
+*$websocket,domain=vidup.me
 *$script,third-party,domain=igg-games.com|shtlink.co|shtme.co|fembed.com|linkdrop.net|openloed.co
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 *$xmlhttprequest,domain=sexvid.xxx
 *$xmlhttprequest,third-party,domain=userscloud.com
-*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv|fullhdtekpartizle.org
 @@*$xmlhttprequest,domain=muzlan.top|programiz.com
 
+*.php$important,script,xmlhttprequest,domain=youx.xxx|hotpornfile.org|orgazmtv.com|krasivoeporno.tv|lbtube.com|dailyimages.xyz|icegay.tv|fullhdtekpartizle.org
 */kvideo.js$script
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 @@||9anime.*/assets/$script
@@ -224,7 +227,6 @@
 
 inoreader.com###sinner_container
 1fichier.com##.ct_warn
-@@||pixlr.com^$content,jsinject,badfilter
 alghad.com###tie-popup-adblock, .tie-popup-container, .tie-popup.is-fixed-popup
 arstechnica.com##.ars-appeal-container
 avgle.com##center > div > a[target="_blank"]
@@ -248,7 +250,10 @@ rusfishing.ru##.samBannerUnit
 windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
 adyou.*#@#.adscontainer
+
+@@||pixlr.com^$content,jsinject,badfilter
 |http*://$image,domain=ip.cn,badfilter
+||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 
 mywrestling.com.pl,turkanime.tv,androidaba.com,andek.com.pl,arcadepunks.com,atresplayer.com,berryboot.alexgoldcheidt.com,damnripped.com,finobe.com,freemalaysiatoday.com,hackinblood.com,independent.co.uk,logrosxbox.com,mshare.io,myvidster.com,olympine.com,papalah.com,playview.io,pleximum.com,professionaltutorial.com,blogspot.com,svapo.it,vehicle-techno.cf,yumechan.club,openloadtv.*,tvple.com,gamesource.it,sme.sk,thefilmbay.com,jbzdy.com.pl,chicoer.com,ad4msan.*,onet.pl#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links{display:block!important;}
 
@@ -362,8 +367,8 @@ herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 diariodenavarra.es,t66y.com##+js(set-constant.js, Math.random, trueFunc)
 diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com##+js(popads-dummy.js)
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com#%#//scriptlet("set-popads-dummy")
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me##+js(popads-dummy.js)
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me#%#//scriptlet("set-popads-dummy")
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com##+js(abort-on-property-read.js, ExoLoader)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
@@ -552,8 +557,8 @@ sslproxies24.top,hentai-vl.blogspot.com,infotrendy.me,filmywap.world#%#//scriptl
 streamp1ay.*,povvideo.*,powvldeo.*##+js(abort-on-property-write.js, Fingerprent2)
 streamplay.*,povvideo.*,powvldeo.*#%#//scriptlet("abort-on-property-write", "Fingerprent2")
 
-streamplay.*,onitube.com##+js(abort-on-property-read.js, miner)
-streamplay.*,onitube.com#%#//scriptlet("abort-on-property-read", "miner")
+streamplay.*,onitube.com,javdude.com,grantorrent.com,vidup.me##+js(abort-on-property-read.js, miner)
+streamplay.*,onitube.com,javdude.com,grantorrent.com,vidup.me#%#//scriptlet("abort-on-property-read", "miner")
 
 povvideo.*,powvldeo.*##+js(set-constant.js, isAdb, false)
 povvideo.*,powvldeo.*#%#//scriptlet("set-constant", "isAdb", "false")
