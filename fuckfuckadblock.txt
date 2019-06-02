@@ -1094,3 +1094,6 @@ wantedbabes.com#%#//scriptlet("abort-current-inline-script", "loadTool", "poppin
 lifesurance.info##+js(abort-on-property-read.js, showAds)
 lifesurance.info#%#//scriptlet("abort-on-property-read", "showAds")
 
+porno365.cc##+js(abort-current-inline-script.js, bigClickTeasers)
+porno365.cc#%#//scriptlet("abort-current-inline-script", "bigClickTeasers")
+
