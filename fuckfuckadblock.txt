@@ -184,6 +184,7 @@
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com
 @@||geoguessr.com/_ads/$script
+@@||allnorilsk.ru/js/adb.js$script,domain=allnorilsk.ru
 @@||hit.stat24.com/$xmlhttprequest,domain=polsatnews.pl
 @@||imgtown.net^$script,domain=imgtown.pw|imgtown.net
 @@||motortrendondemand.com/advertisements-ad-unit/$xmlhttprequest,domain=motortrendondemand.com
