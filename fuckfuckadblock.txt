@@ -207,6 +207,7 @@
 ||propellerclick.com^$third-party
 ||reklamtrk.com^$third-party
 ||fundingchoicesmessages.google.com^$third-party
+||exoclick.com^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -384,8 +385,8 @@ rapidvideo.com,otakustream.tv,123movies.*,igg-games.com##+js(abort-current-inlin
 santacruzsentinel.com,bostonherald.com,reviewjournal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 santacruzsentinel.com,bostonherald.com,reviewjournal.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
-streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info##+js(abort-on-property-read.js, ExoLoader.serve)
-streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info#%#//scriptlet("abort-on-property-read", "ExoLoader.serve")
+streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info,wantedbabes.com##+js(abort-on-property-read.js, ExoLoader.serve)
+streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info,wantedbabes.com#%#//scriptlet("abort-on-property-read", "ExoLoader.serve")
 
 xxxonxxx.com,3prn.com,spankwire.com##+js(set-constant.js, ExoLoader.serve, noopFunc)
 xxxonxxx.com,3prn.com,spankwire.com#%#//scriptlet("set-constant", "ExoLoader.serve", "noopFunc")
@@ -661,8 +662,8 @@ autocentrum.pl#%#//scriptlet("set-constant", "adblockJsFile", "true")
 gamehunt.net##+js(set-constant.js, adblock, false)
 gamehunt.net#%#//scriptlet("set-constant", "adblock", "false")
 
-gfycat.com##+js(set-constant.js, setInterval, noopFunc)
-gfycat.com#%#//scriptlet("set-constant", "setInterval", "noopFunc")
+gfycat.com,wantedbabes.com##+js(set-constant.js, setInterval, noopFunc)
+gfycat.com,wantedbabes.com#%#//scriptlet("set-constant", "setInterval", "noopFunc")
 
 programinadresi.com##+js(abort-on-property-read.js, adBlock)
 programinadresi.com#%#//scriptlet("abort-on-property-read", "adBlock")
@@ -1084,4 +1085,8 @@ atresplayer.com#%#//scriptlet("prevent-setTimeout", "_creatBait")
 
 biqle.ru##+js(abort-current-inline-script.js, atob, _0x)
 biqle.ru#%#//scriptlet("abort-current-inline-script", "atob", "_0x")
+
+wantedbabes.com##+js(abort-current-inline-script.js, loadTool, popping)
+wantedbabes.com#%#//scriptlet("abort-current-inline-script", "loadTool", "popping")
+
 
