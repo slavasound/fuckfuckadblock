@@ -552,6 +552,12 @@ sslproxies24.top,hentai-vl.blogspot.com,infotrendy.me,filmywap.world#%#//scriptl
 streamp1ay.*,povvideo.*,powvldeo.*##+js(abort-on-property-write.js, Fingerprent2)
 streamplay.*,povvideo.*,powvldeo.*#%#//scriptlet("abort-on-property-write", "Fingerprent2")
 
+streamplay.*,onitube.com##+js(abort-on-property-read.js, miner)
+streamplay.*,onitube.com#%#//scriptlet("abort-on-property-read", "miner")
+
+povvideo.*,powvldeo.*##+js(set-constant.js, isAdb, false)
+povvideo.*,powvldeo.*#%#//scriptlet("set-constant", "isAdb", "false")
+
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 
@@ -1049,10 +1055,9 @@ tistory.com#%#//scriptlet("abort-on-property-read", "fuckAdBlock")
 openloed.co##+js(abort-on-property-read.js, __htapop)
 openloed.co#%#//scriptlet("abort-on-property-read", "__htapop")
 
-streamplay.*##+js(abort-on-property-read.js, miner)
-streamplay.*#%#//scriptlet("abort-on-property-read", "miner")
+onitube.com##+js(setTimeout-defuser.js, newBody)
+onitube.com#%#//scriptlet("prevent-setTimeout", "newBody")
 
-povvideo.*,powvldeo.*##+js(set-constant.js, isAdb, false)
-povvideo.*,powvldeo.*#%#//scriptlet("set-constant", "isAdb", "false")
-
+finalservers.net##+js(setInterval-defuser.js, visibility, 1000)
+finalservers.net#%#//scriptlet("prevent-setInterval", "visibility", "1000")
 
