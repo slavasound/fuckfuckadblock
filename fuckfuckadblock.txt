@@ -205,6 +205,7 @@
 ||dolohen.com^$third-party
 ||propellerclick.com^$third-party
 ||reklamtrk.com^$third-party
+||fundingchoicesmessages.google.com^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -584,6 +585,9 @@ sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("abort-current-inli
 imageshtorm.com,idtbox.com##+js(abort-current-inline-script.js, document.createElement, 'script')
 imageshtorm.com,idtbox.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
+digitaltrends.com,nwitimes.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
+digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
+
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
 
@@ -624,9 +628,6 @@ handelsblatt.com#%#//scriptlet("abort-current-inline-script", "hcf_userconfig", 
 
 gallerix.ru##+js(abort-current-inline-script.js, jQuery, adbk)
 gallerix.ru#%#//scriptlet("abort-current-inline-script", "jQuery", "adbk")
-
-digitaltrends.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
-digitaltrends.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
 
 macwelt.de##+js(abort-current-inline-script.js, idgStorage)
 macwelt.de#%#//scriptlet("abort-current-inline-script", "idgStorage")
