@@ -209,6 +209,7 @@
 ||reklamtrk.com^$third-party
 ||fundingchoicesmessages.google.com^$third-party
 ||exoclick.com^$third-party
+||adswrapme.click^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -261,6 +262,7 @@ rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
 rusfishing.ru##.samBannerUnit
 windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
+girlsofdesire.org##div[class][id]:has-text(You have Adblock enabled. Website features not working properly, please try disabling Adblock. Thank You.)
 
 @@||pixlr.com^$content,jsinject,badfilter
 |http*://$image,domain=ip.cn,badfilter
@@ -566,11 +568,6 @@ streamplay.*,onitube.com,javdude.com,grantorrent.com,vidup.me,iiv.pl#%#//scriptl
 
 povvideo.*,powvldeo.*##+js(set-constant.js, isAdb, false)
 povvideo.*,powvldeo.*#%#//scriptlet("set-constant", "isAdb", "false")
-
-kino-live2.*,kino-live1.*##+js(abort-on-property-read.js, _0x207d)
-kino-live2.*,kino-live1.*##+js(abort-on-property-read.js, _0x5e79)
-kino-live2.*,kino-live1.*#%#//scriptlet("abort-on-property-read", "_0x5e79")
-kino-live2.*,kino-live1.*#%#//scriptlet("abort-on-property-read", "_0x5e79")
 
 camuploads.com,xxxdessert.com##+js(abort-on-property-read.js, popunders)
 camuploads.com,xxxdessert.com#%#//scriptlet("abort-on-property-read", "popunders")
