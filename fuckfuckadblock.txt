@@ -541,8 +541,8 @@ desiupload.in,upgrand.*,gorillavid.in,mylust.com#%#//scriptlet("abort-on-propert
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*##+js(set-constant.js, absda, noopFunc)
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("set-constant", "absda", "noopFunc")
 
-mshelxxx.ru.com,imageshtorm.com##+js(abort-on-property-read.js, visitweb_script)
-mshelxxx.ru.com,imageshtorm.com#%#//scriptlet("abort-on-property-read", "visitweb_script")
+mshelxxx.ru.com,imageshtorm.com,smotreti-porno-online.ru##+js(abort-on-property-read.js, visitweb_script)
+mshelxxx.ru.com,imageshtorm.com,smotreti-porno-online.ru#%#//scriptlet("abort-on-property-read", "visitweb_script")
 
 hotpornfile.org,underpic.club##+js(abort-on-property-read.js, document.dispatchEvent)
 hotpornfile.org,underpic.club#%#//scriptlet("abort-on-property-read", "document.dispatchEvent")
