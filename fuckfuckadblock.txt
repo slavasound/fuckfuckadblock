@@ -448,8 +448,8 @@ enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,u
 123movies.*,moviescouch.*,desiupload.*##+js(abort-on-property-write.js, decodeURIComponent)
 123movies.*,moviescouch.*,desiupload.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
 
-rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com##+js(popads.net.js)
-rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com#%#//scriptlet("prevent-popads-net")
+rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc##+js(popads.net.js)
+rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc#%#//scriptlet("prevent-popads-net")
 
 fmovies.wtf,fastplay.*,ffmovies.ru##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 fmovies.wtf,fastplay.*,ffmovies.ru#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "atob")
@@ -1104,4 +1104,9 @@ healthinsider.online#%#//scriptlet("abort-on-property-write", "adss")
 
 youtube-mp3.my##+js(set-constant.js, canAds, true)
 youtube-mp3.my#%#//scriptlet("set-constant", "canAds", "true")
+
+youporngay.com##+js(abort-on-property-write.js, AdDelivery)
+youporngay.com#%#//scriptlet("abort-on-property-write", "AdDelivery")
+youporngay.com#%#//scriptlet("abort-on-property-read", "smpop")
+youporngay.com##+js(abort-on-property-read.js, smpop)
 
