@@ -579,8 +579,8 @@ camuploads.com,xxxdessert.com#%#//scriptlet("abort-on-property-read", "popunders
 sound-park.club,soundpark.red,soundpark-club.*##+js(abort-current-inline-script.js, $, open)
 sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("abort-current-inline-script", "$", "open")
 
-imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info##+js(abort-current-inline-script.js, document.createElement, 'script')
-imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
+imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info##+js(abort-current-inline-script.js, document.createElement, 'script')
+imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
 digitaltrends.com,nwitimes.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
 digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
@@ -599,6 +599,9 @@ rarbgenter.org,rarbgcore.org#%#//scriptlet("abort-on-property-read", "LieDetecto
 
 4tube.com,voyeurhit.com##+js(abort-on-property-write.js, ads_priv)
 4tube.com,voyeurhit.com#%#//scriptlet("abort-on-property-write", "ads_priv")
+
+swatchseries.to,newsyou.info##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
+swatchseries.to,newsyou.info#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
 
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
@@ -1021,8 +1024,6 @@ ddl-music.*#%#//scriptlet("abort-current-inline-script", "$", "ddlpop")
 
 swatchseries.to##+js(abort-current-inline-script.js, atob, TextDecoder)
 swatchseries.to#%#//scriptlet("abort-current-inline-script", "atob", "TextDecoder")
-swatchseries.to##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
-swatchseries.to#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
 
 mshelxxx.ru.com##+js(set-constant.js, String.fromCharCode, noopFunc)
 mshelxxx.ru.com#%#//scriptlet("set-constant", "String.fromCharCode", "noopFunc")
@@ -1052,9 +1053,6 @@ adpop.me#%#//scriptlet("abort-on-property-read", "smrtAdSySBanner")
 
 adshorte.*##+js(abort-on-property-write.js, window.open)
 adshorte.*#%#//scriptlet("abort-on-property-write", "window.open")
-
-24-info.info##+js(abort-current-inline-script.js, Math.random)
-24-info.info#%#//scriptlet("abort-current-inline-script", "Math.random")
 
 moroa.tistory.com##+js(set-constant.js, adsbygoogle.loaded, true)
 moroa.tistory.com#%#//scriptlet("set-constant", "adsbygoogle.loaded", "true")
