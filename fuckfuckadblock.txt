@@ -444,8 +444,8 @@ imgdew.*,imgoutlet.*,imgtown.*,imgview.*,imgrock.*#%#//scriptlet("abort-on-prope
 imgdew.*,imgmaze.*,imgtown.*,imgview.*,mylust.com##+js(abort-on-property-read.js, ExoLoader.addZone)
 imgdew.*,imgmaze.*,imgtown.*,imgview.*,mylust.com#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
 
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me,freshscat.com##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me,freshscat.com#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
 
 123movies.*,moviescouch.*,desiupload.*##+js(abort-on-property-write.js, decodeURIComponent)
 123movies.*,moviescouch.*,desiupload.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
@@ -1120,4 +1120,7 @@ pornflip.com##+js(abort-current-inline-script.js, window.pop_target)
 pornflip.com#%#//scriptlet("abort-current-inline-script", "window.pop_target")
 pornflip.com##+js(abort-on-property-write.js, pop)
 pornflip.com#%#//scriptlet("abort-on-property-write", "pop")
+
+freshscat.com##+js(abort-on-property-read.js, _cpp)
+freshscat.com#%#//scriptlet("abort-on-property-read", "_cpp")
 
