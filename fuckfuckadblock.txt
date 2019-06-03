@@ -552,7 +552,7 @@ axjbt.com,avcao.cc#%#//scriptlet("abort-on-property-read", "myclick")
 axjbt.com,avcao.cc##+js(abort-on-property-read.js, myclick)
 
 9xupload.me,adyou.*,biqle.ru,ganool.*##+js(setInterval-defuser.js, (), 500)
-9xupload.me,adyou.*,biqle.ru,ganool.*#%#//scriptlet("prevent-setInterval", "value", "500")
+9xupload.me,adyou.*,biqle.ru,ganool.*#%#//scriptlet("prevent-setInterval", "()", "500")
 
 payco.*,streamlive.to##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*,streamlive.to#%#//scriptlet("abort-current-inline-script", "parseInt", "charAt")
@@ -594,7 +594,7 @@ upgrand.*,kino-live2.org##+js(addEventListener-defuser.js, click)
 upgrand.*,kino-live2.org#%#//scriptlet("prevent-addEventListener", "click")
 
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
-pornbimbo.com#%#AG_defineProperty('flashvars.protect_block',{value:""});
+pornbimbo.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
 
 larena.it##+js(setTimeout-defuser.js, adblock-check)
 larena.it#%#//scriptlet("prevent-setTimeout", "adblock-check")
@@ -1101,4 +1101,7 @@ porno365.cc#%#//scriptlet("abort-current-inline-script", "bigClickTeasers")
 
 healthinsider.online##+js(abort-on-property-write.js, adss)
 healthinsider.online#%#//scriptlet("abort-on-property-write", "adss")
+
+youtube-mp3.my##+js(set-constant.js, canAds, true)
+youtube-mp3.my#%#//scriptlet("set-constant", "canAds", "true")
 
