@@ -495,8 +495,8 @@ jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,rhvgmritmziwcm.net,zbqhfbetlmni.n
 notebookcheck.com,notebookcheck.net##+js(abort-current-inline-script.js, document.getElementById, XMLHttpRequest)
 notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "XMLHttpRequest")
 
-pornodoma.tv,orgazmtv.com,krasivoeporno.tv##+js(abort-on-property-write.js, tnAdditionalParams)
-pornodoma.tv,orgazmtv.com,krasivoeporno.tv#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
+pornodoma.tv,orgazmtv.com,krasivoeporno.tv,nasheporno.tv##+js(abort-on-property-write.js, tnAdditionalParams)
+pornodoma.tv,orgazmtv.com,krasivoeporno.tv,nasheporno.tv#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
 
 televall.*,tuotromedico.com##+js(set-constant.js, jQuery.adblock, false)
 televall.*,tuotromedico.com#%#//scriptlet("set-constant", "jQuery.adblock", "false")
