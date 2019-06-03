@@ -162,6 +162,7 @@
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
 ||vidup.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.facebook.com *.facebook.net
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline'
+||waiset.su^$csp=script-src 'self'
 
 *$websocket,domain=vidup.me
 *$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info
