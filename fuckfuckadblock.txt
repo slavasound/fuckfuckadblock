@@ -1090,8 +1090,8 @@ atresplayer.com#%#//scriptlet("prevent-setTimeout", "_creatBait")
 biqle.ru##+js(abort-current-inline-script.js, atob, _0x)
 biqle.ru#%#//scriptlet("abort-current-inline-script", "atob", "_0x")
 
-wantedbabes.com##+js(abort-current-inline-script.js, loadTool, popping)
-wantedbabes.com#%#//scriptlet("abort-current-inline-script", "loadTool", "popping")
+wantedbabes.com,moozpussy.com##+js(abort-current-inline-script.js, loadTool, popping)
+wantedbabes.com,moozpussy.com#%#//scriptlet("abort-current-inline-script", "loadTool", "popping")
 
 lifesurance.info##+js(abort-on-property-read.js, showAds)
 lifesurance.info#%#//scriptlet("abort-on-property-read", "showAds")
