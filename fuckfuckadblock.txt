@@ -593,6 +593,9 @@ rapidvideo.com,kino-live2.org#%#//scriptlet("prevent-addEventListener", "mousedo
 upgrand.*,kino-live2.org##+js(addEventListener-defuser.js, click)
 upgrand.*,kino-live2.org#%#//scriptlet("prevent-addEventListener", "click")
 
+rarbgenter.org,rarbgcore.org##+js(abort-on-property-read.js, LieDetector)
+rarbgenter.org,rarbgcore.org#%#//scriptlet("abort-on-property-read", "LieDetector")
+
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
 
@@ -952,9 +955,6 @@ sportsplays.com##+js(setTimeout-defuser.js, abDetected)
 
 tomshw.it##+js(setTimeout-defuser.js, bioEp.showPopup)
 tomshw.it#%#//scriptlet("prevent-setTimeout", "bioEp.showPopup")
-
-rarbgenter.org##+js(abort-on-property-read.js, LieDetector)
-rarbgenter.org#%#//scriptlet("abort-on-property-read", "LieDetector")
 
 xopenload.me##+js(set-constant.js, jsUnda, noopFunc)
 xopenload.me#%#//scriptlet("set-constant", "jsUnda", "noopFunc")
