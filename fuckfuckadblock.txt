@@ -164,7 +164,7 @@
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 
 *$websocket,domain=vidup.me
-*$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co
+*$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 *$xmlhttprequest,domain=sexvid.xxx
 *$xmlhttprequest,third-party,domain=userscloud.com
@@ -212,6 +212,7 @@
 ||fundingchoicesmessages.google.com^$third-party
 ||exoclick.com^$third-party
 ||adswrapme.click^$third-party
+||zmctrack.net^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -578,8 +579,8 @@ camuploads.com,xxxdessert.com#%#//scriptlet("abort-on-property-read", "popunders
 sound-park.club,soundpark.red,soundpark-club.*##+js(abort-current-inline-script.js, $, open)
 sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("abort-current-inline-script", "$", "open")
 
-imageshtorm.com,idtbox.com,turboimagehost.com##+js(abort-current-inline-script.js, document.createElement, 'script')
-imageshtorm.com,idtbox.com,turboimagehost.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
+imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info##+js(abort-current-inline-script.js, document.createElement, 'script')
+imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
 digitaltrends.com,nwitimes.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
 digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
@@ -1109,4 +1110,7 @@ youporngay.com##+js(abort-on-property-write.js, AdDelivery)
 youporngay.com#%#//scriptlet("abort-on-property-write", "AdDelivery")
 youporngay.com#%#//scriptlet("abort-on-property-read", "smpop")
 youporngay.com##+js(abort-on-property-read.js, smpop)
+
+newsyou.info##+js(set-constant.js, Math.random, noopFunc)
+newsyou.info#%#//scriptlet("set-constant", "Math.random", "noopFunc")
 
