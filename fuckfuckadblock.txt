@@ -378,8 +378,8 @@ herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 diariodenavarra.es,t66y.com##+js(set-constant.js, Math.random, trueFunc)
 diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com##+js(popads-dummy.js)
-hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com#%#//scriptlet("set-popads-dummy")
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com,mylust.com##+js(popads-dummy.js)
+hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com,mylust.com#%#//scriptlet("set-popads-dummy")
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com##+js(abort-on-property-read.js, ExoLoader)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
@@ -441,8 +441,8 @@ studopedia.com.ua,lektsii.org#%#//scriptlet("abort-current-inline-script", "dete
 imgdew.*,imgoutlet.*,imgtown.*,imgview.*,imgrock.*##+js(abort-on-property-read.js, CustomEvent)
 imgdew.*,imgoutlet.*,imgtown.*,imgview.*,imgrock.*#%#//scriptlet("abort-on-property-read", "CustomEvent")
 
-imgdew.*,imgmaze.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, ExoLoader.addZone)
-imgdew.*,imgmaze.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
+imgdew.*,imgmaze.*,imgtown.*,imgview.*,mylust.com##+js(abort-on-property-read.js, ExoLoader.addZone)
+imgdew.*,imgmaze.*,imgtown.*,imgview.*,mylust.com#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
 
 enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
 enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
@@ -535,8 +535,8 @@ hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com##+js(ad
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 
-desiupload.in,upgrand.*,gorillavid.in##+js(abort-on-property-write.js, encodeURIComponent)
-desiupload.in,upgrand.*,gorillavid.in#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
+desiupload.in,upgrand.*,gorillavid.in,mylust.com##+js(abort-on-property-write.js, encodeURIComponent)
+desiupload.in,upgrand.*,gorillavid.in,mylust.com#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
 
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*##+js(set-constant.js, absda, noopFunc)
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("set-constant", "absda", "noopFunc")
