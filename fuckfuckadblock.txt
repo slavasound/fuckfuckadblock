@@ -272,6 +272,7 @@ rusfishing.ru##.samBannerUnit
 vidlink.org##a[href*="/afu.php"][target="_blank"]
 windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
+noizz.pl##div.contentInfo:has(a[href="abp:subscribe?location=http%3A%2F%2Flib.onet.pl%2Fs.csr%2Fwhitelist%2Fnoizz.pl.txt&title=noizz.pl"])
 
 @@||pixlr.com^$content,jsinject,badfilter
 |http*://$image,domain=ip.cn,badfilter
