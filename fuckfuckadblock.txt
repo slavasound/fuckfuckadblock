@@ -184,7 +184,7 @@
 @@||d1xrtnyoeeet33.cloudfront.net/assets/js/lib/$script,domain=montrealgazette.com|nationalpost.com
 @@||fluidplayer.com^$script,domain=rule34hentai.net
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
-@@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com
+@@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl
 @@||geoguessr.com/_ads/$script
 @@||hit.stat24.com/$xmlhttprequest,domain=polsatnews.pl
 @@||imgtown.net^$script,domain=imgtown.pw|imgtown.net
@@ -906,12 +906,12 @@ eporner.*##+js(abort-on-property-write.js, EPeventFire)
 eporner.*#%#//scriptlet("abort-on-property-write", "EPeventFire")
 eporner.*#%#//scriptlet("abort-on-property-read", "exoDocumentProtocol")
 
-wp.pl##+js(abort-on-property-read.js, WP.inline)
+wp.pl,~pilot.wp.pl##+js(abort-on-property-read.js, WP.inline)
 wp.pl##+js(abort-on-property-write.js, __serviceAbModal)
 wp.pl##+js(set-constant.js, PWA_adbd, 2)
 wp.pl##+js(set-constant.js, WP.gaf.addCreation, noopFunc)
 wp.pl##+js(set-constant.js, WP.gaf.setSlotCreation, noopFunc)
-wp.pl#%#//scriptlet("abort-on-property-read", "WP.inline")
+wp.pl,~pilot.wp.pl#%#//scriptlet("abort-on-property-read", "WP.inline")
 wp.pl#%#//scriptlet("abort-on-property-write", "__serviceAbModal")
 wp.pl#%#//scriptlet("set-constant", "PWA_adbd", "2")
 wp.pl#%#//scriptlet("set-constant", "WP.gaf.addCreation", "noopFunc")
