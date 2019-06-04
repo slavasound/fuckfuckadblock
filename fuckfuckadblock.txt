@@ -1162,3 +1162,6 @@ pornokeep.com,enjoyfuck.com,fuckgonzo.com#%#//scriptlet("abort-current-inline-sc
 gomovies.*##+js(set-constant.js, check_adblock, true)
 gomovies.*#%#//scriptlet("set-constant", "check_adblock", "true")
 
+4kfilmizle.org##+js(abort-on-property-read.js, checkCount)
+4kfilmizle.org#%#//scriptlet("abort-on-property-read", "checkCount")
+
