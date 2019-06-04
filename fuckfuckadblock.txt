@@ -164,6 +164,7 @@
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 ||waiset.su^$csp=script-src 'self'
 ||gounlimited.to^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' data:
+||hentai-share.tv^$important,csp=default-src 'self' 'unsafe-inline' *.cloudflare.com openload.co oloadcdn.net vidoza.net newcloud.tv hqq.tv hub.e-hentai.me fapservice.ru tiwi.kiwi
 
 *$websocket,domain=vidup.me
 *$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info
