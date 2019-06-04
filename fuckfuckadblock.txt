@@ -582,8 +582,8 @@ camuploads.com,xxxdessert.com#%#//scriptlet("abort-on-property-read", "popunders
 sound-park.club,soundpark.red,soundpark-club.*##+js(abort-current-inline-script.js, $, open)
 sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("abort-current-inline-script", "$", "open")
 
-imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info,porno-eblja.com##+js(abort-current-inline-script.js, document.createElement, 'script')
-imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info,porno-eblja.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
+imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info,porno-eblja.com,soft-portal.club##+js(abort-current-inline-script.js, document.createElement, 'script')
+imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info,porno-eblja.com,soft-portal.club#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
 digitaltrends.com,nwitimes.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
 digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
