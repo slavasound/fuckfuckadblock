@@ -6,9 +6,7 @@
 
 Filters for blocking pop-ups and anti-adblock bypass.
 
-### SUBSCRIBE
-
-[Click](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt&title=Fuck%20Fuckadblock).
+### [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt&title=Fuck%20Fuckadblock).
 
 ### RAW
 
