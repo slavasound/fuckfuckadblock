@@ -1143,3 +1143,12 @@ techradar.com#%#//scriptlet("abort-on-property-read", "_sp_.mms.startMsg")
 upflix.pl##+js(set-constant.js, adBlocker, noopFunc)
 upflix.pl#%#//scriptlet("set-constant", "adBlocker", "noopFunc")
 
+deutsche-porn.com##+js(abort-on-property-read.js, _paq)
+deutsche-porn.com#%#//scriptlet("abort-on-property-read", "_paq")
+
+xhamster.com##+js(abort-on-property-write.js, dataPopUnder)
+xhamster.com##+js(abort-on-property-read.js, initials.urls.backUrl)
+xhamster.com#%#//scriptlet("abort-on-property-write", "dataPopUnder")
+xhamster.com#%#//scriptlet("abort-on-property-read", "initials.urls.backUrl")
+
+
