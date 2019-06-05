@@ -230,6 +230,7 @@
 ||juicyads.com^$third-party
 ||refdomain3.xyz^$third-party
 ||clksite.com^$third-party
+||exosrv.com^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -348,8 +349,8 @@ ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,
 convert2mp3.net,vidlox.*,indishare.*,300mbmovies.life,drivehub.*##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net,vidlox.*,indishare.*,300mbmovies.life,drivehub.*#%#//scriptlet("abort-on-property-read", "decodeURIComponent")
 
-openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,picbaron.com,adbilty.me,javfinder.is,hitomi.la,pornflip.com##+js(abort-on-property-read.js, open)
-openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,picbaron.com,adbilty.me,javfinder.is,hitomi.la,pornflip.com#%#//scriptlet("abort-on-property-read", "open")
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,picbaron.com,adbilty.me,javfinder.is,hitomi.la,pornflip.com,peekvids.com##+js(abort-on-property-read.js, open)
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,picbaron.com,adbilty.me,javfinder.is,hitomi.la,pornflip.com,peekvids.com#%#//scriptlet("abort-on-property-read", "open")
 
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com,xbox360torrent.com,tv.iptvvall.com,animeforce.*,g1novelas.online,maxpark.com,1idsly.com,vabstutorials.com,tv.radiotormentamx.com,studizba.com,streamlive.to,myreadingmanga.info,suarankri.me,etkisizeleman.com,radiotormentamx.com,gaypornwave.com##+js(addEventListener-defuser.js, load, onload)
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com,xbox360torrent.com,tv.iptvvall.com,animeforce.*,g1novelas.online,maxpark.com,1idsly.com,vabstutorials.com,tv.radiotormentamx.com,studizba.com,streamlive.to,myreadingmanga.info,suarankri.me,etkisizeleman.com,radiotormentamx.com,gaypornwave.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
@@ -387,8 +388,8 @@ getrelax.club,javfree.club#%#//scriptlet("abort-current-inline-script", "documen
 streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co,eporner.*,imgmonkey.com,animeforce.*,camuploads.com,voyeurhit.com,gounlimited.to##+js(abort-on-property-read.js, BetterJsPop)
 streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co,eporner.*,imgmonkey.com,animeforce.*,camuploads.com,voyeurhit.com,gounlimited.to#%#//scriptlet("abort-on-property-read", "BetterJsPop")
 
-stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*,daxab.com,ganool.*,gounlimited.to,clicknupload.org,streamcloud.eu,1337x.*$webrtc,important
-stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*,daxab.com,ganool.*,gounlimited.to,clicknupload.org,streamcloud.eu,1337x.*##+js(nowebrtc.js)
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*,daxab.com,ganool.*,gounlimited.to,clicknupload.org,streamcloud.eu,1337x.*,xvideos.com$webrtc,important
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.*,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*,daxab.com,ganool.*,gounlimited.to,clicknupload.org,streamcloud.eu,1337x.*,xvideos.com##+js(nowebrtc.js)
 
 herokuapp.com,fullstacks.net##+js(set-constant.js, gadb, false)
 herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
@@ -1215,4 +1216,6 @@ originalindianporn.com,wowindianporn.com#%#//scriptlet("abort-on-property-read",
 e-mp3bul.xyz#%#//scriptlet("set-constant", "_popwnd_open", "noopFunc")
 e-mp3bul.xyz##+js(set-constant.js, _popwnd_open, noopFunc)
 
+xvideos.com##+js(abort-on-property-write.js, openpop)
+xvideos.com#%#//scriptlet("abort-on-property-write", "openpop")
 
