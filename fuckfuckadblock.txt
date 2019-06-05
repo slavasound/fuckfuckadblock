@@ -466,8 +466,8 @@ enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,u
 123movies.*,moviescouch.*,desiupload.*##+js(abort-on-property-write.js, decodeURIComponent)
 123movies.*,moviescouch.*,desiupload.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
 
-rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com##+js(popads.net.js)
-rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com#%#//scriptlet("prevent-popads-net")
+rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*##+js(popads.net.js)
+rapidvideo.com,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*#%#//scriptlet("prevent-popads-net")
 
 fmovies.*,fastplay.*,ffmovies.ru##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 fmovies.*,fastplay.*,ffmovies.ru#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "atob")
