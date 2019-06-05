@@ -275,7 +275,6 @@ windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
 noizz.pl##div.contentInfo:has(a[href="abp:subscribe?location=http%3A%2F%2Flib.onet.pl%2Fs.csr%2Fwhitelist%2Fnoizz.pl.txt&title=noizz.pl"])
 
-@@||pixlr.com^$content,jsinject,badfilter
 |http*://$image,domain=ip.cn,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 
@@ -1189,4 +1188,7 @@ youjizz.com##+js(abort-current-inline-script.js, window.config)
 youjizz.com##+js(abort-on-property-write.js, nb)
 youjizz.com#%#//scriptlet("abort-current-inline-script", "window.config")
 youjizz.com#%#//scriptlet("abort-on-property-write", "nb")
+
+pixlr.com##+js(abort-on-property-write.js, showImageAdBlocker)
+pixlr.com#%#//scriptlet("abort-on-property-write", "showImageAdBlocker")
 
