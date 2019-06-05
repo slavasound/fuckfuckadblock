@@ -207,7 +207,7 @@
 ||gndrglsn.com/popdizimag.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
 ||mangovideo.pw/player/float.php$xmlhttprequest
-||http://hellobeyellow.tk/mm/website.php$important
+||hellobeyellow.tk/mm/website.php^$important
 
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$third-party
 ||adbetnet.com^$third-party
@@ -279,6 +279,7 @@ windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
 noizz.pl##div.contentInfo:has(a[href="abp:subscribe?location=http%3A%2F%2Flib.onet.pl%2Fs.csr%2Fwhitelist%2Fnoizz.pl.txt&title=noizz.pl"])
 finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(a[href$="/wylaczenie-blokady-reklam"])
+speedporn.net##.happy-inside-player
 
 |http*://$image,domain=ip.cn,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
@@ -1189,6 +1190,6 @@ watchfreexxx.net#%#//scriptlet("abort-on-property-read", "Date.prototype.toGMTSt
 watchfreexxx.net#%#//scriptlet("abort-on-property-read", "initPu")
 watchfreexxx.net#%#//scriptlet("abort-on-property-read", "jsUnda")
 
-vshares.tk##+js(abort-on-property-read.js, myFunction)
-vshares.tk#%#//scriptlet("abort-on-property-read", "myFunction")
+vshares.tk,openloads.tk##+js(set-constant.js, myFunction, noopFunc)
+vshares.tk,openloads.tk#%#//scriptlet("set-constant", "myFunction", "noopFunc")
 
