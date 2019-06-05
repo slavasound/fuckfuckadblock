@@ -138,7 +138,7 @@
 @@*/pop.js$script,domain=clipwatching.com|datoporn.co|dpstream.info|dpstream.net|dpstream.site|mystream.la|mystream.to|upvid.co|vidlox.me|vidoza.net|gounlimited.to|thevideobee.to
 @@*/reklama.js$script,domain=gra.pl|ppstatic.pl
 @@/^https?:\/\/(www\.)?.*\/(\W|\_)?ad[sbx]?((\W|\_).*|\.min)?\.js/$script,xmlhttprequest,domain=0rechner.de|9anime.cloud|9anime.fun|9anime.io|9anime.is|9anime.nl|9anime.ru|9anime.to|9anime.vip|aargauerzeitung.ch|androidplanet.nl|anime-vf.fr|anitube.site|australianfrequentflyer.com.au|bspin.club|certifychat.com|coop-land.ru|duellinksmeta.com|extremereportbot.com|featurecompare.com|filmweb.pl|fox.com.tr|foxplay.com.tr|freepsdvn.com|gayporno.fm|gelbooru.com|geoguessr.com|giveaway.su|gq-magazine.co.uk|hdrezka.ag|hdrezka.co|hdrezka.fund|hdrezka.online|hdrezka.website|icegay.tv|interia.pl|it-actual.ru|japgay.com|kanald.com.tr|khl.ru|kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kinokrad.co|kl2.life|masterchef.stb.ua|mercurynews.com|minecraft-schematics.com|mp4upload.com|mshare.io|mshare.io|mustget.ru|noz.de|nudecelebs.pro|pasty.link|playtor.tv|pleshka.com|ppstatic.pl|qrz.ru|ratemyteachers.com|reactiongaming.us|satellite-calculations.com|serpadres.es|sexicelebs.ru|soy502.com|sub2unlock.net|teleportal.ua|thehindu.com|turboimagehost.com|utarget.ru|verifyemailaddress.io|version2.dk|vidoza.net|web2.0calc.com|webcamera.pl|wotlk.evowow.com|ynet.co.il|smutty.com|notebookcheck.com
-@@/^https?:\/\/(www\.)?.*\/ads?((\W|\_)?server|js|[Ii]?[Ff]rame|(\W|\_)?block([Dd]etect(or([Ww]ith[Gg][Aa])?)?)?|(\W|\_)?d?etect(ads)?|force|unit|bygoogle)?((\W|\_).*|\.min)?\.js/$xmlhttprequest,script,domain=3dtuning.com|520cc.cc|anistar.org|atresplayer.com|atv.com.tr|bahnbonus-shopping.de|bahnbonus-shoppingwelt.de|beelink.in|bingfeng.tw|brid.tv|clipwatching.com|cyclismactu.net|debilizator.tv|duellinksmeta.com|embed.kijk.nl|extremereportbot.com|fox.com.tr|habbowert.de|jav777.cc|kenkenpuzzle.com|laradiobbs.net|mediaite.com|minhaconexao.com.br|ncaa.com|nekopoi.care|nekopoi.ga|nekopoi.lol|politiken.dk|spinbot.com|svapo.it|won.pe|tiz-cycling.racing
+@@/^https?:\/\/(www\.)?.*\/ads?((\W|\_)?server|js|[Ii]?[Ff]rame|(\W|\_)?block([Dd]etect(or([Ww]ith[Gg][Aa])?)?)?|(\W|\_)?d?etect(ads)?|force|unit|bygoogle)?((\W|\_).*|\.min)?\.js/$xmlhttprequest,script,domain=3dtuning.com|520cc.cc|anistar.org|atresplayer.com|atv.com.tr|bahnbonus-shopping.de|bahnbonus-shoppingwelt.de|beelink.in|bingfeng.tw|brid.tv|clipwatching.com|cyclismactu.net|debilizator.tv|duellinksmeta.com|embed.kijk.nl|extremereportbot.com|fox.com.tr|habbowert.de|jav777.cc|kenkenpuzzle.com|laradiobbs.net|mediaite.com|minhaconexao.com.br|ncaa.com|nekopoi.care|nekopoi.ga|nekopoi.lol|politiken.dk|spinbot.com|svapo.it|won.pe|tiz-cycling.racing|animeflv.net
 @@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?((\W|\_).*)?\.js/$xmlhttprequest,script,domain=alghad.com|arkowcy.pl|atresplayer.com|blocket.se|bolgegundem.com|calciomercato.com|cc-fan.tv|clksite.com|cn-fan.tv|cyfostreams.com|ferrovie.info|fox-fan.tv|geekspin.co|getfreebit.xyz|getinmac.com|haaretz.com|hopto.org|infosia.xyz|insurance-info.us|japan.zdnet.com|kertashitam.com|ktozvonit.com.ua|lurlo.news|nf-fan.tv|nohat.cc|overclockers.ru|rjiblog.org|rockstargame.su|schwaebische.de|seo-fast.ru|swatchseries.to|teknologilink.com|thedailybeast.com|upload.ac|uploadbox.io|uploadship.com|vw-page.com|wetransfer.com|zdnet.co.kr|zdnet.com|zdnet.com.cn|zdnet.de|zdnet.fr|converter-btc.world|crypto-fun.cf|easybitcoins.ml|drtuber.com|popsci.com
 @@/^https?:\/\/(www\.)?.*\/(show|google|[a-z]{1}|videojs\-contrib|e?detect)(\W|\_)?[Aa]d[sv](([_-]?ima)?\.min)?\.js/$script,xmlhttprequest,domain=ccmbg.com|cnbc.com|dmntsf.net|getintopc.com|golem.de|mp3.teledyski.info|rjno1.com|rodzinnywyjazd.pl|sbsports.pro|solvetube.site|spinbot.com|streamcherry.com|topserialy.to|unique-tutorials.info|watch32hd.org|pornokeep.com|enjoyfuck.com|fuckgonzo.com
 @@/^https?:\/\/.*?(freevpn4you\.net\/ads\/|freeopenvpn\.org\/units\/|all\-episodes\.tv\/ad\/banner\/|(nf|cc|cn|fox)\-fan\.tv\/images\/ad\.jpg|inoreader\.com\/adv\/)/$image,script,xmlhttprequest,domain=all-episodes.tv|cc-fan.tv|cn-fan.tv|fox-fan.tv|freeopenvpn.org|freevpn4you.net|nf-fan.tv
@@ -176,10 +176,11 @@
 
 */*.php$important,script,xmlhttprequest,domain=dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|krasivoeporno.tv|lbtube.com|orgazmtv.com|turboimagehost.com|xxxdessert.com|youx.xxx
 */gofd_fl.js$script
-*/invoke.js$script
 */gogo.php$script
+*/invoke.js$script
 */kvideo.js$script,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 */stl.js$script,domain=thatav.net
+/^https:\/\/.*?\/v2\/0\/[a-zA-Z0-9_-]{30,}$/$third-party,script
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 @@||9anime.*/assets/$script
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
@@ -194,22 +195,23 @@
 @@||motortrendondemand.com/advertisements-ad-unit/$xmlhttprequest,domain=motortrendondemand.com
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
+@@||p.jwpcdn.com^$third-party,script
 ||9anime.*^$script,~third-party
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
 ||allnorilsk.ru/js/adb.js$script,domain=allnorilsk.ru
 ||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,third-party
 ||girisx.me^$domain=nagel-en-pedicure-studio-enkhuizen.nl,script
+||gndrglsn.com/popdizimag.js$script
+||hellobeyellow.tk/mm/website.php^$important
+||mangovideo.pw/player/float.php$xmlhttprequest
 ||mobzon.ru/adbp/adbp.js$script,domain=mobzon.ru
 ||povvideo.*/jquery.notify.js$script
 ||powvldeo.*/jquery.notify.js$script
 ||rp5.*/scripts/main.*.js$script
 ||samlab.ws/samlab.js$script
 ||t1.daumcdn.net/adfit/static/ad.min.js$script
-||gndrglsn.com/popdizimag.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
-||mangovideo.pw/player/float.php$xmlhttprequest
-||hellobeyellow.tk/mm/website.php^$important
 
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$third-party
 ||adbetnet.com^$third-party
