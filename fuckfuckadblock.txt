@@ -1189,3 +1189,6 @@ watchfreexxx.net#%#//scriptlet("abort-on-property-read", "Date.prototype.toGMTSt
 watchfreexxx.net#%#//scriptlet("abort-on-property-read", "initPu")
 watchfreexxx.net#%#//scriptlet("abort-on-property-read", "jsUnda")
 
+vshares.tk##+js(abort-on-property-read.js, myFunction)
+vshares.tk#%#//scriptlet("abort-on-property-read", "myFunction")
+
