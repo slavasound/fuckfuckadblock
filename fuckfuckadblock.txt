@@ -139,7 +139,7 @@
 @@*/reklama.js$script,domain=gra.pl|ppstatic.pl
 @@/^https?:\/\/(www\.)?.*\/(\W|\_)?ad[sbx]?((\W|\_).*|\.min)?\.js/$script,xmlhttprequest,domain=0rechner.de|9anime.cloud|9anime.fun|9anime.io|9anime.is|9anime.nl|9anime.ru|9anime.to|9anime.vip|aargauerzeitung.ch|androidplanet.nl|anime-vf.fr|anitube.site|australianfrequentflyer.com.au|bspin.club|certifychat.com|coop-land.ru|duellinksmeta.com|extremereportbot.com|featurecompare.com|filmweb.pl|fox.com.tr|foxplay.com.tr|freepsdvn.com|gayporno.fm|gelbooru.com|geoguessr.com|giveaway.su|gq-magazine.co.uk|hdrezka.ag|hdrezka.co|hdrezka.fund|hdrezka.online|hdrezka.website|icegay.tv|interia.pl|it-actual.ru|japgay.com|kanald.com.tr|khl.ru|kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kinokrad.co|kl2.life|masterchef.stb.ua|mercurynews.com|minecraft-schematics.com|mp4upload.com|mshare.io|mshare.io|mustget.ru|noz.de|nudecelebs.pro|pasty.link|playtor.tv|pleshka.com|ppstatic.pl|qrz.ru|ratemyteachers.com|reactiongaming.us|satellite-calculations.com|serpadres.es|sexicelebs.ru|soy502.com|sub2unlock.net|teleportal.ua|thehindu.com|turboimagehost.com|utarget.ru|verifyemailaddress.io|version2.dk|vidoza.net|web2.0calc.com|webcamera.pl|wotlk.evowow.com|ynet.co.il|smutty.com|notebookcheck.com
 @@/^https?:\/\/(www\.)?.*\/ads?((\W|\_)?server|js|[Ii]?[Ff]rame|(\W|\_)?block([Dd]etect(or([Ww]ith[Gg][Aa])?)?)?|(\W|\_)?d?etect(ads)?|force|unit|bygoogle)?((\W|\_).*|\.min)?\.js/$xmlhttprequest,script,domain=3dtuning.com|520cc.cc|anistar.org|atresplayer.com|atv.com.tr|bahnbonus-shopping.de|bahnbonus-shoppingwelt.de|beelink.in|bingfeng.tw|brid.tv|clipwatching.com|cyclismactu.net|debilizator.tv|duellinksmeta.com|embed.kijk.nl|extremereportbot.com|fox.com.tr|habbowert.de|jav777.cc|kenkenpuzzle.com|laradiobbs.net|mediaite.com|minhaconexao.com.br|ncaa.com|nekopoi.care|nekopoi.ga|nekopoi.lol|politiken.dk|spinbot.com|svapo.it|won.pe|tiz-cycling.racing|animeflv.net
-@@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?((\W|\_).*)?\.js/$xmlhttprequest,script,domain=alghad.com|arkowcy.pl|atresplayer.com|blocket.se|bolgegundem.com|calciomercato.com|cc-fan.tv|clksite.com|cn-fan.tv|cyfostreams.com|ferrovie.info|fox-fan.tv|geekspin.co|getfreebit.xyz|getinmac.com|haaretz.com|hopto.org|infosia.xyz|insurance-info.us|japan.zdnet.com|kertashitam.com|ktozvonit.com.ua|lurlo.news|nf-fan.tv|nohat.cc|overclockers.ru|rjiblog.org|rockstargame.su|schwaebische.de|seo-fast.ru|swatchseries.to|teknologilink.com|thedailybeast.com|upload.ac|uploadbox.io|uploadship.com|vw-page.com|wetransfer.com|zdnet.co.kr|zdnet.com|zdnet.com.cn|zdnet.de|zdnet.fr|converter-btc.world|crypto-fun.cf|easybitcoins.ml|drtuber.com|popsci.com
+@@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?((\W|\_).*)?\.js/$xmlhttprequest,script,domain=alghad.com|arkowcy.pl|atresplayer.com|blocket.se|bolgegundem.com|calciomercato.com|cc-fan.tv|clksite.com|cn-fan.tv|cyfostreams.com|ferrovie.info|fox-fan.tv|geekspin.co|getfreebit.xyz|getinmac.com|haaretz.com|hopto.org|infosia.xyz|insurance-info.us|japan.zdnet.com|kertashitam.com|ktozvonit.com.ua|lurlo.news|nf-fan.tv|nohat.cc|overclockers.ru|rjiblog.org|rockstargame.su|schwaebische.de|seo-fast.ru|swatchseries.to|teknologilink.com|thedailybeast.com|upload.ac|uploadbox.io|uploadship.com|vw-page.com|wetransfer.com|zdnet.co.kr|zdnet.com|zdnet.com.cn|zdnet.de|zdnet.fr|converter-btc.world|crypto-fun.cf|easybitcoins.ml|drtuber.com|popsci.com|clksite.com
 @@/^https?:\/\/(www\.)?.*\/(show|google|[a-z]{1}|videojs\-contrib|e?detect)(\W|\_)?[Aa]d[sv](([_-]?ima)?\.min)?\.js/$script,xmlhttprequest,domain=ccmbg.com|cnbc.com|dmntsf.net|getintopc.com|golem.de|mp3.teledyski.info|rjno1.com|rodzinnywyjazd.pl|sbsports.pro|solvetube.site|spinbot.com|streamcherry.com|topserialy.to|unique-tutorials.info|watch32hd.org|pornokeep.com|enjoyfuck.com|fuckgonzo.com
 @@/^https?:\/\/.*?(freevpn4you\.net\/ads\/|freeopenvpn\.org\/units\/|all\-episodes\.tv\/ad\/banner\/|(nf|cc|cn|fox)\-fan\.tv\/images\/ad\.jpg|inoreader\.com\/adv\/)/$image,script,xmlhttprequest,domain=all-episodes.tv|cc-fan.tv|cn-fan.tv|fox-fan.tv|freeopenvpn.org|freevpn4you.net|nf-fan.tv
 
@@ -229,6 +229,7 @@
 ||syndapop.com^$third-party
 ||juicyads.com^$third-party
 ||refdomain3.xyz^$third-party
+||clksite.com^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -549,8 +550,8 @@ hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfr
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 
-desiupload.in,upgrand.*,gorillavid.in,mylust.com##+js(abort-on-property-write.js, encodeURIComponent)
-desiupload.in,upgrand.*,gorillavid.in,mylust.com#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
+desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net##+js(abort-on-property-write.js, encodeURIComponent)
+desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
 
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*,uploadev.*##+js(set-constant.js, absda, noopFunc)
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*,uploadev.*#%#//scriptlet("set-constant", "absda", "noopFunc")
@@ -1210,4 +1211,8 @@ originalindianporn.com,wowindianporn.com#%#//scriptlet("abort-on-property-read",
 
 1337x.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, popunder)
 1337x.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "popunder")
+
+e-mp3bul.xyz#%#//scriptlet("set-constant", "_popwnd_open", "noopFunc")
+e-mp3bul.xyz##+js(set-constant.js, _popwnd_open, noopFunc)
+
 
