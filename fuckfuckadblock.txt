@@ -358,8 +358,8 @@ netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eve
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com,adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site##+js(addEventListener-defuser.js, click, trigger)
 shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com,adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 
-businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com,poststar.com##+js(abort-on-property-read.js, stop)
-businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com,poststar.com#%#//scriptlet("abort-on-property-read", "stop")
+businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com,poststar.com,eurogamer.*##+js(abort-on-property-read.js, stop)
+businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com,poststar.com,eurogamer.*#%#//scriptlet("abort-on-property-read", "stop")
 
 bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com,alphr.com,20min.ch,al.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com,alphr.com,20min.ch,al.com#%#//scriptlet("abort-on-property-read", "_sp_._networkListenerData")
