@@ -1185,6 +1185,8 @@ movie4k.is#%#//scriptlet("abort-on-property-read", "urlToShow")
 ashemaletube.com##+js(set-constant.js, popunder, noopFunc)
 ashemaletube.com#%#//scriptlet("set-constant", "popunder", "noopFunc")
 
+youjizz.com##+js(abort-current-inline-script.js, window.config)
 youjizz.com##+js(abort-on-property-write.js, nb)
+youjizz.com#%#//scriptlet("abort-current-inline-script", "window.config")
 youjizz.com#%#//scriptlet("abort-on-property-write", "nb")
 
