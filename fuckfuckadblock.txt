@@ -594,8 +594,8 @@ camuploads.com,xxxdessert.com#%#//scriptlet("abort-on-property-read", "popunders
 sound-park.club,soundpark.red,soundpark-club.*##+js(abort-current-inline-script.js, $, open)
 sound-park.club,soundpark.red,soundpark-club.*#%#//scriptlet("abort-current-inline-script", "$", "open")
 
-imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info,porno-eblja.com,soft-portal.club,filmlinks4u.is,mangovideo.pw##+js(abort-current-inline-script.js, document.createElement, 'script')
-imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info,porno-eblja.com,soft-portal.club,filmlinks4u.is,mangovideo.pw#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
+imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info,porno-eblja.com,soft-portal.club,filmlinks4u.is,mangovideo.pw,doodhwali.xxx##+js(abort-current-inline-script.js, document.createElement, 'script')
+imageshtorm.com,idtbox.com,turboimagehost.com,newsyou.info,24-info.info,porno-eblja.com,soft-portal.club,filmlinks4u.is,mangovideo.pw,doodhwali.xxx#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
 digitaltrends.com,nwitimes.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
 digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
@@ -1172,8 +1172,8 @@ jtrouver.com#%#//scriptlet("set-constant", "google_jobrunner", "true")
 movie4k.is##+js(abort-on-property-read.js, urlToShow)
 movie4k.is#%#//scriptlet("abort-on-property-read", "urlToShow")
 
-ashemaletube.com,speedporn.net##+js(set-constant.js, popunder, noopFunc)
-ashemaletube.com,speedporn.net#%#//scriptlet("set-constant", "popunder", "noopFunc")
+ashemaletube.com,speedporn.net,doodhwali.xxx##+js(set-constant.js, popunder, noopFunc)
+ashemaletube.com,speedporn.net,doodhwali.xxx#%#//scriptlet("set-constant", "popunder", "noopFunc")
 
 youjizz.com##+js(abort-current-inline-script.js, window.config)
 youjizz.com##+js(abort-on-property-write.js, nb)
