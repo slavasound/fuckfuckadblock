@@ -181,7 +181,6 @@
 */invoke.js$script
 */kvideo.js$script,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 */stl.js$script,domain=thatav.net
-*/expla*.js^$domain=rarbgunblock.org,script
 /^https:\/\/.*?\/v2\/0\/[a-zA-Z0-9_-]{30,}$/$third-party,script
 /^https?:\/\/([a-z0-9]{3,10}\.)?[a-z0-9]{5,15}\.(click|com|bid|net|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/script
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
@@ -196,9 +195,9 @@
 @@||hit.stat24.com/$xmlhttprequest,domain=polsatnews.pl
 @@||imgtown.net^$script,domain=imgtown.pw|imgtown.net
 @@||motortrendondemand.com/advertisements-ad-unit/$xmlhttprequest,domain=motortrendondemand.com
+@@||p.jwpcdn.com^$third-party,script
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
-@@||p.jwpcdn.com^$third-party,script
 ||9anime.*^$script,~third-party
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
 ||allnorilsk.ru/js/adb.js$script,domain=allnorilsk.ru
@@ -626,8 +625,8 @@ rapidvideo.com,kino-live2.org#%#//scriptlet("prevent-addEventListener", "mousedo
 upgrand.*,kino-live2.org##+js(addEventListener-defuser.js, click)
 upgrand.*,kino-live2.org#%#//scriptlet("prevent-addEventListener", "click")
 
-rarbgenter.org,rarbgcore.org,rarbgunblock.*##+js(abort-on-property-read.js, LieDetector)
-rarbgenter.org,rarbgcore.org,rarbgunblock.*#%#//scriptlet("abort-on-property-read", "LieDetector")
+proxyrarbg.*,rarbg.is,rarbg.to,rarbgget.org,rarbgenter.org,rarbgprx.org,rarbgp2p.org,rarbgto.org,rarbg2019.org,rarbg.unblockall.org,rarbg.unblocked.kim,rarbgaccess.org,rarbgcore.org,rarbgdata.org,rarbggo.org,rarbgmirror.*,rarbgproxy.*,rarbgtor.org,rarbgunblock.*,rarbgweb.org##+js(abort-on-property-read.js, LieDetector)
+proxyrarbg.*,rarbg.is,rarbg.to,rarbgget.org,rarbgenter.org,rarbgprx.org,rarbgp2p.org,rarbgto.org,rarbg2019.org,rarbg.unblockall.org,rarbg.unblocked.kim,rarbgaccess.org,rarbgcore.org,rarbgdata.org,rarbggo.org,rarbgmirror.*,rarbgproxy.*,rarbgtor.org,rarbgunblock.*,rarbgweb.org#%#//scriptlet("abort-on-property-read", "LieDetector")
 
 4tube.com,voyeurhit.com##+js(abort-on-property-write.js, ads_priv)
 4tube.com,voyeurhit.com#%#//scriptlet("abort-on-property-write", "ads_priv")
