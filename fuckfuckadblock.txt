@@ -1314,3 +1314,6 @@ putlockers.*#%#//scriptlet("abort-current-inline-script", "String.fromCharCode",
 vidsrc.*##+js(set-constant.js, String.fromCharCode, trueFunc)
 vidsrc.*#%#//scriptlet("set-constant", "String.fromCharCode", "trueFunc")
 
+gamer.com.tw##+js(abort-on-property-read.js, AntiAd.check)
+gamer.com.tw#%#//scriptlet("abort-on-property-read", "AntiAd.check")
+
