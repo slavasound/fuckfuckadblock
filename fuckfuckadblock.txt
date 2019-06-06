@@ -1239,3 +1239,6 @@ descargas2020.*#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "[
 planetatorrent.com##+js(addEventListener-defuser.js, mousedown, ())
 planetatorrent.com#%#//scriptlet("prevent-addEventListener", "mousedown", "/()/")
 
+softwarecrackguru.com##+js(abort-on-property-write.js, downloadJSAtOnload)
+softwarecrackguru.com#%#//scriptlet("abort-on-property-write", "downloadJSAtOnload")
+
