@@ -568,8 +568,8 @@ hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfr
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 
-desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net##+js(abort-on-property-write.js, encodeURIComponent)
-desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
+desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net,streamdreams.org##+js(abort-on-property-write.js, encodeURIComponent)
+desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net,streamdreams.org#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
 
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*,uploadev.*,planetatorrent.com##+js(set-constant.js, absda, noopFunc)
 bit-url.com,imageshtorm.com,sound-park.club,soundpark.red,soundpark-club.*,uploadev.*,planetatorrent.com#%#//scriptlet("set-constant", "absda", "noopFunc")
