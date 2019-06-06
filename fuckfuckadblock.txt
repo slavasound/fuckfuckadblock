@@ -245,6 +245,7 @@
 ||syndicpop.com^$third-party
 ||280asnlnr7.com^$third-party
 ||propellerclick.com^$third-party
+||rgvqcsxqge.com^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
