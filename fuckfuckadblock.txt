@@ -216,6 +216,7 @@
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
 
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$third-party
+/^https?:\/\/.*\.ad([0-9]{1})?media\.fr/$third-party
 ||adbetnet.com^$third-party
 ||aliru1.ru^$third-party
 ||am15.net^$third-party
@@ -1260,4 +1261,9 @@ iporntv.net##+js(abort-current-inline-script.js, document.createElement, IFRAME)
 iporntv.net#%#//scriptlet("abort-current-inline-script", "document.createElement", "IFRAME")
 iporntv.net##+js(set-constant.js, ckaduMobilePop, noopFunc)
 iporntv.net#%#//scriptlet("set-constant", "ckaduMobilePop", "noopFunc")
+
+cambabe.*##+js(abort-on-property-read.js, _wm)
+cambabe.*#%#//scriptlet("abort-on-property-read", "_wm")
+cambabe.*##+js(abort-on-property-read.js, loadTool)
+cambabe.*#%#//scriptlet("abort-on-property-read", "loadTool")
 
