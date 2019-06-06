@@ -323,7 +323,7 @@ aboutchromebooks.com,alternet.org,cultofmac.com,dogtime.com,mandatory.com,news24
 123movies.*,2fly.me,adsrt.*,anitube.cz,blogspot.com,convert2mp3.net,idtbox.com,indishare.*,japscan.*,keepvid.*,kino-live1.*,kino-live2.*,myvidmate.*,ojomovies.com,oladblock.*,oload.*,openload.*,putlockerfree.net,rurafs.me,sciencelife.*,stiffgamerdown.com,twojetv.ws,uploadhaven.com,uploadrar.com,urlcash.*,userscloud.com,movizland.online,solarmoviesc.com,gomovies.*,streamcloud.eu#%#//scriptlet("abort-current-inline-script", "atob", "decodeURIComponent")
 
 123moviesgot.com,300mbfree4u.org,9xupload.me,arenavision.*,cpmlink.net,dailyimages.*,desiupload.info,full-stream.co,movie-blog.*,movies1234.net,skiehacker.weebly.com,tamiltunes.*,upgrand.*,uploadbaz.net,ver-pelis.*,world4ufree.to,linkshrink.net,descargas2020.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-123moviesgot.com,300mbfree4u.org,9xupload.me,arenavision.*,cpmlink.net,dailyimages.*,desiupload.info,full-stream.co,movie-blog.*,movies1234.net,skiehacker.weebly.com,tamiltunes.*,upgrand.*,uploadbaz.net,ver-pelis.*,world4ufree.to,linkshrink.net#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
+123moviesgot.com,300mbfree4u.org,9xupload.me,arenavision.*,cpmlink.net,dailyimages.*,desiupload.info,full-stream.co,movie-blog.*,movies1234.net,skiehacker.weebly.com,tamiltunes.*,upgrand.*,uploadbaz.net,ver-pelis.*,world4ufree.to,linkshrink.net,descargas2020.*#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
 
 hotpornfile.org,opjav.com$popunder,important
 imgmaze.pw,imgrock.pw,opjav.com$popunder,third-party,important
