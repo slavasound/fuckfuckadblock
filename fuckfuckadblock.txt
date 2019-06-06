@@ -403,8 +403,8 @@ diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFu
 hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com,mylust.com##+js(popads-dummy.js)
 hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com,mylust.com#%#//scriptlet("set-popads-dummy")
 
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com##+js(abort-on-property-read.js, ExoLoader)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la##+js(abort-on-property-read.js, ExoLoader)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la#%#//scriptlet("abort-on-property-read", "ExoLoader")
 
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*##+js(noeval.js)
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*#%#//scriptlet("noeval")
@@ -548,8 +548,8 @@ clk.*,1921681254.tech#%#//scriptlet("set-constant", "blockAdBlock", "true")
 olegon.ru,allnorilsk.ru,hotpornfile.org##+js(abort-on-property-read.js, onload)
 olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", "onload")
 
-hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net#%#//scriptlet("prevent-addEventListener", "getexoloader")
-hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net##+js(addEventListener-defuser.js, getexoloader)
+hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la#%#//scriptlet("prevent-addEventListener", "getexoloader")
+hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la##+js(addEventListener-defuser.js, getexoloader)
 
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
@@ -1241,4 +1241,7 @@ planetatorrent.com#%#//scriptlet("prevent-addEventListener", "mousedown", "/()/"
 
 softwarecrackguru.com##+js(abort-on-property-write.js, downloadJSAtOnload)
 softwarecrackguru.com#%#//scriptlet("abort-on-property-write", "downloadJSAtOnload")
+
+hitomi.la##+js(abort-on-property-write.js, adblock_detected)
+hitomi.la#%#//scriptlet("abort-on-property-write", "adblock_detected")
 
