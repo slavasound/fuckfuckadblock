@@ -234,6 +234,8 @@
 ||exosrv.com^$third-party
 ||e6cfmdmo81.com^$third-party
 ||bl0uxepb4o.com^$third-party
+||bcloudhost.com^$third-party
+||getclicky.com^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -405,8 +407,8 @@ diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFu
 hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com,mylust.com,porntrex.com##+js(popads-dummy.js)
 hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com,mylust.com,porntrex.com#%#//scriptlet("set-popads-dummy")
 
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la##+js(abort-on-property-read.js, ExoLoader)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la#%#//scriptlet("abort-on-property-read", "ExoLoader")
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la,fuckpix.club##+js(abort-on-property-read.js, ExoLoader)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la,fuckpix.club#%#//scriptlet("abort-on-property-read", "ExoLoader")
 
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*##+js(noeval.js)
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.com,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*#%#//scriptlet("noeval")
@@ -480,8 +482,8 @@ fmovies.*,fastplay.*,ffmovies.ru#%#//scriptlet("abort-current-inline-script", "d
 watchhowimetyourmother.online,faselhd.*,daddylive.live##+js(abort-on-property-read.js, require)
 watchhowimetyourmother.online,faselhd.*,daddylive.live#%#//scriptlet("abort-on-property-read", "require")
 
-dailyimages.*,javhihi.com,girlsofdesire.org,nakenprat.com,anysex.com,yourlust.com,speedporn.net,mangovideo.pw##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
-dailyimages.*,javhihi.com,girlsofdesire.org,nakenprat.com,anysex.com,yourlust.com,speedporn.net,mangovideo.pw#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
+dailyimages.*,javhihi.com,girlsofdesire.org,nakenprat.com,anysex.com,yourlust.com,speedporn.net,mangovideo.pw,fuckpix.club##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
+dailyimages.*,javhihi.com,girlsofdesire.org,nakenprat.com,anysex.com,yourlust.com,speedporn.net,mangovideo.pw,fuckpix.club#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
 
 porndr.com,tmohentai.com##+js(addEventListener-defuser.js, /^(?:load|click)$/, popMagic)
 porndr.com,tmohentai.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|click)$/", "popMagic")
@@ -1215,8 +1217,8 @@ moika78.ru##+js(set-constant.js, noAdblock, true)
 mz-web.de##+js(abort-current-inline-script.js, document.createElement, document.head.appendChild)
 mz-web.de#%#//scriptlet("abort-current-inline-script", "document.createElement", "document.head.appendChild")
 
-doodhwali.xxx##+js(abort-current-inline-script.js, document.write)
-doodhwali.xxx#%#//scriptlet("abort-current-inline-script", "document.write")
+doodhwali.xxx,fuckpix.club##+js(abort-current-inline-script.js, document.write)
+doodhwali.xxx,fuckpix.club#%#//scriptlet("abort-current-inline-script", "document.write")
 
 originalindianporn.com,wowindianporn.com##+js(abort-on-property-read.js, popit)
 originalindianporn.com,wowindianporn.com#%#//scriptlet("abort-on-property-read", "popit")
