@@ -306,9 +306,10 @@ vidlink.org##a[href*="/afu.php"][target="_blank"]
 windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
 noizz.pl##div.contentInfo:has(a[href="abp:subscribe?location=http%3A%2F%2Flib.onet.pl%2Fs.csr%2Fwhitelist%2Fnoizz.pl.txt&title=noizz.pl"])
-finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(a[href$="/wylaczenie-blokady-reklam"])
+finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(a[class]:contains(Jak dodać WP do wyjątków adBlocka))
 speedporn.net##.happy-inside-player
 fantasti.cc##a[href*=".php"]
+firmwarefiledownload.xyz##.js-reveal-modal, .reveal-modal-bg
 
 |http*://$image,domain=ip.cn,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
