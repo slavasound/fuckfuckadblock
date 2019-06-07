@@ -175,6 +175,7 @@
 *$xmlhttprequest,domain=sexvid.xxx|fantasti.cc
 *$xmlhttprequest,third-party,domain=userscloud.com
 @@*$xmlhttprequest,domain=muzlan.top|programiz.com
+@@*$media,domain=camwhores.tv
 
 */*.php$important,script,xmlhttprequest,domain=dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|krasivoeporno.tv|lbtube.com|orgazmtv.com|turboimagehost.com|xxxdessert.com|youx.xxx
 */gofd_fl.js$script
