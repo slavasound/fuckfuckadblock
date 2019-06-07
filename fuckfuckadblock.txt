@@ -366,9 +366,9 @@ aboutchromebooks.com,alternet.org,cultofmac.com,dogtime.com,mandatory.com,news24
 123movies.*,2fly.me,adsrt.*,anitube.cz,blogspot.com,convert2mp3.net,idtbox.com,indishare.*,japscan.*,keepvid.*,kino-live1.*,kino-live2.*,myvidmate.*,ojomovies.com,oladblock.*,oload.*,openload.*,putlockerfree.net,rurafs.me,sciencelife.*,stiffgamerdown.com,twojetv.ws,uploadhaven.com,uploadrar.com,urlcash.*,userscloud.com,movizland.online,solarmoviesc.com,gomovies.*,streamcloud.eu,watch5s.me,putlockers.*,watch-series.*,mywatchseries.stream#%#//scriptlet("abort-current-inline-script", "atob", "decodeURIComponent")
 
 123moviesgot.com,300mbfree4u.org,9xupload.me,arenavision.*,cpmlink.net,dailyimages.*,desiupload.info,full-stream.co,full-stream.nu,movie-blog.*,movies1234.net,skiehacker.weebly.com,tamiltunes.*,upgrand.*,uploadbaz.net,ver-pelis.*,world4ufree.to,linkshrink.net,descargas2020.*,cartoon-sex.tv,
-9xmovies.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+9xmovies.*,9kmovies.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 123moviesgot.com,300mbfree4u.org,9xupload.me,arenavision.*,cpmlink.net,dailyimages.*,desiupload.info,full-stream.co,full-stream.nu,movie-blog.*,movies1234.net,skiehacker.weebly.com,tamiltunes.*,upgrand.*,uploadbaz.net,ver-pelis.*,world4ufree.to,linkshrink.net,descargas2020.*,cartoon-sex.tv,
-9xmovies.*#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
+9xmovies.*,9kmovies.*#%#//scriptlet("abort-current-inline-script", "decodeURI", "decodeURIComponent")
 
 hotpornfile.org,opjav.com$popunder,important
 imgmaze.pw,imgrock.pw,opjav.com$popunder,third-party,important
@@ -484,8 +484,8 @@ popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#//scriptlet("
 linkberuang.*,njiir.com##+js(set-constant.js, safelink.adblock, false)
 linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
 
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
+indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
+indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
 
 ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com##+js(abort-current-inline-script.js, parseInt, tabunder)
 ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
