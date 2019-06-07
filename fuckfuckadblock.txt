@@ -1099,8 +1099,8 @@ openloed.co#%#//scriptlet("abort-on-property-read", "__htapop")
 onitube.com##+js(setTimeout-defuser.js, newBody)
 onitube.com#%#//scriptlet("prevent-setTimeout", "newBody")
 
-finalservers.net##+js(setInterval-defuser.js, visibility, 1000)
-finalservers.net#%#//scriptlet("prevent-setInterval", "visibility", "1000")
+finalservers.net,clik.*##+js(setInterval-defuser.js, visibility, 1000)
+finalservers.net,clik.*#%#//scriptlet("prevent-setInterval", "visibility", "1000")
 
 rustorka.com##+js(abort-on-property-write.js, antiadblock)
 rustorka.com#%#//scriptlet("abort-on-property-write", "antiadblock")
@@ -1404,3 +1404,8 @@ gogoanime.*#%#//scriptlet("set-constant", "String.prototype.charAt", "noopFunc")
 chrt.pw##+js(setTimeout-defuser.js, '0x)
 chrt.pw#%#//scriptlet("prevent-setTimeout", "'0x")
 
+clik.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, preventDefault)
+clik.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "preventDefault")
+
+clik.*##+js(addEventListener-defuser.js, /^(?:error|load)$/, P5)
+clik.*#%#//scriptlet("prevent-addEventListener", "/^(?:error|load)$/", "P5")
