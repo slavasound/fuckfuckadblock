@@ -1410,8 +1410,8 @@ clik.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "pre
 clik.*##+js(addEventListener-defuser.js, /^(?:error|load)$/, P5)
 clik.*#%#//scriptlet("prevent-addEventListener", "/^(?:error|load)$/", "P5")
 
-aipa530.com##+js(abort-on-property-write.js, cnzz_protocol)
-aipa530.com#%#//scriptlet("abort-on-property-write", "cnzz_protocol")
+aipa530.com,7mmtv.tv##+js(abort-on-property-write.js, cnzz_protocol)
+aipa530.com,7mmtv.tv#%#//scriptlet("abort-on-property-write", "cnzz_protocol")
 
 caoporn.com#%#//scriptlet("set-constant", "ShowPop", "noopFunc")
 caoporn.com##+js(set-constant.js, ShowPop, noopFunc)
