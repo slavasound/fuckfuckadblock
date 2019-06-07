@@ -168,6 +168,7 @@
 ||mangovideo.pw^$csp=script-src 'self' 'unsafe-inline'
 ||animeforce.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.facebook.com *.pinterest.com *.google-analytics.com
 ||camwhores.*^$csp=child-src 'self' ; script-src 'self' * 'unsafe-inline'
+||m4ufree.$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.google-analytics.com *.jwpcdn.com *.twimg.com *.twitter.com *.hydrax.net *.facebook.com *.googleapis.com *.facebook.net *.iomovies.info
 
 *$websocket,domain=vidup.me
 *$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info|clicknupload.org
@@ -254,6 +255,7 @@
 ||craydark.pw^$third-party
 ||wynrieth.pw^$third-party
 ||exi8ef83z9.com^$third-party
+||s4yxaqyq95.com^$third-party
 
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -415,8 +417,8 @@ getrelax.club,javfree.club#%#//scriptlet("abort-current-inline-script", "documen
 streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co,eporner.*,imgmonkey.com,animeforce.*,camuploads.com,voyeurhit.com,gounlimited.to,avforme.com,animeforce.org,embedy.me,hclips.com##+js(abort-on-property-read.js, BetterJsPop)
 streamcherry.com,streamango.com,vivatube.com,vev.io,goovie.co,eporner.*,imgmonkey.com,animeforce.*,camuploads.com,voyeurhit.com,gounlimited.to,avforme.com,animeforce.org,embedy.me,hclips.com#%#//scriptlet("abort-on-property-read", "BetterJsPop")
 
-stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.io,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*,daxab.com,ganool.*,gounlimited.to,clicknupload.org,streamcloud.eu,1337x.*,xvideos.com,descargas2020.,torrentlocura.com,torrentrapid.com,tumejortorrent.com*,open-live.org,uploadmp4.com,itdmusic.*,putlockers.*,watchonseries.com,watchtvseries.io$webrtc,important
-stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.io,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*,daxab.com,ganool.*,gounlimited.to,clicknupload.org,streamcloud.eu,1337x.*,xvideos.com,descargas2020.*,torrentlocura.com,torrentrapid.com,tumejortorrent.com,open-live.org,uploadmp4.com,itdmusic.*,putlockers.*,watchonseries.com,watchtvseries.io##+js(nowebrtc.js)
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.io,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*,daxab.com,ganool.*,gounlimited.to,clicknupload.org,streamcloud.eu,1337x.*,xvideos.com,descargas2020.,torrentlocura.com,torrentrapid.com,tumejortorrent.com*,open-live.org,uploadmp4.com,itdmusic.*,putlockers.*,watchonseries.com,watchtvseries.io,m4ufree.*$webrtc,important
+stiffvip.com,igg-games.com,clik.*,uploadocean.com,gsmarena.com,cyfostreams.com,vidlox.*,prettyfast.to,ouo.io,uptobox.com,ourl.io,cpmlink.net,entervideo.net,yts.*,dpstream.*,hdvid.*,onvid.*,ovid.*,vidhd.*,123movies.*,fastplay.*,avgle.com,swatchseries.to,intoupload.net,adyou.me,povvideo.*,powvldeo.*,daxab.com,ganool.*,gounlimited.to,clicknupload.org,streamcloud.eu,1337x.*,xvideos.com,descargas2020.*,torrentlocura.com,torrentrapid.com,tumejortorrent.com,open-live.org,uploadmp4.com,itdmusic.*,putlockers.*,watchonseries.com,watchtvseries.io,m4ufree.*##+js(nowebrtc.js)
 
 herokuapp.com,fullstacks.net##+js(set-constant.js, gadb, false)
 herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
@@ -475,8 +477,8 @@ ceesty.com,gestyy.com,clkmein.com,viid.me#%#//scriptlet("set-constant", "adsBloc
 menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
 menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
 
-hdvid.*,leporno.org,fastplay.*,rule34hentai.net,daxab.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com,gnula.nu,watch-series.*##+js(abort-current-inline-script.js, atob, tabunder)
-hdvid.*,leporno.org,fastplay.*,rule34hentai.net,daxab.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com,gnula.nu,watch-series.*#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
+hdvid.*,leporno.org,fastplay.*,rule34hentai.net,daxab.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com,gnula.nu,watch-series.*,m4ufree.*##+js(abort-current-inline-script.js, atob, tabunder)
+hdvid.*,leporno.org,fastplay.*,rule34hentai.net,daxab.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com,gnula.nu,watch-series.*,m4ufree.*#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
 
 studopedia.com.ua,lektsii.org##+js(abort-current-inline-script.js, detectAdblk)
 studopedia.com.ua,lektsii.org#%#//scriptlet("abort-current-inline-script", "detectAdblk")
