@@ -439,8 +439,8 @@ popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#//scriptlet("
 linkberuang.*,njiir.com##+js(set-constant.js, safelink.adblock, false)
 linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
 
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online##+js(abort-current-inline-script.js, Math.sin, vocabulary)
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
+indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online,w4files.ws##+js(abort-current-inline-script.js, Math.sin, vocabulary)
+indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online,w4files.ws#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
 
 ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com##+js(abort-current-inline-script.js, parseInt, tabunder)
 ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
