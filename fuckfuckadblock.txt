@@ -171,6 +171,7 @@
 ||m4ufree.$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.google-analytics.com *.jwpcdn.com *.twimg.com *.twitter.com *.hydrax.net *.facebook.com *.googleapis.com *.facebook.net *.iomovies.info
 ||uii.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google.com *.googletagmanager.com
 ||newsfilter.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.addthis.com *.disqus.com *.google-analytics.com *.googleapis.com *.gstatic.com *.google.com *.solvemedia.com
+||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com
 
 *$websocket,domain=vidup.me
 *$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info|clicknupload.org
@@ -592,8 +593,8 @@ olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", 
 hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la,hclips.com#%#//scriptlet("prevent-addEventListener", "getexoloader")
 hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la,hclips.com##+js(addEventListener-defuser.js, getexoloader)
 
-9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com,strikeout.nu#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
-9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com,strikeout.nu##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com,strikeout.nu,readcomiconline.to#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
+9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com,strikeout.nu,readcomiconline.to##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 
 desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net,streamdreams.org##+js(abort-on-property-write.js, encodeURIComponent)
 desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net,streamdreams.org#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
@@ -613,8 +614,8 @@ clik.*,pasty.link,javfinder.is#%#//scriptlet("prevent-setTimeout", "_0x")
 axjbt.com,avcao.cc#%#//scriptlet("abort-on-property-read", "myclick")
 axjbt.com,avcao.cc##+js(abort-on-property-read.js, myclick)
 
-9xupload.me,adyou.*,biqle.ru,ganool.*,1337x.*,torrentrapid.com,tumejortorrent.com,planetatorrent.com,fembed.com##+js(setInterval-defuser.js, (), 500)
-9xupload.me,adyou.*,biqle.ru,ganool.*,1337x.*,torrentrapid.com,tumejortorrent.com,planetatorrent.com,fembed.com#%#//scriptlet("prevent-setInterval", "()", "500")
+9xupload.me,adyou.*,biqle.ru,ganool.*,1337x.*,torrentrapid.com,tumejortorrent.com,planetatorrent.com,fembed.com,readcomiconline.to##+js(setInterval-defuser.js, (), 500)
+9xupload.me,adyou.*,biqle.ru,ganool.*,1337x.*,torrentrapid.com,tumejortorrent.com,planetatorrent.com,fembed.com,readcomiconline.to#%#//scriptlet("prevent-setInterval", "()", "500")
 
 payco.*,streamlive.to##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*,streamlive.to#%#//scriptlet("abort-current-inline-script", "parseInt", "charAt")
@@ -1333,8 +1334,8 @@ hclips.com#%#//scriptlet("abort-on-property-read", "popunder")
 putlockers.*##+js(abort-current-inline-script.js, String.fromCharCode, /\/\*[0-9a-f]{40}\*\//)
 putlockers.*#%#//scriptlet("abort-current-inline-script", "String.fromCharCode", "/\/\*[0-9a-f]{40}\*\//")
 
-vidsrc.*##+js(set-constant.js, String.fromCharCode, trueFunc)
-vidsrc.*#%#//scriptlet("set-constant", "String.fromCharCode", "trueFunc")
+vidsrc.*,readcomiconline.to##+js(set-constant.js, String.fromCharCode, trueFunc)
+vidsrc.*,readcomiconline.to#%#//scriptlet("set-constant", "String.fromCharCode", "trueFunc")
 
 gamer.com.tw##+js(abort-on-property-read.js, AntiAd.check)
 gamer.com.tw#%#//scriptlet("abort-on-property-read", "AntiAd.check")
@@ -1374,5 +1375,12 @@ newsfilter.org#%#//scriptlet("abort-on-property-read", "phtProps")
 
 readcomiconline.to##+js(abort-on-property-write.js, adbWarn)
 readcomiconline.to#%#//scriptlet("abort-on-property-write", "adbWarn")
-
+readcomiconline.to##+js(abort-on-property-read.js, zfgloadednative)
+readcomiconline.to#%#//scriptlet("abort-on-property-read", "zfgloadednative")
+readcomiconline.to##+js(abort-on-property-write.js, callExo)
+readcomiconline.to#%#//scriptlet("abort-on-property-write", "callExo")
+readcomiconline.to##+js(setTimeout-defuser.js, .exo)
+readcomiconline.to#%#//scriptlet("prevent-setTimeout", ".exo")
+readcomiconline.to##+js(setTimeout-defuser.js, callExo)
+readcomiconline.to#%#//scriptlet("prevent-setTimeout", "callExo")
 
