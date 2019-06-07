@@ -445,8 +445,8 @@ diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFu
 hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com,mylust.com,porntrex.com,itdmusic.*,namethatporn.com,hclips.com##+js(popads-dummy.js)
 hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,porngun.net,123movies.*,faselhd.*,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,imgrock.*,gelbooru.com,sankakucomplex.com,sloomp.space,adshort.*,rule34hentai.net,myreadingmanga.info,camuploads.com,fullhdfilmdeposu.com,vidup.me,mirrorace.com,voyeurhit.com,anysex.com,yourlust.com,mylust.com,porntrex.com,itdmusic.*,namethatporn.com,hclips.com#%#//scriptlet("set-popads-dummy")
 
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la,fuckpix.club,fantasti.cc,hclips.com,rawindianporn.com##+js(abort-on-property-read.js, ExoLoader)
-imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la,fuckpix.club,fantasti.cc,hclips.com,rawindianporn.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la,fuckpix.club,fantasti.cc,hclips.com,rawindianporn.com,pornxs.com##+js(abort-on-property-read.js, ExoLoader)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la,fuckpix.club,fantasti.cc,hclips.com,rawindianporn.com,pornxs.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
 
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.*,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*,fantasti.cc##+js(noeval.js)
 bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.*,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*,fantasti.cc#%#//scriptlet("noeval")
@@ -1315,8 +1315,8 @@ rulu.co#%#//scriptlet("prevent-setTimeout", "adsBox", "200")
 rulu.co#%#//scriptlet("set-constant", "getDownloadNow", "noopFunc")
 rulu.co##+js(set-constant.js, getDownloadNow, noopFunc)
 
-fantasti.cc,crazyshit.com##+js(abort-on-property-write.js, phtData)
-fantasti.cc,crazyshit.com#%#//scriptlet("abort-on-property-write", "phtData")
+fantasti.cc,crazyshit.com,pornxs.com##+js(abort-on-property-write.js, phtData)
+fantasti.cc,crazyshit.com,pornxs.com#%#//scriptlet("abort-on-property-write", "phtData")
 
 uploadgoogle.ir##+js(abort-on-property-read.js, zarpop_pop2under)
 uploadgoogle.ir#%#//scriptlet("abort-on-property-read", "zarpop_pop2under")
@@ -1368,8 +1368,8 @@ bmovies.*#%#//scriptlet("abort-on-property-read", "zfgloadedpopup")
 crazyshit.com##+js(abort-on-property-write.js, raSettings)
 crazyshit.com#%#//scriptlet("abort-on-property-write", "raSettings")
 
-newsfilter.org##+js(abort-on-property-read.js, raSettings)
-newsfilter.org#%#//scriptlet("abort-on-property-read", "raSettings")
+newsfilter.org,pornxs.com##+js(abort-on-property-read.js, raSettings)
+newsfilter.org,pornxs.com#%#//scriptlet("abort-on-property-read", "raSettings")
 newsfilter.org##+js(abort-on-property-read.js, phtProps)
 newsfilter.org#%#//scriptlet("abort-on-property-read", "phtProps")
 
@@ -1383,4 +1383,7 @@ readcomiconline.to##+js(setTimeout-defuser.js, .exo)
 readcomiconline.to#%#//scriptlet("prevent-setTimeout", ".exo")
 readcomiconline.to##+js(setTimeout-defuser.js, callExo)
 readcomiconline.to#%#//scriptlet("prevent-setTimeout", "callExo")
+
+pornxs.com##+js(abort-on-property-read.js, _abb)
+pornxs.com#%#//scriptlet("abort-on-property-read", "_abb")
 
