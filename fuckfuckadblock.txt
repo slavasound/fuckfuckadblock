@@ -472,8 +472,8 @@ hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*,seriesgato.tv,vivoenfutbol.xyz,pelisplus.*#
 anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co,world4ufree.com.co,stocktwits.com,torrentdownloads.me##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co,world4ufree.com.co,stocktwits.com,torrentdownloads.me#%#//scriptlet("abort-on-property-read", "Date.prototype.toUTCString")
 
-javplay.me,sembunyi.in,hdstreams.*,egybest2.com,fbbcdn.xyz,imgoutlet.pw,ytmp3.eu#%#//scriptlet("abort-on-property-read", "popjs")
-javplay.me,sembunyi.in,hdstreams.*,egybest2.com,fbbcdn.xyz,imgoutlet.pw,ytmp3.eu##+js(abort-on-property-read.js, popjs)
+javplay.me,sembunyi.in,hdstreams.*,egybest2.com,fbbcdn.xyz,imgoutlet.pw,ytmp3.eu,kuntv.pw#%#//scriptlet("abort-on-property-read", "popjs")
+javplay.me,sembunyi.in,hdstreams.*,egybest2.com,fbbcdn.xyz,imgoutlet.pw,ytmp3.eu,kuntv.pw##+js(abort-on-property-read.js, popjs)
 
 popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com##+js(abort-on-property-read.js, CatapultTools)
 popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#//scriptlet("abort-on-property-read", "CatapultTools")
