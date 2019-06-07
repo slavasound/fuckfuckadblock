@@ -479,8 +479,8 @@ linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false
 indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
 
-ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*##+js(abort-current-inline-script.js, parseInt, tabunder)
-ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
+ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com##+js(abort-current-inline-script.js, parseInt, tabunder)
+ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
 
 ceesty.com,gestyy.com,clkmein.com,viid.me##+js(set-constant.js, adsBlockerDetector, noopFunc)
 ceesty.com,gestyy.com,clkmein.com,viid.me#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
@@ -1011,8 +1011,8 @@ tomshw.it#%#//scriptlet("prevent-setTimeout", "bioEp.showPopup")
 xopenload.me,speedporn.net##+js(set-constant.js, jsUnda, noopFunc)
 xopenload.me,speedporn.net#%#//scriptlet("set-constant", "jsUnda", "noopFunc")
 
-animeforce.*,gounlimited.to,animeforce.org,embedy.me##+js(abort-on-property-read.js, popns)
-animeforce.*,gounlimited.to,animeforce.org,embedy.me#%#//scriptlet("abort-on-property-read", "popns")
+animeforce.*,gounlimited.to,animeforce.org,embedy.me,kaotic.com##+js(abort-on-property-read.js, popns)
+animeforce.*,gounlimited.to,animeforce.org,embedy.me,kaotic.com#%#//scriptlet("abort-on-property-read", "popns")
 
 pluspremieres.*##+js(setTimeout-defuser.js, adv)
 pluspremieres.*#%#//scriptlet("prevent-setTimeout", "adv")
