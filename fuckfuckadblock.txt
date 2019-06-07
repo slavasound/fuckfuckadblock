@@ -353,8 +353,8 @@ ojomovies.com,japscan.*,indishare.*,stfly.*,uptobox.com,linksmaza.*,encurta.net,
 convert2mp3.net,vidlox.*,indishare.*,300mbmovies.life,drivehub.*,9xmovies.*,besteduloan.us##+js(abort-on-property-read.js, decodeURIComponent)
 convert2mp3.net,vidlox.*,indishare.*,300mbmovies.life,drivehub.*,9xmovies.*,besteduloan.us#%#//scriptlet("abort-on-property-read", "decodeURIComponent")
 
-openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,picbaron.com,adbilty.me,javfinder.is,hitomi.la,pornflip.com,peekvids.com,savethevideo.com,izlemac10.net,streamcdn.*,kickass2.*,bolly4u.*##+js(abort-on-property-read.js, open)
-openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,picbaron.com,adbilty.me,javfinder.is,hitomi.la,pornflip.com,peekvids.com,savethevideo.com,izlemac10.net,streamcdn.*,kickass2.*,bolly4u.*#%#//scriptlet("abort-on-property-read", "open")
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,picbaron.com,adbilty.me,javfinder.is,hitomi.la,pornflip.com,peekvids.com,savethevideo.com,izlemac10.net,streamcdn.*,kickass2.*,bolly4u.*,blogginggyanbox.com##+js(abort-on-property-read.js, open)
+openload.*,oload.*,oladblock.*,shrtfly.*,clik.*,urlsamo.com,bit-url.com,linkrag.com,dunyanews.*,linkshrter.com,pornsexer.com,verystream.com,abtakar.com,uiz.io,ommantrameditation.com,techsyou.com,firstonetv.*,3rabcut.com,picbaron.com,adbilty.me,javfinder.is,hitomi.la,pornflip.com,peekvids.com,savethevideo.com,izlemac10.net,streamcdn.*,kickass2.*,bolly4u.*,blogginggyanbox.com#%#//scriptlet("abort-on-property-read", "open")
 
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com,xbox360torrent.com,tv.iptvvall.com,animeforce.*,g1novelas.online,maxpark.com,1idsly.com,vabstutorials.com,tv.radiotormentamx.com,studizba.com,streamlive.to,myreadingmanga.info,suarankri.me,etkisizeleman.com,radiotormentamx.com,gaypornwave.com,animeforce.org,bestfitnesstips.club##+js(addEventListener-defuser.js, load, onload)
 televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,infosehatku.club,takeitfor.me,jelajahinternet.*,akuno.net,anoboy.org,beelink.in,yametesenpai.*,rjno1.com,oploverzhome.com,blogspot.com,muhammadyoga.*,skiplink.io,まったり映画.tokyo,zwergenstadt.com,xbox360torrent.com,tv.iptvvall.com,animeforce.*,g1novelas.online,maxpark.com,1idsly.com,vabstutorials.com,tv.radiotormentamx.com,studizba.com,streamlive.to,myreadingmanga.info,suarankri.me,etkisizeleman.com,radiotormentamx.com,gaypornwave.com,animeforce.org,bestfitnesstips.club#%#//scriptlet("prevent-addEventListener", "load", "onload")
@@ -546,8 +546,8 @@ xnxx.com,xvideos.com#%#Object.defineProperty(window, 'openpop', { get: function(
 ouo.io,shink.*,ouo.press,kaotic.com,turkceanimeizle.com##+js(abort-on-property-read.js, jsPopunder)
 ouo.io,shink.*,ouo.press,kaotic.com,turkceanimeizle.com#%#//scriptlet("abort-on-property-read", "jsPopunder")
 
-clk.*,1921681254.tech##+js(set-constant.js, blockAdBlock, true)
-clk.*,1921681254.tech#%#//scriptlet("set-constant", "blockAdBlock", "true")
+clk.*,1921681254.tech,blogginggyanbox.com##+js(set-constant.js, blockAdBlock, true)
+clk.*,1921681254.tech,blogginggyanbox.com#%#//scriptlet("set-constant", "blockAdBlock", "true")
 
 olegon.ru,allnorilsk.ru,hotpornfile.org##+js(abort-on-property-read.js, onload)
 olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", "onload")
