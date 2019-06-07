@@ -578,8 +578,8 @@ olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", 
 hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la,hclips.com#%#//scriptlet("prevent-addEventListener", "getexoloader")
 hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la,hclips.com##+js(addEventListener-defuser.js, getexoloader)
 
-9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
-9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com,strikeout.nu#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
+9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com,strikeout.nu##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 
 desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net,streamdreams.org##+js(abort-on-property-write.js, encodeURIComponent)
 desiupload.in,upgrand.*,gorillavid.in,mylust.com,viprow.net,streamdreams.org#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
@@ -1327,4 +1327,7 @@ gamer.com.tw#%#//scriptlet("abort-on-property-read", "AntiAd.check")
 
 5278.cc##+js(setTimeout-defuser.js, myaabpfun, 3000)
 5278.cc#%#//scriptlet("prevent-setTimeout", "myaabpfun", "3000")
+
+strikeout.nu##+js(addEventListener-defuser.js, /^(?:mousedown|pointerdown)$/, 297)
+strikeout.nu#%#//scriptlet("prevent-addEventListener", "/^(?:mousedown|pointerdown)$/", "297")
 
