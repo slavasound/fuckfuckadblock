@@ -440,8 +440,8 @@ popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#//scriptlet("
 linkberuang.*,njiir.com##+js(set-constant.js, safelink.adblock, false)
 linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
 
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online,w4files.ws##+js(abort-current-inline-script.js, Math.sin, vocabulary)
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online,w4files.ws#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
+indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online,w4files.ws,filmywap.*,filmywapofficial.com##+js(abort-current-inline-script.js, Math.sin, vocabulary)
+indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,bdupload.*,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online,w4files.ws,filmywap.*,filmywapofficial.com#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
 
 ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com##+js(abort-current-inline-script.js, parseInt, tabunder)
 ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
@@ -585,8 +585,8 @@ payco.*,streamlive.to#%#//scriptlet("abort-current-inline-script", "parseInt", "
 freshstream.*,psntvs.me,filmlinks4u.is,jetload.net##+js(abort-on-property-write.js, adcashMacros)
 freshstream.*,psntvs.me,filmlinks4u.is,jetload.net#%#//scriptlet("abort-on-property-write", "adcashMacros")
 
-sslproxies24.top,hentai-vl.blogspot.com,infotrendy.me,filmywap.world,projetomotog.blogspot.com##+js(addEventListener-defuser.js, load, 2000)
-sslproxies24.top,hentai-vl.blogspot.com,infotrendy.me,filmywap.world,projetomotog.blogspot.com#%#//scriptlet("prevent-addEventListener", "load", "2000")
+sslproxies24.top,hentai-vl.blogspot.com,infotrendy.me,filmywap.*,projetomotog.blogspot.com##+js(addEventListener-defuser.js, load, 2000)
+sslproxies24.top,hentai-vl.blogspot.com,infotrendy.me,filmywap.*,projetomotog.blogspot.com#%#//scriptlet("prevent-addEventListener", "load", "2000")
 
 streamp1ay.*,povvideo.*,powvldeo.*##+js(abort-on-property-write.js, Fingerprent2)
 streamplay.*,povvideo.*,powvldeo.*#%#//scriptlet("abort-on-property-write", "Fingerprent2")
