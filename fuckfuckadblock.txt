@@ -1413,3 +1413,9 @@ clik.*#%#//scriptlet("prevent-addEventListener", "/^(?:error|load)$/", "P5")
 aipa530.com##+js(abort-on-property-write.js, cnzz_protocol)
 aipa530.com#%#//scriptlet("abort-on-property-write", "cnzz_protocol")
 
+caoporn.com#%#//scriptlet("set-constant", "ShowPop", "noopFunc")
+caoporn.com##+js(set-constant.js, ShowPop, noopFunc)
+
+hotpornfile.org##+js(abort-on-property-write.js, popup)
+hotpornfile.org#%#//scriptlet("abort-on-property-write", "popup")
+
