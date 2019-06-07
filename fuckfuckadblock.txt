@@ -584,8 +584,8 @@ xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype, 'config/ads', { get: function() { return false; } });
 xnxx.com,xvideos.com#%#Object.defineProperty(window, 'openpop', { get: function() { return; } });
 
-ouo.io,shink.*,ouo.press,kaotic.com##+js(abort-on-property-read.js, jsPopunder)
-ouo.io,shink.*,ouo.press,kaotic.com#%#//scriptlet("abort-on-property-read", "jsPopunder")
+ouo.io,shink.*,ouo.press,kaotic.com,turkceanimeizle.com##+js(abort-on-property-read.js, jsPopunder)
+ouo.io,shink.*,ouo.press,kaotic.com,turkceanimeizle.com#%#//scriptlet("abort-on-property-read", "jsPopunder")
 
 clk.*,1921681254.tech##+js(set-constant.js, blockAdBlock, true)
 clk.*,1921681254.tech#%#//scriptlet("set-constant", "blockAdBlock", "true")
