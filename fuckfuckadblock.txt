@@ -282,7 +282,7 @@ pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][
 pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
 rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
 rusfishing.ru##.samBannerUnit
-speedporn.net,hdjavonline.com##.happy-inside-player
+speedporn.net,hdjavonline.com,avgigi.com##.happy-inside-player
 trendingviews.co###playerOverlay
 vidlink.org##a[href*="/afu.php"][target="_blank"]
 windowscentral.com##.swal-modal, .swal-overlay
