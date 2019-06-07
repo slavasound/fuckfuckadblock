@@ -668,8 +668,8 @@ swatchseries.to,newsyou.info#%#//scriptlet("set-constant", "String.prototype.cha
 descargas2020.*,torrentlocura.com,torrentrapid.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com##+js(addEventListener-defuser.js, mousedown, (b){u()})
 descargas2020.*,torrentlocura.com,torrentrapid.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com#%#//scriptlet("prevent-addEventListener", "mousedown", "/(b){u()}/")
 
-jetload.net,iporntv.net##+js(abort-current-inline-script.js, document.createElement, script)
-jetload.net,iporntv.net#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
+jetload.net,iporntv.net,justupload.io##+js(abort-current-inline-script.js, document.createElement, script)
+jetload.net,iporntv.net,justupload.io#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
 
 pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
