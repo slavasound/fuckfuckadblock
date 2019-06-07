@@ -315,6 +315,7 @@ finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefak
 speedporn.net##.happy-inside-player
 fantasti.cc##a[href*=".php"]
 firmwarefiledownload.xyz##.js-reveal-modal, .reveal-modal-bg
+celebsroulette.com###kt_player > a[target="_blank"]
 
 |http*://$image,domain=ip.cn,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
@@ -1323,4 +1324,7 @@ vidsrc.*#%#//scriptlet("set-constant", "String.fromCharCode", "trueFunc")
 
 gamer.com.tw##+js(abort-on-property-read.js, AntiAd.check)
 gamer.com.tw#%#//scriptlet("abort-on-property-read", "AntiAd.check")
+
+5278.cc##+js(setTimeout-defuser.js, myaabpfun, 3000)
+5278.cc#%#//scriptlet("prevent-setTimeout", "myaabpfun", "3000")
 
