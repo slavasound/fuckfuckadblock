@@ -1425,3 +1425,6 @@ hotpornfile.org#%#//scriptlet("abort-on-property-write", "popup")
 eyddd.com##+js(abort-on-property-read.js, document.writeln)
 eyddd.com#%#//scriptlet("abort-on-property-read", "document.writeln")
 
+povvideo.*##+js(setInterval-defuser.js, typeof, 500)
+povvideo.*#%#//scriptlet("prevent-setInterval", "typeof", "500")
+
