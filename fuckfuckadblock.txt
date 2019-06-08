@@ -1428,3 +1428,6 @@ eyddd.com#%#//scriptlet("abort-on-property-read", "document.writeln")
 povvideo.*##+js(setInterval-defuser.js, typeof, 500)
 povvideo.*#%#//scriptlet("prevent-setInterval", "typeof", "500")
 
+primpogoda.ru##+js(abort-current-inline-script.js, String.fromCharCode, decodeURIComponent)
+primpogoda.ru#%#//scriptlet("abort-current-inline-script", "String.fromCharCode", "decodeURIComponent")
+
