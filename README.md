@@ -14,9 +14,9 @@ Filters for blocking pop-ups and anti-adblock bypass.
 
 ### CDN
 
-`https://raw.githack.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
-`https://cdn.statically.io/gh/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
-`https://cdn.jsdelivr.net/gh/bogachenko/fuckfuckadblock/fuckfuckadblock.txt`
+1. `https://raw.githack.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
+2. `https://cdn.statically.io/gh/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
+3. `https://cdn.jsdelivr.net/gh/bogachenko/fuckfuckadblock/fuckfuckadblock.txt`
 
 ### Disclaimer
 #### Adguard
