@@ -640,8 +640,8 @@ proxyrarbg.*,rarbg.is,rarbg.to,rarbgget.org,rarbgenter.org,rarbgprx.org,rarbgp2p
 4tube.com,voyeurhit.com##+js(abort-on-property-write.js, ads_priv)
 4tube.com,voyeurhit.com#%#//scriptlet("abort-on-property-write", "ads_priv")
 
-swatchseries.to,newsyou.info##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
-swatchseries.to,newsyou.info#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
+swatchseries.to,newsyou.info,ebookdz.com##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
+swatchseries.to,newsyou.info,ebookdz.com#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
 
 descargas2020.*,torrentlocura.com,torrentrapid.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com##+js(addEventListener-defuser.js, mousedown, (b){u()})
 descargas2020.*,torrentlocura.com,torrentrapid.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com#%#//scriptlet("prevent-addEventListener", "mousedown", "/(b){u()}/")
@@ -1466,4 +1466,7 @@ gametop.com#%#//scriptlet("abort-on-property-read", "onLoadEvent")
 
 onnetwork.tv#%#//scriptlet("set-constant", "isAdBlockActive", "false")
 onnetwork.tv##+js(set-constant.js, isAdBlockActive, false)
+
+ebookdz.com##+js(abort-on-property-read.js, _0xd944)
+ebookdz.com#%#//scriptlet("abort-on-property-read", "_0xd944")
 
