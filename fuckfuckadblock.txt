@@ -1220,6 +1220,8 @@ starsandstripesfc.com#%#//scriptlet("prevent-setTimeout", "ConcertAds", "1500")
 emlaktasondakika.com,switch-xci.com,post-gazette.com##+js(abort-on-property-read.js, googletag)
 emlaktasondakika.com,switch-xci.com,post-gazette.com#%#//scriptlet("abort-on-property-read", "googletag")
 
+ccn.com,comicsands.com,duffelblog.com,gamepur.com,mandatory.com,mlive.com,newatlas.com,nj.com,pgatour.com,readlightnovel.org,secondnexus.com,sevenforums.com,sport24.co.za,theodysseyonline.com,westernjournal.com##+js(abort-on-property-read.js, __cmpGdprAppliesGlobally)
+
 jtrouver.com##+js(set-constant.js, google_jobrunner, true)
 jtrouver.com#%#//scriptlet("set-constant", "google_jobrunner", "true")
 
