@@ -1463,3 +1463,7 @@ empireshort.com#%#//scriptlet("abort-current-inline-script", "parseInt", "decode
 
 gametop.com##+js(abort-on-property-read.js, onLoadEvent)
 gametop.com#%#//scriptlet("abort-on-property-read", "onLoadEvent")
+
+onnetwork.tv#%#//scriptlet("set-constant", "isAdBlockActive", "false")
+onnetwork.tv##+js(set-constant.js, isAdBlockActive, false)
+
