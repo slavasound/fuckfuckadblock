@@ -201,6 +201,7 @@
 @@||fluidplayer.com^$script,domain=rule34hentai.net
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl
+@@||realclearscience.com/asset/section/*$xmlhttprequest
 @@||geoguessr.com/_ads/$script
 @@||hit.stat24.com/$xmlhttprequest,domain=polsatnews.pl
 @@||imgtown.net^$script,domain=imgtown.pw|imgtown.net
