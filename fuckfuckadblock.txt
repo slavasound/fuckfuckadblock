@@ -563,8 +563,8 @@ clk.*,1921681254.tech,blogginggyanbox.com,buyitonline.store,iitjeemainguide.in,c
 olegon.ru,allnorilsk.ru,hotpornfile.org##+js(abort-on-property-read.js, onload)
 olegon.ru,allnorilsk.ru,hotpornfile.org#%#//scriptlet("abort-on-property-read", "onload")
 
-hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la,hclips.com#%#//scriptlet("prevent-addEventListener", "getexoloader")
-hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la,hclips.com##+js(addEventListener-defuser.js, getexoloader)
+hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la,hclips.com,nsfwalbum.com#%#//scriptlet("prevent-addEventListener", "getexoloader")
+hotpornfile.org,ecoimages.xyz,xaoutchouc.live,unporn.site,xxxdessert.com,watchfreexxx.net,hitomi.la,hclips.com,nsfwalbum.com##+js(addEventListener-defuser.js, getexoloader)
 
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com,strikeout.nu,readcomiconline.to#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
 9xupload.me,fembed.com,uploadbaz.net,adsvy.com,biqle.ru,ganool.*,planetatorrent.com,strikeout.nu,readcomiconline.to##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
