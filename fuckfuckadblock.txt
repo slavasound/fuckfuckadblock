@@ -1037,8 +1037,8 @@ wibuindo.xyz#%#//scriptlet("set-constant", "canRunAds", "true")
 innpoland.pl##+js(abort-current-inline-script.js, parseInt, adBlock)
 innpoland.pl#%#//scriptlet("abort-current-inline-script", "parseInt", "adBlock")
 
-gratisaftehalen.nl##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
-gratisaftehalen.nl#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
+gratisaftehalen.nl,shlyahten.ru##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
+gratisaftehalen.nl,shlyahten.ru#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
 
 lesoir.be##+js(setTimeout-defuser.js, adb)
 lesoir.be#%#//scriptlet("prevent-setTimeout", "adb")
