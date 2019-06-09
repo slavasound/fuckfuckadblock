@@ -241,6 +241,10 @@
 */prof.js$script,domain=lbtube.com
 */sw.js$script,important,empty
 */sw.js$script,important,redirect=noopjs
+||akamaihd.net/vod$media,redirect=noopmp3-0.1s,domain=glomex.com
+||glomex.com/*$media,redirect=noopmp4-1s,domain=player.glomex.com
+||akamaihd.net/vod$media,empty,domain=glomex.com
+||glomex.com/*$media,empty,domain=player.glomex.com
 ||cdn.zomap.de^$media,empty,domain=prosieben.de
 ||cdn.zomap.de^$media,redirect=noopmp3-0.1s,domain=prosieben.de
 ||damoh.tvnow.de/*$media,empty,domain=tvnow.de
@@ -341,8 +345,8 @@ xn--b1ajehof.xn--80asehdb,dok-film.net,odkrywamyzakryte.com,papalah.com,udemycou
 speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.io,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live,psntvs.me,javhub.net,javdude.com,thplayers.com,hitomi.la,mirrorace.com,thatav.net,porndish.com,easybitcoins.ml,clicknupload.org,uploadev.*,descargas2020.*,torrentlocura.com,mispelisyseries.com,tvsinpagar.com,itdmusic.*,watch5s.me,ouo.press,hindimean.com,streamcdn.*,7starhd.info,coinlink.co##+js(abort-on-property-write.js, _pop)
 speedvid.net,watchtheoffice.online,payco.*,crisanimex.com,savido.net,canalesportivo.*,anitube.cz,ouo.io,ourl.io,cpmlink.net,manyak.info,streamcherry.com,streamcherry.com,bit-url.com,kastream.biz,darmowa-telewizja.online,fastoshi.site,fembed.com,dramasjc.com,dkanonymous.tk,likn.xyz,makinsehat.me,adbilty.me,daddylive.live,psntvs.me,javhub.net,javdude.com,thplayers.com,hitomi.la,mirrorace.com,thatav.net,porndish.com,easybitcoins.ml,clicknupload.org,uploadev.*,descargas2020.*,torrentlocura.com,mispelisyseries.com,tvsinpagar.com,itdmusic.*,watch5s.me,ouo.press,hindimean.com,streamcdn.*,7starhd.info,coinlink.co#%#//scriptlet("abort-on-property-write", "_pop")
 
-speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.io,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*,ddl.to,dailyimages.xyz,xaoutchouc.live,daddylive.live,ckk.ai,fembed.com,vipracing.*,openloed.co,javfinder.is,mirrorace.com,daxab.com,mangovideo.pw,tamilrockers.*,descargas2020.*,torrentrapid.com,mispelisyseries.com,tvsinpagar.com,jetload.net,rulu.co,putlockers.*,vidsrc.*,ouo.press,hindimean.com,streamcdn.*,asianclub.tv,crabcut.net,cutadlink.*##+js(abort-on-property-read.js, AaDetector)
-speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.io,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*,ddl.to,dailyimages.xyz,xaoutchouc.live,daddylive.live,ckk.ai,fembed.com,vipracing.*,openloed.co,javfinder.is,mirrorace.com,daxab.com,mangovideo.pw,tamilrockers.*,descargas2020.*,torrentrapid.com,mispelisyseries.com,tvsinpagar.com,jetload.net,rulu.co,putlockers.*,vidsrc.*,ouo.press,hindimean.com,streamcdn.*,asianclub.tv,crabcut.net,cutadlink.*#%#//scriptlet("abort-on-property-read", "AaDetector")
+speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.io,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*,ddl.to,dailyimages.xyz,xaoutchouc.live,daddylive.live,ckk.ai,fembed.com,vipracing.*,openloed.co,javfinder.is,mirrorace.com,daxab.com,mangovideo.pw,tamilrockers.*,descargas2020.*,torrentrapid.com,mispelisyseries.com,tvsinpagar.com,jetload.net,rulu.co,putlockers.*,vidsrc.*,ouo.press,hindimean.com,streamcdn.*,asianclub.tv,crabcut.net,cutadlink.*,fmovies.*##+js(abort-on-property-read.js, AaDetector)
+speedvid.net,avgle.com,payco.*,savido.net,hpjav.tv,ouo.io,indexof.ir,shtlink.co,shtme.co,vidhd.*,yesmovies.*,oko.sh,hdstreams.*,123movies.*,ddl.to,dailyimages.xyz,xaoutchouc.live,daddylive.live,ckk.ai,fembed.com,vipracing.*,openloed.co,javfinder.is,mirrorace.com,daxab.com,mangovideo.pw,tamilrockers.*,descargas2020.*,torrentrapid.com,mispelisyseries.com,tvsinpagar.com,jetload.net,rulu.co,putlockers.*,vidsrc.*,ouo.press,hindimean.com,streamcdn.*,asianclub.tv,crabcut.net,cutadlink.*,fmovies.*#%#//scriptlet("abort-on-property-read", "AaDetector")
 
 cutadlink.net##+js(abort-on-property-read.js, SmartPopunder)
 cutadlink.net#%#//scriptlet("abort-on-property-read", "SmartPopunder")
