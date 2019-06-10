@@ -1481,3 +1481,6 @@ flix555.com#%#//scriptlet("abort-current-inline-script", "addEventListener", "_b
 flix555.com##+js(set-constant.js, cRAds, true)
 flix555.com#%#//scriptlet("set-constant", "cRAds", "true")
 
+penpaland.com##+js(setTimeout-defuser.js, afs_ads, 2000)
+penpaland.com#%#//scriptlet("prevent-setTimeout", "afs_ads", "2000")
+
