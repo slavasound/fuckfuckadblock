@@ -513,8 +513,8 @@ userscloud.com,xopenload.me#%#//scriptlet("abort-on-property-write", "open")
 imgmaze.*,imgrock.*,extrafreetv.me,mangovideo.pw,mygoodstream.pw##+js(abort-on-property-read.js, popjs.init)
 imgmaze.*,imgrock.*,extrafreetv.me,mangovideo.pw,mygoodstream.pw#%#//scriptlet("abort-on-property-read", "popjs.init")
 
-akanosora.com,tricxbd.com,xxxmomporn.top,ebookdz.com##+js(setTimeout-defuser.js, nextFunction, 2000)
-akanosora.com,tricxbd.com,xxxmomporn.top,ebookdz.com#%#//scriptlet("prevent-setTimeout", "nextFunction", "2000")
+akanosora.com,tricxbd.com,xxxmomporn.top,ebookdz.com,dreamfancy.org##+js(setTimeout-defuser.js, nextFunction, 2000)
+akanosora.com,tricxbd.com,xxxmomporn.top,ebookdz.com,dreamfancy.org#%#//scriptlet("prevent-setTimeout", "nextFunction", "2000")
 
 hexafile.net,sardeath.com,cutsouf.*,cutearn.ca,anonyviet.com,earn-url.com,earnbig.ca##+js(setTimeout-defuser.js, nextFunction, 250)
 hexafile.net,sardeath.com,cutsouf.*,cutearn.ca,anonyviet.com,earn-url.com,earnbig.ca#%#//scriptlet("prevent-setTimeout", "nextFunction", "250")
