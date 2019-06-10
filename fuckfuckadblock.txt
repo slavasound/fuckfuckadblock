@@ -178,7 +178,7 @@
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline'
 
 *$websocket,domain=vidup.me
-*$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info|clicknupload.org
+*$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info|clicknupload.org|uploadmp4.com
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 *$xmlhttprequest,domain=sexvid.xxx|fantasti.cc
 *$xmlhttprequest,third-party,domain=userscloud.com
