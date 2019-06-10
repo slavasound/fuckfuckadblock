@@ -1144,6 +1144,9 @@ mirrorace.com#%#//scriptlet("prevent-addEventListener", "click", "_0x")
 520cc.cc##+js(set-constant.js, myaaqqbpfun12, noopFunc)
 520cc.cc#%#//scriptlet("set-constant", "myaaqqbpfun12", "noopFunc")
 
+jav777.cc##+js(set-constant.js, myaabpfun12, noopFunc)
+jav777.cc#%#//scriptlet("set-constant", "myaabpfun12", "noopFunc")
+
 idnes.cz##+js(abort-current-inline-script.js, adbDetect)
 idnes.cz#%#//scriptlet("abort-current-inline-script", "adbDetect")
 
