@@ -1490,3 +1490,6 @@ penpaland.com#%#//scriptlet("prevent-setTimeout", "afs_ads", "2000")
 dailymotiontomp3.com#%#//scriptlet("set-constant", "IsPopAd", "false")
 dailymotiontomp3.com##+js(set-constant.js, IsPopAd, false)
 
+macrotrends.net##+js(abort-current-inline-script.js, atob, removeCookie)
+macrotrends.net#%#//scriptlet("abort-current-inline-script", "atob", "removeCookie")
+
