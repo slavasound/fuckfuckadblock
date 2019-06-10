@@ -1484,3 +1484,6 @@ flix555.com#%#//scriptlet("set-constant", "cRAds", "true")
 penpaland.com##+js(setTimeout-defuser.js, afs_ads, 2000)
 penpaland.com#%#//scriptlet("prevent-setTimeout", "afs_ads", "2000")
 
+dailymotiontomp3.com#%#//scriptlet("set-constant", "IsPopAd", "false")
+dailymotiontomp3.com##+js(set-constant.js, IsPopAd, false)
+
