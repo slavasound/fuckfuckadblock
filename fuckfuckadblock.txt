@@ -273,7 +273,7 @@ beforeitsnews.com###ad-message
 celebsroulette.com###kt_player > a[target="_blank"]
 d-navi004.com###snsbox
 fantasti.cc##a[href*=".php"]
-finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(a[class]:contains(Jak dodać WP do wyjątków adBlocka))
+finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(div[class]:not([id]):contains(Tworzenie treści to nasza pasja))
 firmwarefiledownload.xyz##.js-reveal-modal, .reveal-modal-bg
 forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
 full-stream.co,full-stream.nu##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
