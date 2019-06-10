@@ -204,7 +204,7 @@
 @@||d1xrtnyoeeet33.cloudfront.net/assets/js/lib/$script,domain=montrealgazette.com|nationalpost.com
 @@||fluidplayer.com^$script,domain=rule34hentai.net
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
-@@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl
+@@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl|redefine.pl
 @@||geoguessr.com/_ads/$script
 @@||hit.stat24.com/$xmlhttprequest,domain=polsatnews.pl
 @@||imgtown.net^$script,domain=imgtown.pw|imgtown.net
