@@ -179,6 +179,7 @@
 ||vidup.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.facebook.com *.facebook.net
 ||waiset.su^$csp=script-src 'self';
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline';
+||beelink.in^$csp=script-src 'self';
 
 *$websocket,domain=vidup.me
 *$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info|clicknupload.org|uploadmp4.com
@@ -493,8 +494,8 @@ enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,u
 123movies.*,moviescouch.*,desiupload.*,harleyquinnwidget.com,foumovies.*,full4movies.co,hdpopcorns.*,moviescounter.*,mydownloadtube.*,rdxhd.*,700mbdownload.*##+js(abort-on-property-write.js, decodeURIComponent)
 123movies.*,moviescouch.*,desiupload.*,harleyquinnwidget.com,foumovies.*,full4movies.co,hdpopcorns.*,moviescounter.*,mydownloadtube.*,rdxhd.*,700mbdownload.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
 
-rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl##+js(popads.net.js)
-rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl#%#//scriptlet("prevent-popads-net")
+rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl,beelink.in##+js(popads.net.js)
+rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl,beelink.in#%#//scriptlet("prevent-popads-net")
 
 fmovies.*,fastplay.*,ffmovies.ru##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 fmovies.*,fastplay.*,ffmovies.ru#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "atob")
