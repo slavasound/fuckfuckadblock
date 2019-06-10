@@ -293,6 +293,7 @@ trendingviews.co###playerOverlay
 vidlink.org##a[href*="/afu.php"][target="_blank"]
 windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
+bdupload.*##[href*="/dloadbutton.php"]
 
 |http*://$image,domain=ip.cn,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
