@@ -1482,3 +1482,6 @@ macrotrends.net#%#//scriptlet("abort-current-inline-script", "atob", "removeCook
 topeuropix.net##+js(abort-on-property-read.js, Math.sin, vocabulary)
 topeuropix.net#%#//scriptlet("abort-on-property-read", "Math.sin", "vocabulary")
 
+r3owners.net##+js(abort-on-property-write.js, AdBlockDetectorWorkaround)
+r3owners.net#%#//scriptlet("abort-on-property-write", "AdBlockDetectorWorkaround")
+
