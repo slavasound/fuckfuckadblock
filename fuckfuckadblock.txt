@@ -493,8 +493,8 @@ enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,u
 123movies.*,moviescouch.*,desiupload.*,harleyquinnwidget.com,foumovies.*,full4movies.co,hdpopcorns.*,moviescounter.*,mydownloadtube.*,rdxhd.*,700mbdownload.*##+js(abort-on-property-write.js, decodeURIComponent)
 123movies.*,moviescouch.*,desiupload.*,harleyquinnwidget.com,foumovies.*,full4movies.co,hdpopcorns.*,moviescounter.*,mydownloadtube.*,rdxhd.*,700mbdownload.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
 
-rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl,beelink.in##+js(popads.net.js)
-rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl,beelink.in#%#//scriptlet("prevent-popads-net")
+rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl,beelink.in,ask4movie.com##+js(popads.net.js)
+rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl,beelink.in,ask4movie.com#%#//scriptlet("prevent-popads-net")
 
 fmovies.*,fastplay.*,ffmovies.ru##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 fmovies.*,fastplay.*,ffmovies.ru#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "atob")
@@ -1481,4 +1481,7 @@ macrotrends.net#%#//scriptlet("abort-current-inline-script", "atob", "removeCook
 
 topeuropix.net##+js(abort-on-property-read.js, Math.sin, vocabulary)
 topeuropix.net#%#//scriptlet("abort-on-property-read", "Math.sin", "vocabulary")
+
+moviemaniac.org##+js(abort-on-property-read.js, adbDetect)
+moviemaniac.org#%#//scriptlet("abort-on-property-read", "adbDetect")
 
