@@ -179,6 +179,7 @@
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline';
 ||beelink.in^$csp=script-src 'self';
 
+*$stealth,domain=tvokazje.pl
 *$websocket,domain=vidup.me
 *$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info|clicknupload.org|uploadmp4.com|clipwatching.com|thevidhd.xyz
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
@@ -200,7 +201,6 @@
 /^https?:\/\/[\w.-]*gelbooru\.com.*[a-zA-Z0-9?!=@%#]{40,}/$image,other,domain=gelbooru.com
 /^https?:\/\/www\.([a-z]{6,16})\.com\/([a-z]{1,4})\.js$/$third-party,script
 @@||9anime.*/assets/$script
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=redefine.pl|redcdn.pl|polsatnews.pl|polsatsport.pl|twojapogoda.pl|tvokazje.pl
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*$script
 @@||d1xrtnyoeeet33.cloudfront.net/assets/js/lib/$script,domain=montrealgazette.com|nationalpost.com
@@ -256,10 +256,10 @@
 ||cdn.zomap.de^$media,redirect=noopmp3-0.1s,domain=prosieben.de
 ||damoh.tvnow.de/*$media,empty,domain=tvnow.de
 ||damoh.tvnow.de/*$media,redirect=noopmp3-0.1s,domain=tvnow.de
-||imasdk.googleapis.com^$empty,script,domain=debilizator.tv
-||imasdk.googleapis.com^$redirect=noopjs,script,domain=debilizator.tv
-||pagead2.googlesyndication.com^$empty,script
-||pagead2.googlesyndication.com^$redirect=noopjs,script
+||imasdk.googleapis.com^$empty,script,important
+||imasdk.googleapis.com^$redirect=noopjs,important
+||pagead2.googlesyndication.com^$empty,script,important
+||pagead2.googlesyndication.com^$redirect=noopjs,script,important
 ||popads.net/pop.js$script,empty,important
 ||popads.net/pop.js$script,redirect=noopjs,important
 
