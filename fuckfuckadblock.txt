@@ -179,14 +179,14 @@
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline';
 ||beelink.in^$csp=script-src 'self';
 
-*$stealth,domain=tvokazje.pl
-*$websocket,domain=vidup.me
 *$script,third-party,domain=fembed.com|igg-games.com|linkdrop.net|openloed.co|shtlink.co|shtme.co|newsyou.info|clicknupload.org|uploadmp4.com|clipwatching.com|thevidhd.xyz
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
+*$websocket,domain=vidup.me
 *$xmlhttprequest,domain=sexvid.xxx|fantasti.cc
 *$xmlhttprequest,third-party,domain=userscloud.com
-@@*$xmlhttprequest,domain=muzlan.top|programiz.com
 @@*$media,domain=camwhores.tv
+@@*$stealth,domain=tvokazje.pl|redcdn.pl
+@@*$xmlhttprequest,domain=muzlan.top|programiz.com
 
 */*.php$important,script,xmlhttprequest,domain=dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|krasivoeporno.tv|lbtube.com|orgazmtv.com|turboimagehost.com|xxxdessert.com|youx.xxx
 */apu.php?$important
@@ -302,6 +302,7 @@ bdupload.*##[href*="/dloadbutton.php"]
 
 |http*://$image,domain=ip.cn,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
+||gemius.pl^$third-party,badfilter
 
 zn.ua,i.ua$$script[tag-content="zmctrack"][max-length="25000"]
 zn.ua,i.ua##^script:has-text("zmctrack")
