@@ -1488,9 +1488,6 @@ moviemaniac.org#%#//scriptlet("abort-on-property-read", "adbDetect")
 darksound.ru,healthystyle.info,igeek.ru,livegif.ru,obzh.ru,onegadget.ru,remontidekor.ru,supreme2.ru,vremyamn.ru,zheltaya.ru##+js(abort-on-property-read.js, document.getElementById)
 darksound.ru,healthystyle.info,igeek.ru,livegif.ru,obzh.ru,onegadget.ru,remontidekor.ru,supreme2.ru,vremyamn.ru,zheltaya.ru#%#//scriptlet("abort-current-inline-script", "document.getElementById")
 
-69games.xxx##+js(set-constant.js, load, noopFunc)
-69games.xxx#%#//scriptlet("set-constant", "load", "noopFunc")
-
 serverable.com,69games.xxx##+js(abort-on-property-read.js, outputCanvas)
 serverable.com,69games.xxx#%#//scriptlet("abort-on-property-read", "outputCanvas")
 
