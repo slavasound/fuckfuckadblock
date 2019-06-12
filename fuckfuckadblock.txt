@@ -193,7 +193,6 @@
 */gofd_fl.js$script
 */gogo.php$script
 */invoke.js$script
-*/jquerys.js$important,script,xmlhttprequest,domain=healthystyle.info|obzh.ru|igeek.ru
 */kvideo.js$script,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 */stl.js$script,domain=thatav.net
 /\/(propadbl\_epxhd\.js|galaxad\_tpx\.js)/$script,domain=topeuropix.net|europixhd.net,important
@@ -1485,4 +1484,7 @@ topeuropix.net#%#//scriptlet("abort-on-property-read", "Math.sin", "vocabulary")
 
 moviemaniac.org##+js(abort-on-property-read.js, adbDetect)
 moviemaniac.org#%#//scriptlet("abort-on-property-read", "adbDetect")
+
+darksound.ru,healthystyle.info,igeek.ru,livegif.ru,obzh.ru,onegadget.ru,remontidekor.ru,supreme2.ru,vremyamn.ru,zheltaya.ru##+js(abort-on-property-read.js, document.getElementById)
+darksound.ru,healthystyle.info,igeek.ru,livegif.ru,obzh.ru,onegadget.ru,remontidekor.ru,supreme2.ru,vremyamn.ru,zheltaya.ru#%#//scriptlet("abort-current-inline-script", "document.getElementById")
 
