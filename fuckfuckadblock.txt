@@ -1251,12 +1251,6 @@ sapib.ca,chuksguide.com#%#//scriptlet("abort-on-property-write", "ai_adb_overlay
 streamcloud.eu##+js(abort-on-property-write.js, UAParser)
 streamcloud.eu#%#//scriptlet("abort-on-property-write", "UAParser")
 
-watchfreexxx.net##+js(abort-on-property-read.js, initPu)
-watchfreexxx.net#%#//scriptlet("abort-on-property-read", "initPu")
-
-watchfreexxx.net,wpncdn.com,playpornfree.xyz##+js(abort-on-property-read.js, jsUnda)
-watchfreexxx.net,wpncdn.com,playpornfree.xyz#%#//scriptlet("abort-on-property-read", "jsUnda")
-
 watchfreexxx.net#%#//scriptlet("abort-on-property-read", "Date.prototype.toGMTString")
 watchfreexxx.net##+js(abort-on-property-read.js, Date.prototype.toGMTString)
 
@@ -1440,14 +1434,8 @@ povvideo.*#%#//scriptlet("prevent-setInterval", "typeof", "500")
 primpogoda.ru##+js(abort-current-inline-script.js, String.fromCharCode, decodeURIComponent)
 primpogoda.ru#%#//scriptlet("abort-current-inline-script", "String.fromCharCode", "decodeURIComponent")
 
-wpncdn.com,playpornfree.xyz##+js(abort-on-property-read.js, exoLaunchPN)
-wpncdn.com,playpornfree.xyz#%#//scriptlet("abort-on-property-read", "exoLaunchPN")
-
-playpornfree.xyz##+js(abort-current-inline-script.js, URLlist)
-playpornfree.xyz#%#//scriptlet("abort-current-inline-script", "URLlist")
-
-playpornfree.xyz#%#//scriptlet("set-constant", "pop2under", "noopFunc")
-playpornfree.xyz##+js(set-constant.js, pop2under, noopFunc)
+wpncdn.com,playpornfree.xyz,watchfreexxx.net##+js(abort-on-property-read.js, exoLaunchPN)
+wpncdn.com,playpornfree.xyz,watchfreexxx.net#%#//scriptlet("abort-on-property-read", "exoLaunchPN")
 
 earnwithshortlink.com##+js(abort-on-property-read.js, adsurfebe)
 earnwithshortlink.com#%#//scriptlet("abort-on-property-read", "adsurfebe")
