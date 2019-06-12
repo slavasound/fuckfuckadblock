@@ -845,8 +845,8 @@ wickedsick.tv##+js(abort-current-inline-script.js, spot, /api\/direct/)
 anitube.cz##+js(addEventListener-defuser.js, load)
 anitube.cz#%#//scriptlet("prevent-addEventListener", "load")
 
-hdpornvideo.xxx#%#//scriptlet("abort-on-property-read", "TrybbBlock")
-hdpornvideo.xxx##+js(abort-on-property-read.js, TrybbBlock)
+hdpornvideo.xxx,tubev.sex#%#//scriptlet("abort-on-property-read", "TrybbBlock")
+hdpornvideo.xxx,tubev.sex##+js(abort-on-property-read.js, TrybbBlock)
 
 mu2.mobi##+js(abort-on-property-read.js, marker)
 mu2.mobi#%#//scriptlet("abort-on-property-read", "marker")
