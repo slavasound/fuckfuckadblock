@@ -1329,6 +1329,9 @@ uploadgoogle.ir#%#//scriptlet("abort-on-property-read", "zarpop_pop2under")
 p30day.com##+js(abort-on-property-read.js, poparya_pop2under)
 p30day.com#%#//scriptlet("abort-on-property-read", "poparya_pop2under")
 
+watchfreexxx.net,wpncdn.com,playpornfree.xyz##+js(abort-current-inline-script.js, jsUnda , /pop2under|URLlist/)
+watchfreexxx.net,wpncdn.com,playpornfree.xyz#%#//scriptlet("abort-on-property-read", "jsUnda", "/pop2under|URLlist/")
+
 p30day.com#%#//scriptlet("prevent-setTimeout", "pum-open")
 p30day.com##+js(setTimeout-defuser.js, pum-open)
 
