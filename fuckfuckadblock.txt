@@ -387,8 +387,8 @@ shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hind
 businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com,poststar.com,eurogamer.*,financialpost.com,vancouversun.com##+js(abort-on-property-read.js, stop)
 businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com,poststar.com,eurogamer.*,financialpost.com,vancouversun.com#%#//scriptlet("abort-on-property-read", "stop")
 
-bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com,alphr.com,20min.ch,al.com,oregonlive.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
-bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com,alphr.com,20min.ch,al.com,oregonlive.com#%#//scriptlet("abort-on-property-read", "_sp_._networkListenerData")
+bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com,alphr.com,20min.ch,al.com,oregonlive.com,cyclingnews.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
+bento.de,blick.ch,usgamer.net,itpro.co.uk,eurogamer.*,rockpapershotgun.com,autoexpress.*,ft.com,cnet.com,pcgamer.com,sueddeutsche.de,maxisciences.com,alphr.com,20min.ch,al.com,oregonlive.com,cyclingnews.com#%#//scriptlet("abort-on-property-read", "_sp_._networkListenerData")
 
 file-up.*,file-upload.*,upfiles.*,freeupload.*,fstore.*,uploadfree.*,hopto.org,fstore.biz,filesharing.io,undeniable.info##+js(abort-current-inline-script.js, document.getElementById, undefined)
 file-up.*,file-upload.*,upfiles.*,freeupload.*,fstore.*,uploadfree.*,hopto.org,fstore.biz,filesharing.io,undeniable.info#%#//scriptlet("abort-current-inline-script", "document.getElementById", "undefined")
