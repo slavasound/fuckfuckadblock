@@ -1246,8 +1246,8 @@ youjizz.com##+js(abort-current-inline-script.js, window.config)
 pixlr.com##+js(abort-on-property-write.js, showImageAdBlocker)
 pixlr.com#%#//scriptlet("abort-on-property-write", "showImageAdBlocker")
 
-sapib.ca##+js(abort-on-property-write.js, ai_adb_overlay)
-sapib.ca#%#//scriptlet("abort-on-property-write", "ai_adb_overlay")
+sapib.ca,chuksguide.com##+js(abort-on-property-write.js, ai_adb_overlay)
+sapib.ca,chuksguide.com#%#//scriptlet("abort-on-property-write", "ai_adb_overlay")
 
 streamcloud.eu##+js(abort-on-property-write.js, UAParser)
 streamcloud.eu#%#//scriptlet("abort-on-property-write", "UAParser")
