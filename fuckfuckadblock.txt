@@ -424,8 +424,8 @@ earnwithshortlink.com#%#//scriptlet("abort-on-property-read", "parcelRequire")
 herokuapp.com,fullstacks.net##+js(set-constant.js, gadb, false)
 herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 
-diariodenavarra.es,t66y.com##+js(set-constant.js, Math.random, trueFunc)
-diariodenavarra.es,t66y.com#%#//scriptlet("set-constant", "Math.random", "trueFunc")
+diariodenavarra.es##+js(set-constant.js, Math.random, trueFunc)
+diariodenavarra.es#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 
 mp4upload.com##+js(addEventListener-defuser.js, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
 mp4upload.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/", "system.popunder")
