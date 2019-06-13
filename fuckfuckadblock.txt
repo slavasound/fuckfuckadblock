@@ -194,8 +194,8 @@
 */apu.php?$important
 */gofd_fl.js$script
 */gogo.php$script
-*/invoke.js$script
-*/crypta.js$third-party,important
+*/invoke.js$script,third-party,important
+*/crypta.js$script,third-party,important
 */kvideo.js$script,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 */stl.js$script,domain=thatav.net
 /\/(propadbl\_epxhd\.js|galaxad\_tpx\.js)/$script,domain=topeuropix.net|europixhd.net,important
@@ -1230,6 +1230,7 @@ emlaktasondakika.com,switch-xci.com,post-gazette.com,comingsoon.net##+js(abort-o
 emlaktasondakika.com,switch-xci.com,post-gazette.com,comingsoon.net#%#//scriptlet("abort-on-property-read", "googletag")
 
 ccn.com,comicsands.com,duffelblog.com,gamepur.com,mandatory.com,mlive.com,newatlas.com,nj.com,pgatour.com,readlightnovel.org,secondnexus.com,sevenforums.com,sport24.co.za,theodysseyonline.com,westernjournal.com##+js(abort-on-property-read.js, __cmpGdprAppliesGlobally)
+ccn.com,comicsands.com,duffelblog.com,gamepur.com,mandatory.com,mlive.com,newatlas.com,nj.com,pgatour.com,readlightnovel.org,secondnexus.com,sevenforums.com,sport24.co.za,theodysseyonline.com,westernjournal.com#%#//scriptlet("abort-on-property-read", "__cmpGdprAppliesGlobally")
 
 jtrouver.com##+js(set-constant.js, google_jobrunner, true)
 jtrouver.com#%#//scriptlet("set-constant", "google_jobrunner", "true")
