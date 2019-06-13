@@ -445,74 +445,74 @@ ally.sh,bit-url.com,buyitonline.store,cashbigo.com,counsellingresult2016.in,desc
 bostonherald.com,reviewjournal.com,santacruzsentinel.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
 bostonherald.com,reviewjournal.com,santacruzsentinel.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
-streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info,wantedbabes.com,girlsofdesire.org,nakenprat.com,yourlust.com,speedporn.net,watchfreexxx.net,pandamovies.pw,pictoa.com,youav.com,youwatchporn.com##+js(abort-on-property-read.js, ExoLoader.serve)
-streamporn.pw,pornsexer.com,avgle.com,hotpornfile.org,xopenload.me,myreadingmanga.info,wantedbabes.com,girlsofdesire.org,nakenprat.com,yourlust.com,speedporn.net,watchfreexxx.net,pandamovies.pw,pictoa.com,youav.com,youwatchporn.com#%#//scriptlet("abort-on-property-read", "ExoLoader.serve")
+avgle.com,girlsofdesire.org,hotpornfile.org,myreadingmanga.info,nakenprat.com,pandamovies.pw,pictoa.com,pornsexer.com,speedporn.net,streamporn.pw,wantedbabes.com,watchfreexxx.net,xopenload.me,youav.com,yourlust.com,youwatchporn.com##+js(abort-on-property-read.js, ExoLoader.serve)
+avgle.com,girlsofdesire.org,hotpornfile.org,myreadingmanga.info,nakenprat.com,pandamovies.pw,pictoa.com,pornsexer.com,speedporn.net,streamporn.pw,wantedbabes.com,watchfreexxx.net,xopenload.me,youav.com,yourlust.com,youwatchporn.com#%#//scriptlet("abort-on-property-read", "ExoLoader.serve")
 
-xxxonxxx.com,3prn.com,spankwire.com##+js(set-constant.js, ExoLoader.serve, noopFunc)
-xxxonxxx.com,3prn.com,spankwire.com#%#//scriptlet("set-constant", "ExoLoader.serve", "noopFunc")
+3prn.com,spankwire.com,xxxonxxx.com##+js(set-constant.js, ExoLoader.serve, noopFunc)
+3prn.com,spankwire.com,xxxonxxx.com#%#//scriptlet("set-constant", "ExoLoader.serve", "noopFunc")
 
 elsfile.org,link-to.net##+js(addEventListener-defuser.js, load, nextFunction)
 elsfile.org,link-to.net#%#//scriptlet("prevent-addEventListener", "load", "nextFunction")
 
-hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*,seriesgato.tv,vivoenfutbol.xyz,pelisplus.*##+js(abort-on-property-write.js, smrtSB)
-hdvid.*,onvid.*,ovid.*,vidhd.*,hqq.*,seriesgato.tv,vivoenfutbol.xyz,pelisplus.*#%#//scriptlet("abort-on-property-write", "smrtSB")
+hdvid.*,hqq.*,onvid.*,ovid.*,pelisplus.*,seriesgato.tv,vidhd.*,vivoenfutbol.xyz##+js(abort-on-property-write.js, smrtSB)
+hdvid.*,hqq.*,onvid.*,ovid.*,pelisplus.*,seriesgato.tv,vidhd.*,vivoenfutbol.xyz#%#//scriptlet("abort-on-property-write", "smrtSB")
 
-anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co,world4ufree.com.co,stocktwits.com,torrentdownloads.me,7starhd.*,earnwithshortlink.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
-anonyviet.com,yesmovies.*,hdstreams.*,otakuindo.co,world4ufree.com.co,stocktwits.com,torrentdownloads.me,7starhd.*,earnwithshortlink.com#%#//scriptlet("abort-on-property-read", "Date.prototype.toUTCString")
+7starhd.*,anonyviet.com,earnwithshortlink.com,hdstreams.*,otakuindo.co,stocktwits.com,torrentdownloads.me,world4ufree.com.co,yesmovies.*##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+7starhd.*,anonyviet.com,earnwithshortlink.com,hdstreams.*,otakuindo.co,stocktwits.com,torrentdownloads.me,world4ufree.com.co,yesmovies.*#%#//scriptlet("abort-on-property-read", "Date.prototype.toUTCString")
 
-javplay.me,sembunyi.in,hdstreams.*,egybest2.com,fbbcdn.xyz,imgoutlet.pw,ytmp3.eu,kuntv.pw#%#//scriptlet("abort-on-property-read", "popjs")
-javplay.me,sembunyi.in,hdstreams.*,egybest2.com,fbbcdn.xyz,imgoutlet.pw,ytmp3.eu,kuntv.pw##+js(abort-on-property-read.js, popjs)
+egybest2.com,fbbcdn.xyz,hdstreams.*,imgoutlet.pw,javplay.me,kuntv.pw,sembunyi.in,ytmp3.eu#%#//scriptlet("abort-on-property-read", "popjs")
+egybest2.com,fbbcdn.xyz,hdstreams.*,imgoutlet.pw,javplay.me,kuntv.pw,sembunyi.in,ytmp3.eu##+js(abort-on-property-read.js, popjs)
 
-popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com##+js(abort-on-property-read.js, CatapultTools)
-popmatters.com,culturemap.com,planetf1.com,austin.culturemap.com#%#//scriptlet("abort-on-property-read", "CatapultTools")
+austin.culturemap.com,culturemap.com,planetf1.com,popmatters.com##+js(abort-on-property-read.js, CatapultTools)
+austin.culturemap.com,culturemap.com,planetf1.com,popmatters.com#%#//scriptlet("abort-on-property-read", "CatapultTools")
 
 linkberuang.*,njiir.com##+js(set-constant.js, safelink.adblock, false)
 linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false")
 
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online,w4files.ws,filmywap.*,filmywapofficial.com,ckk.ai,7starhd.*,megaurl.in,bdupload.*,oko.sh##+js(abort-current-inline-script.js, Math.sin, vocabulary)
-indishare.*,uppom.*,moviescouch.*,thefilmbay.com,zeefiles.*,moviespapa.site,cloudvideo.tv,9xupload.me,gorillavid.in,stream2watch.*,userscloud.com,desiupload.in,bolly4u.*,9xmovies.*,9kmovies.*,dlfiles.online,w4files.ws,filmywap.*,filmywapofficial.com,ckk.ai,7starhd.*,megaurl.in,bdupload.*,oko.sh#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
+7starhd.*,9kmovies.*,9xmovies.*,9xupload.me,bdupload.*,bolly4u.*,ckk.ai,cloudvideo.tv,desiupload.in,dlfiles.online,filmywap.*,filmywapofficial.com,gorillavid.in,indishare.*,megaurl.in,moviescouch.*,moviespapa.site,oko.sh,stream2watch.*,thefilmbay.com,uppom.*,userscloud.com,w4files.ws,zeefiles.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
+7starhd.*,9kmovies.*,9xmovies.*,9xupload.me,bdupload.*,bolly4u.*,ckk.ai,cloudvideo.tv,desiupload.in,dlfiles.online,filmywap.*,filmywapofficial.com,gorillavid.in,indishare.*,megaurl.in,moviescouch.*,moviespapa.site,oko.sh,stream2watch.*,thefilmbay.com,uppom.*,userscloud.com,w4files.ws,zeefiles.*#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
 
-ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com,europixhd.*,hdeuropix.*,topeuropix.net,gamcore.com,69games.xxx##+js(abort-current-inline-script.js, parseInt, tabunder)
-ceesty.com,gestyy.com,corneey.com,vidstreaming.io,festyy.com,clkmein.com,destyy.com,sh.st,viid.me,imgmonkey.com,descargas2020.*,torrentrapid.com,torrentlocura.com,tumejortorrent.com,mispelisyseries.com,tvsinpagar.com,gnula.nu,porntrex.com,putlockers.*,camwhores.tv,watch-series.*,kaotic.com,europixhd.*,hdeuropix.*,topeuropix.net,gamcore.com,69games.xxx#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
+69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*##+js(abort-current-inline-script.js, parseInt, tabunder)
+69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
 
-ceesty.com,gestyy.com,clkmein.com,viid.me##+js(set-constant.js, adsBlockerDetector, noopFunc)
-ceesty.com,gestyy.com,clkmein.com,viid.me#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
+ceesty.com,clkmein.com,gestyy.com,viid.me##+js(set-constant.js, adsBlockerDetector, noopFunc)
+ceesty.com,clkmein.com,gestyy.com,viid.me#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
 
 menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
 menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
 
-hdvid.*,leporno.org,fastplay.*,rule34hentai.net,daxab.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com,gnula.nu,watch-series.*,m4ufree.*,femefun.com##+js(abort-current-inline-script.js, atob, tabunder)
-hdvid.*,leporno.org,fastplay.*,rule34hentai.net,daxab.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com,gnula.nu,watch-series.*,m4ufree.*,femefun.com#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
+daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*##+js(abort-current-inline-script.js, atob, tabunder)
+daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
 
 femefun.com##+js(abort-on-property-write.js, __htapop)
 femefun.com#%#//scriptlet("abort-on-property-write", "__htapop")
 
-studopedia.com.ua,lektsii.org##+js(abort-current-inline-script.js, detectAdblk)
-studopedia.com.ua,lektsii.org#%#//scriptlet("abort-current-inline-script", "detectAdblk")
+lektsii.org,studopedia.com.ua##+js(abort-current-inline-script.js, detectAdblk)
+lektsii.org,studopedia.com.ua#%#//scriptlet("abort-current-inline-script", "detectAdblk")
 
-imgdew.*,imgoutlet.*,imgtown.*,imgview.*,imgrock.*##+js(abort-on-property-read.js, CustomEvent)
-imgdew.*,imgoutlet.*,imgtown.*,imgview.*,imgrock.*#%#//scriptlet("abort-on-property-read", "CustomEvent")
+imgdew.*,imgoutlet.*,imgrock.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, CustomEvent)
+imgdew.*,imgoutlet.*,imgrock.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "CustomEvent")
 
-imgdew.*,imgmaze.*,imgtown.*,imgview.*,mylust.com,mangovideo.pw##+js(abort-on-property-read.js, ExoLoader.addZone)
-imgdew.*,imgmaze.*,imgtown.*,imgview.*,mylust.com,mangovideo.pw#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
+imgdew.*,imgmaze.*,imgtown.*,imgview.*,mangovideo.pw,mylust.com##+js(abort-on-property-read.js, ExoLoader.addZone)
+imgdew.*,imgmaze.*,imgtown.*,imgview.*,mangovideo.pw,mylust.com#%#//scriptlet("abort-on-property-read", "ExoLoader.addZone")
 
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me,freshscat.com,sonbolumizlesene.biz,sonbolumizlesene2.com,dizimag5.co,dizimag6.co,dizimag4.co,dizimag3.co,dizimag2.co,pornopank.com,speedporn.net,pandamovies.pw,mangovideo.pw,filmihdizlet.com,kickass.love,diziay.net,dizilab.pw,mdiziizle.com,diziizleonline.net,dizisiniizle.org,hddiziizle.org,kickass2.cc,vidmo.cc,bolly4u.*,700mbdownload.*,7starhd.*,playpornfree.xyz,hd-world.org,porno-himmel.net,vagosex.xxx,new-jav.net,v-bal.nl,atk-hairygirls.com,hentaisun.com,filmtat1.com,torrent-oyun.com,dumpper.net,young-model.com,youwatchporn.com,watchfreexxx.net,fuckundies.com,agar.bz,filmkomedi.com,teentubers.com,comxmag.com,fullhdfilmcehennemi2.org,sexygirl1000.com,pornwaiter.com,celebritymovieblog.com,atkebony.com,atk-coeds.com,atk-hairy.com,freshscat.com,portikal.net,atkpanties.com,filmizlim.com,persiankitty.com,sinemahdkeyfi.com,atklatina.com,porcore.com,sleazedepot.com,atkfootfetish.com,sinemaizle.co,wplusyukle.com,yerliakor.com,civiltect.com,oyun-pazari.net,doseofgay.com,sinefun.com,erotic-games.biz,maxiporno.tv,atk-exotics.com,gayporndepot.com##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
-enyenifilmizlet.com,fullhdfilmizleten.org,movie-blog.*,xxxhost.*,desiupload.in,upgrand.*,filminkeyfi.com,joyfilmizle.com,fullhdfilmizleyen.com,fullhdtekpartizle.org,filmrog.net,hdizle4.com,fullhdfilmizlersen.com,sinebol.com,nagel-en-pedicure-studio-enkhuizen.nl,girisx.me,freshscat.com,sonbolumizlesene.biz,sonbolumizlesene2.com,dizimag5.co,dizimag6.co,dizimag4.co,dizimag3.co,dizimag2.co,pornopank.com,speedporn.net,pandamovies.pw,mangovideo.pw,filmihdizlet.com,kickass.love,diziay.net,dizilab.pw,mdiziizle.com,diziizleonline.net,dizisiniizle.org,hddiziizle.org,kickass2.cc,vidmo.cc,bolly4u.*,700mbdownload.*,7starhd.*,playpornfree.xyz,hd-world.org,porno-himmel.net,vagosex.xxx,new-jav.net,v-bal.nl,atk-hairygirls.com,hentaisun.com,filmtat1.com,torrent-oyun.com,dumpper.net,young-model.com,youwatchporn.com,watchfreexxx.net,fuckundies.com,agar.bz,filmkomedi.com,teentubers.com,comxmag.com,fullhdfilmcehennemi2.org,sexygirl1000.com,pornwaiter.com,celebritymovieblog.com,atkebony.com,atk-coeds.com,atk-hairy.com,freshscat.com,portikal.net,atkpanties.com,filmizlim.com,persiankitty.com,sinemahdkeyfi.com,atklatina.com,porcore.com,sleazedepot.com,atkfootfetish.com,sinemaizle.co,wplusyukle.com,yerliakor.com,civiltect.com,oyun-pazari.net,doseofgay.com,sinefun.com,erotic-games.biz,maxiporno.tv,atk-exotics.com,gayporndepot.com#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
+700mbdownload.*,7starhd.*,agar.bz,atk-coeds.com,atk-exotics.com,atk-hairy.com,atk-hairygirls.com,atkebony.com,atkfootfetish.com,atklatina.com,atkpanties.com,bolly4u.*,celebritymovieblog.com,civiltect.com,comxmag.com,desiupload.in,diziay.net,diziizleonline.net,dizilab.pw,dizimag2.co,dizimag3.co,dizimag4.co,dizimag5.co,dizimag6.co,dizisiniizle.org,doseofgay.com,dumpper.net,enyenifilmizlet.com,erotic-games.biz,filmihdizlet.com,filminkeyfi.com,filmizlim.com,filmkomedi.com,filmrog.net,filmtat1.com,freshscat.com,fuckundies.com,fullhdfilmcehennemi2.org,fullhdfilmizlersen.com,fullhdfilmizleten.org,fullhdfilmizleyen.com,fullhdtekpartizle.org,gayporndepot.com,girisx.me,hd-world.org,hddiziizle.org,hdizle4.com,hentaisun.com,joyfilmizle.com,kickass.love,kickass2.cc,mangovideo.pw,maxiporno.tv,mdiziizle.com,movie-blog.*,nagel-en-pedicure-studio-enkhuizen.nl,new-jav.net,oyun-pazari.net,pandamovies.pw,persiankitty.com,playpornfree.xyz,porcore.com,porno-himmel.net,pornopank.com,pornwaiter.com,portikal.net,sexygirl1000.com,sinebol.com,sinefun.com,sinemahdkeyfi.com,sinemaizle.co,sleazedepot.com,sonbolumizlesene.biz,sonbolumizlesene2.com,speedporn.net,teentubers.com,torrent-oyun.com,upgrand.*,v-bal.nl,vagosex.xxx,vidmo.cc,watchfreexxx.net,wplusyukle.com,xxxhost.*,yerliakor.com,young-model.com,youwatchporn.com##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+700mbdownload.*,7starhd.*,agar.bz,atk-coeds.com,atk-exotics.com,atk-hairy.com,atk-hairygirls.com,atkebony.com,atkfootfetish.com,atklatina.com,atkpanties.com,bolly4u.*,celebritymovieblog.com,civiltect.com,comxmag.com,desiupload.in,diziay.net,diziizleonline.net,dizilab.pw,dizimag2.co,dizimag3.co,dizimag4.co,dizimag5.co,dizimag6.co,dizisiniizle.org,doseofgay.com,dumpper.net,enyenifilmizlet.com,erotic-games.biz,filmihdizlet.com,filminkeyfi.com,filmizlim.com,filmkomedi.com,filmrog.net,filmtat1.com,freshscat.com,fuckundies.com,fullhdfilmcehennemi2.org,fullhdfilmizlersen.com,fullhdfilmizleten.org,fullhdfilmizleyen.com,fullhdtekpartizle.org,gayporndepot.com,girisx.me,hd-world.org,hddiziizle.org,hdizle4.com,hentaisun.com,joyfilmizle.com,kickass.love,kickass2.cc,mangovideo.pw,maxiporno.tv,mdiziizle.com,movie-blog.*,nagel-en-pedicure-studio-enkhuizen.nl,new-jav.net,oyun-pazari.net,pandamovies.pw,persiankitty.com,playpornfree.xyz,porcore.com,porno-himmel.net,pornopank.com,pornwaiter.com,portikal.net,sexygirl1000.com,sinebol.com,sinefun.com,sinemahdkeyfi.com,sinemaizle.co,sleazedepot.com,sonbolumizlesene.biz,sonbolumizlesene2.com,speedporn.net,teentubers.com,torrent-oyun.com,upgrand.*,v-bal.nl,vagosex.xxx,vidmo.cc,watchfreexxx.net,wplusyukle.com,xxxhost.*,yerliakor.com,young-model.com,youwatchporn.com#%#//scriptlet("abort-on-property-read", "puShown", "/doOpen|popundr/")
 
-123movies.*,moviescouch.*,desiupload.*,harleyquinnwidget.com,foumovies.*,full4movies.co,hdpopcorns.*,moviescounter.*,mydownloadtube.*,rdxhd.*,700mbdownload.*##+js(abort-on-property-write.js, decodeURIComponent)
-123movies.*,moviescouch.*,desiupload.*,harleyquinnwidget.com,foumovies.*,full4movies.co,hdpopcorns.*,moviescounter.*,mydownloadtube.*,rdxhd.*,700mbdownload.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
+123movies.*,700mbdownload.*,desiupload.*,foumovies.*,full4movies.co,harleyquinnwidget.com,hdpopcorns.*,moviescouch.*,moviescounter.*,mydownloadtube.*,rdxhd.*##+js(abort-on-property-write.js, decodeURIComponent)
+123movies.*,700mbdownload.*,desiupload.*,foumovies.*,full4movies.co,harleyquinnwidget.com,hdpopcorns.*,moviescouch.*,moviescounter.*,mydownloadtube.*,rdxhd.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
 
-rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl,beelink.in,ask4movie.com,youav.com,estrenosdoramas.net##+js(popads.net.js)
-rapidvideo.*,123movies.*,fastoshi.site,imagefruit.com,imgshots.com,imgrock.*,dkanonymous.tk,shink.*,adshort.*,myreadingmanga.info,japgay.com,18tube.club,javfinder.is,mirrorace.com,filma24.cc,porndish.com,filmlinks4u.is,mangovideo.pw,javfhd.net,gaypornwave.com,xopenload.*,sportstream.tv,300mbdownload.ws,mygoodstream.pw,ytmp3.eu,ally.sh,kinoseans.pl,beelink.in,ask4movie.com,youav.com,estrenosdoramas.net#%#//scriptlet("prevent-popads-net")
+123movies.*,18tube.club,300mbdownload.ws,adshort.*,ally.sh,ask4movie.com,beelink.in,dkanonymous.tk,estrenosdoramas.net,fastoshi.site,filma24.cc,filmlinks4u.is,gaypornwave.com,imagefruit.com,imgrock.*,imgshots.com,japgay.com,javfhd.net,javfinder.is,kinoseans.pl,mangovideo.pw,mirrorace.com,mygoodstream.pw,myreadingmanga.info,porndish.com,rapidvideo.*,shink.*,sportstream.tv,xopenload.*,youav.com,ytmp3.eu##+js(popads.net.js)
+123movies.*,18tube.club,300mbdownload.ws,adshort.*,ally.sh,ask4movie.com,beelink.in,dkanonymous.tk,estrenosdoramas.net,fastoshi.site,filma24.cc,filmlinks4u.is,gaypornwave.com,imagefruit.com,imgrock.*,imgshots.com,japgay.com,javfhd.net,javfinder.is,kinoseans.pl,mangovideo.pw,mirrorace.com,mygoodstream.pw,myreadingmanga.info,porndish.com,rapidvideo.*,shink.*,sportstream.tv,xopenload.*,youav.com,ytmp3.eu#%#//scriptlet("prevent-popads-net")
 
-fmovies.*,fastplay.*,ffmovies.ru##+js(abort-current-inline-script.js, decodeURIComponent, atob)
-fmovies.*,fastplay.*,ffmovies.ru#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "atob")
+fastplay.*,ffmovies.ru,fmovies.*##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+fastplay.*,ffmovies.ru,fmovies.*#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "atob")
 
-watchhowimetyourmother.online,faselhd.*,daddylive.live##+js(abort-on-property-read.js, require)
-watchhowimetyourmother.online,faselhd.*,daddylive.live#%#//scriptlet("abort-on-property-read", "require")
+daddylive.live,faselhd.*,watchhowimetyourmother.online##+js(abort-on-property-read.js, require)
+daddylive.live,faselhd.*,watchhowimetyourmother.online#%#//scriptlet("abort-on-property-read", "require")
 
-dailyimages.*,javhihi.com,girlsofdesire.org,nakenprat.com,anysex.com,yourlust.com,speedporn.net,mangovideo.pw,fuckpix.club,fantasti.cc,playpornfree.xyz,youav.com,youwatchporn.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
-dailyimages.*,javhihi.com,girlsofdesire.org,nakenprat.com,anysex.com,yourlust.com,speedporn.net,mangovideo.pw,fuckpix.club,fantasti.cc,playpornfree.xyz,youav.com,youwatchporn.com#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
+anysex.com,dailyimages.*,fantasti.cc,fuckpix.club,girlsofdesire.org,javhihi.com,mangovideo.pw,nakenprat.com,playpornfree.xyz,speedporn.net,youav.com,yourlust.com,youwatchporn.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
+anysex.com,dailyimages.*,fantasti.cc,fuckpix.club,girlsofdesire.org,javhihi.com,mangovideo.pw,nakenprat.com,playpornfree.xyz,speedporn.net,youav.com,yourlust.com,youwatchporn.com#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
 
 porndr.com,tmohentai.com##+js(addEventListener-defuser.js, /^(?:load|click)$/, popMagic)
 porndr.com,tmohentai.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|click)$/", "popMagic")
