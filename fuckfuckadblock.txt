@@ -1473,3 +1473,6 @@ serverable.com,69games.xxx,porcore.com#%#//scriptlet("abort-on-property-read", "
 atk-cuteandhairy.com##+js(abort-on-property-read.js, puShown)
 atk-cuteandhairy.com#%#//scriptlet("abort-on-property-read", "puShown")
 
+free-mp3-download.net##+js(set-constant.js, showMsg, noopFunc)
+free-mp3-download.net#%#//scriptlet("set-constant", "showMsg", "noopFunc")
+
