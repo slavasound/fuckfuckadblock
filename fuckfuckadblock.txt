@@ -1323,7 +1323,7 @@ fantasti.cc,crazyshit.com,pornxs.com##+js(abort-on-property-write.js, phtData)
 fantasti.cc,crazyshit.com,pornxs.com#%#//scriptlet("abort-on-property-write", "phtData")
 
 watchfreexxx.net,wpncdn.com,playpornfree.xyz##+js(abort-current-inline-script.js, jsUnda , /pop2under|URLlist/)
-watchfreexxx.net,wpncdn.com,playpornfree.xyz#%#//scriptlet("abort-on-property-read", "jsUnda", "/pop2under|URLlist/")
+watchfreexxx.net,wpncdn.com,playpornfree.xyz#%#//scriptlet("abort-current-inline-script", "jsUnda", "/pop2under|URLlist/")
 
 hclips.com,streamtajm.*,goodav17.com,playpornfree.xyz,69games.xxx,gamcore.com##+js(abort-on-property-read.js, popunder)
 hclips.com,streamtajm.*,goodav17.com,playpornfree.xyz,69games.xxx,gamcore.com#%#//scriptlet("abort-on-property-read", "popunder")
