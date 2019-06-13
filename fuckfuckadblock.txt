@@ -384,8 +384,8 @@ televall.*,tv-onlinehd.com,darmowa-telewizja.online,mifirm.net,jobhunterplg.*,in
 netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eveningtimes.co.uk,warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
 netdoktor.de,lancashiretelegraph.co.uk,golem.de,tweaktown.com,gamesradar.com,eveningtimes.co.uk,warringtonguardian.co.uk#%#//scriptlet("abort-on-property-write", "_sp_")
 
-shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com,adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site,click2see.desi,crabcut.net,eklink.net,p30day.com,atk-exotics.com,fiuxy.eu##+js(addEventListener-defuser.js, click, trigger)
-shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com,adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site,click2see.desi,crabcut.net,eklink.net,p30day.com,atk-exotics.com,fiuxy.eu#%#//scriptlet("prevent-addEventListener", "click", "trigger")
+shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com,adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site,click2see.desi,crabcut.net,eklink.net,p30day.com,atk-exotics.com,fiuxy.eu,morehardporn.com##+js(addEventListener-defuser.js, click, trigger)
+shortbit.co,youx.xxx,queenfaucet.website,stfly.*,livenewsbuzz.com,eporner.*,hindibeen.com,adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site,click2see.desi,crabcut.net,eklink.net,p30day.com,atk-exotics.com,fiuxy.eu,morehardporn.com#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 
 businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com,poststar.com,eurogamer.*,financialpost.com,vancouversun.com##+js(abort-on-property-read.js, stop)
 businessinsider.*,wfaa.com,ottawacitizen.com,tucson.com,thesouthern.com,rawstory.com,poststar.com,eurogamer.*,financialpost.com,vancouversun.com#%#//scriptlet("abort-on-property-read", "stop")
@@ -431,8 +431,8 @@ hqq.*,ceesty.com,gestyy.com,corneey.com,movie-blog.to,eporner.*,movie-blog.*,por
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la,fuckpix.club,fantasti.cc,hclips.com,rawindianporn.com,pornxs.com,playpornfree.xyz,youwatchporn.com##+js(abort-on-property-read.js, ExoLoader)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,letmejerk.com,youx.xxx,imgdawgknuttz.com,hotpornfile.org,eporner.*,porndr.com,imgspice.com,imgsay.com,4tube.com,xxxdessert.com,javmobile.net,voyeurhit.com,anysex.com,speedporn.net,watchfreexxx.net,fux.com,hitomi.la,fuckpix.club,fantasti.cc,hclips.com,rawindianporn.com,pornxs.com,playpornfree.xyz,youwatchporn.com#%#//scriptlet("abort-on-property-read", "ExoLoader")
 
-bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.*,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*,fantasti.cc,buyitonline.store,iitjeemainguide.in,counsellingresult2016.in,femefun.com,ally.sh,vipserije.com##+js(noeval.js)
-bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.*,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*,fantasti.cc,buyitonline.store,iitjeemainguide.in,counsellingresult2016.in,femefun.com,ally.sh,vipserije.com#%#//scriptlet("noeval")
+bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.*,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*,fantasti.cc,buyitonline.store,iitjeemainguide.in,counsellingresult2016.in,femefun.com,ally.sh,vipserije.com,cashbigo.com##+js(noeval.js)
+bit-url.com,fc.lc,vidstreaming.io,mstream.*,vidoza.net,rapidvideo.*,imgclick.net,duellinksmeta.com,picbaron.com,youjizz.com,descargas2020.*,fantasti.cc,buyitonline.store,iitjeemainguide.in,counsellingresult2016.in,femefun.com,ally.sh,vipserije.com,cashbigo.com#%#//scriptlet("noeval")
 
 rapidvideo.*,otakustream.tv,123movies.*,igg-games.com,putlockers.*#%#//scriptlet("abort-current-inline-script", "decodeURI", "getScriptFromCss")
 rapidvideo.*,otakustream.tv,123movies.*,igg-games.com,putlockers.*##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
