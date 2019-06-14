@@ -480,9 +480,6 @@ linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false
 ceesty.com,clkmein.com,gestyy.com,viid.me##+js(set-constant.js, adsBlockerDetector, noopFunc)
 ceesty.com,clkmein.com,gestyy.com,viid.me#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
 
-menantisenja.com,pafpaf.info##+js(set-constant.js, adblock, 1)
-menantisenja.com,pafpaf.info#%#//scriptlet("set-constant", "adblock", "1")
-
 daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*##+js(abort-current-inline-script.js, atob, tabunder)
 daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
 
