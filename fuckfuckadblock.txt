@@ -546,8 +546,8 @@ anime-free.net,krasivoeporno.tv,nasheporno.tv,orgazmtv.com,pornodoma.tv#%#//scri
 televall.*,tuotromedico.com##+js(set-constant.js, jQuery.adblock, false)
 televall.*,tuotromedico.com#%#//scriptlet("set-constant", "jQuery.adblock", "false")
 
-news.bg,topsport.bg##+js(abort-on-property-read.js, isAdBlockActive)
-news.bg,topsport.bg#%#//scriptlet("abort-on-property-read", "isAdBlockActive")
+news.bg,topsport.bg,onnetwork.tv##+js(abort-on-property-read.js, isAdBlockActive)
+news.bg,topsport.bg,onnetwork.tv#%#//scriptlet("abort-on-property-read", "isAdBlockActive")
 
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(abort-current-inline-script.js, jQuery, TestAdBlock)
 imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("abort-current-inline-script", "jQuery", "TestAdBlock")
@@ -902,9 +902,6 @@ hanime.tv#%#//scriptlet("set-constant", "ABLK', "false")
 
 savevideo.me##+js(abort-current-inline-script.js, $, banner)
 savevideo.me#%#//scriptlet("abort-current-inline-script", "$", "banner")
-
-vev.io##+js(abort-current-inline-script.js, __INITIAL_STATE__)
-vev.io#%#//scriptlet("abort-current-inline-script", "__INITIAL_STATE__")
 
 uiz.io,cut-w.in##+js(setTimeout-defuser.js, checkAdblockUser)
 uiz.io,cut-w.in#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
@@ -1427,9 +1424,6 @@ banglarsomoy.com,bannerreklama.ru,bizoninvest.com,bonus-max.ru,bonus-maxi.ru,ear
 
 gametop.com##+js(abort-on-property-read.js, onLoadEvent)
 gametop.com#%#//scriptlet("abort-on-property-read", "onLoadEvent")
-
-onnetwork.tv#%#//scriptlet("set-constant", "isAdBlockActive", "false")
-onnetwork.tv##+js(set-constant.js, isAdBlockActive, false)
 
 gosswatch.com#%#//scriptlet("set-constant", "pop", "noopFunc")
 gosswatch.com##+js(set-constant.js, pop, noopFunc)
