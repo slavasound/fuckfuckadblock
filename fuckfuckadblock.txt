@@ -849,8 +849,8 @@ mu2.mobi#%#//scriptlet("abort-on-property-read", "marker")
 empflix.com##+js(abort-on-property-read.js, ALoader)
 empflix.com#%#//scriptlet("abort-on-property-read", "ALoader")
 
-empflix.com##+js(abort-on-property-read.js, ads.pop_url)
-empflix.com#%#//scriptlet("abort-on-property-read", "ads.pop_url")
+empflix.com,tnaflix.com##+js(abort-on-property-read.js, ads.pop_url)
+empflix.com,tnaflix.com#%#//scriptlet("abort-on-property-read", "ads.pop_url")
 
 empflix.com##+js(abort-on-property-write.js, popzone)
 empflix.com#%#//scriptlet("abort-on-property-write", "popzone")
