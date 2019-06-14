@@ -483,8 +483,8 @@ ceesty.com,clkmein.com,gestyy.com,viid.me#%#//scriptlet("set-constant", "adsBloc
 daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*##+js(abort-current-inline-script.js, atob, tabunder)
 daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
 
-lektsii.org,studopedia.com.ua##+js(abort-current-inline-script.js, detectAdblk)
-lektsii.org,studopedia.com.ua#%#//scriptlet("abort-current-inline-script", "detectAdblk")
+lektsii.org,studopedia.com.ua,studopedia.ru,studopedia.su##+js(abort-current-inline-script.js, detectAdblk)
+lektsii.org,studopedia.com.ua,studopedia.ru,studopedia.su#%#//scriptlet("abort-current-inline-script", "detectAdblk")
 
 imgdew.*,imgoutlet.*,imgrock.*,imgtown.*,imgview.*##+js(abort-on-property-read.js, CustomEvent)
 imgdew.*,imgoutlet.*,imgrock.*,imgtown.*,imgview.*#%#//scriptlet("abort-on-property-read", "CustomEvent")
