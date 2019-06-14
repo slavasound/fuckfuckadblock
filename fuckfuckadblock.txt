@@ -1431,8 +1431,8 @@ primpogoda.ru#%#//scriptlet("abort-current-inline-script", "String.fromCharCode"
 playpornfree.xyz,watchfreexxx.net,wpncdn.com##+js(abort-on-property-read.js, exoLaunchPN)
 playpornfree.xyz,watchfreexxx.net,wpncdn.com#%#//scriptlet("abort-on-property-read", "exoLaunchPN")
 
-bizoninvest.com,earnwithshortlink.com,kuban-bux.ru,melovin.site,slotbox.ru,socfactor.ru##+js(abort-on-property-read.js, adsurfebe)
-bizoninvest.com,earnwithshortlink.com,kuban-bux.ru,melovin.site,slotbox.ru,socfactor.ru#%#//scriptlet("abort-on-property-read", "adsurfebe")
+banglarsomoy.com,bannerreklama.ru,bizoninvest.com,bonus-max.ru,bonus-maxi.ru,earnwithshortlink.com,erofup.ru,fastdogecoin.ml,freetraf.pw,gb1t.ru,hotclaims.net,infobiz-live.ru,kolergaanbogra.blogspot.com,kuban-bux.ru,melovin.site,mibux.net,monero-min.ru,moneytap.ru,mxig.ru,p4elkamia.ru,rabota-buksy.ru,rhinocerosj.com,slotbox.ru,socfactor.ru,tajmedun.tj,vc-miner.com,vek-noviy.ru,www.ininternetonline.com##+js(abort-on-property-read.js, adsurfebe)
+banglarsomoy.com,bannerreklama.ru,bizoninvest.com,bonus-max.ru,bonus-maxi.ru,earnwithshortlink.com,erofup.ru,fastdogecoin.ml,freetraf.pw,gb1t.ru,hotclaims.net,infobiz-live.ru,kolergaanbogra.blogspot.com,kuban-bux.ru,melovin.site,mibux.net,monero-min.ru,moneytap.ru,mxig.ru,p4elkamia.ru,rabota-buksy.ru,rhinocerosj.com,slotbox.ru,socfactor.ru,tajmedun.tj,vc-miner.com,vek-noviy.ru,www.ininternetonline.com#%#//scriptlet("abort-on-property-read", "adsurfebe")
 
 gametop.com##+js(abort-on-property-read.js, onLoadEvent)
 gametop.com#%#//scriptlet("abort-on-property-read", "onLoadEvent")
