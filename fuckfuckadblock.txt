@@ -1431,8 +1431,8 @@ primpogoda.ru#%#//scriptlet("abort-current-inline-script", "String.fromCharCode"
 playpornfree.xyz,watchfreexxx.net,wpncdn.com##+js(abort-on-property-read.js, exoLaunchPN)
 playpornfree.xyz,watchfreexxx.net,wpncdn.com#%#//scriptlet("abort-on-property-read", "exoLaunchPN")
 
-earnwithshortlink.com##+js(abort-on-property-read.js, adsurfebe)
-earnwithshortlink.com#%#//scriptlet("abort-on-property-read", "adsurfebe")
+earnwithshortlink.com,bizoninvest.com,kuban-bux.ru,slotbox.ru##+js(abort-on-property-read.js, adsurfebe)
+earnwithshortlink.com,bizoninvest.com,kuban-bux.ru,slotbox.ru#%#//scriptlet("abort-on-property-read", "adsurfebe")
 
 gametop.com##+js(abort-on-property-read.js, onLoadEvent)
 gametop.com#%#//scriptlet("abort-on-property-read", "onLoadEvent")
