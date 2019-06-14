@@ -939,9 +939,6 @@ hotpornfile.org#%#//scriptlet("abort-on-property-write", "getIfc")
 hotpornfile.org##+js(abort-on-property-write.js, overlay_as_script)
 hotpornfile.org#%#//scriptlet("abort-on-property-write", "overlay_as_script")
 
-hotpornfile.org##+js(abort-on-property-write.js, popns)
-hotpornfile.org#%#//scriptlet("abort-on-property-write", "popns")
-
 hotpornfile.org##+js(setInterval-defuser.js, _0x)
 hotpornfile.org#%#//scriptlet("prevent-setInterval", "_0x")
 
@@ -1005,8 +1002,8 @@ tomshw.it#%#//scriptlet("prevent-setTimeout", "bioEp.showPopup")
 xopenload.me,speedporn.net##+js(set-constant.js, jsUnda, noopFunc)
 xopenload.me,speedporn.net#%#//scriptlet("set-constant", "jsUnda", "noopFunc")
 
-69games.xxx,animeforce.*,embedy.me,gounlimited.to,hd-world.org,kaotic.com,playpornfree.xyz##+js(abort-on-property-read.js, popns)
-69games.xxx,animeforce.*,embedy.me,gounlimited.to,hd-world.org,kaotic.com,playpornfree.xyz#%#//scriptlet("abort-on-property-read", "popns")
+69games.xxx,animeforce.*,embedy.me,gounlimited.to,hd-world.org,kaotic.com,playpornfree.xyz,hotpornfile.org##+js(abort-on-property-read.js, popns)
+69games.xxx,animeforce.*,embedy.me,gounlimited.to,hd-world.org,kaotic.com,playpornfree.xyz,hotpornfile.org#%#//scriptlet("abort-on-property-read", "popns")
 
 pluspremieres.*##+js(setTimeout-defuser.js, adv)
 pluspremieres.*#%#//scriptlet("prevent-setTimeout", "adv")
