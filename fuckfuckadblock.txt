@@ -510,8 +510,8 @@ daddylive.live,faselhd.*,watchhowimetyourmother.online#%#//scriptlet("abort-on-p
 anysex.com,dailyimages.*,fantasti.cc,fuckpix.club,girlsofdesire.org,javhihi.com,mangovideo.pw,nakenprat.com,playpornfree.xyz,speedporn.net,youav.com,yourlust.com,youwatchporn.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
 anysex.com,dailyimages.*,fantasti.cc,fuckpix.club,girlsofdesire.org,javhihi.com,mangovideo.pw,nakenprat.com,playpornfree.xyz,speedporn.net,youav.com,yourlust.com,youwatchporn.com#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
 
-porndr.com,tmohentai.com##+js(addEventListener-defuser.js, /^(?:load|click)$/, popMagic)
-porndr.com,tmohentai.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|click)$/", "popMagic")
+4inlook.com,belloporno.com,bestxvideos.site,comicspornos.com,cushyporn.com,douxporno.com,gaysamadores.com.br,gravuregirlz.com,gutteruncensored.org,luscious.net,mature.bz,mmmoffice.mx,porndr.com,pornoreino.com,pornult.com,sexv.video,supermzigo.co.tz,tegra.ir,tmohentai.com,worldsex.com,xasiat.com,xuandan.com##+js(addEventListener-defuser.js, /^(?:load|click)$/, popMagic)
+4inlook.com,belloporno.com,bestxvideos.site,comicspornos.com,cushyporn.com,douxporno.com,gaysamadores.com.br,gravuregirlz.com,gutteruncensored.org,luscious.net,mature.bz,mmmoffice.mx,porndr.com,pornoreino.com,pornult.com,sexv.video,supermzigo.co.tz,tegra.ir,tmohentai.com,worldsex.com,xasiat.com,xuandan.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|click)$/", "popMagic")
 
 tmohentai.com,thefilmbay.com,fas.li,likn.xyz,jntufastupdates.com,techperiod.com##+js(abort-on-property-read.js, blockAdBlock)
 tmohentai.com,thefilmbay.com,fas.li,likn.xyz,jntufastupdates.com,techperiod.com#%#//scriptlet("abort-on-property-read", "blockAdBlock")
