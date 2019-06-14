@@ -1211,8 +1211,8 @@ filesharing.io#%#//scriptlet("set-constant", "showMsgAb", "noopFunc")
 starsandstripesfc.com##+js(setTimeout-defuser.js, ConcertAds, 1500)
 starsandstripesfc.com#%#//scriptlet("prevent-setTimeout", "ConcertAds", "1500")
 
-comingsoon.net,emlaktasondakika.com,post-gazette.com,switch-xci.com##+js(abort-on-property-read.js, googletag)
-comingsoon.net,emlaktasondakika.com,post-gazette.com,switch-xci.com#%#//scriptlet("abort-on-property-read", "googletag")
+comingsoon.net,dailycaller.com,emlaktasondakika.com,post-gazette.com,switch-xci.com##+js(abort-on-property-read.js, googletag)
+comingsoon.net,dailycaller.com,emlaktasondakika.com,post-gazette.com,switch-xci.com#%#//scriptlet("abort-on-property-read", "googletag")
 
 ccn.com,comicsands.com,duffelblog.com,gamepur.com,mandatory.com,mlive.com,newatlas.com,nj.com,pgatour.com,readlightnovel.org,secondnexus.com,sevenforums.com,sport24.co.za,theodysseyonline.com,westernjournal.com##+js(abort-on-property-read.js, __cmpGdprAppliesGlobally)
 ccn.com,comicsands.com,duffelblog.com,gamepur.com,mandatory.com,mlive.com,newatlas.com,nj.com,pgatour.com,readlightnovel.org,secondnexus.com,sevenforums.com,sport24.co.za,theodysseyonline.com,westernjournal.com#%#//scriptlet("abort-on-property-read", "__cmpGdprAppliesGlobally")
