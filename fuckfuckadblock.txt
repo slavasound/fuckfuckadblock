@@ -516,9 +516,6 @@ anysex.com,dailyimages.*,fantasti.cc,fuckpix.club,girlsofdesire.org,javhihi.com,
 porndr.com,tmohentai.com##+js(addEventListener-defuser.js, /^(?:load|click)$/, popMagic)
 porndr.com,tmohentai.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|click)$/", "popMagic")
 
-pitbullofficial.com##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
-pitbullofficial.com#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "importFAB")
-
 tmohentai.com,thefilmbay.com,fas.li,likn.xyz,jntufastupdates.com,techperiod.com##+js(abort-on-property-read.js, blockAdBlock)
 tmohentai.com,thefilmbay.com,fas.li,likn.xyz,jntufastupdates.com,techperiod.com#%#//scriptlet("abort-on-property-read", "blockAdBlock")
 
@@ -1041,8 +1038,8 @@ fembed.com#%#//scriptlet("abort-on-property-read", "decodeURI")
 innpoland.pl##+js(abort-current-inline-script.js, parseInt, adBlock)
 innpoland.pl#%#//scriptlet("abort-current-inline-script", "parseInt", "adBlock")
 
-gratisaftehalen.nl,shlyahten.ru,surfsees.com##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
-gratisaftehalen.nl,shlyahten.ru,surfsees.com#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
+gratisaftehalen.nl,shlyahten.ru,surfsees.com,pitbullofficial.com##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
+gratisaftehalen.nl,shlyahten.ru,surfsees.com,pitbullofficial.com#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
 
 lesoir.be##+js(setTimeout-defuser.js, adb)
 lesoir.be#%#//scriptlet("prevent-setTimeout", "adb")
