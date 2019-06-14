@@ -1463,3 +1463,6 @@ cartoon-sex.tv,morehardporn.com#%#//scriptlet("abort-on-property-read", "prPuSho
 slader.com##+js(set-constant.js, sladerAbm, noopFunc)
 slader.com#%#//scriptlet("set-constant", "sladerAbm", "noopFunc")
 
+javhd.today##+js(abort-on-property-read.js, adsbyjuicy)
+javhd.today#%#//scriptlet("abort-on-property-read", "adsbyjuicy")
+
