@@ -616,8 +616,8 @@ povvideo.*,powvldeo.*,streamp1ay.*#%#//scriptlet("abort-on-property-write", "Fin
 grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,vidup.me##+js(abort-on-property-read.js, miner)
 grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,vidup.me#%#//scriptlet("abort-on-property-read", "miner")
 
-povvideo.*,powvldeo.*##+js(abort-on-property-write.js, CoinNebula)
-povvideo.*,powvldeo.*#%#//scriptlet("abort-on-property-write", "CoinNebula")
+nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br##+js(abort-on-property-write.js, CoinNebula)
+nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br#%#//scriptlet("abort-on-property-write", "CoinNebula")
 
 powvldeo.*##+js(abort-current-inline-script.js, $, test)
 powvldeo.*#%#//scriptlet("abort-current-inline-script", "$", "test")
