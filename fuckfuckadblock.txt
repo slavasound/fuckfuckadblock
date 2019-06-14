@@ -1110,8 +1110,8 @@ moroa.tistory.com#%#//scriptlet("set-constant", "adsbygoogle.loaded", "true")
 tistory.com,tetewlink.me##+js(abort-on-property-read.js, fuckAdBlock)
 tistory.com,tetewlink.me#%#//scriptlet("abort-on-property-read", "fuckAdBlock")
 
-1fuckmom.com,1japansex.com,1lesbiantube.com,1pornotube.net,1shemaleporno.com,femefun.com,openloed.co##+js(abort-on-property-write.js, __htapop)
-1fuckmom.com,1japansex.com,1lesbiantube.com,1pornotube.net,1shemaleporno.com,femefun.com,openloed.co#%#//scriptlet("abort-on-property-write", "__htapop")
+1001xxx.com,10xtube.com,18teenporno.com,18teenpornotube.com,18xxxtube.com,19youngporn.com,1fuckmom.com,1japansex.com,1lesbiantube.com,1pornotube.net,1shemaleporno.com,1xxxmilf.com,3gpporn.ru,3xmature.com,40momporntube.com,4share-mp3.net,50maturetube.com,69matureporn.com,69sex.tv,69xxxmature.com,69xxxmatures.com,6porn.me,77grannys.com,7transsex.com,8asiansex.com,8fuckmilf.com,8teenxxxhd.com,90retrotube.com,99xxxtube.com,ahmilf.com,all-indian-sex.com,allals.com,allcelebs.club,allfapvideos.com,allgayxnxx.com,allindianporno.com,allkarupspc.com,allmilftube.com,allteenart.com,allvintagetubes.com,allxvideos.net,alohateens.com,amateur-twink.com,amateurtubedump.com,femefun.com,openloed.co##+js(abort-on-property-write.js, __htapop)
+1001xxx.com,10xtube.com,18teenporno.com,18teenpornotube.com,18xxxtube.com,19youngporn.com,1fuckmom.com,1japansex.com,1lesbiantube.com,1pornotube.net,1shemaleporno.com,1xxxmilf.com,3gpporn.ru,3xmature.com,40momporntube.com,4share-mp3.net,50maturetube.com,69matureporn.com,69sex.tv,69xxxmature.com,69xxxmatures.com,6porn.me,77grannys.com,7transsex.com,8asiansex.com,8fuckmilf.com,8teenxxxhd.com,90retrotube.com,99xxxtube.com,ahmilf.com,all-indian-sex.com,allals.com,allcelebs.club,allfapvideos.com,allgayxnxx.com,allindianporno.com,allkarupspc.com,allmilftube.com,allteenart.com,allvintagetubes.com,allxvideos.net,alohateens.com,amateur-twink.com,amateurtubedump.com,femefun.com,openloed.co#%#//scriptlet("abort-on-property-write", "__htapop")
 
 onitube.com##+js(setTimeout-defuser.js, newBody)
 onitube.com#%#//scriptlet("prevent-setTimeout", "newBody")
