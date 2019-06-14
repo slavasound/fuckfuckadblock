@@ -201,6 +201,8 @@
 */crypta.js$script,third-party,important
 */kvideo.js$script,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 */stl.js$script,domain=thatav.net
+*/adsid/integrator.js$script,redirect=noopjs,domain=reevown.com
+*/adsid/integrator.js$script,empty,domain=reevown.com
 /\/(propadbl\_epxhd\.js|galaxad\_tpx\.js)/$script,domain=topeuropix.net|europixhd.net,important
 /^https:\/\/.*?\/v2\/0\/[a-zA-Z0-9_-]{30,}$/$third-party,script
 /^https?:\/\/([a-z0-9]{3,10}\.)?[a-z0-9]{5,15}\.(click|com|bid|net|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/script
@@ -251,6 +253,8 @@
 */fuckadblock.$script,redirect=fuckadblock.js-3.2.0
 */googima.js$script,empty
 */googima.js$script,redirect=noopjs
+*/blockcake.js$script,empty
+*/blockcake.js$script,redirect=noopjs
 */prof.js$script,domain=lbtube.com
 */service-worker.js$script,important,empty
 */service-worker.js$script,important,redirect=noopjs
