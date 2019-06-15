@@ -900,9 +900,6 @@ rjno1.com#%#//scriptlet("prevent-setTimeout", "rjnocanrunads", "3000")
 letmejerk.com##+js(addEventListener-defuser.js, load, _0x)
 letmejerk.com#%#//scriptlet("prevent-addEventListener", "load", "_0x")
 
-draug.ru##+js(abort-current-inline-script.js, Math.floor, AdSense)
-draug.ru#%#//scriptlet("abort-current-inline-script", "Math.floor", "AdSense")
-
 t66y.com##+js(abort-current-inline-script.js, $, undefined)
 t66y.com#%#//scriptlet("abort-current-inline-script", "$", "undefined")
 
