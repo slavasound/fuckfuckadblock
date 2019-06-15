@@ -1512,3 +1512,6 @@ brainly.com#%#//scriptlet("abort-on-property-write", "jsData")
 washingtonpost.com##+js(addEventListener-defuser.js, pb-core-loaded, TWP.Data)
 washingtonpost.com#%#//scriptlet("prevent-addEventListener", "pb-core-loaded", "TWP.Data")
 
+turkbet.tv##+js(abort-current-inline-script.js, makePopunder, /pop2under|doPopunder/)
+turkbet.tv#%#//scriptlet("abort-current-inline-script", "makePopunder", "/pop2under|doPopunder/")
+
