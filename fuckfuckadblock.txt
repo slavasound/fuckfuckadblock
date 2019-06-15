@@ -140,6 +140,15 @@
 #@#.afs_ads
 #@#.ga
 #@#.ads1x1
+#@#.pub_300x250
+#@#.pub_300x250m
+#@#.pub_728x90
+#@#.text-ad
+#@#.textAd
+#@#.text_ad
+#@#.text_ads
+#@#.text-ads
+#@#.text-ad-links
 
 ##a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi?"]
 ##a[href*="/afu.php"]
@@ -1496,4 +1505,7 @@ brainly.com#%#//scriptlet("prevent-setTimeout", "trigger", "0")
 
 brainly.com##+js(abort-on-property-write.js, jsData)
 brainly.com#%#//scriptlet("abort-on-property-write", "jsData")
+
+washingtonpost.com##+js(addEventListener-defuser.js, pb-core-loaded, TWP.Data)
+washingtonpost.com#%#//scriptlet("prevent-addEventListener", "pb-core-loaded", "TWP.Data")
 
