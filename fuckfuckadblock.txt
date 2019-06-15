@@ -46,6 +46,8 @@
 ###adblockinfo
 ###adblockpopup
 ###adblocktest
+###adbuddy-no-adb-container
+###adbuddy-overlay
 ###ads-blocked
 ###ads_warning
 ###advertisementjsalert
@@ -89,7 +91,9 @@
 ##.adblock-modal
 ##.adblock-modal-content
 ##.adblock-notification-wrapper
+##.adblock-notify
 ##.adblock-warning-teaser
+##.adblock-warning
 ##.adblockInfo
 ##.adblockOverlay
 ##.adblock__container
@@ -104,7 +108,6 @@
 ##.adbwarning
 ##.adcontent
 ##.adisclaimer
-##.adsbygoogle
 ##.b-blockadblock
 ##.counterAdblocks
 ##.deadblocker-header-bar
@@ -130,12 +133,13 @@
 ##.top-bar-adblock
 ##.warning-adblock
 ##.warning-adblock-box
-##.adblock-notify
-###adbuddy-no-adb-container
-###adbuddy-overlay
 
-#@#.afs_ads
+#@##banner_ad
 #@##sponsored-ad
+#@#.adsbygoogle
+#@#.afs_ads
+#@#.ga
+#@#.ads1x1
 
 ##a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi?"]
 ##a[href*="/afu.php"]
