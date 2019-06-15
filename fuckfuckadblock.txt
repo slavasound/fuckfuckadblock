@@ -440,8 +440,8 @@ getrelax.club,javfree.club#%#//scriptlet("abort-current-inline-script", "documen
 animeforce.*,animeforce.org,avforme.com,camuploads.com,embedy.me,eporner.*,goovie.co,gounlimited.to,hanime.tv,hclips.com,hd-world.org,imgmonkey.com,kaotic.com,streamango.com,streamcherry.com,vev.io,vivatube.com,voyeurhit.com,vup.to##+js(abort-on-property-read.js, BetterJsPop)
 animeforce.*,animeforce.org,avforme.com,camuploads.com,embedy.me,eporner.*,goovie.co,gounlimited.to,hanime.tv,hclips.com,hd-world.org,imgmonkey.com,kaotic.com,streamango.com,streamcherry.com,vev.io,vivatube.com,voyeurhit.com,vup.to#%#//scriptlet("abort-on-property-read", "BetterJsPop")
 
-123movies.*,1337x.*,adyou.me,avgle.com,chrt.pw,clicknupload.org,clik.*,cpmlink.net,cyfostreams.com,daxab.com,descargas2020.,dpstream.*,earnwithshortlink.com,ebookdz.com,entervideo.net,fastplay.*,ganool.*,gounlimited.to,gsmarena.com,hdvid.*,igg-games.com,intoupload.net,itdmusic.*,m4ufree.*,mywatchseries.stream,onvid.*,open-live.org,ouo.io,ouo.press,ourl.io,ovid.*,povvideo.*,powvideo.*,powvldeo.*,prettyfast.to,putlockers.*,stiffvip.com,streamcloud.eu,swatchseries.to,torrentlocura.com,torrentrapid.com,tumejortorrent.com*,uii.io,uploadmp4.com,uploadocean.com,uptobox.com,vidhd.*,vidlox.*,vup.to,watchonseries.com,watchtvseries.io,xvideos.com,yts.*$webrtc,important
-123movies.*,1337x.*,adyou.me,avgle.com,chrt.pw,clicknupload.org,clik.*,cpmlink.net,cyfostreams.com,daxab.com,descargas2020.,dpstream.*,earnwithshortlink.com,ebookdz.com,entervideo.net,fastplay.*,ganool.*,gounlimited.to,gsmarena.com,hdvid.*,igg-games.com,intoupload.net,itdmusic.*,m4ufree.*,mywatchseries.stream,onvid.*,open-live.org,ouo.io,ouo.press,ourl.io,ovid.*,povvideo.*,powvideo.*,powvldeo.*,prettyfast.to,putlockers.*,stiffvip.com,streamcloud.eu,swatchseries.to,torrentlocura.com,torrentrapid.com,tumejortorrent.com*,uii.io,uploadmp4.com,uploadocean.com,uptobox.com,vidhd.*,vidlox.*,vup.to,watchonseries.com,watchtvseries.io,xvideos.com,yts.*##+js(nowebrtc.js)
+123movies.*,1337x.*,2ddl.*,adyou.me,allitebooks.com,arabseed.tv,avgle.com,bonstreams.net,buzzfil.net,byter.tv,chrt.pw,clicknupload.org,clik.*,convertinmp4.com,cpmlink.net,cric1.com,crictime.com,cyfostreams.com,daxab.com,ddlvalley.me,descargas2020.,dontdo.pw,dpstream.*,dramamate.*,earnwithshortlink.com,ebookdz.com,entervideo.net,eztv.*,fastplay.*,filmvf.cc,fluvore.com,ganool.*,go4up.com,gounlimited.to,gsmarena.com,hdvid.*,hilltop.pw,icefilms.info,igg-games.com,intoupload.net,itdmusic.*,kiss-anime.*,letmewatchthis.*,liveflashplayer.org,m4ufree.*,mac-torrents.com,mapx.pw,mkvcage.*,movie4k.org,mywatchseries.stream,oceanoffgames.com,onvid.*,open-live.org,openload.ch,ouo.io,ouo.press,ourl.io,ovid.*,pdf-giant.com,pelispedia.*,playuc.live,povvideo.*,powvideo.*,powvldeo.*,prettyfast.to,putlockers.*,radiofly.ws,readmanga.today,sawlive.tv,skidrowcrack.com,sportshd.me,stiffvip.com,strdef.world,streamcloud.eu,streamfilmzzz.com,streamzzz.online,subswiki.com,swatchseries.to,thevideobee.to,tny.ec,tomadivx.org,toros.co,torrentlocura.com,torrentrapid.com,torrentz.to,torrentz2.*,tumejortorrent.com*,ublock.pw,ubocam.pw,ucaster.xyz,uii.io,unblocked.app,upload.ee,uploading.site,uploadmp4.com,uploadocean.com,uptobox.com,vidhd.*,vidlox.*,vup.to,watchonseries.com,watchtvseries.io,webcric.com,xvideos.com,yts.*,zooqle.*$webrtc,important
+123movies.*,1337x.*,2ddl.*,adyou.me,allitebooks.com,arabseed.tv,avgle.com,bonstreams.net,buzzfil.net,byter.tv,chrt.pw,clicknupload.org,clik.*,convertinmp4.com,cpmlink.net,cric1.com,crictime.com,cyfostreams.com,daxab.com,ddlvalley.me,descargas2020.,dontdo.pw,dpstream.*,dramamate.*,earnwithshortlink.com,ebookdz.com,entervideo.net,eztv.*,fastplay.*,filmvf.cc,fluvore.com,ganool.*,go4up.com,gounlimited.to,gsmarena.com,hdvid.*,hilltop.pw,icefilms.info,igg-games.com,intoupload.net,itdmusic.*,kiss-anime.*,letmewatchthis.*,liveflashplayer.org,m4ufree.*,mac-torrents.com,mapx.pw,mkvcage.*,movie4k.org,mywatchseries.stream,oceanoffgames.com,onvid.*,open-live.org,openload.ch,ouo.io,ouo.press,ourl.io,ovid.*,pdf-giant.com,pelispedia.*,playuc.live,povvideo.*,powvideo.*,powvldeo.*,prettyfast.to,putlockers.*,radiofly.ws,readmanga.today,sawlive.tv,skidrowcrack.com,sportshd.me,stiffvip.com,strdef.world,streamcloud.eu,streamfilmzzz.com,streamzzz.online,subswiki.com,swatchseries.to,thevideobee.to,tny.ec,tomadivx.org,toros.co,torrentlocura.com,torrentrapid.com,torrentz.to,torrentz2.*,tumejortorrent.com*,ublock.pw,ubocam.pw,ucaster.xyz,uii.io,unblocked.app,upload.ee,uploading.site,uploadmp4.com,uploadocean.com,uptobox.com,vidhd.*,vidlox.*,vup.to,watchonseries.com,watchtvseries.io,webcric.com,xvideos.com,yts.*,zooqle.*##+js(nowebrtc.js)
 
 earnwithshortlink.com##+js(abort-on-property-read.js, parcelRequire)
 earnwithshortlink.com#%#//scriptlet("abort-on-property-read", "parcelRequire")
@@ -542,8 +542,8 @@ bellinghamherald.com,elpais.com,okdiario.com#%#//scriptlet("abort-current-inline
 userscloud.com,xopenload.me##+js(abort-on-property-write.js, open)
 userscloud.com,xopenload.me#%#//scriptlet("abort-on-property-write", "open")
 
-extrafreetv.me,flix555.com,goss.watch,imgmaze.*,imgrock.*,mangovideo.pw,mygoodstream.pw##+js(abort-on-property-read.js, popjs.init)
-extrafreetv.me,flix555.com,goss.watch,imgmaze.*,imgrock.*,mangovideo.pw,mygoodstream.pw#%#//scriptlet("abort-on-property-read", "popjs.init")
+2ddl.*,extrafreetv.me,flix555.com,goss.watch,imgmaze.*,imgrock.*,mangovideo.pw,mygoodstream.pw##+js(abort-on-property-read.js, popjs.init)
+2ddl.*,extrafreetv.me,flix555.com,goss.watch,imgmaze.*,imgrock.*,mangovideo.pw,mygoodstream.pw#%#//scriptlet("abort-on-property-read", "popjs.init")
 
 akanosora.com,dreamfancy.org,ebookdz.com,tricxbd.com,xxxmomporn.top##+js(setTimeout-defuser.js, nextFunction, 2000)
 akanosora.com,dreamfancy.org,ebookdz.com,tricxbd.com,xxxmomporn.top#%#//scriptlet("prevent-setTimeout", "nextFunction", "2000")
@@ -597,8 +597,8 @@ allnorilsk.ru,hotpornfile.org,olegon.ru#%#//scriptlet("abort-on-property-read", 
 ecoimages.xyz,funimg.net,hclips.com,hitomi.la,hotpornfile.org,nsfwalbum.com,unporn.site,watchfreexxx.net,xaoutchouc.live,xxxdessert.com#%#//scriptlet("prevent-addEventListener", "getexoloader")
 ecoimages.xyz,funimg.net,hclips.com,hitomi.la,hotpornfile.org,nsfwalbum.com,unporn.site,watchfreexxx.net,xaoutchouc.live,xxxdessert.com##+js(addEventListener-defuser.js, getexoloader)
 
-9xupload.me,adsvy.com,biqle.ru,fembed.com,ganool.*,planetatorrent.com,readcomiconline.to,strikeout.nu,uploadbaz.net#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
-9xupload.me,adsvy.com,biqle.ru,fembed.com,ganool.*,planetatorrent.com,readcomiconline.to,strikeout.nu,uploadbaz.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+2ddl.*,9xupload.me,adsvy.com,ancensored.com,biqle.ru,fembed.com,ganol.*,ganool.*,planetatorrent.com,readcomiconline.to,strikeout.nu,uploadbaz.net#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
+2ddl.*,9xupload.me,adsvy.com,ancensored.com,biqle.ru,fembed.com,ganol.*,ganool.*,planetatorrent.com,readcomiconline.to,strikeout.nu,uploadbaz.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 
 desiupload.in,gorillavid.in,mylust.com,streamdreams.org,upgrand.*,viprow.net##+js(abort-on-property-write.js, encodeURIComponent)
 desiupload.in,gorillavid.in,mylust.com,streamdreams.org,upgrand.*,viprow.net#%#//scriptlet("abort-on-property-write", "encodeURIComponent")
@@ -618,8 +618,8 @@ clik.*,javfinder.is,pasty.link#%#//scriptlet("prevent-setTimeout", "_0x")
 avcao.cc,axjbt.com#%#//scriptlet("abort-on-property-read", "myclick")
 avcao.cc,axjbt.com##+js(abort-on-property-read.js, myclick)
 
-9xupload.me,1337x.*,adyou.*,biqle.ru,fembed.com,ganool.*,planetatorrent.com,readcomiconline.to,torrentrapid.com,tumejortorrent.com##+js(setInterval-defuser.js, (), 500)
-9xupload.me,1337x.*,adyou.*,biqle.ru,fembed.com,ganool.*,planetatorrent.com,readcomiconline.to,torrentrapid.com,tumejortorrent.com#%#//scriptlet("prevent-setInterval", "()", "500")
+1337x.*,2ddl.*,9xupload.me,adyou.*,ancensored.com,biqle.ru,fembed.com,ganol.*,ganool.*,planetatorrent.com,readcomiconline.to,torrentrapid.com,tumejortorrent.com##+js(setInterval-defuser.js, (), 500)
+1337x.*,2ddl.*,9xupload.me,adyou.*,ancensored.com,biqle.ru,fembed.com,ganol.*,ganool.*,planetatorrent.com,readcomiconline.to,torrentrapid.com,tumejortorrent.com#%#//scriptlet("prevent-setInterval", "()", "500")
 
 payco.*,streamlive.to##+js(abort-current-inline-script.js, parseInt, charAt)
 payco.*,streamlive.to#%#//scriptlet("abort-current-inline-script", "parseInt", "charAt")
