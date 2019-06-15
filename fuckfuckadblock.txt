@@ -1323,8 +1323,8 @@ rulu.co#%#//scriptlet("prevent-setTimeout", "adsBox", "200")
 rulu.co#%#//scriptlet("set-constant", "getDownloadNow", "noopFunc")
 rulu.co##+js(set-constant.js, getDownloadNow, noopFunc)
 
-fantasti.cc,crazyshit.com,pornxs.com##+js(abort-on-property-write.js, phtData)
-fantasti.cc,crazyshit.com,pornxs.com#%#//scriptlet("abort-on-property-write", "phtData")
+fantasti.cc,crazyshit.com,pornxs.com,smutr.com##+js(abort-on-property-write.js, phtData)
+fantasti.cc,crazyshit.com,pornxs.com,smutr.com#%#//scriptlet("abort-on-property-write", "phtData")
 
 playpornfree.xyz,watchfreexxx.net,wpncdn.com##+js(abort-current-inline-script.js, jsUnda , /pop2under|URLlist/)
 playpornfree.xyz,watchfreexxx.net,wpncdn.com#%#//scriptlet("abort-current-inline-script", "jsUnda", "/pop2under|URLlist/")
