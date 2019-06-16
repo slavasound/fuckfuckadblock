@@ -225,9 +225,9 @@
 */crypta.js$script,third-party,important
 */gofd_fl.js$script
 */gogo.php$script
+*/pop_js.php$script
 */invoke.js$script,third-party,important
-*/jspopunder.min.js$script
-*/jspopunder.js$script
+*/jspopunder.$script
 */kvideo.js$script,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 */prof.js$script,domain=lbtube.com
 */stl.js$script,domain=thatav.net
@@ -601,8 +601,8 @@ xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype,'config/ads',{get:function(){return false;}});
 xnxx.com,xvideos.com#%#Object.defineProperty(window,'openpop',{get:function(){return;}});
 
-fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv##+js(abort-on-property-read.js, jsPopunder)
-fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv#%#//scriptlet("abort-on-property-read", "jsPopunder")
+fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv,5278.mobi##+js(abort-on-property-read.js, jsPopunder)
+fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv,5278.mobi#%#//scriptlet("abort-on-property-read", "jsPopunder")
 
 1921681254.tech,blogginggyanbox.com,buyitonline.store,clk.*,counsellingresult2016.in,gifsis.com,iitjeemainguide.in##+js(set-constant.js, blockAdBlock, true)
 1921681254.tech,blogginggyanbox.com,buyitonline.store,clk.*,counsellingresult2016.in,gifsis.com,iitjeemainguide.in#%#//scriptlet("set-constant", "blockAdBlock", "true")
@@ -1269,8 +1269,8 @@ moika78.ru##+js(set-constant.js, noAdblock, true)
 mz-web.de##+js(abort-current-inline-script.js, document.createElement, document.head.appendChild)
 mz-web.de#%#//scriptlet("abort-current-inline-script", "document.createElement", "document.head.appendChild")
 
-69games.xxx,doodhwali.xxx,fuckpix.club,iporntv.net,online-south-park.ru,sinemahdkeyfi.com,youwatchporn.com,take.az,seks.com##+js(abort-current-inline-script.js, document.write)
-69games.xxx,doodhwali.xxx,fuckpix.club,iporntv.net,online-south-park.ru,sinemahdkeyfi.com,youwatchporn.com,take.az,seks.com#%#//scriptlet("abort-current-inline-script", "document.write")
+69games.xxx,doodhwali.xxx,fuckpix.club,iporntv.net,online-south-park.ru,sinemahdkeyfi.com,youwatchporn.com,take.az,seks.com,5278.mobi##+js(abort-current-inline-script.js, document.write)
+69games.xxx,doodhwali.xxx,fuckpix.club,iporntv.net,online-south-park.ru,sinemahdkeyfi.com,youwatchporn.com,take.az,seks.com,5278.mobi#%#//scriptlet("abort-current-inline-script", "document.write")
 
 originalindianporn.com,wowindianporn.com##+js(abort-on-property-read.js, popit)
 originalindianporn.com,wowindianporn.com#%#//scriptlet("abort-on-property-read", "popit")
