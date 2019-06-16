@@ -1516,9 +1516,6 @@ brainly.com#%#//scriptlet("abort-on-property-write", "jsData")
 washingtonpost.com##+js(addEventListener-defuser.js, pb-core-loaded, TWP.Data)
 washingtonpost.com#%#//scriptlet("prevent-addEventListener", "pb-core-loaded", "TWP.Data")
 
-turkbet.tv,take.az,semi168.net,storengy.com,indo168.club,seks.com##+js(abort-current-inline-script.js, makePopunder, /pop2under|doPopunder/)
-turkbet.tv,take.az,semi168.net,storengy.com,indo168.club,seks.com#%#//scriptlet("abort-current-inline-script", "makePopunder", "/pop2under|doPopunder/")
-
-turkbet.tv,iranproud2.net,take.az,semi168.net,storengy.com,indo168.club,seks.com##+js(set-constant.js, makePopunder, noopFunc)
-turkbet.tv,iranproud2.net,take.az,semi168.net,storengy.com,indo168.club,seks.com#%#//scriptlet("set-constant", "makePopunder", "noopFunc")
+turkbet.tv,iranproud2.net,take.az,semi168.net,storengy.com,indo168.club,seks.com##+js(abort-current-inline-script.js, makePopunder, /^(?:pop2under|mypopunder|PopHelper|doPopunder)$/)
+turkbet.tv,iranproud2.net,take.az,semi168.net,storengy.com,indo168.club,seks.com#%#//scriptlet("abort-current-inline-script", "makePopunder", "/^(?:pop2under|mypopunder|PopHelper|doPopunder)$/")
 
