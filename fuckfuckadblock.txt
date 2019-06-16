@@ -601,8 +601,8 @@ xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype,'config/ads',{get:function(){return false;}});
 xnxx.com,xvideos.com#%#Object.defineProperty(window,'openpop',{get:function(){return;}});
 
-fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it##+js(abort-on-property-read.js, jsPopunder)
-fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it#%#//scriptlet("abort-on-property-read", "jsPopunder")
+fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv##+js(abort-on-property-read.js, jsPopunder)
+fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv#%#//scriptlet("abort-on-property-read", "jsPopunder")
 
 1921681254.tech,blogginggyanbox.com,buyitonline.store,clk.*,counsellingresult2016.in,gifsis.com,iitjeemainguide.in##+js(set-constant.js, blockAdBlock, true)
 1921681254.tech,blogginggyanbox.com,buyitonline.store,clk.*,counsellingresult2016.in,gifsis.com,iitjeemainguide.in#%#//scriptlet("set-constant", "blockAdBlock", "true")
