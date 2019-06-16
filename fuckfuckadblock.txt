@@ -988,8 +988,8 @@ eporner.*#%#//scriptlet("abort-on-property-write", "EPeventFire")
 eporner.*#%#//scriptlet("abort-on-property-read", "exoDocumentProtocol")
 eporner.*##+js(abort-on-property-read.js, exoDocumentProtocol)
 
-sexvid.xxx##+js(abort-on-property-read.js, pu)
-sexvid.xxx#%#//scriptlet("abort-on-property-read", "pu")
+sexvid.xxx,euro-fh.de##+js(abort-on-property-read.js, pu)
+sexvid.xxx,euro-fh.de#%#//scriptlet("abort-on-property-read", "pu")
 
 moviescouch.*##+js(abort-current-inline-script.js, RegExp, decodeURIComponent)
 moviescouch.*#%#//scriptlet("abort-current-inline-script", "RegExp", "decodeURIComponent")
@@ -1516,9 +1516,9 @@ brainly.com#%#//scriptlet("abort-on-property-write", "jsData")
 washingtonpost.com##+js(addEventListener-defuser.js, pb-core-loaded, TWP.Data)
 washingtonpost.com#%#//scriptlet("prevent-addEventListener", "pb-core-loaded", "TWP.Data")
 
-turkbet.tv,take.az,semi168.net##+js(abort-current-inline-script.js, makePopunder, /pop2under|doPopunder/)
-turkbet.tv,take.az,semi168.net#%#//scriptlet("abort-current-inline-script", "makePopunder", "/pop2under|doPopunder/")
+turkbet.tv,take.az,semi168.net,storengy.com##+js(abort-current-inline-script.js, makePopunder, /pop2under|doPopunder/)
+turkbet.tv,take.az,semi168.net,storengy.com#%#//scriptlet("abort-current-inline-script", "makePopunder", "/pop2under|doPopunder/")
 
-turkbet.tv,iranproud2.net,take.az,semi168.net##+js(set-constant.js, makePopunder, noopFunc)
-turkbet.tv,iranproud2.net,take.az,semi168.net#%#//scriptlet("set-constant", "makePopunder", "noopFunc")
+turkbet.tv,iranproud2.net,take.az,semi168.net,storengy.com##+js(set-constant.js, makePopunder, noopFunc)
+turkbet.tv,iranproud2.net,take.az,semi168.net,storengy.com#%#//scriptlet("set-constant", "makePopunder", "noopFunc")
 
