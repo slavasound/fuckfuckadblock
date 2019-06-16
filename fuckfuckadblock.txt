@@ -226,6 +226,8 @@
 */gofd_fl.js$script
 */gogo.php$script
 */invoke.js$script,third-party,important
+*/jspopunder.min.js$script
+*/jspopunder.js$script
 */kvideo.js$script,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 */prof.js$script,domain=lbtube.com
 */stl.js$script,domain=thatav.net
