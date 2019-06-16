@@ -153,16 +153,6 @@
 #@##ad_test
 #@#.img_ad
 #@#.ad_300x250
-#@#.pub_300x250
-#@#.pub_300x250m
-#@#.pub_728x90
-#@#.text-ad
-#@#.textAd
-#@#.text_ad
-#@#.text_ads
-#@#.text-ads
-#@#.text-ad-links
-#@#.adsbygoogle
 #@#.act-ad-container
 
 ##a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi?"]
@@ -1526,9 +1516,9 @@ brainly.com#%#//scriptlet("abort-on-property-write", "jsData")
 washingtonpost.com##+js(addEventListener-defuser.js, pb-core-loaded, TWP.Data)
 washingtonpost.com#%#//scriptlet("prevent-addEventListener", "pb-core-loaded", "TWP.Data")
 
-turkbet.tv##+js(abort-current-inline-script.js, makePopunder, /pop2under|doPopunder/)
-turkbet.tv#%#//scriptlet("abort-current-inline-script", "makePopunder", "/pop2under|doPopunder/")
+turkbet.tv,take.az##+js(abort-current-inline-script.js, makePopunder, /pop2under|doPopunder/)
+turkbet.tv,take.az#%#//scriptlet("abort-current-inline-script", "makePopunder", "/pop2under|doPopunder/")
 
-turkbet.tv,iranproud2.net##+js(set-constant.js, makePopunder, noopFunc)
-turkbet.tv,iranproud2.net#%#//scriptlet("set-constant", "makePopunder", "noopFunc")
+turkbet.tv,iranproud2.net,take.az##+js(set-constant.js, makePopunder, noopFunc)
+turkbet.tv,iranproud2.net,take.az#%#//scriptlet("set-constant", "makePopunder", "noopFunc")
 
