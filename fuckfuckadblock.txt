@@ -601,8 +601,8 @@ xnxx.com,xvideos.com##+js(xvideos.com.js)
 xnxx.com,xvideos.com#%#Object.defineProperty(Object.prototype,'config/ads',{get:function(){return false;}});
 xnxx.com,xvideos.com#%#Object.defineProperty(window,'openpop',{get:function(){return;}});
 
-fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv,5278.mobi##+js(abort-on-property-read.js, jsPopunder)
-fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv,5278.mobi#%#//scriptlet("abort-on-property-read", "jsPopunder")
+fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv,5278.mobi,senimovies.net##+js(abort-on-property-read.js, jsPopunder)
+fishrecipes.net,freegames.net,kaotic.com,ouo.io,ouo.press,shink.*,turkceanimeizle.com,vrporn.com,semi168.net,indo168.club,ilmeteo.it,legendas.tv,5278.mobi,senimovies.net#%#//scriptlet("abort-on-property-read", "jsPopunder")
 
 1921681254.tech,blogginggyanbox.com,buyitonline.store,clk.*,counsellingresult2016.in,gifsis.com,iitjeemainguide.in##+js(set-constant.js, blockAdBlock, true)
 1921681254.tech,blogginggyanbox.com,buyitonline.store,clk.*,counsellingresult2016.in,gifsis.com,iitjeemainguide.in#%#//scriptlet("set-constant", "blockAdBlock", "true")
@@ -1320,8 +1320,8 @@ crazyshit.com,donk69.com,fantasti.cc,gfjizz.com,pornxs.com,pornxt.com,smutr.com,
 playpornfree.xyz,watchfreexxx.net,wpncdn.com##+js(abort-current-inline-script.js, jsUnda , /pop2under|URLlist/)
 playpornfree.xyz,watchfreexxx.net,wpncdn.com#%#//scriptlet("abort-current-inline-script", "jsUnda", "/pop2under|URLlist/")
 
-69games.xxx,gamcore.com,goodav17.com,hclips.com,playpornfree.xyz,streamtajm.*,uiporn.com##+js(abort-on-property-read.js, popunder)
-69games.xxx,gamcore.com,goodav17.com,hclips.com,playpornfree.xyz,streamtajm.*,uiporn.com#%#//scriptlet("abort-on-property-read", "popunder")
+69games.xxx,gamcore.com,goodav17.com,hclips.com,playpornfree.xyz,streamtajm.*,uiporn.com,senimovies.net##+js(abort-on-property-read.js, popunder)
+69games.xxx,gamcore.com,goodav17.com,hclips.com,playpornfree.xyz,streamtajm.*,uiporn.com,senimovies.net#%#//scriptlet("abort-on-property-read", "popunder")
 
 putlockers.*##+js(abort-current-inline-script.js, String.fromCharCode, /\/\*[0-9a-f]{40}\*\//)
 putlockers.*#%#//scriptlet("abort-current-inline-script", "String.fromCharCode", "/\/\*[0-9a-f]{40}\*\//")
