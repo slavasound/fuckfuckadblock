@@ -199,7 +199,7 @@
 ||newsfilter.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.addthis.com *.disqus.com *.google-analytics.com *.googleapis.com *.gstatic.com *.google.com *.solvemedia.com
 ||ourl.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com
 ||picbaron.com^$csp=script-src 'self';
-||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com
+||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com *.twitter.com *.facebook.net
 ||rule34hentai.net^$csp=script-src 'self' 'unsafe-inline' *.googleapis.com *.cloudflare.com *.fluidplayer.com *.google.com *.gstatic.com *.google-analytics.com
 ||streamtajm.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.tmdb.org *.media-amazon.com *.googleapis.com openload.co nxload.com streamango.com jawcloud.co *.rapidvideo.com vcstream.to verystream.com
 ||swatchseries.to^$csp=script-src 'self' * 'unsafe-inline'
@@ -211,14 +211,14 @@
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline';
 ||beelink.in^$csp=script-src 'self';
 
-*$script,third-party,domain=clicknupload.org|clipwatching.com|fembed.com|igg-games.com|linkdrop.net|newsyou.info|openloed.co|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|ecoimages.xyz
+*$script,third-party,domain=clicknupload.org|clipwatching.com|fembed.com|igg-games.com|linkdrop.net|newsyou.info|openloed.co|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|ecoimages.xyz|readcomiconline.to
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
 *$websocket,domain=vidup.me
 *$xmlhttprequest,domain=sexvid.xxx|fantasti.cc
 *$xmlhttprequest,third-party,domain=userscloud.com
 @@*$media,domain=camwhores.tv
 @@*$stealth,domain=tvokazje.pl|redcdn.pl
-@@*$xmlhttprequest,script,~third-party,domain=muzlan.top|programiz.com|reevown.com
+@@*$xmlhttprequest,script,~third-party,domain=muzlan.top|programiz.com|reevown.com|readcomiconline.to
 
 */*.php$important,script,xmlhttprequest,domain=dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|turboimagehost.com|xxxdessert.com|youx.xxx|alrincon.com
 */adsid/integrator.js$script,empty,domain=reevown.com
@@ -254,6 +254,8 @@
 @@||stat24.com^
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
+@@||disqus.com^
+@@||disquscdn.com^
 ||9anime.*^$script,~third-party
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
 ||akamaihd.net/vod$media,empty,domain=glomex.com
@@ -1370,15 +1372,6 @@ newsfilter.org#%#//scriptlet("abort-on-property-read", "phtProps")
 readcomiconline.to##+js(abort-on-property-write.js, adbWarn)
 readcomiconline.to#%#//scriptlet("abort-on-property-write", "adbWarn")
 
-readcomiconline.to##+js(abort-on-property-write.js, callExo)
-readcomiconline.to#%#//scriptlet("abort-on-property-write", "callExo")
-
-readcomiconline.to##+js(setTimeout-defuser.js, .exo)
-readcomiconline.to#%#//scriptlet("prevent-setTimeout", ".exo")
-
-readcomiconline.to##+js(setTimeout-defuser.js, callExo)
-readcomiconline.to#%#//scriptlet("prevent-setTimeout", "callExo")
-
 pornxs.com##+js(abort-on-property-read.js, _abb)
 pornxs.com#%#//scriptlet("abort-on-property-read", "_abb")
 
@@ -1495,4 +1488,7 @@ turkbet.tv,iranproud2.net,take.az,semi168.net,storengy.com,indo168.club,seks.com
 
 vivo.sx##+js(abort-current-inline-script.js, Math.random, encodeURIComponent)
 vivo.sx#%#//scriptlet("abort-current-inline-script", "Math.random", "encodeURIComponent")
+
+readcomiconline.to#%#//scriptlet("abort-on-property-read", "zfgloadednative")
+readcomiconline.to##+js(abort-on-property-read.js, zfgloadednative)
 
