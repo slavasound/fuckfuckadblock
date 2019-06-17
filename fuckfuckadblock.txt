@@ -453,8 +453,8 @@ businessinsider.*,eurogamer.*,financialpost.com,ottawacitizen.com,poststar.com,r
 20min.ch,al.com,alphr.com,autoexpress.*,bento.de,blick.ch,cnet.com,cyclingnews.com,eurogamer.*,ft.com,itpro.co.uk,maxisciences.com,oregonlive.com,pcgamer.com,rockpapershotgun.com,sueddeutsche.de,usgamer.net##+js(abort-on-property-read.js, _sp_._networkListenerData)
 20min.ch,al.com,alphr.com,autoexpress.*,bento.de,blick.ch,cnet.com,cyclingnews.com,eurogamer.*,ft.com,itpro.co.uk,maxisciences.com,oregonlive.com,pcgamer.com,rockpapershotgun.com,sueddeutsche.de,usgamer.net#%#//scriptlet("abort-on-property-read", "_sp_._networkListenerData")
 
-file-up.*,file-upload.*,filesharing.io,freeupload.*,fstore.*,fstore.biz,hopto.org,undeniable.info,upfiles.*,uploadfree.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
-file-up.*,file-upload.*,filesharing.io,freeupload.*,fstore.*,fstore.biz,hopto.org,undeniable.info,upfiles.*,uploadfree.*#%#//scriptlet("abort-current-inline-script", "document.getElementById", "undefined")
+file-up.*,file-upload.*,filesharing.io,freeupload.*,fstore.*,hopto.org,undeniable.info,upfiles.*,uploadfree.*##+js(abort-current-inline-script.js, document.getElementById, undefined)
+file-up.*,file-upload.*,filesharing.io,freeupload.*,fstore.*,hopto.org,undeniable.info,upfiles.*,uploadfree.*#%#//scriptlet("abort-current-inline-script", "document.getElementById", "undefined")
 
 2speed.net,dropupload.com,speed4up.*,uploadship.com,userupload.net##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 2speed.net,dropupload.com,speed4up.*,uploadship.com,userupload.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adblockinfo")
