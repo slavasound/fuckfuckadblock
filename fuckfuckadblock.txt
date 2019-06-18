@@ -1516,3 +1516,6 @@ pluspremieres.*#%#//scriptlet("prevent-setTimeout", "/getElementsByClassName|adb
 bluemediafiles.com##+js(abort-current-inline-script.js, document.writeln)
 bluemediafiles.com#%#//scriptlet("abort-current-inline-script", "document.writeln")
 
+notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com##+js(abort-current-inline-script.js, document.createElement, iframe)
+notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com##+js(abort-current-inline-script.js, document.createElement, iframe)
+
