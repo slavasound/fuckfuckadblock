@@ -1066,14 +1066,14 @@ fembed.com#%#//scriptlet("abort-on-property-read", "decodeURI")
 innpoland.pl##+js(abort-current-inline-script.js, parseInt, adBlock)
 innpoland.pl#%#//scriptlet("abort-current-inline-script", "parseInt", "adBlock")
 
-gratisaftehalen.nl,shlyahten.ru,surfsees.com,pitbullofficial.com,animeyt2.tv##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
-gratisaftehalen.nl,shlyahten.ru,surfsees.com,pitbullofficial.com,animeyt2.tv#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
+gratisaftehalen.nl,shlyahten.ru,surfsees.com,pitbullofficial.com,animeyt2.tv,kissasian.sh##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
+gratisaftehalen.nl,shlyahten.ru,surfsees.com,pitbullofficial.com,animeyt2.tv,kissasian.sh#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
 
 lesoir.be##+js(setTimeout-defuser.js, adb)
 lesoir.be#%#//scriptlet("prevent-setTimeout", "adb")
 
-2ddl.*,9xupload.me,adsvy.com,ancensored.com,biqle.ru,descargas2020.*,fembed.com,ganol.*,ganool.*,kino-live2.org,mispelisyseries.com,planetatorrent.com,readcomiconline.to,sloomp.space,strikeout.nu,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,uploadbaz.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/)
-2ddl.*,9xupload.me,adsvy.com,ancensored.com,biqle.ru,descargas2020.*,fembed.com,ganol.*,ganool.*,kino-live2.org,mispelisyseries.com,planetatorrent.com,readcomiconline.to,sloomp.space,strikeout.nu,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,uploadbaz.net#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/")
+2ddl.*,9xupload.me,adsvy.com,ancensored.com,biqle.ru,descargas2020.*,fembed.com,ganol.*,ganool.*,kino-live2.org,mispelisyseries.com,planetatorrent.com,readcomiconline.to,sloomp.space,strikeout.nu,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,uploadbaz.net,kissasian.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/)
+2ddl.*,9xupload.me,adsvy.com,ancensored.com,biqle.ru,descargas2020.*,fembed.com,ganol.*,ganool.*,kino-live2.org,mispelisyseries.com,planetatorrent.com,readcomiconline.to,sloomp.space,strikeout.nu,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,uploadbaz.net,kissasian.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/")
 
 shink.*##+js(abort-current-inline-script.js, $, blockAdBlock)
 shink.*#%#//scriptlet("abort-current-inline-script", "$", "blockAdBlock")
