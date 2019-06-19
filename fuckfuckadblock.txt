@@ -284,6 +284,7 @@
 @@||d1xrtnyoeeet33.cloudfront.net/assets/js/lib/$script,domain=montrealgazette.com|nationalpost.com
 @@||disqus.com^
 @@||disquscdn.com^
+@@||doubleclick.net/instream/ad_status.js$xmlhttprequest,domain=linksht.com
 @@||fluidplayer.com^$script,domain=rule34hentai.net
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl|redefine.pl|tvn24.pl
@@ -294,7 +295,6 @@
 @@||p.jwpcdn.com^$third-party,script
 @@||realclearscience.com/asset/section/*$xmlhttprequest
 @@||stat24.com^
-@@||doubleclick.net/instream/ad_status.js$xmlhttprequest,domain=linksht.com
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
 ||9anime.*^$script,~third-party
@@ -317,6 +317,7 @@
 ||mobzon.ru/adbp/adbp.js$script,domain=mobzon.ru
 ||npttech.com/advertising.js$empty,script
 ||npttech.com/advertising.js$script,redirect=fuckadblock.js-3.2.0
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=vev.io|mylink.how|mylink.love|shidurlive.com|mexashare.com|speed4up.com|speed4up.net|techmantium.com|arlinadzgn.com|idntheme.com|2pi.pw|cloud.fw27.xyz|duellinksmeta.com|tanked.io|vidup.io|htnovo.net|moongourd.com|kurazone.net|marfilius.blogspot.com|themeplatinum.blogspot.com|naminakiky.com|audiotag.info|insurance-corporate.blogspot.com|free-mp3-download.net|teknomatch.com|gembelcit.net|gsmcracktools.blogspot.com|freeiptv.life|memoryhackers.org|kharisma-adzana.blogspot.com|eiflix.com|boycracked.com|husseinezzat.com|abdoutech.com|firm-ware27.blogspot.com|flash-reset.blogspot.com|windowcleaningforums.co.uk
 ||popads.net/pop.js$script,empty
 ||popads.net/pop.js$script,redirect=noopjs
 ||poparya.com/website/js$script
@@ -325,7 +326,6 @@
 ||rp5.*/scripts/main.*.js$script
 ||samlab.ws/samlab.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=vev.io|mylink.how|mylink.love|shidurlive.com|mexashare.com|speed4up.com|speed4up.net|techmantium.com|arlinadzgn.com|idntheme.com|2pi.pw|cloud.fw27.xyz|duellinksmeta.com|tanked.io|vidup.io|htnovo.net|moongourd.com|kurazone.net|marfilius.blogspot.com|themeplatinum.blogspot.com|naminakiky.com|audiotag.info|insurance-corporate.blogspot.com|free-mp3-download.net|teknomatch.com|gembelcit.net
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
