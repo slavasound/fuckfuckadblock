@@ -720,7 +720,7 @@ imgview.net##+js(setTimeout-defuser.js, adbwarning)
 imgview.net#%#//scriptlet("prevent-setTimeout", "adbwarning")
 
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
-faz.net#%#//scriptlet("prevent-setTimeout", "$", "_sp_._networkListenerData")
+faz.net#%#//scriptlet("abort-current-inline-script", "$", "_sp_._networkListenerData")
 
 polygon.com##+js(abort-on-property-write.js, loadOutbrain)
 polygon.com#%#//scriptlet("abort-on-property-write", "loadOutbrain")
