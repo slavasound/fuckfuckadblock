@@ -294,7 +294,7 @@
 @@||p.jwpcdn.com^$third-party,script
 @@||realclearscience.com/asset/section/*$xmlhttprequest
 @@||stat24.com^
-@@||static.doubleclick.net/instream/ad_status.js$xmlhttprequest,domain=linksht.com
+@@||doubleclick.net/instream/ad_status.js$xmlhttprequest,domain=linksht.com
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
 ||9anime.*^$script,~third-party
@@ -325,6 +325,7 @@
 ||rp5.*/scripts/main.*.js$script
 ||samlab.ws/samlab.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=vev.io|mylink.how|mylink.love|shidurlive.com|mexashare.com|speed4up.com|speed4up.net|techmantium.com
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
