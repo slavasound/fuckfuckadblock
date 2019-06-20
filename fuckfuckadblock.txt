@@ -1532,3 +1532,6 @@ countrygames.net#%#//scriptlet("prevent-addEventListener", "click", "openWindow"
 teamprofit.com,sjbook.co.kr,epress1.com##+js(abort-on-property-write.js, pop_target)
 teamprofit.com,sjbook.co.kr,epress1.com#%#//scriptlet("abort-on-property-write", "pop_target")
 
+mitele.es##+js(abort-on-property-read.js, $REACTBASE_STATE.serverModules.push)
+mitele.es#%#//scriptlet("abort-on-property-read", "$REACTBASE_STATE.serverModules.push")
+
