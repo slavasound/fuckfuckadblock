@@ -1529,3 +1529,6 @@ xmoviesforyou.com#%#//scriptlet("abort-on-property-write", "miner")
 countrygames.net##+js(addEventListener-defuser.js, click, openWindow)
 countrygames.net#%#//scriptlet("prevent-addEventListener", "click", "openWindow")
 
+teamprofit.com##+js(abort-on-property-write.js, pop_target)
+teamprofit.com#%#//scriptlet("abort-on-property-write", "pop_target")
+
