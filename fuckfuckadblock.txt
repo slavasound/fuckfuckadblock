@@ -1290,8 +1290,8 @@ originalindianporn.com,wowindianporn.com#%#//scriptlet("abort-on-property-read",
 e-mp3bul.xyz#%#//scriptlet("set-constant", "_popwnd_open", "noopFunc")
 e-mp3bul.xyz##+js(set-constant.js, _popwnd_open, noopFunc)
 
-xvideos.com##+js(abort-on-property-write.js, openpop)
-xvideos.com#%#//scriptlet("abort-on-property-write", "openpop")
+xvideos.com,xnxx.com##+js(abort-on-property-write.js, openpop)
+xvideos.com,xnxx.com#%#//scriptlet("abort-on-property-write", "openpop")
 
 avforme.com##+js(set-constant.js, popupWindow, noopFunc)
 avforme.com#%#//scriptlet("set-constant", "popupWindow", "noopFunc")
