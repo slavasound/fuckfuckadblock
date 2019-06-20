@@ -1184,8 +1184,8 @@ newsyou.info#%#//scriptlet("set-constant", "Math.random", "noopFunc")
 makeurl.co##+js(abort-current-inline-script.js, document.onclick, open)
 makeurl.co#%#//scriptlet("abort-current-inline-script", "document.onclick", "open")
 
-pornflip.com##+js(abort-current-inline-script.js, window.pop_target)
-pornflip.com#%#//scriptlet("abort-current-inline-script", "window.pop_target")
+pornflip.com,playvid.com,playvids.com##+js(abort-current-inline-script.js, window.pop_target)
+pornflip.com,playvid.com,playvids.com#%#//scriptlet("abort-current-inline-script", "window.pop_target")
 
 pornflip.com##+js(abort-on-property-write.js, pop)
 pornflip.com#%#//scriptlet("abort-on-property-write", "pop")
