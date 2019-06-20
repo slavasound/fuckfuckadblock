@@ -228,7 +228,7 @@
 *$xmlhttprequest,domain=sexvid.xxx|fantasti.cc
 *$xmlhttprequest,third-party,domain=userscloud.com
 @@*$media,domain=camwhores.tv
-@@*$stealth,domain=tvokazje.pl|redcdn.pl|premiumtvchannels.com
+@@*$stealth,domain=tvokazje.pl|redcdn.pl|premiumtvchannels.com|cablegratis.tv
 @@*$xmlhttprequest,script,~third-party,domain=muzlan.top|programiz.com|reevown.com|readcomiconline.to
 
 */*.php$important,script,xmlhttprequest,domain=dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|turboimagehost.com|xxxdessert.com|youx.xxx|alrincon.com
