@@ -1499,8 +1499,8 @@ vivo.sx#%#//scriptlet("abort-current-inline-script", "Math.random", "encodeURICo
 123movies.*,arenavision.*,fzmovies.download,readcomiconline.to#%#//scriptlet("abort-on-property-read", "zfgloadednative")
 123movies.*,arenavision.*,fzmovies.download,readcomiconline.to##+js(abort-on-property-read.js, zfgloadednative)
 
-up-4ever.*##+js(abort-on-property-read.js, adsDisabled)
-up-4ever.*#%#//scriptlet("abort-on-property-read", "adsDisabled")
+up-4ever.*,nbcnews.com##+js(abort-on-property-read.js, adsDisabled)
+up-4ever.*,nbcnews.com#%#//scriptlet("abort-on-property-read", "adsDisabled")
 
 lewat.club,romfirmware.com,flash-firmware.blogspot.com##+js(abort-on-property-write.js, ignielAdBlock)
 lewat.club,romfirmware.com,flash-firmware.blogspot.com#%#//scriptlet("abort-on-property-write", "ignielAdBlock")
@@ -1534,4 +1534,7 @@ teamprofit.com,sjbook.co.kr,epress1.com#%#//scriptlet("abort-on-property-write",
 
 cuatro.com,mitele.es,telecinco.es##+js(abort-on-property-read.js, $REACTBASE_STATE.serverModules.push)
 cuatro.com,mitele.es,telecinco.es#%#//scriptlet("abort-on-property-read", "$REACTBASE_STATE.serverModules.push")
+
+blackhatindia.ru##+js(abort-current-inline-script.js, $, AdBlock)
+blackhatindia.ru#%#//scriptlet("abort-current-inline-script", "$", "AdBlock")
 
