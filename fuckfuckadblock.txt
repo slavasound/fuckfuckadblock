@@ -1541,3 +1541,6 @@ cuatro.com,mitele.es,telecinco.es#%#//scriptlet("abort-on-property-read", "$REAC
 blackhatindia.ru##+js(abort-current-inline-script.js, $, AdBlock)
 blackhatindia.ru#%#//scriptlet("abort-current-inline-script", "$", "AdBlock")
 
+thecrazytourist.com##+js(abort-current-inline-script.js, document.getElementsByTagName, appendChild)
+thecrazytourist.com#%#//scriptlet("abort-current-inline-script", "document.getElementsByTagName", "appendChild")
+
