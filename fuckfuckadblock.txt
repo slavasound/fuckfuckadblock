@@ -222,6 +222,7 @@
 ||short.pe^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.solvemedia.com *.scorecardresearch.com *.googletagmanager.com *.googletagservices.com; child-src 'self' *.solvemedia.com *.gstatic.com *.google.com
 ||windows-portal.pw^$csp=script-src 'self' * blob: data:;
 ||1movies.is^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.jwpcdn.com *.gstatic.com *.googletagmanager.com *.addthis.com *.google.com
+@@||1movies.*/*.html$~third-party,csp
 
 *$script,third-party,domain=clicknupload.org|clipwatching.com|fembed.com|igg-games.com|linkdrop.net|newsyou.info|openloed.co|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|ecoimages.xyz|readcomiconline.to|kuntv.pw
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
@@ -281,6 +282,7 @@
 @@/^https?:\/\/(.*\.)?adocean\.pl\/(.*\/)?ad\.(js|xml)\?/$script,xmlhttprequest,domain=tvn24.pl
 @@/^https?:\/\/cdnjs\.cloudflare\.com\/.*\/fuckadblock(\.min)?\.js/$third-party,important
 @@||9anime.*/assets/$script
+@@||amgload.net/z|$third-party,xmlhttprequest
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*$script
 @@||chefkoch.de/ads/werbe-banner/doubleclicktag.js
@@ -296,10 +298,12 @@
 @@||kuntv.pw^$script,domain=strikeout.co|strikeout.nu|vipleague.pw
 @@||motortrendondemand.com/advertisements-ad-unit/$xmlhttprequest,domain=motortrendondemand.com
 @@||p.jwpcdn.com^$third-party,script
+@@||piguiqproxy.com/z|$third-party,xmlhttprequest
 @@||realclearscience.com/asset/section/*$xmlhttprequest
 @@||stat24.com^
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
+||1movies.*/site/$xmlhttprequest
 ||9anime.*^$script,~third-party
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
 ||akamaihd.net/vod$media,empty,domain=glomex.com
