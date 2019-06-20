@@ -923,9 +923,6 @@ letmejerk.com,pornktube.com#%#//scriptlet("prevent-addEventListener", "load", "e
 t66y.com##+js(abort-current-inline-script.js, $, undefined)
 t66y.com#%#//scriptlet("abort-current-inline-script", "$", "undefined")
 
-xhamster.desi#%#//scriptlet("abort-on-property-read", "dataPopUnder")
-xhamster.desi##+js(abort-on-property-read.js, dataPopUnder)
-
 di.se##+js(setInterval-defuser.js, runAdBlockPaywall, 1000)
 di.se#%#//scriptlet("prevent-setInterval", "runAdBlockPaywall", "1000")
 
@@ -1214,8 +1211,8 @@ upflix.pl#%#//scriptlet("set-constant", "adBlocker", "noopFunc")
 deutsche-porn.com##+js(abort-on-property-read.js, _paq)
 deutsche-porn.com#%#//scriptlet("abort-on-property-read", "_paq")
 
-xhamster.com##+js(abort-on-property-write.js, dataPopUnder)
-xhamster.com#%#//scriptlet("abort-on-property-write", "dataPopUnder")
+xhamster.*##+js(abort-on-property-write.js, dataPopUnder)
+xhamster.*#%#//scriptlet("abort-on-property-write", "dataPopUnder")
 
 xhamster.com##+js(abort-on-property-read.js, initials.urls.backUrl)
 xhamster.com#%#//scriptlet("abort-on-property-read", "initials.urls.backUrl")
