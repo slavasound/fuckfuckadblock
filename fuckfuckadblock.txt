@@ -333,6 +333,7 @@
 ||rp5.*/scripts/main.*.js$script
 ||samlab.ws/samlab.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
+||ruanyifeng.com/blog/checker.js$script
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
