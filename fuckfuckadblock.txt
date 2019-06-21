@@ -588,8 +588,8 @@ akanosora.com,dreamfancy.org,ebookdz.com,tricxbd.com,xxxmomporn.top#%#//scriptle
 anonyviet.com,cutearn.ca,cutsouf.*,earn-url.com,earnbig.ca,hexafile.net,sardeath.com,tistory.com##+js(setTimeout-defuser.js, nextFunction, 250)
 anonyviet.com,cutearn.ca,cutsouf.*,earn-url.com,earnbig.ca,hexafile.net,sardeath.com,tistory.com#%#//scriptlet("prevent-setTimeout", "nextFunction", "250")
 
-billingsgazette.com,bismarcktribune.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com##+js(abort-current-inline-script.js, Array, googlefcPresent)
-billingsgazette.com,bismarcktribune.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com#%#//scriptlet("abort-current-inline-script", "Array", "googlefcPresent")
+billingsgazette.com,bismarcktribune.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com,digitaltrends.com##+js(abort-current-inline-script.js, Array, googlefcPresent)
+billingsgazette.com,bismarcktribune.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com,digitaltrends.com#%#//scriptlet("abort-current-inline-script", "Array", "googlefcPresent")
 
 jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,opjav.com,rhvgmritmziwcm.net,zbqhfbetlmni.net##+js(addEventListener-defuser.js, click, popunder)
 jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,opjav.com,rhvgmritmziwcm.net,zbqhfbetlmni.net#%#//scriptlet("prevent-addEventListener", "click", "popunder")
