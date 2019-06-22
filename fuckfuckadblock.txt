@@ -582,8 +582,8 @@ userscloud.com,xopenload.me#%#//scriptlet("abort-on-property-write", "open")
 2ddl.*,acefile.co,awsubs.tv,extrafreetv.me,flix555.com,goss.watch,imgmaze.*,imgrock.*,mangovideo.pw,mygoodstream.pw,planetatorrent.com,xmoviesforyou.com##+js(abort-on-property-read.js, popjs.init)
 2ddl.*,acefile.co,awsubs.tv,extrafreetv.me,flix555.com,goss.watch,imgmaze.*,imgrock.*,mangovideo.pw,mygoodstream.pw,planetatorrent.com,xmoviesforyou.com#%#//scriptlet("abort-on-property-read", "popjs.init")
 
-akanosora.com,dreamfancy.org,ebookdz.com,tricxbd.com,xxxmomporn.top##+js(setTimeout-defuser.js, nextFunction, 2000)
-akanosora.com,dreamfancy.org,ebookdz.com,tricxbd.com,xxxmomporn.top#%#//scriptlet("prevent-setTimeout", "nextFunction", "2000")
+akanosora.com,dreamfancy.org,ebookdz.com,tricxbd.com,xxxmomporn.top,information-portal.net##+js(setTimeout-defuser.js, nextFunction, 2000)
+akanosora.com,dreamfancy.org,ebookdz.com,tricxbd.com,xxxmomporn.top,information-portal.net#%#//scriptlet("prevent-setTimeout", "nextFunction", "2000")
 
 anonyviet.com,cutearn.ca,cutsouf.*,earn-url.com,earnbig.ca,hexafile.net,sardeath.com,tistory.com##+js(setTimeout-defuser.js, nextFunction, 250)
 anonyviet.com,cutearn.ca,cutsouf.*,earn-url.com,earnbig.ca,hexafile.net,sardeath.com,tistory.com#%#//scriptlet("prevent-setTimeout", "nextFunction", "250")
