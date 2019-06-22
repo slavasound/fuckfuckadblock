@@ -175,6 +175,7 @@
 /^(click2m)\.org/$third-party
 /^(adbetclickin)\.pink/$third-party
 /^(adswrapme)\.click/$third-party
+/^(propu)\.sh/$third-party
 
 @@*/pop.js$script,~third-party,domain=clipwatching.com|datoporn.co|dpstream.info|dpstream.net|dpstream.site|gounlimited.to|mystream.la|mystream.to|rapidstream.co|thevideobee.to|upvid.co|vidlox.me|vidoza.net|vup.to
 @@*/reklama.js$script,~third-party,domain=gra.pl|ppstatic.pl
@@ -441,8 +442,8 @@ cutadlink.net,festinhasbrasil.com,jobnet.co.il,letmewatchthis.one,primewire.ltd,
 300mbmovies.life,7starhd.*,9xmovies.*,besteduloan.us,convert2mp3.net,drivehub.*,indishare.*,planetatorrent.com,torrentlocura.com,vidlox.*##+js(abort-on-property-read.js, decodeURIComponent)
 300mbmovies.life,7starhd.*,9xmovies.*,besteduloan.us,convert2mp3.net,drivehub.*,indishare.*,planetatorrent.com,torrentlocura.com,vidlox.*#%#//scriptlet("abort-on-property-read", "decodeURIComponent")
 
-3rabcut.com,abtakar.com,adbilty.me,bit-url.com,blogginggyanbox.com,bolly4u.*,buy-in-599rs.win,buyitonline.store,clik.*,dunyanews.*,efshort.com,extramovies.*,firstonetv.*,flaz.link,fullhdfilmizlesene5.net,hitomi.la,iitjeemainguide.in,izlemac10.net,javfinder.is,kickass2.*,linkrag.com,linkshrter.com,oladblock.*,oload.*,ommantrameditation.com,openload.*,peekvids.com,picbaron.com,pornflip.com,pornsexer.com,savethevideo.com,shrtfly.*,streamcdn.*,techsyou.com,uiz.io,urlsamo.com,verystream.com,egybest2.com,egybest4.com,1337x.unblock2.xyz,hdfriday.org##+js(abort-on-property-read.js, open)
-3rabcut.com,abtakar.com,adbilty.me,bit-url.com,blogginggyanbox.com,bolly4u.*,buy-in-599rs.win,buyitonline.store,clik.*,dunyanews.*,efshort.com,extramovies.*,firstonetv.*,flaz.link,fullhdfilmizlesene5.net,hitomi.la,iitjeemainguide.in,izlemac10.net,javfinder.is,kickass2.*,linkrag.com,linkshrter.com,oladblock.*,oload.*,ommantrameditation.com,openload.*,peekvids.com,picbaron.com,pornflip.com,pornsexer.com,savethevideo.com,shrtfly.*,streamcdn.*,techsyou.com,uiz.io,urlsamo.com,verystream.com,egybest2.com,egybest4.com,1337x.unblock2.xyz,hdfriday.org#%#//scriptlet("abort-on-property-read", "open")
+3rabcut.com,abtakar.com,adbilty.me,bit-url.com,blogginggyanbox.com,bolly4u.*,buy-in-599rs.win,buyitonline.store,clik.*,dunyanews.*,efshort.com,extramovies.*,firstonetv.*,flaz.link,fullhdfilmizlesene5.net,hitomi.la,iitjeemainguide.in,izlemac10.net,javfinder.is,kickass2.*,linkrag.com,linkshrter.com,oladblock.*,oload.*,ommantrameditation.com,openload.*,peekvids.com,picbaron.com,pornflip.com,pornsexer.com,savethevideo.com,shrtfly.*,streamcdn.*,techsyou.com,uiz.io,urlsamo.com,verystream.com,egybest2.com,egybest4.com,unblock2.xyz,hdfriday.org##+js(abort-on-property-read.js, open)
+3rabcut.com,abtakar.com,adbilty.me,bit-url.com,blogginggyanbox.com,bolly4u.*,buy-in-599rs.win,buyitonline.store,clik.*,dunyanews.*,efshort.com,extramovies.*,firstonetv.*,flaz.link,fullhdfilmizlesene5.net,hitomi.la,iitjeemainguide.in,izlemac10.net,javfinder.is,kickass2.*,linkrag.com,linkshrter.com,oladblock.*,oload.*,ommantrameditation.com,openload.*,peekvids.com,picbaron.com,pornflip.com,pornsexer.com,savethevideo.com,shrtfly.*,streamcdn.*,techsyou.com,uiz.io,urlsamo.com,verystream.com,egybest2.com,egybest4.com,unblock2.xyz,hdfriday.org#%#//scriptlet("abort-on-property-read", "open")
 
 1idsly.com,300mb.in.net,akuno.net,animeforce.*,animeforce.org,anoboy.org,apkmodif.com,atk-coeds.com,atk-exotics.com,atkebony.com,atkfootfetish.com,atklatina.com,beelink.in,bestfitnesstips.club,blogspot.com,cepmuzikindir.me,darmowa-telewizja.online,directedlink.net,dreamfancy.org,ebookdz.com,etkisizeleman.com,fforfree.net,g1novelas.online,gaypornwave.com,infosehatku.club,jelajahinternet.*,jobhunterplg.*,ktmx.pro,maxpark.com,mifirm.net,muhammadyoga.*,myreadingmanga.info,oploverzhome.com,radiotormentamx.com,readrawmanga.com,rjno1.com,skiplink.io,streamlive.to,studizba.com,suarankri.me,takeitfor.me,televall.*,tv-onlinehd.com,tv.iptvvall.com,tv.radiotormentamx.com,vabstutorials.com,wikitrik.com,xbox360torrent.com,xn--f9jh4f4b4993b66s.tokyo,yametesenpai.*,yupptv.in,zwergenstadt.com,idsly.net,balog18.blogspot.com##+js(addEventListener-defuser.js, load, onload)
 1idsly.com,300mb.in.net,akuno.net,animeforce.*,animeforce.org,anoboy.org,apkmodif.com,atk-coeds.com,atk-exotics.com,atkebony.com,atkfootfetish.com,atklatina.com,beelink.in,bestfitnesstips.club,blogspot.com,cepmuzikindir.me,darmowa-telewizja.online,directedlink.net,dreamfancy.org,ebookdz.com,etkisizeleman.com,fforfree.net,g1novelas.online,gaypornwave.com,infosehatku.club,jelajahinternet.*,jobhunterplg.*,ktmx.pro,maxpark.com,mifirm.net,muhammadyoga.*,myreadingmanga.info,oploverzhome.com,radiotormentamx.com,readrawmanga.com,rjno1.com,skiplink.io,streamlive.to,studizba.com,suarankri.me,takeitfor.me,televall.*,tv-onlinehd.com,tv.iptvvall.com,tv.radiotormentamx.com,vabstutorials.com,wikitrik.com,xbox360torrent.com,xn--f9jh4f4b4993b66s.tokyo,yametesenpai.*,yupptv.in,zwergenstadt.com,idsly.net,balog18.blogspot.com#%#//scriptlet("prevent-addEventListener", "load", "onload")
@@ -1368,8 +1369,8 @@ stream2watch.*#%#//scriptlet("set-constant", "ab", "false")
 vivo.sx##+js(abort-on-property-read.js, WebAssembly)
 vivo.sx#%#//scriptlet("abort-on-property-read", "WebAssembly")
 
-bmovies.*,shorteh.com,megaurl.in,arenavision.*,0xxx.ws##+js(abort-on-property-read.js, zfgloadedpopup)
-bmovies.*,shorteh.com,megaurl.in,arenavision.*,0xxx.ws#%#//scriptlet("abort-on-property-read", "zfgloadedpopup")
+bmovies.*,shorteh.com,megaurl.in,arenavision.*,0xxx.ws,unblock2.xyz##+js(abort-on-property-read.js, zfgloadedpopup)
+bmovies.*,shorteh.com,megaurl.in,arenavision.*,0xxx.ws,unblock2.xyz#%#//scriptlet("abort-on-property-read", "zfgloadedpopup")
 
 crazyshit.com##+js(abort-on-property-write.js, raSettings)
 crazyshit.com#%#//scriptlet("abort-on-property-write", "raSettings")
@@ -1500,8 +1501,8 @@ alrincon.com,indo168.club,iranproud2.net,seks.com,semi168.net,storengy.com,take.
 vivo.sx##+js(abort-current-inline-script.js, Math.random, encodeURIComponent)
 vivo.sx#%#//scriptlet("abort-current-inline-script", "Math.random", "encodeURIComponent")
 
-123movies.*,arenavision.*,fzmovies.download,readcomiconline.to#%#//scriptlet("abort-on-property-read", "zfgloadednative")
-123movies.*,arenavision.*,fzmovies.download,readcomiconline.to##+js(abort-on-property-read.js, zfgloadednative)
+123movies.*,arenavision.*,fzmovies.download,readcomiconline.to,unblock2.xyz#%#//scriptlet("abort-on-property-read", "zfgloadednative")
+123movies.*,arenavision.*,fzmovies.download,readcomiconline.to,unblock2.xyz##+js(abort-on-property-read.js, zfgloadednative)
 
 up-4ever.*,nbcnews.com##+js(abort-on-property-read.js, adsDisabled)
 up-4ever.*,nbcnews.com#%#//scriptlet("abort-on-property-read", "adsDisabled")
@@ -1547,9 +1548,6 @@ thecrazytourist.com#%#//scriptlet("abort-current-inline-script", "document.getEl
 
 calciomercato.com##+js(abort-on-property-write.js, showAntiAdblockLayerz)
 calciomercato.com#%#//scriptlet("abort-on-property-write", "showAntiAdblockLayerz")
-
-1337x.unblock2.xyz##+js(abort-on-property-read.js, btoa)
-1337x.unblock2.xyz#%#//scriptlet("abort-on-property-read", "btoa")
 
 luongovincenzo.it##+js(abort-on-property-write.js, ai_adb)
 luongovincenzo.it#%#//scriptlet("abort-on-property-write", "ai_adb")
