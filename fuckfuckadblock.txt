@@ -1554,3 +1554,7 @@ calciomercato.com#%#//scriptlet("abort-on-property-write", "showAntiAdblockLayer
 luongovincenzo.it##+js(abort-on-property-write.js, ai_adb)
 luongovincenzo.it#%#//scriptlet("abort-on-property-write", "ai_adb")
 
+tvtropes.org##+js(abort-on-property-read.js, Uint8Array)
+tvtropes.org#%#//scriptlet("abort-on-property-read", "Uint8Array")
+
+
