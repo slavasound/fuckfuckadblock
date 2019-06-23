@@ -1588,6 +1588,6 @@ vqporn.com#%#//scriptlet("abort-on-property-write", "adblockDetect")
 gomovieshub.io##+js(abort-current-inline-script.js, parseInt, TABUNDER)
 gomovieshub.io#%#//scriptlet("abort-current-inline-script", "parseInt", "TABUNDER")
 
-linksht.com##+js(setTimeout-defuser.js, _0x)
-linksht.com#%#//scriptlet("prevent-setTimeout", "_0x")
+linksht.com,calciomercato.com,clik.*,javfinder.is,sosiali.com,robloxscripts.com,pasty.link##+js(setTimeout-defuser.js, _0x)
+linksht.com,calciomercato.com,clik.*,javfinder.is,sosiali.com,robloxscripts.com,pasty.link#%#//scriptlet("prevent-setTimeout", "_0x")
 
