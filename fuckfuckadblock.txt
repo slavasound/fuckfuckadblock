@@ -1591,3 +1591,6 @@ gomovieshub.io#%#//scriptlet("abort-current-inline-script", "parseInt", "TABUNDE
 linksht.com,calciomercato.com,clik.*,javfinder.is,sosiali.com,robloxscripts.com,pasty.link##+js(setTimeout-defuser.js, _0x)
 linksht.com,calciomercato.com,clik.*,javfinder.is,sosiali.com,robloxscripts.com,pasty.link#%#//scriptlet("prevent-setTimeout", "_0x")
 
+newsinlevels.com##+js(set-constant.js, sgpbCanRunAds, true)
+newsinlevels.com#%#//scriptlet("set-constant", "sgpbCanRunAds", "true")
+
