@@ -235,7 +235,7 @@
 *$xmlhttprequest,third-party,domain=userscloud.com
 @@*$media,domain=camwhores.tv
 @@*$stealth,domain=tvokazje.pl|redcdn.pl|premiumtvchannels.com|cablegratis.tv|txxx.com|hotmovs.com
-@@*$xmlhttprequest,script,~third-party,domain=muzlan.top|programiz.com|reevown.com|readcomiconline.to
+@@*$xmlhttprequest,script,~third-party,domain=muzlan.top|programiz.com|reevown.com|readcomiconline.to|vipleague.bz|vipleague.cc
 
 */*.php$important,script,xmlhttprequest,domain=dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|turboimagehost.com|xxxdessert.com|youx.xxx|alrincon.com
 */adbuddy.min.js$script,empty
@@ -499,8 +499,8 @@ herokuapp.com,fullstacks.net#%#//scriptlet("set-constant", "gadb", "false")
 diariodenavarra.es##+js(set-constant.js, Math.random, trueFunc)
 diariodenavarra.es#%#//scriptlet("set-constant", "Math.random", "trueFunc")
 
-mp4upload.com,xmovies8.*##+js(addEventListener-defuser.js, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
-mp4upload.com,xmovies8.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/", "system.popunder")
+mp4upload.com,xmovies8.*,vipleague.*##+js(addEventListener-defuser.js, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
+mp4upload.com,xmovies8.*,vipleague.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/", "system.popunder")
 
 123movies.*,adshort.*,anysex.com,camuploads.com,ceesty.com,clkmein.com,corneey.com,destyy.com,eporner.*,europixhd.*,faselhd.*,fullhdfilmdeposu.com,gelbooru.com,gestyy.com,git.tc,hclips.com,hdeuropix.*,hqq.*,imgmonkey.com,imgrock.*,itdmusic.*,mirrorace.com,movie-blog.*,movie-blog.to,mylust.com,myreadingmanga.info,namethatporn.com,porngun.net,porntrex.com,powvideo.*,rule34hentai.net,sankakucomplex.com,sh.st,sloomp.space,topeuropix.net,vidup.me,viid.me,voyeurhit.com,yourlust.com,xrares.com##+js(popads-dummy.js)
 123movies.*,adshort.*,anysex.com,camuploads.com,ceesty.com,clkmein.com,corneey.com,destyy.com,eporner.*,europixhd.*,faselhd.*,fullhdfilmdeposu.com,gelbooru.com,gestyy.com,git.tc,hclips.com,hdeuropix.*,hqq.*,imgmonkey.com,imgrock.*,itdmusic.*,mirrorace.com,movie-blog.*,movie-blog.to,mylust.com,myreadingmanga.info,namethatporn.com,porngun.net,porntrex.com,powvideo.*,rule34hentai.net,sankakucomplex.com,sh.st,sloomp.space,topeuropix.net,vidup.me,viid.me,voyeurhit.com,yourlust.com,xrares.com#%#//scriptlet("set-popads-dummy")
@@ -565,8 +565,8 @@ imgdew.*,imgmaze.*,imgmercy.com,imgtown.*,imgview.*,mangovideo.pw,mylust.com,eco
 700mbdownload.*,desiupload.*,foumovies.*,full4movies.co,harleyquinnwidget.com,hdpopcorns.*,moviescouch.*,moviescounter.*,mydownloadtube.*,rdxhd.*,downloadming.*,1movies.*##+js(abort-on-property-write.js, decodeURIComponent)
 700mbdownload.*,desiupload.*,foumovies.*,full4movies.co,harleyquinnwidget.com,hdpopcorns.*,moviescouch.*,moviescounter.*,mydownloadtube.*,rdxhd.*,downloadming.*,1movies.*#%#//scriptlet("abort-on-property-write", "decodeURIComponent")
 
-123movies.*,18tube.club,300mbdownload.ws,adshort.*,ally.sh,ask4movie.com,beelink.in,dkanonymous.tk,doramashd.com,estrenosdoramas.net,fastoshi.site,filma24.cc,filmlinks4u.is,gaypornwave.com,imagefruit.com,imgrock.*,imgshots.com,japgay.com,javfhd.net,javfinder.is,kinoseans.pl,mangovideo.pw,mirrorace.com,mygoodstream.pw,myreadingmanga.info,porndish.com,rapidvideo.*,shink.*,sportstream.tv,strikeout.co,thehiddenbay.com,xopenload.*,youav.com,ytmp3.eu,piratebay.live##+js(popads.net.js)
-123movies.*,18tube.club,300mbdownload.ws,adshort.*,ally.sh,ask4movie.com,beelink.in,dkanonymous.tk,doramashd.com,estrenosdoramas.net,fastoshi.site,filma24.cc,filmlinks4u.is,gaypornwave.com,imagefruit.com,imgrock.*,imgshots.com,japgay.com,javfhd.net,javfinder.is,kinoseans.pl,mangovideo.pw,mirrorace.com,mygoodstream.pw,myreadingmanga.info,porndish.com,rapidvideo.*,shink.*,sportstream.tv,strikeout.co,thehiddenbay.com,xopenload.*,youav.com,ytmp3.eu,piratebay.live#%#//scriptlet("prevent-popads-net")
+123movies.*,18tube.club,300mbdownload.ws,adshort.*,ally.sh,ask4movie.com,beelink.in,dkanonymous.tk,doramashd.com,estrenosdoramas.net,fastoshi.site,filma24.cc,filmlinks4u.is,gaypornwave.com,imagefruit.com,imgrock.*,imgshots.com,japgay.com,javfhd.net,javfinder.is,kinoseans.pl,mangovideo.pw,mirrorace.com,mygoodstream.pw,myreadingmanga.info,porndish.com,rapidvideo.*,shink.*,sportstream.tv,strikeout.co,thehiddenbay.com,xopenload.*,youav.com,ytmp3.eu,piratebay.live,vipleague.*##+js(popads.net.js)
+123movies.*,18tube.club,300mbdownload.ws,adshort.*,ally.sh,ask4movie.com,beelink.in,dkanonymous.tk,doramashd.com,estrenosdoramas.net,fastoshi.site,filma24.cc,filmlinks4u.is,gaypornwave.com,imagefruit.com,imgrock.*,imgshots.com,japgay.com,javfhd.net,javfinder.is,kinoseans.pl,mangovideo.pw,mirrorace.com,mygoodstream.pw,myreadingmanga.info,porndish.com,rapidvideo.*,shink.*,sportstream.tv,strikeout.co,thehiddenbay.com,xopenload.*,youav.com,ytmp3.eu,piratebay.live,vipleague.*#%#//scriptlet("prevent-popads-net")
 
 fastplay.*,ffmovies.ru,fmovies.*##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 fastplay.*,ffmovies.ru,fmovies.*#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "atob")
@@ -1360,8 +1360,8 @@ gamer.com.tw#%#//scriptlet("abort-on-property-read", "AntiAd.check")
 5278.cc##+js(setTimeout-defuser.js, myaabpfun, 3000)
 5278.cc#%#//scriptlet("prevent-setTimeout", "myaabpfun", "3000")
 
-strikeout.nu##+js(addEventListener-defuser.js, /^(?:mousedown|pointerdown)$/, 297)
-strikeout.nu#%#//scriptlet("prevent-addEventListener", "/^(?:mousedown|pointerdown)$/", "297")
+strikeout.nu,vipleague.*##+js(addEventListener-defuser.js, /^(?:mousedown|pointerdown)$/, 297)
+strikeout.nu,vipleague.*#%#//scriptlet("prevent-addEventListener", "/^(?:mousedown|pointerdown)$/", "297")
 
 uii.io##+js(addEventListener-defuser.js, mouseup, _blank)
 uii.io#%#//scriptlet("prevent-addEventListener", "mouseup", "_blank")
