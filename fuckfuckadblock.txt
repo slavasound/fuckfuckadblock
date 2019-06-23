@@ -1579,8 +1579,8 @@ kissanime.ru#%#//scriptlet("abort-on-property-write", "isClickHide")
 kissanime.*##+js(kissanime-defuser.js)
 kissanime.*#%#Object.defineProperties(window,{DoDetect1:{get:function(){return;}},DoDetect2:{get:function(){return;}}});
 
-vqporn.com##+js(abort-on-property-write.js, adblockDetect)
-vqporn.com#%#//scriptlet("abort-on-property-write", "adblockDetect")
+vqporn.com,wired.com##+js(abort-on-property-write.js, adblockDetect)
+vqporn.com,wired.com#%#//scriptlet("abort-on-property-write", "adblockDetect")
 
 gomovieshub.io##+js(abort-current-inline-script.js, parseInt, TABUNDER)
 gomovieshub.io#%#//scriptlet("abort-current-inline-script", "parseInt", "TABUNDER")
@@ -1590,4 +1590,7 @@ linksht.com,calciomercato.com,clik.*,javfinder.is,sosiali.com,robloxscripts.com,
 
 newsinlevels.com##+js(set-constant.js, sgpbCanRunAds, true)
 newsinlevels.com#%#//scriptlet("set-constant", "sgpbCanRunAds", "true")
+
+wired.com##+js(setTimeout-defuser.js, Bait)
+wired.com#%#//scriptlet("prevent-setTimeout", "Bait")
 
