@@ -1579,8 +1579,8 @@ kissanime.ru#%#//scriptlet("abort-on-property-write", "isClickHide")
 kissanime.*##+js(kissanime-defuser.js)
 kissanime.*#%#Object.defineProperties(window,{DoDetect1:{get:function(){return;}},DoDetect2:{get:function(){return;}}});
 
-vqporn.com,wired.com,pitchfork.com,newyorker.com##+js(abort-on-property-write.js, adblockDetect)
-vqporn.com,wired.com,pitchfork.com,newyorker.com#%#//scriptlet("abort-on-property-write", "adblockDetect")
+vqporn.com,wired.com,pitchfork.com,newyorker.com,tripadvisor.*##+js(abort-on-property-write.js, adblockDetect)
+vqporn.com,wired.com,pitchfork.com,newyorker.com,tripadvisor.*#%#//scriptlet("abort-on-property-write", "adblockDetect")
 
 gomovieshub.io##+js(abort-current-inline-script.js, parseInt, TABUNDER)
 gomovieshub.io#%#//scriptlet("abort-current-inline-script", "parseInt", "TABUNDER")
