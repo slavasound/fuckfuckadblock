@@ -293,7 +293,7 @@
 @@||d1xrtnyoeeet33.cloudfront.net/assets/js/lib/$script,domain=montrealgazette.com|nationalpost.com
 @@||disqus.com^
 @@||disquscdn.com^
-@@||doubleclick.net/instream/ad_status.js$xmlhttprequest,domain=linksht.com
+@@||doubleclick.net^$xmlhttprequest,domain=linksht.com
 @@||fluidplayer.com^$script,domain=rule34hentai.net
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl|redefine.pl|tvn24.pl
@@ -1587,4 +1587,7 @@ vqporn.com#%#//scriptlet("abort-on-property-write", "adblockDetect")
 
 gomovieshub.io##+js(abort-current-inline-script.js, parseInt, TABUNDER)
 gomovieshub.io#%#//scriptlet("abort-current-inline-script", "parseInt", "TABUNDER")
+
+linksht.com##+js(setTimeout-defuser.js, _0x)
+linksht.com#%#//scriptlet("prevent-setTimeout", "_0x")
 
