@@ -229,6 +229,7 @@
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline';
 ||newser.com^$csp=script-src 'self' * 'unsafe-inline';
 ||pornalin.com^$csp=script-src 'self' 'unsafe-inline' *.hwcdn.net; media-src 'self' *.hwcdn.net; frame-src 'none'; connect-src *.hwcdn.net;
+||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co *.cloudflare.com *.oloadcdn.net
 
 *$script,third-party,domain=clicknupload.org|clipwatching.com|fembed.com|igg-games.com|linkdrop.net|newsyou.info|openloed.co|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|ecoimages.xyz|readcomiconline.to|kuntv.pw|vidsrc.me
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
