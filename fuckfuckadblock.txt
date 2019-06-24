@@ -176,6 +176,7 @@
 /^(adbetclickin)\.pink/$third-party
 /^(adswrapme)\.click/$third-party
 /^(propu)\.sh/$third-party
+/^(popunders)\.bid/$third-party
 
 @@*/pop.js$script,~third-party,domain=clipwatching.com|datoporn.co|dpstream.info|dpstream.net|dpstream.site|gounlimited.to|mystream.la|mystream.to|rapidstream.co|thevideobee.to|upvid.co|vidlox.me|vidoza.net|vup.to
 @@*/reklama.js$script,~third-party,domain=gra.pl|ppstatic.pl
@@ -1603,4 +1604,10 @@ ddl.to#%#//scriptlet("set-constant", "adb_check", "true")
 
 farodevigo.es##+js(abort-current-inline-script.js, compruebaAdblockPremium, setTimeout)
 farodevigo.es#%#//scriptlet("abort-current-inline-script", "compruebaAdblockPremium", "setTimeout")
+
+vev.io##+js(set-constant.js, __INITIAL_STATE__.ads, undefined)
+vev.io#%#//scriptlet("set-constant", "__INITIAL_STATE__.ads", "undefined")
+
+vev.io##+js(addEventListener-defuser.js, /^(?:click|mousedown|mouseup)$/)
+vev.io#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mouseup)$/")
 
