@@ -225,10 +225,9 @@
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com
 ||vidup.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.facebook.com *.facebook.net
 ||waiset.su^$csp=script-src 'self';
-||windows-portal.pw^$csp=script-src 'self' * blob: data:;
-||yts.*^$csp=script-src 'self' * 'unsafe-inline';
-||newser.com^$csp=script-src 'self' * 'unsafe-inline';
-||pornalin.com^$csp=script-src 'self' 'unsafe-inline' *.hwcdn.net; media-src 'self' *.hwcdn.net; frame-src 'none'; connect-src *.hwcdn.net;
+||windows-portal.pw^$csp=script-src 'self' * blob: data:
+||yts.am^$csp=script-src 'self' * 'unsafe-inline'
+||pornalin.com^$csp=script-src 'self' 'unsafe-inline' *.hwcdn.net; media-src 'self' *.hwcdn.net; frame-src 'none'; connect-src *.hwcdn.net
 ||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co *.cloudflare.com *.oloadcdn.net
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.cloudflare.com *.fruithosted.net
 
