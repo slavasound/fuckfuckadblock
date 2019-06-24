@@ -228,7 +228,7 @@
 ||uptobox.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com;
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com;
 ||verystream.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: img.verystream.com *.verystream.net *.cloudflare.com;
-||vidstreaming.io^$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-eval' jwpcdn.com *.gstatic.com; frame-src 'self' data: jwpsrv.com; connect-src 'self' data: *.mload.stream;
+||vidstreaming.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.gstatic.com *.jwplatform.com *.jwpcdn.com;
 ||waiset.su^$csp=script-src 'none';
 ||windows-portal.pw^$csp=script-src 'self' * blob: data:;
 ||xstreamcdn.com^$csp=connect-src xstreamcdn.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.hlsmp4.com *.gstatic.com;
@@ -387,6 +387,7 @@ windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
 maxiporno.tv###fadeinbox
 pornalin.com##.js-banner-player.banner_player.banner
+youx.xxx###player-banner
 
 |http*://$image,domain=ip.cn,badfilter
 ||gemius.pl^$third-party,badfilter
