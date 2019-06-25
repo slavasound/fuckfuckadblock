@@ -1620,6 +1620,6 @@ stronazdrowia.pl#%#//scriptlet("set-constant", "pp_adblock_is_off", "trueFunc")
 indiatimes.com##+js(setTimeout-defuser.js, adBlockDetectionStart)
 indiatimes.com#%#//scriptlet("prevent-setTimeout", "adBlockDetectionStart")
 
-trackr.fr,touchofmodern.com,managertoday.com.tw,myownconference.ru,theteacherscorner.net,everycaller.com,ethereumfaucet.info,litecoinfaucet.info,xrpfaucet.info,monerofaucet.info,notre-planete.info,revistaoxigeno.es,blackcoin.info,nemfaucet.info##+js(set-constant.js, adsBlocked, noopFunc)
-trackr.fr,touchofmodern.com,managertoday.com.tw,myownconference.ru,theteacherscorner.net,everycaller.com,ethereumfaucet.info,litecoinfaucet.info,xrpfaucet.info,monerofaucet.info,notre-planete.info,revistaoxigeno.es,blackcoin.info,nemfaucet.info#%#//scriptlet("set-constant", "adsBlocked", "noopFunc")
+trackr.fr,touchofmodern.com,managertoday.com.tw,myownconference.ru,theteacherscorner.net,everycaller.com,ethereumfaucet.info,litecoinfaucet.info,xrpfaucet.info,monerofaucet.info,notre-planete.info,revistaoxigeno.es,blackcoin.info,nemfaucet.info,myownconference.com,etcfaucet.info,onphpid.com,stellarfaucet.info,decredfaucet.info##+js(set-constant.js, adsBlocked, noopFunc)
+trackr.fr,touchofmodern.com,managertoday.com.tw,myownconference.ru,theteacherscorner.net,everycaller.com,ethereumfaucet.info,litecoinfaucet.info,xrpfaucet.info,monerofaucet.info,notre-planete.info,revistaoxigeno.es,blackcoin.info,nemfaucet.info,myownconference.com,etcfaucet.info,onphpid.com,stellarfaucet.info,decredfaucet.info#%#//scriptlet("set-constant", "adsBlocked", "noopFunc")
 
