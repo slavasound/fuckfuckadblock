@@ -685,8 +685,8 @@ grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,vidup.me#%#//scriptl
 nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br##+js(abort-on-property-write.js, CoinNebula)
 nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br#%#//scriptlet("abort-on-property-write", "CoinNebula")
 
-powvldeo.*##+js(abort-current-inline-script.js, $, test)
-powvldeo.*#%#//scriptlet("abort-current-inline-script", "$", "test")
+povvideo.*,powvldeo.*##+js(abort-current-inline-script.js, $, test)
+povvideo.*,powvldeo.*#%#//scriptlet("abort-current-inline-script", "$", "test")
 
 camuploads.com,tonpornodujour.com,xxxdessert.com##+js(abort-on-property-read.js, popunders)
 camuploads.com,tonpornodujour.com,xxxdessert.com#%#//scriptlet("abort-on-property-read", "popunders")
