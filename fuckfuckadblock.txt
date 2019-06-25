@@ -1620,3 +1620,6 @@ vev.io#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mouseup)$
 stronazdrowia.pl##+js(set-constant.js, pp_adblock_is_off, trueFunc)
 stronazdrowia.pl#%#//scriptlet("set-constant", "pp_adblock_is_off", "trueFunc")
 
+indiatimes.com##+js(setTimeout-defuser.js, adBlockDetectionStart)
+indiatimes.com#%#//scriptlet("prevent-setTimeout", "adBlockDetectionStart")
+
