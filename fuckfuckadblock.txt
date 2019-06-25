@@ -1617,3 +1617,6 @@ vev.io#%#//scriptlet("set-constant", "__INITIAL_STATE__.ads", "undefined")
 vev.io##+js(addEventListener-defuser.js, /^(?:click|mousedown|mouseup)$/)
 vev.io#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mouseup)$/")
 
+stronazdrowia.pl##+js(set-constant.js, pp_adblock_is_off, trueFunc)
+stronazdrowia.pl#%#//scriptlet("set-constant", "pp_adblock_is_off", "trueFunc")
+
