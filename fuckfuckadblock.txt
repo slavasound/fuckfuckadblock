@@ -1458,8 +1458,8 @@ flix555.com#%#//scriptlet("set-constant", "cRAds", "true")
 vidbob.com##+js(set-constant.js, cRAds, 0)
 vidbob.com#%#//scriptlet("set-constant", "cRAds", "0")
 
-penpaland.com,serienjunkies.de,unicum.de,umrechner-euro.de,antenna-theory.com,alefo.de,galatta.com,zueriost.ch,novafusion.pl,faszination-fankurve.de##+js(setTimeout-defuser.js, afs_ads, 2000)
-penpaland.com,serienjunkies.de,unicum.de,umrechner-euro.de,antenna-theory.com,alefo.de,galatta.com,zueriost.ch,novafusion.pl,faszination-fankurve.de#%#//scriptlet("prevent-setTimeout", "afs_ads", "2000")
+penpaland.com,serienjunkies.de,unicum.de,umrechner-euro.de,antenna-theory.com,alefo.de,galatta.com,zueriost.ch,novafusion.pl,faszination-fankurve.de,thefouriertransform.com,dc4in.com,die-startseite.net,corona-materials.de,capitalcube.com,alg17.com,kapten-son.com,eishockey.info,bigescapegames.com,vision-mobility.de,ps4-magazin.de,bigdonsboys.com,finews.asia,iboys.at,computer-automation.de##+js(setTimeout-defuser.js, afs_ads, 2000)
+penpaland.com,serienjunkies.de,unicum.de,umrechner-euro.de,antenna-theory.com,alefo.de,galatta.com,zueriost.ch,novafusion.pl,faszination-fankurve.de,thefouriertransform.com,dc4in.com,die-startseite.net,corona-materials.de,capitalcube.com,alg17.com,kapten-son.com,eishockey.info,bigescapegames.com,vision-mobility.de,ps4-magazin.de,bigdonsboys.com,finews.asia,iboys.at,computer-automation.de#%#//scriptlet("prevent-setTimeout", "afs_ads", "2000")
 
 dailymotiontomp3.com#%#//scriptlet("set-constant", "IsPopAd", "false")
 dailymotiontomp3.com##+js(set-constant.js, IsPopAd, false)
