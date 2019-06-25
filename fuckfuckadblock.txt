@@ -1614,8 +1614,8 @@ vev.io#%#//scriptlet("set-constant", "__INITIAL_STATE__.ads", "undefined")
 vev.io##+js(addEventListener-defuser.js, /^(?:click|mousedown|mouseup)$/)
 vev.io#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mouseup)$/")
 
-stronazdrowia.pl##+js(set-constant.js, pp_adblock_is_off, trueFunc)
-stronazdrowia.pl#%#//scriptlet("set-constant", "pp_adblock_is_off", "trueFunc")
+stronazdrowia.pl,naszemiasto.pl,gratka.pl,telemagazyn.pl,gazetawroclawska.pl,nowiny24.pl,gazetakrakowska.pl,poranny.pl,dziennikbaltycki.pl,motofakty.pl,gp24.pl,gs24.pl,gol24.pl,gra.pl,nowosci.com.pl##+js(set-constant.js, pp_adblock_is_off, trueFunc)
+stronazdrowia.pl,naszemiasto.pl,gratka.pl,telemagazyn.pl,gazetawroclawska.pl,nowiny24.pl,gazetakrakowska.pl,poranny.pl,dziennikbaltycki.pl,motofakty.pl,gp24.pl,gs24.pl,gol24.pl,gra.pl,nowosci.com.pl#%#//scriptlet("set-constant", "pp_adblock_is_off", "trueFunc")
 
 indiatimes.com##+js(setTimeout-defuser.js, adBlockDetectionStart)
 indiatimes.com#%#//scriptlet("prevent-setTimeout", "adBlockDetectionStart")
