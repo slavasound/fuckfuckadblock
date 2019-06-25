@@ -1620,6 +1620,6 @@ stronazdrowia.pl#%#//scriptlet("set-constant", "pp_adblock_is_off", "trueFunc")
 indiatimes.com##+js(setTimeout-defuser.js, adBlockDetectionStart)
 indiatimes.com#%#//scriptlet("prevent-setTimeout", "adBlockDetectionStart")
 
-trackr.fr,touchofmodern.com,managertoday.com.tw,myownconference.ru##+js(set-constant.js, adsBlocked, noopFunc)
-trackr.fr,touchofmodern.com,managertoday.com.tw,myownconference.ru#%#//scriptlet("set-constant", "adsBlocked", "noopFunc")
+trackr.fr,touchofmodern.com,managertoday.com.tw,myownconference.ru,theteacherscorner.net##+js(set-constant.js, adsBlocked, noopFunc)
+trackr.fr,touchofmodern.com,managertoday.com.tw,myownconference.ru,theteacherscorner.net#%#//scriptlet("set-constant", "adsBlocked", "noopFunc")
 
