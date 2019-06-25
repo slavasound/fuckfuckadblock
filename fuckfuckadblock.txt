@@ -1458,8 +1458,8 @@ flix555.com#%#//scriptlet("set-constant", "cRAds", "true")
 vidbob.com##+js(set-constant.js, cRAds, 0)
 vidbob.com#%#//scriptlet("set-constant", "cRAds", "0")
 
-penpaland.com,serienjunkies.de,unicum.de,umrechner-euro.de,antenna-theory.com,alefo.de,galatta.com,zueriost.ch,novafusion.pl,faszination-fankurve.de,thefouriertransform.com,dc4in.com,die-startseite.net,corona-materials.de,capitalcube.com,alg17.com,kapten-son.com,eishockey.info,bigescapegames.com,vision-mobility.de,ps4-magazin.de,bigdonsboys.com,finews.asia,iboys.at,computer-automation.de##+js(setTimeout-defuser.js, afs_ads, 2000)
-penpaland.com,serienjunkies.de,unicum.de,umrechner-euro.de,antenna-theory.com,alefo.de,galatta.com,zueriost.ch,novafusion.pl,faszination-fankurve.de,thefouriertransform.com,dc4in.com,die-startseite.net,corona-materials.de,capitalcube.com,alg17.com,kapten-son.com,eishockey.info,bigescapegames.com,vision-mobility.de,ps4-magazin.de,bigdonsboys.com,finews.asia,iboys.at,computer-automation.de#%#//scriptlet("prevent-setTimeout", "afs_ads", "2000")
+alefo.de,alg17.com,antenna-theory.com,bigdonsboys.com,bigescapegames.com,capitalcube.com,cochesrc.com,computer-automation.de,corona-materials.de,dc4in.com,die-startseite.net,eishockey.info,elektroboerse-smarthouse.de,faszination-fankurve.de,finews.asia,galatta.com,iboys.at,kapten-son.com,maclaw.pl,novafusion.pl,penpaland.com,ps4-magazin.de,serienjunkies.de,thefouriertransform.com,umrechner-euro.de,unicum.de,vision-mobility.de,zueriost.ch##+js(setTimeout-defuser.js, afs_ads, 2000)
+alefo.de,alg17.com,antenna-theory.com,bigdonsboys.com,bigescapegames.com,capitalcube.com,cochesrc.com,computer-automation.de,corona-materials.de,dc4in.com,die-startseite.net,eishockey.info,elektroboerse-smarthouse.de,faszination-fankurve.de,finews.asia,galatta.com,iboys.at,kapten-son.com,maclaw.pl,novafusion.pl,penpaland.com,ps4-magazin.de,serienjunkies.de,thefouriertransform.com,umrechner-euro.de,unicum.de,vision-mobility.de,zueriost.ch#%#//scriptlet("prevent-setTimeout", "afs_ads", "2000")
 
 dailymotiontomp3.com#%#//scriptlet("set-constant", "IsPopAd", "false")
 dailymotiontomp3.com##+js(set-constant.js, IsPopAd, false)
