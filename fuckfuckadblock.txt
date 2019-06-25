@@ -802,8 +802,8 @@ gfycat.com,wantedbabes.com#%#//scriptlet("set-constant", "setInterval", "noopFun
 programinadresi.com##+js(abort-on-property-read.js, adBlock)
 programinadresi.com#%#//scriptlet("abort-on-property-read", "adBlock")
 
-freemcserver.net##+js(setTimeout-defuser.js, adblock)
-freemcserver.net#%#//scriptlet("prevent-setTimeout", "adblock")
+freemcserver.net,mangahost1.com,mangahost2.com##+js(setTimeout-defuser.js, adblock)
+freemcserver.net,mangahost1.com,mangahost2.com#%#//scriptlet("prevent-setTimeout", "adblock")
 
 inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
 inmanga.com#%#//scriptlet("abort-current-inline-script", "setTimeout", "manageAntiBlock")
