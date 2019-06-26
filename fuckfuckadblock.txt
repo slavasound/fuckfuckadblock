@@ -391,6 +391,7 @@ wize.life###wl-container
 maxiporno.tv###fadeinbox
 pornalin.com##.js-banner-player.banner_player.banner
 youx.xxx###player-banner
+lovi.fm##.sponsor
 
 |http*://$image,domain=ip.cn,badfilter
 ||gemius.pl^$third-party,badfilter
