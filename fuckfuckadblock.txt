@@ -701,8 +701,8 @@ camuploads.com,tonpornodujour.com,xxxdessert.com#%#//scriptlet("abort-on-propert
 sound-park.club,soundpark-club.*,soundpark.red##+js(abort-current-inline-script.js, $, open)
 sound-park.club,soundpark-club.*,soundpark.red#%#//scriptlet("abort-current-inline-script", "$", "open")
 
-24-info.info,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,idtbox.com,imageshtorm.com,iporntv.net,kinozal-me.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,porno-eblja.com,rulu.co,soft-portal.club,turboimagehost.com,pornalin.com,gidfilm.ru,hdlava.com,zagonka.tv##+js(abort-current-inline-script.js, document.createElement, 'script')
-24-info.info,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,idtbox.com,imageshtorm.com,iporntv.net,kinozal-me.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,porno-eblja.com,rulu.co,soft-portal.club,turboimagehost.com,pornalin.com,gidfilm.ru,hdlava.com,zagonka.tv#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
+24-info.info,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,idtbox.com,imageshtorm.com,iporntv.net,kinozal-me.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,porno-eblja.com,rulu.co,soft-portal.club,turboimagehost.com,pornalin.com,gidfilm.ru,hdlava.com,zagonka.tv,filmshd1080.net##+js(abort-current-inline-script.js, document.createElement, 'script')
+24-info.info,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,idtbox.com,imageshtorm.com,iporntv.net,kinozal-me.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,porno-eblja.com,rulu.co,soft-portal.club,turboimagehost.com,pornalin.com,gidfilm.ru,hdlava.com,zagonka.tv,filmshd1080.net#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
 digitaltrends.com,nwitimes.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
 digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
