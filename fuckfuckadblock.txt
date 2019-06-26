@@ -1629,8 +1629,8 @@ trackr.fr,touchofmodern.com,managertoday.com.tw,myownconference.ru,theteachersco
 alwalednet.blogspot.com##+js(abort-on-property-read.js, mql)
 alwalednet.blogspot.com#%#//scriptlet("abort-on-property-read", "mql")
 
-izzylaif.com##+js(abort-on-property-read.js, notPuten)
-izzylaif.com#%#//scriptlet("abort-on-property-read", "notPuten")
+izzylaif.com##+js(abort-current-inline-script.js, jQuery, undefined)
+izzylaif.com#%#//scriptlet("abort-current-inline-script", "jQuery", "undefined")
 
 oload.*,openload.*##+js(set-constant.js, sadbl, false)
 oload.*,openload.*%#//scriptlet("set-constant", "sadbl", "false")
