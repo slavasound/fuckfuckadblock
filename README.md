@@ -6,11 +6,11 @@
 
 Filters for blocking pop-ups and anti-adblock bypass.
 
-### [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt&title=Fuck%20Fuckadblock)
+### Use
 
-### RAW
+You can add this list to yourself using this button — [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt&title=Fuck%20Fuckadblock)
 
-`https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
+Or add it manually using this RAW link — `https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
 
 ### CDN
 
