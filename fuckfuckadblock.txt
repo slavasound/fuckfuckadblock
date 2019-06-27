@@ -346,8 +346,8 @@
 ||pagead2.googlesyndication.com^$important,xmlhttprequest,empty,domain=9xbuddy.com
 ||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js,important,domain=solvetube.site
 ||google-analytics.com/analytics.js$script,empty,important,domain=solvetube.site
-||popads.net/pop.js$script,empty
-||popads.net/pop.js$script,redirect=noopjs
+||popads.net/pop.js$script,empty,important
+||popads.net/pop.js$script,redirect=noopjs,important
 ||poparya.com/website/js$script
 ||povvideo.*/jquery.notify.js$script
 ||powvldeo.*/jquery.notify.js$script
@@ -355,8 +355,6 @@
 ||samlab.ws/samlab.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
 ||ruanyifeng.com/blog/checker.js$script
-||s-pt.ppstatic.pl/*/reklama.js$script,redirect=noopjs,important
-||s-pt.ppstatic.pl/*/reklama.js$script,empty,important
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
