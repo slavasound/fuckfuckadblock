@@ -369,6 +369,7 @@ celebsroulette.com###kt_player > a[target="_blank"]
 d-navi004.com###snsbox
 fantasti.cc##a[href*=".php"]
 finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(div[class]:matches-css-before(content:Nie teraz, wracam na WP.pl))
+finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl#?#body > [class]:not([id]):matches-css(position: fixed):matches-css(top: 0px)
 firmwarefiledownload.xyz##.js-reveal-modal, .reveal-modal-bg
 forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
 full-stream.co,full-stream.nu##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
