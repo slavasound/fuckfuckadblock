@@ -183,7 +183,7 @@
 /^(clickmon)\.co\.kr/$third-party
 
 @@*/pop.js$script,~third-party,domain=clipwatching.com|datoporn.co|dpstream.info|dpstream.net|dpstream.site|gounlimited.to|mystream.la|mystream.to|rapidstream.co|thevideobee.to|upvid.co|vidlox.me|vidoza.net|vup.to
-@@*/reklama.js$script,~third-party,domain=gra.pl|ppstatic.pl
+@@*/reklama.js$script,third-party,domain=gra.pl|ppstatic.pl|dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl
 @@/^https?:\/\/(www\.)?.*\/(\W|\_)?ad[svbx]?([0-9]{1,2}|(\W|\_).*|\.min)?\.js/$script,xmlhttprequest,third-party,domain=9anime.cloud|9anime.fun|9anime.io|9anime.is|9anime.nl|9anime.ru|9anime.to|9anime.vip|aargauerzeitung.ch|anime-update30.stream|daumcdn.net|duellinksmeta.com|fox.com.tr|foxplay.com.tr|hacking-games.ru|hd21.com|imagebam.com|interia.pl|kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kinokrad.co|kl2.life|notebookcheck-hu.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.info|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.se|noz.de|nswiecie.pl|ppstatic.pl|thehindu.com|vidoza.net|noz.de|snapdeal.com|mylinks.xyz
 @@/^https?:\/\/(www\.)?.*\/(\W|\_)?ad[svbx]?([0-9]{1,2}|(\W|\_).*|\.min)?\.js/$script,xmlhttprequest,~third-party,domain=0calc.com|0rechner.de|androidplanet.nl|anime-vf.fr|anitube.site|australianfrequentflyer.com.au|avforme.com|bspin.club|certifychat.com|coop-land.ru|dreamdth.com|evowow.com|extremereportbot.com|featurecompare.com|filmweb.pl|freepsdvn.com|freetuts.download|geoguessr.com|giveaway.su|gq-magazine.co.uk|hdrezka.ag|hdrezka.co|hdrezka.fund|hdrezka.online|hdrezka.website|it-actual.ru|japgay.com|kanald.com.tr|lewat.club|lne.es|mercurynews.com|minecraft-schematics.com|mp4upload.com|mshare.io|mustget.ru|notebookcheck.com|nudecelebs.pro|pasty.link|pictoa.com|playtor.tv|pleshka.com|poedb.tw|qrz.ru|r7.com|ratemyteachers.com|reactiongaming.us|satellite-calculations.com|serpadres.es|sexicelebs.ru|smutty.com|soy502.com|spinbot.com|stb.ua|sub2unlock.net|techsighter.com|teleportal.ua|tinyhomebuilders.com|turboimagehost.com|version2.dk|vorek.pl|webcamera.pl|xmovies08.ru|ynet.co.il|wp.pl|wired.com|cheatsquad.gg|farodevigo.es|antenna-theory.com|clictune.com
 @@/^https?:\/\/(www\.)?.*\/([a-z]{1}|google)(\W|\_)?[Aa]d[sv]?([0-9]{1,2}|\.min)?\.js/$script,xmlhttprequest,third-party,domain=solvetube.site
@@ -258,6 +258,7 @@
 */anti-ad-buster.js$script,empty
 */anti-ad-buster.js$script,redirect=noopjs
 */apu.php?$important
+*/bens/vinos.js?$important
 */blockadblock-$script,empty
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
 */blockadblock.$script,empty
@@ -336,29 +337,26 @@
 ||glomex.com/*$media,empty,domain=player.glomex.com
 ||glomex.com/*$media,redirect=noopmp4-1s,domain=player.glomex.com
 ||gndrglsn.com/popdizimag.js$script
+||google-analytics.com/analytics.js$script,empty,important,domain=solvetube.site
+||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js,important,domain=solvetube.site
 ||hellobeyellow.tk/mm/website.php^$important
 ||mangovideo.pw/player/float.php$xmlhttprequest
 ||mobzon.ru/adbp/adbp.js$script,domain=mobzon.ru
 ||npttech.com/advertising.js$empty,script
 ||npttech.com/advertising.js$script,redirect=fuckadblock.js-3.2.0
-||pagead2.googlesyndication.com^$important,script,redirect=noopjs,domain=vev.io|mylink.how|mylink.love|shidurlive.com|mexashare.com|speed4up.com|speed4up.net|techmantium.com|arlinadzgn.com|idntheme.com|2pi.pw|cloud.fw27.xyz|duellinksmeta.com|tanked.io|vidup.io|htnovo.net|moongourd.com|kurazone.net|marfilius.blogspot.com|themeplatinum.blogspot.com|naminakiky.com|audiotag.info|insurance-corporate.blogspot.com|free-mp3-download.net|teknomatch.com|gembelcit.net|gsmcracktools.blogspot.com|freeiptv.life|memoryhackers.org|kharisma-adzana.blogspot.com|eiflix.com|boycracked.com|husseinezzat.com|abdoutech.com|firm-ware27.blogspot.com|flash-reset.blogspot.com|windowcleaningforums.co.uk|solvetube.site|mitly.us|trackr.fr|alwalednet.blogspot.com
 ||pagead2.googlesyndication.com^$important,script,empty,domain=vev.io|mylink.how|mylink.love|shidurlive.com|mexashare.com|speed4up.com|speed4up.net|techmantium.com|arlinadzgn.com|idntheme.com|2pi.pw|cloud.fw27.xyz|duellinksmeta.com|tanked.io|vidup.io|htnovo.net|moongourd.com|kurazone.net|marfilius.blogspot.com|themeplatinum.blogspot.com|naminakiky.com|audiotag.info|insurance-corporate.blogspot.com|free-mp3-download.net|teknomatch.com|gembelcit.net|gsmcracktools.blogspot.com|freeiptv.life|memoryhackers.org|kharisma-adzana.blogspot.com|eiflix.com|boycracked.com|husseinezzat.com|abdoutech.com|firm-ware27.blogspot.com|flash-reset.blogspot.com|windowcleaningforums.co.uk|solvetube.site|mitly.us|trackr.fr|alwalednet.blogspot.com
-||pagead2.googlesyndication.com^$important,xmlhttprequest,redirect=nooptext,domain=9xbuddy.com
+||pagead2.googlesyndication.com^$important,script,redirect=noopjs,domain=vev.io|mylink.how|mylink.love|shidurlive.com|mexashare.com|speed4up.com|speed4up.net|techmantium.com|arlinadzgn.com|idntheme.com|2pi.pw|cloud.fw27.xyz|duellinksmeta.com|tanked.io|vidup.io|htnovo.net|moongourd.com|kurazone.net|marfilius.blogspot.com|themeplatinum.blogspot.com|naminakiky.com|audiotag.info|insurance-corporate.blogspot.com|free-mp3-download.net|teknomatch.com|gembelcit.net|gsmcracktools.blogspot.com|freeiptv.life|memoryhackers.org|kharisma-adzana.blogspot.com|eiflix.com|boycracked.com|husseinezzat.com|abdoutech.com|firm-ware27.blogspot.com|flash-reset.blogspot.com|windowcleaningforums.co.uk|solvetube.site|mitly.us|trackr.fr|alwalednet.blogspot.com
 ||pagead2.googlesyndication.com^$important,xmlhttprequest,empty,domain=9xbuddy.com
-||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js,important,domain=solvetube.site
-||google-analytics.com/analytics.js$script,empty,important,domain=solvetube.site
+||pagead2.googlesyndication.com^$important,xmlhttprequest,redirect=nooptext,domain=9xbuddy.com
 ||popads.net/pop.js$script,empty,important
 ||popads.net/pop.js$script,redirect=noopjs,important
 ||poparya.com/website/js$script
 ||povvideo.*/jquery.notify.js$script
 ||powvldeo.*/jquery.notify.js$script
 ||rp5.*/scripts/main.*.js$script
+||ruanyifeng.com/blog/checker.js$script
 ||samlab.ws/samlab.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
-||ruanyifeng.com/blog/checker.js$script
-||ppstatic.pl/*/reklama.js$script,redirect=noopjs,important
-||ppstatic.pl/*/reklama.js$script,empty,important
-*/bens/vinos.js?$important
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
@@ -1628,9 +1626,6 @@ vev.io#%#//scriptlet("set-constant", "__INITIAL_STATE__.ads", "undefined")
 
 vev.io##+js(addEventListener-defuser.js, /^(?:click|mousedown|mouseup)$/)
 vev.io#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mouseup)$/")
-
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl##+js(set-constant.js, pp_adblock_is_off, trueFunc)
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl#%#//scriptlet("set-constant", "pp_adblock_is_off", "trueFunc")
 
 indiatimes.com##+js(setTimeout-defuser.js, adBlockDetectionStart)
 indiatimes.com#%#//scriptlet("prevent-setTimeout", "adBlockDetectionStart")
