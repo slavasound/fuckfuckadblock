@@ -163,6 +163,7 @@
 #@#.adsense
 #@#.adslot
 #@#.adspot
+#@#*
 
 ##a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi?"]
 ##a[href*="/afu.php"]
@@ -357,6 +358,7 @@
 ||ruanyifeng.com/blog/checker.js$script
 ||s-pt.ppstatic.pl/*/reklama.js$script,redirect=noopjs,important
 ||s-pt.ppstatic.pl/*/reklama.js$script,empty,important
+*/bens/vinos.js?$important
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
@@ -407,6 +409,8 @@ youx.xxx###player-banner
 ||gemius.pl^$third-party,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 ||rapidvideo.com^$script,badfilter
+||kinozal-tv.appspot.com^$badfilter
+*$domain=kinozal-tv.appspot.com,badfilter
 
 1777.ru,1variant.ru,24boxing.com.ua,24tv.ua,actual.today,afterdispatch.com,beztabu.net,bonnylady.com,bookre.org,boxnews.com.ua,bukvar.su,businessua.com,chtyvo.org.ua,cn.ru,cotlix.com,cxid.info,dengi.ua,economics-prorok.com,edinstvennaya.ua,etextlib.ru,football-ukraine.com,football24.ua,footballtransfer.com.ua,getwall.ru,glavcom.ua,glianec.com,hvylya.net,i.ua,iarex.ru,institute.com.ua,internetua.com,kinoafisha.ua,korrespondent.net,kp.ua,kriminal.tv,lessons.com.ua,liga.net,lux.fm,mabila.ua,maximum.fm,metodportal.net,mignews.com.ua,nashamama.com,newsone.ua,nnovosti.info,obozrevatel.com,oligarh.media,orakul.com,ostro.org,padabum.com,padabum.net,padaread.com,paparazzi.ru,peers.tv,pozitciya.com.ua,ppt.ru,pravda.com.ua,primecrime.ru,radnuk.info,referatbox.com,refsmarket.com.ua,repetitor.ua,schoollit.com.ua,sdnnet.ru,smak.ua,socportal.info,sportanalytic.com,superdom.ua,telegraf.in.ua,testsoch.com,testsoch.net,tochka.net,torrentom.com,tv.ua,tvgid.ua,tvori.com.ua,tvoymalysh.com.ua,ukrlib.com.ua,vchaspik.ua,vgorode.ua,viva.ua,vringe.com,vsetv.com,vsetv.ru,wow-helper.com,xittv.net,zaxid.net,zdorovia.com.ua,zn.ua$$script[tag-content="zmctrack"][max-length="25000"]
 1777.ru,1variant.ru,24boxing.com.ua,24tv.ua,actual.today,afterdispatch.com,beztabu.net,bonnylady.com,bookre.org,boxnews.com.ua,bukvar.su,businessua.com,chtyvo.org.ua,cn.ru,cotlix.com,cxid.info,dengi.ua,economics-prorok.com,edinstvennaya.ua,etextlib.ru,football-ukraine.com,football24.ua,footballtransfer.com.ua,getwall.ru,glavcom.ua,glianec.com,hvylya.net,i.ua,iarex.ru,institute.com.ua,internetua.com,kinoafisha.ua,korrespondent.net,kp.ua,kriminal.tv,lessons.com.ua,liga.net,lux.fm,mabila.ua,maximum.fm,metodportal.net,mignews.com.ua,nashamama.com,newsone.ua,nnovosti.info,obozrevatel.com,oligarh.media,orakul.com,ostro.org,padabum.com,padabum.net,padaread.com,paparazzi.ru,peers.tv,pozitciya.com.ua,ppt.ru,pravda.com.ua,primecrime.ru,radnuk.info,referatbox.com,refsmarket.com.ua,repetitor.ua,schoollit.com.ua,sdnnet.ru,smak.ua,socportal.info,sportanalytic.com,superdom.ua,telegraf.in.ua,testsoch.com,testsoch.net,tochka.net,torrentom.com,tv.ua,tvgid.ua,tvori.com.ua,tvoymalysh.com.ua,ukrlib.com.ua,vchaspik.ua,vgorode.ua,viva.ua,vringe.com,vsetv.com,vsetv.ru,wow-helper.com,xittv.net,zaxid.net,zdorovia.com.ua,zn.ua##^script:has-text("zmctrack")
@@ -708,8 +712,8 @@ camuploads.com,tonpornodujour.com,xxxdessert.com#%#//scriptlet("abort-on-propert
 sound-park.club,soundpark-club.*,soundpark.red##+js(abort-current-inline-script.js, $, open)
 sound-park.club,soundpark-club.*,soundpark.red#%#//scriptlet("abort-current-inline-script", "$", "open")
 
-24-info.info,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,idtbox.com,imageshtorm.com,iporntv.net,kinozal-me.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,porno-eblja.com,rulu.co,soft-portal.club,turboimagehost.com,pornalin.com,gidfilm.ru,hdlava.com,zagonka.tv,filmshd1080.net##+js(abort-current-inline-script.js, document.createElement, 'script')
-24-info.info,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,idtbox.com,imageshtorm.com,iporntv.net,kinozal-me.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,porno-eblja.com,rulu.co,soft-portal.club,turboimagehost.com,pornalin.com,gidfilm.ru,hdlava.com,zagonka.tv,filmshd1080.net#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
+24-info.info,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,idtbox.com,imageshtorm.com,iporntv.net,kinozal-me.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,porno-eblja.com,rulu.co,soft-portal.club,turboimagehost.com,pornalin.com,gidfilm.ru,hdlava.com,zagonka.tv,filmshd1080.net,kinozal-tv.appspot.com##+js(abort-current-inline-script.js, document.createElement, 'script')
+24-info.info,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,idtbox.com,imageshtorm.com,iporntv.net,kinozal-me.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,porno-eblja.com,rulu.co,soft-portal.club,turboimagehost.com,pornalin.com,gidfilm.ru,hdlava.com,zagonka.tv,filmshd1080.net,kinozal-tv.appspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
 digitaltrends.com,nwitimes.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
 digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
