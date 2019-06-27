@@ -181,6 +181,7 @@
 /^(popunders)\.bid/$third-party
 /^(acales)\.ru/$third-party
 /^(clickmon)\.co\.kr/$third-party
+/^(clcknads)\.pro/$third-party
 
 @@*/pop.js$script,~third-party,domain=clipwatching.com|datoporn.co|dpstream.info|dpstream.net|dpstream.site|gounlimited.to|mystream.la|mystream.to|rapidstream.co|thevideobee.to|upvid.co|vidlox.me|vidoza.net|vup.to
 @@*/reklama.js$script,third-party,domain=gra.pl|ppstatic.pl|dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl
@@ -250,6 +251,7 @@
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline';
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.to *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com *.jwpcdn.com static1.akacdn.ru;
 ||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: ajax.googleapis.com *.jwpcdn.com *.googleusercontent.com;
+||1337x.*^$csp=script-src 'self' 'unsafe-inline';
 
 *$script,third-party,domain=clicknupload.org|clipwatching.com|fembed.com|igg-games.com|linkdrop.net|newsyou.info|openloed.co|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|ecoimages.xyz|readcomiconline.to|kuntv.pw|vidsrc.me
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
