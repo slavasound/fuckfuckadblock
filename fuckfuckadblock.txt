@@ -355,6 +355,8 @@
 ||samlab.ws/samlab.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
 ||ruanyifeng.com/blog/checker.js$script
+||s-pt.ppstatic.pl/*/reklama.js$script,redirect=noopjs,important
+||s-pt.ppstatic.pl/*/reklama.js$script,empty,important
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
