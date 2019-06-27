@@ -372,6 +372,7 @@
 ||ruanyifeng.com/blog/checker.js$script
 ||samlab.ws/samlab.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
+*/asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
