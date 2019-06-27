@@ -190,7 +190,7 @@
 @@/^https?:\/\/(www\.)?.*\/(show|google|[a-z]{1}|videojs\-contrib|e?detect)(\W|\_)?[Aa]d[sv]?([0-9]{1,2}|([_-]?ima)?\.min)?\.js/$script,xmlhttprequest,~third-party,domain=ccmbg.com|cnbc.com|dmntsf.net|dyncdn.me|enjoyfuck.com|fuckgonzo.com|getintopc.com|golem.de|gorlice24.pl|imagebam.com|mp3.teledyski.info|myabandonware.com|nextgenupdate.com|pornokeep.com|rarbgunblock.org|rjno1.com|rodzinnywyjazd.pl|sbsports.pro|sfile.mobi|solvetube.site|spinbot.com|streamcherry.com|topserialy.to|undeniable.info|unique-tutorials.info|watch32hd.org|wibuindo.xyz|videoo.info
 @@/^https?:\/\/(www\.)?.*\/ad[svbx]?(([a-zA-Z]{1})?[Ff]rame|js|unit|(\W|\_)?server|bygoogle|(\W|\_)?detect(or)?|(\W|\_)?check|(\W|\_)?bann?ers?|block([-a-zA-Z_]{3,})?|(\W|\_)?builder|force|gear)([0-9]{1,2}|(\W|\_).*|\.min)?\.js/$xmlhttprequest,script,~third-party,domain=animeyt2.tv|bahnbonus-shopping.de|bingfeng.tw|brid.tv|clipwatching.com|cyclismactu.net|dustreaming.com|embedy.me|extremereportbot.com|fux.com|hepan.com|kenkenpuzzle.com|laradiobbs.net|mediaite.com|minhaconexao.com.br|missouristatebears.com|ncaa.com|nekopoi.care|nekopoi.ga|nekopoi.lol|politiken.dk|povw1deo.com|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|powvldeo.net|spinbot.com|ultradownloads.com.br|uploadmp4.com|won.pe|newser.com|anistar1.org|anistar.org|gidfilm.ru|gelbeseiten.de
 @@/^https?:\/\/(www\.)?.*\/ad[svbx]?(block([-a-zA-Z_]{3,})?|[Ff]rame|js|bygoogle)([0-9]{1,2}|(\W|\_).*|\.min)?\.js/$xmlhttprequest,script,third-party,domain=atv.com.tr|beelink.in|filmweb.pl|fox.com.tr|imagebam.com|mitele.es|megogo.net
-@@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?([0-9]{1,2}|(\W|\_).*)?\.js/$xmlhttprequest,script,third-party,domain=gntai.xyz|tvn24.pl
+@@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?([0-9]{1,2}|(\W|\_).*)?\.js/$xmlhttprequest,script,third-party,domain=gntai.xyz|tvn24.pl|x-link.pl
 @@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?([0-9]{1,2}|(\W|\_).*)?\.js/$xmlhttprequest,script,~third-party,domain=alghad.com|alladvices.ru|animedigitalnetwork.fr|arkowcy.pl|atresplayer.com|blocket.se|bolgegundem.com|cc-fan.tv|clksite.com|cn-fan.tv|converter-btc.world|crypto-fun.cf|cyfostreams.com|drtuber.com|easybitcoins.ml|ferrovie.info|fox-fan.tv|gayporno.fm|geekspin.co|getfreebit.xyz|getinmac.com|haaretz.com|hopto.org|icegay.tv|infosia.xyz|insurance-info.us|japan.zdnet.com|kertashitam.com|ktozvonit.com.ua|lurlo.news|nf-fan.tv|nohat.cc|official-kmspico.com|overclockers.ru|popsci.com|rjiblog.org|rockstargame.su|schwaebische.de|seo-fast.ru|swatchseries.to|teknologilink.com|thedailybeast.com|upload.ac|uploadbox.io|uploadship.com|vw-page.com|wetransfer.com|zdnet.co.kr|zdnet.com|zdnet.com.cn|zdnet.de|zdnet.fr|dz4up.com|oturl.com|tuotromedico.com|radikal-gamez.net
 @@/^https?:\/\/.*?(freevpn4you\.net\/ads\/|freeopenvpn\.org\/units\/|all\-episodes\.tv\/ad\/banner\/|(nf|cc|cn|fox)\-fan\.tv\/images\/ad\.jpg|inoreader\.com\/adv\/|cdntvn\.pl\/img\/fakty\/ico\_advert\.png)/$image,script,xmlhttprequest,domain=all-episodes.tv|cc-fan.tv|cn-fan.tv|fox-fan.tv|freeopenvpn.org|freevpn4you.net|nf-fan.tv|tvn24.pl
 
@@ -309,7 +309,7 @@
 @@||doubleclick.net^$xmlhttprequest,domain=linksht.com
 @@||fluidplayer.com^$script,domain=rule34hentai.net
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
-@@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl|redefine.pl|tvn24.pl
+@@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl|redefine.pl|tvn24.pl|stronazdrowia.pl|x-link.pl
 @@||geoguessr.com/_ads/$script
 @@||imgtown.net^$script,domain=imgtown.pw|imgtown.net
 @@||kuntv.pw^$script,domain=strikeout.co|strikeout.nu|vipleague.pw
@@ -356,8 +356,8 @@
 ||samlab.ws/samlab.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
 ||ruanyifeng.com/blog/checker.js$script
-||s-pt.ppstatic.pl/*/reklama.js$script,redirect=noopjs,important
-||s-pt.ppstatic.pl/*/reklama.js$script,empty,important
+||ppstatic.pl/*/reklama.js$script,redirect=noopjs,important
+||ppstatic.pl/*/reklama.js$script,empty,important
 */bens/vinos.js?$important
 
 1fichier.com##.ct_warn
