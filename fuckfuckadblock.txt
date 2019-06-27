@@ -368,8 +368,12 @@ beforeitsnews.com###ad-message
 celebsroulette.com###kt_player > a[target="_blank"]
 d-navi004.com###snsbox
 fantasti.cc##a[href*=".php"]
+finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > #app ~ script ~ div[class][id]:has(a[href$="/wylaczenie-blokady-reklam"])
+finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > .content ~ iframe ~ div[class][id]:has(a[href$="/wylaczenie-blokady-reklam"])
+finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > [class]:not([id]):matches-css(position: fixed):matches-css(top: 0px)
+finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(a[class]:contains(Jak dodać WP do wyjątków adBlocka))
+finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(a[href$="/wylaczenie-blokady-reklam"])
 finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(div[class]:matches-css-before(content:Nie teraz, wracam na WP.pl))
-finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl#?#body > [class]:not([id]):matches-css(position: fixed):matches-css(top: 0px)
 firmwarefiledownload.xyz##.js-reveal-modal, .reveal-modal-bg
 forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
 full-stream.co,full-stream.nu##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
@@ -383,9 +387,12 @@ girlsofdesire.org##div[class][id]:has-text(You have Adblock enabled. Website fea
 imgmonkey.com##A[href$=".html"][rel="nofollow norefferer noopener"]
 inoreader.com###sinner_container
 ksta.de,express.de###wl-overlay-wrapper
+lovi.fm##.sponsor
+maxiporno.tv###fadeinbox
 newsfilter.org###dkm-floater
 noizz.pl##div.contentInfo:has(a[href="abp:subscribe?location=http%3A%2F%2Flib.onet.pl%2Fs.csr%2Fwhitelist%2Fnoizz.pl.txt&title=noizz.pl"])
 ocen-piwo.pl###osiemnascielat
+pornalin.com##.js-banner-player.banner_player.banner
 pornbimbo.com###kt_player > .fp-player + a[href$="?play=true"][target="_blank"][style]
 pornbimbo.com##.fp-player > .fp-ui > a[href][target="_blank"][style^="position: absolute; left:"]
 rgmechanics.ru##.block-dark:has(div[id^="advertur_"])
@@ -394,10 +401,7 @@ speedporn.net,hdjavonline.com,avgigi.com##.happy-inside-player
 trendingviews.co###playerOverlay
 windowscentral.com##.swal-modal, .swal-overlay
 wize.life###wl-container
-maxiporno.tv###fadeinbox
-pornalin.com##.js-banner-player.banner_player.banner
 youx.xxx###player-banner
-lovi.fm##.sponsor
 
 |http*://$image,domain=ip.cn,badfilter
 ||gemius.pl^$third-party,badfilter
