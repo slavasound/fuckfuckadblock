@@ -1344,8 +1344,8 @@ mz-web.de#%#//scriptlet("abort-current-inline-script", "document.createElement",
 originalindianporn.com,wowindianporn.com##+js(abort-on-property-read.js, popit)
 originalindianporn.com,wowindianporn.com#%#//scriptlet("abort-on-property-read", "popit")
 
-1337x.*,safelinku.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, popunder)
-1337x.*,safelinku.net#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "popunder")
+1337x.*,safelinku.net,lesbianexpert.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, popunder)
+1337x.*,safelinku.net,lesbianexpert.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "popunder")
 
 e-mp3bul.xyz#%#//scriptlet("set-constant", "_popwnd_open", "noopFunc")
 e-mp3bul.xyz##+js(set-constant.js, _popwnd_open, noopFunc)
