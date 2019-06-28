@@ -1121,11 +1121,11 @@ gratisaftehalen.nl,shlyahten.ru,surfsees.com,pitbullofficial.com,animeyt2.tv,kis
 lesoir.be##+js(setTimeout-defuser.js, adb)
 lesoir.be#%#//scriptlet("prevent-setTimeout", "adb")
 
-2ddl.*,9xupload.*,adsvy.com,ancensored.com,biqle.ru,descargas2020.*,fembed.com,ganol.*,ganool.*,kino-live2.org,mispelisyseries.com,planetatorrent.com,readcomiconline.to,sloomp.space,strikeout.nu,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,uploadbaz.net,kissasian.*,jurl.io,oturl.com,short2win.*,boxing-live.stream,fbstream.io,homerun.re,livef1.stream,livemotgp.stream,live-ufc.stream,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,rugbystream.me,soccer-live.stream,strikeout.co,tennisstream.me,vipleague.*,seehd.*,av8x.com,javboss.com,tubeqd.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/)
-2ddl.*,9xupload.*,adsvy.com,ancensored.com,biqle.ru,descargas2020.*,fembed.com,ganol.*,ganool.*,kino-live2.org,mispelisyseries.com,planetatorrent.com,readcomiconline.to,sloomp.space,strikeout.nu,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,uploadbaz.net,kissasian.*,jurl.io,oturl.com,short2win.*,boxing-live.stream,fbstream.io,homerun.re,livef1.stream,livemotgp.stream,live-ufc.stream,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,rugbystream.me,soccer-live.stream,strikeout.co,tennisstream.me,vipleague.*,seehd.*,av8x.com,javboss.com,tubeqd.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/")
+9xupload.*,descargas2020.*,kino-live2.org,sloomp.space,kissasian.*,homerun.re,seehd.*,av8x.com,javboss.com,tubeqd.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/)
+9xupload.*,descargas2020.*,kino-live2.org,sloomp.space,kissasian.*,homerun.re,seehd.*,av8x.com,javboss.com,tubeqd.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/")
 
-javqd.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
-javqd.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
+javqd.com,2ddl.*,ancensored.com,ganol.*,ganool.*,adsvy.com,biqle.ru,fembed.com,mispelisyseries.com,tvsinpagar.com,planetatorrent.com,readcomiconline.to,torrentrapid.com,tumejortorrent.com,jurl.io,short2win.*,boxing-live.stream,fbstream.io,oturl.com,livef1.stream,livemotgp.stream,live-ufc.stream,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,rugbystream.me,soccer-live.stream,strikeout.*,tennisstream.me,vipleague.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+javqd.com,2ddl.*,ancensored.com,ganol.*,ganool.*,adsvy.com,biqle.ru,fembed.com,mispelisyseries.com,tvsinpagar.com,planetatorrent.com,readcomiconline.to,torrentrapid.com,tumejortorrent.com,jurl.io,short2win.*,boxing-live.stream,fbstream.io,oturl.com,livef1.stream,livemotgp.stream,live-ufc.stream,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,rugbystream.me,soccer-live.stream,strikeout.*,tennisstream.me,vipleague.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
 
 shink.*##+js(abort-current-inline-script.js, $, blockAdBlock)
 shink.*#%#//scriptlet("abort-current-inline-script", "$", "blockAdBlock")
