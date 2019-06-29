@@ -1338,8 +1338,8 @@ moika78.ru##+js(set-constant.js, noAdblock, true)
 mz-web.de##+js(abort-current-inline-script.js, document.createElement, document.head.appendChild)
 mz-web.de#%#//scriptlet("abort-current-inline-script", "document.createElement", "document.head.appendChild")
 
-5278.mobi,69games.xxx,doodhwali.xxx,fuckpix.club,iporntv.net,jobnet.co.il,online-south-park.ru,seks.com,sinemahdkeyfi.com,take.az,youwatchporn.com,hotmovs.com,gidfilm.ru,shon.xyz##+js(abort-current-inline-script.js, document.write)
-5278.mobi,69games.xxx,doodhwali.xxx,fuckpix.club,iporntv.net,jobnet.co.il,online-south-park.ru,seks.com,sinemahdkeyfi.com,take.az,youwatchporn.com,hotmovs.com,gidfilm.ru,shon.xyz#%#//scriptlet("abort-current-inline-script", "document.write")
+5278.mobi,69games.xxx,doodhwali.xxx,fuckpix.club,iporntv.net,jobnet.co.il,online-south-park.ru,seks.com,sinemahdkeyfi.com,take.az,youwatchporn.com,hotmovs.com,gidfilm.ru,shon.xyz,ekinomaniak.net##+js(abort-current-inline-script.js, document.write)
+5278.mobi,69games.xxx,doodhwali.xxx,fuckpix.club,iporntv.net,jobnet.co.il,online-south-park.ru,seks.com,sinemahdkeyfi.com,take.az,youwatchporn.com,hotmovs.com,gidfilm.ru,shon.xyz,ekinomaniak.net#%#//scriptlet("abort-current-inline-script", "document.write")
 
 originalindianporn.com,wowindianporn.com##+js(abort-on-property-read.js, popit)
 originalindianporn.com,wowindianporn.com#%#//scriptlet("abort-on-property-read", "popit")
