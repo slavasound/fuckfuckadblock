@@ -274,7 +274,7 @@
 @@*$stealth,domain=cablegratis.tv|hotmovs.com|premiumtvchannels.com|redcdn.pl|tvokazje.pl|txxx.com
 @@*$xmlhttprequest,script,~third-party,domain=boxing-live.stream|fbstream.io|homerun.re|live-ufc.stream|livef1.stream|livemotgp.stream|mlbstream.io|muzlan.top|nbastream.io|nflstream.io|nhlstream.io|programiz.com|readcomiconline.to|reevown.com|rugbystream.me|soccer-live.stream|strikeout.co|tennisstream.me|vipleague.bz|vipleague.cc
 
-*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx
+*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx|eporner.com
 */adbuddy.min.js$script,empty
 */adbuddy.min.js$script,redirect=noopjs
 */adsid/integrator.js$script,empty,domain=reevown.com
@@ -1432,8 +1432,8 @@ bmovies.*,shorteh.com,megaurl.in,arenavision.*,0xxx.ws,unblock2.xyz#%#//scriptle
 crazyshit.com##+js(abort-on-property-write.js, raSettings)
 crazyshit.com#%#//scriptlet("abort-on-property-write", "raSettings")
 
-newsfilter.org,pornxs.com##+js(abort-on-property-read.js, raSettings)
-newsfilter.org,pornxs.com#%#//scriptlet("abort-on-property-read", "raSettings")
+newsfilter.org,pornxs.com,sxyprn.com##+js(abort-on-property-read.js, raSettings)
+newsfilter.org,pornxs.com,sxyprn.com#%#//scriptlet("abort-on-property-read", "raSettings")
 
 readcomiconline.to,kisstvshow.to##+js(abort-on-property-write.js, adbWarn)
 readcomiconline.to,kisstvshow.to#%#//scriptlet("abort-on-property-write", "adbWarn")
