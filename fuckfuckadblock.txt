@@ -225,7 +225,7 @@
 ||javmec.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval';
 ||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com *.jquery.com *.fruithosted.net *.googleusercontent.com *.googlevideo.com *.fbcdn.net;
 ||kinoseans.pl$csp=script-src 'self' 'unsafe-inline';
-||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cdn-dena.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com *.replay.watch;media-src *;
+||kissanime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cdn-dena.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.fbsbx.com *.replay.watch *.animecdn.xyz *.streamx.live;media-src *;img-src *;
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.myanimelist.net *.cdn-dena.com *.rapidvideo.is *.rapidvideo.com *.playercdn.net oload.stream openload.co *.oloadcdn.net streamcherry.com *.fruithosted.net *.jwpcdn.com;
 ||luxubu.review^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.hlsmp4.com fvs.io;
 ||m4ufree.$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.google-analytics.com *.jwpcdn.com *.twimg.com *.twitter.com *.hydrax.net *.facebook.com *.googleapis.com *.facebook.net *.iomovies.info;
@@ -348,6 +348,7 @@
 @@||stat24.com^
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
+@@||static.animecdn.xyz^$domain=kissanime.ac|kissanime.co|kissanime.com|kissanime.io|kissanime.ru|kissanime.si|kissanime.to
 ||1movies.*/site/$xmlhttprequest
 ||9anime.*^$script,~third-party
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
