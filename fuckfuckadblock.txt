@@ -1250,8 +1250,8 @@ pornflip.com,playvid.com,playvids.com,peekvids.com,pornflip.com,pornoeggs.com#%#
 pornflip.com##+js(abort-on-property-write.js, pop)
 pornflip.com#%#//scriptlet("abort-on-property-write", "pop")
 
-freshscat.com,torrentrapid.com,tumejortorrent.com,planetatorrent.com##+js(abort-on-property-read.js, _cpp)
-freshscat.com,torrentrapid.com,tumejortorrent.com,planetatorrent.com#%#//scriptlet("abort-on-property-read", "_cpp")
+freshscat.com,torrentrapid.com,tumejortorrent.com,planetatorrent.com,descargas2020.*,pctnew.*##+js(abort-on-property-read.js, _cpp)
+freshscat.com,torrentrapid.com,tumejortorrent.com,planetatorrent.com,descargas2020.*,pctnew.*#%#//scriptlet("abort-on-property-read", "_cpp")
 
 tiz-cycling.racing##+js(abort-current-inline-script.js, jQuery, block-msg)
 tiz-cycling.racing#%#//scriptlet("abort-current-inline-script", "jQuery", "block-msg")
