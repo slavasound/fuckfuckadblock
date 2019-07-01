@@ -1688,6 +1688,6 @@ vidzi.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mousemov
 pornhd.com##+js(abort-on-property-read.js, hasAdBlock)
 pornhd.com#%#//scriptlet("abort-on-property-read", "hasAdBlock")
 
-nekopoi.*,unt.se,tv-arg.com,adeex.in,clipmass.com,doplim.com.pe##+js(set-constant.js, isAdsDisplayed, true)
-nekopoi.*,unt.se,tv-arg.com,adeex.in,clipmass.com,doplim.com.pe#%#//scriptlet("set-constant", "isAdsDisplayed", "true")
+nekopoi.*,unt.se,tv-arg.com,adeex.in,clipmass.com,doplim.com.pe,phocuswire.com,ekuriren.se##+js(set-constant.js, isAdsDisplayed, true)
+nekopoi.*,unt.se,tv-arg.com,adeex.in,clipmass.com,doplim.com.pe,phocuswire.com,ekuriren.se#%#//scriptlet("set-constant", "isAdsDisplayed", "true")
 
