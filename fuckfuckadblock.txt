@@ -1340,8 +1340,8 @@ watchfreexxx.net##+js(abort-on-property-read.js, Date.prototype.toGMTString)
 vshares.tk,openloads.tk##+js(set-constant.js, myFunction, noopFunc)
 vshares.tk,openloads.tk#%#//scriptlet("set-constant", "myFunction", "noopFunc")
 
-moika78.ru,kp.ru,kp.by,kompravda.eu,kp.kg,kp.kz#%#//scriptlet("set-constant", "noAdblock", "true")
-moika78.ru,kp.ru,kp.by,kompravda.eu,kp.kg,kp.kz##+js(set-constant.js, noAdblock, true)
+moika78.ru,kp.ru,kp.by,kompravda.eu,kp.kg,kp.kz,medsovet.info,mirblankov.ru,bogolub.info,zhenomaniya.ru,gorlovrach.ru,aacalc.ru,2proraba.com,ozude.ru#%#//scriptlet("set-constant", "noAdblock", "true")
+moika78.ru,kp.ru,kp.by,kompravda.eu,kp.kg,kp.kz,medsovet.info,mirblankov.ru,bogolub.info,zhenomaniya.ru,gorlovrach.ru,aacalc.ru,2proraba.com,ozude.ru##+js(set-constant.js, noAdblock, true)
 
 mz-web.de##+js(abort-current-inline-script.js, document.createElement, document.head.appendChild)
 mz-web.de#%#//scriptlet("abort-current-inline-script", "document.createElement", "document.head.appendChild")
