@@ -273,6 +273,7 @@
 ||skidrowreloaded.com^$csp=script-src 'self';
 ||filerio.in^$csp=script-src 'self' 'unsafe-eval' *.bootstrapcdn.com;
 ||sendit.cloud^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.jquery.com;
+||dailyuploads.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google.com *.gstatic.com ajax.googleapis.com;
 
 *$script,third-party,domain=clicknupload.org|clipwatching.com|ecoimages.xyz|fembed.com|igg-games.com|kuntv.pw|linkdrop.net|newsyou.info|openloed.co|readcomiconline.to|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|vidsrc.me
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
@@ -356,6 +357,7 @@
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
 @@||static.animecdn.xyz^$domain=kissanime.ac|kissanime.co|kissanime.com|kissanime.io|kissanime.ru|kissanime.si|kissanime.to
+@@||mirrorfinder.xyz/getlink?$xmlhttprequest,script
 ||1movies.*/site/$xmlhttprequest
 ||9anime.*^$script,~third-party
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
@@ -446,6 +448,7 @@ youx.xxx###player-banner
 ||rapidvideo.com^$script,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 ||beeg.com/logo.gif?$badfilter
+*$popup,domain=dailyuploads.net,badfilter
 
 1777.ru,1variant.ru,24boxing.com.ua,24tv.ua,actual.today,afterdispatch.com,beztabu.net,bonnylady.com,bookre.org,boxnews.com.ua,bukvar.su,businessua.com,chtyvo.org.ua,cn.ru,cotlix.com,cxid.info,dengi.ua,economics-prorok.com,edinstvennaya.ua,etextlib.ru,football-ukraine.com,football24.ua,footballtransfer.com.ua,getwall.ru,glavcom.ua,glianec.com,hvylya.net,i.ua,iarex.ru,institute.com.ua,internetua.com,kinoafisha.ua,korrespondent.net,kp.ua,kriminal.tv,lessons.com.ua,liga.net,lux.fm,mabila.ua,maximum.fm,metodportal.net,mignews.com.ua,nashamama.com,newsone.ua,nnovosti.info,obozrevatel.com,oligarh.media,orakul.com,ostro.org,padabum.com,padabum.net,padaread.com,paparazzi.ru,peers.tv,pozitciya.com.ua,ppt.ru,pravda.com.ua,primecrime.ru,radnuk.info,referatbox.com,refsmarket.com.ua,repetitor.ua,schoollit.com.ua,sdnnet.ru,smak.ua,socportal.info,sportanalytic.com,superdom.ua,telegraf.in.ua,testsoch.com,testsoch.net,tochka.net,torrentom.com,tv.ua,tvgid.ua,tvori.com.ua,tvoymalysh.com.ua,ukrlib.com.ua,vchaspik.ua,vgorode.ua,viva.ua,vringe.com,vsetv.com,vsetv.ru,wow-helper.com,xittv.net,zaxid.net,zdorovia.com.ua,zn.ua##^script:has-text("zmctrack")
 1777.ru,1variant.ru,24boxing.com.ua,24tv.ua,actual.today,afterdispatch.com,beztabu.net,bonnylady.com,bookre.org,boxnews.com.ua,bukvar.su,businessua.com,chtyvo.org.ua,cn.ru,cotlix.com,cxid.info,dengi.ua,economics-prorok.com,edinstvennaya.ua,etextlib.ru,football-ukraine.com,football24.ua,footballtransfer.com.ua,getwall.ru,glavcom.ua,glianec.com,hvylya.net,i.ua,iarex.ru,institute.com.ua,internetua.com,kinoafisha.ua,korrespondent.net,kp.ua,kriminal.tv,lessons.com.ua,liga.net,lux.fm,mabila.ua,maximum.fm,metodportal.net,mignews.com.ua,nashamama.com,newsone.ua,nnovosti.info,obozrevatel.com,oligarh.media,orakul.com,ostro.org,padabum.com,padabum.net,padaread.com,paparazzi.ru,peers.tv,pozitciya.com.ua,ppt.ru,pravda.com.ua,primecrime.ru,radnuk.info,referatbox.com,refsmarket.com.ua,repetitor.ua,schoollit.com.ua,sdnnet.ru,smak.ua,socportal.info,sportanalytic.com,superdom.ua,telegraf.in.ua,testsoch.com,testsoch.net,tochka.net,torrentom.com,tv.ua,tvgid.ua,tvori.com.ua,tvoymalysh.com.ua,ukrlib.com.ua,vchaspik.ua,vgorode.ua,viva.ua,vringe.com,vsetv.com,vsetv.ru,wow-helper.com,xittv.net,zaxid.net,zdorovia.com.ua,zn.ua$$script[tag-content="zmctrack"][max-length="25000"]
@@ -602,8 +605,8 @@ linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false
 7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,bolly4u.*,ckk.ai,cloudvideo.tv,desiupload.in,dlfiles.online,filmywap.*,filmywapofficial.com,foumovies.net,gorillavid.in,indishare.*,megaurl.in,moviescouch.*,moviescounter.store,moviescrush.co,moviespapa.site,oko.sh,rdxhd.*,ssrmovies.wiki,stream2watch.*,thefilmbay.com,uploadbuzz.org,uppom.*,userscloud.com,w4files.ws,zeefiles.*,300mbmovies.*,filmymeet.*,hdfriday.org,ddl.to,sendit.cloud##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,bolly4u.*,ckk.ai,cloudvideo.tv,desiupload.in,dlfiles.online,filmywap.*,filmywapofficial.com,foumovies.net,gorillavid.in,indishare.*,megaurl.in,moviescouch.*,moviescounter.store,moviescrush.co,moviespapa.site,oko.sh,rdxhd.*,ssrmovies.wiki,stream2watch.*,thefilmbay.com,uploadbuzz.org,uppom.*,userscloud.com,w4files.ws,zeefiles.*,300mbmovies.*,filmymeet.*,hdfriday.org,ddl.to,sendit.cloud#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
 
-69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,putlockertv.*##+js(abort-current-inline-script.js, parseInt, tabunder)
-69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,putlockertv.*#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
+69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,putlockertv.*,dailyuploads.*##+js(abort-current-inline-script.js, parseInt, tabunder)
+69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,putlockertv.*,dailyuploads.*#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
 
 ceesty.com,clkmein.com,gestyy.com,viid.me##+js(set-constant.js, adsBlockerDetector, noopFunc)
 ceesty.com,clkmein.com,gestyy.com,viid.me#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
@@ -1628,8 +1631,8 @@ kissanime.*#%#Object.defineProperties(window,{DoDetect1:{get:function(){return;}
 vqporn.com,wired.com,pitchfork.com,newyorker.com,tripadvisor.*##+js(abort-on-property-write.js, adblockDetect)
 vqporn.com,wired.com,pitchfork.com,newyorker.com,tripadvisor.*#%#//scriptlet("abort-on-property-write", "adblockDetect")
 
-gomovieshub.io,mp3skulls.to,beemp3s.*,putlocker.tl,sonyoutube.com,moviesin.co,javlot.com,20sat.com,astikitline.es,dailyuploads.*##+js(abort-current-inline-script.js, parseInt, TABUNDER)
-gomovieshub.io,mp3skulls.to,beemp3s.*,putlocker.tl,sonyoutube.com,moviesin.co,javlot.com,20sat.com,astikitline.es,dailyuploads.*#%#//scriptlet("abort-current-inline-script", "parseInt", "TABUNDER")
+gomovieshub.io,mp3skulls.to,beemp3s.*,putlocker.tl,sonyoutube.com,moviesin.co,javlot.com,20sat.com,astikitline.es##+js(abort-current-inline-script.js, parseInt, TABUNDER)
+gomovieshub.io,mp3skulls.to,beemp3s.*,putlocker.tl,sonyoutube.com,moviesin.co,javlot.com,20sat.com,astikitline.es#%#//scriptlet("abort-current-inline-script", "parseInt", "TABUNDER")
 
 linksht.com,calciomercato.com,clik.*,javfinder.is,sosiali.com,robloxscripts.com,pasty.link##+js(setTimeout-defuser.js, _0x)
 linksht.com,calciomercato.com,clik.*,javfinder.is,sosiali.com,robloxscripts.com,pasty.link#%#//scriptlet("prevent-setTimeout", "_0x")
