@@ -190,7 +190,7 @@
 @@/^https?:\/\/(www\.)?.*\/(\W|\_)?ad[svbx]?([0-9]{1,2}|(\W|\_).*|\.min)?\.js/$script,xmlhttprequest,~third-party,domain=0calc.com|0rechner.de|androidplanet.nl|anime-vf.fr|anitube.site|antenna-theory.com|australianfrequentflyer.com.au|avforme.com|bspin.club|certifychat.com|cheatsquad.gg|clictune.com|coop-land.ru|dreamdth.com|evowow.com|extremereportbot.com|farodevigo.es|featurecompare.com|filmweb.pl|freepsdvn.com|freetuts.download|geoguessr.com|giveaway.su|gq-magazine.co.uk|hdrezka.ag|hdrezka.co|hdrezka.fund|hdrezka.online|hdrezka.website|it-actual.ru|japgay.com|kanald.com.tr|lewat.club|lne.es|mercurynews.com|minecraft-schematics.com|mp4upload.com|mshare.io|mustget.ru|notebookcheck.com|nudecelebs.pro|pasty.link|pictoa.com|playtor.tv|pleshka.com|poedb.tw|qrz.ru|r7.com|radio.de|ratemyteachers.com|reactiongaming.us|satellite-calculations.com|serpadres.es|sexicelebs.ru|smutty.com|soy502.com|spinbot.com|stb.ua|sub2unlock.net|techsighter.com|teleportal.ua|tinyhomebuilders.com|turboimagehost.com|version2.dk|vorek.pl|webcamera.pl|wired.com|wp.pl|xmovies08.ru|ynet.co.il|beeg.com|aosmark.com
 @@/^https?:\/\/(www\.)?.*\/([a-z]{1}|google)(\W|\_)?[Aa]d[sv]?([0-9]{1,2}|\.min)?\.js/$script,xmlhttprequest,third-party,domain=solvetube.site
 @@/^https?:\/\/(www\.)?.*\/(show|google|[a-z]{1}|videojs\-contrib|e?detect)(\W|\_)?[Aa]d[sv]?([0-9]{1,2}|([_-]?ima)?\.min)?\.js/$script,xmlhttprequest,~third-party,domain=ccmbg.com|cnbc.com|convertir-youtube-mp3.com|dmntsf.net|dyncdn.me|dziennikwschodni.pl|enjoyfuck.com|fuckgonzo.com|getintopc.com|golem.de|gorlice24.pl|imagebam.com|mp3.teledyski.info|myabandonware.com|nextgenupdate.com|pornokeep.com|rarbgunblock.org|rjno1.com|rodzinnywyjazd.pl|sbsports.pro|sfile.mobi|solvetube.site|spinbot.com|streamcherry.com|topserialy.to|undeniable.info|unique-tutorials.info|videoo.info|watch32hd.org|wibuindo.xyz
-@@/^https?:\/\/(www\.)?.*\/ad[svbx]?(([a-zA-Z]{1})?[Ff]rame|js|unit|(\W|\_)?server|bygoogle|(\W|\_)?detect(or)?|(\W|\_)?check|(\W|\_)?bann?ers?|block([-a-zA-Z_]{3,})?|(\W|\_)?builder|force|gear)([0-9]{1,2}|(\W|\_).*|\.min)?\.js/$xmlhttprequest,script,~third-party,domain=animeyt2.tv|anistar.org|anistar1.org|bahnbonus-shopping.de|bingfeng.tw|brid.tv|clipwatching.com|cyclismactu.net|dustreaming.com|embedy.me|extremereportbot.com|fux.com|gelbeseiten.de|gidfilm.ru|hepan.com|kenkenpuzzle.com|kisshentai.net|laradiobbs.net|mediaite.com|minhaconexao.com.br|missouristatebears.com|ncaa.com|nekopoi.care|nekopoi.ga|nekopoi.lol|newser.com|politiken.dk|povw1deo.com|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|powvldeo.net|spinbot.com|ultradownloads.com.br|uploadmp4.com|won.pe
+@@/^https?:\/\/(www\.)?.*\/ad[svbx]?(([a-zA-Z]{1})?[Ff]rame|js|unit|(\W|\_)?server|bygoogle|(\W|\_)?detect(or)?|(\W|\_)?check|(\W|\_)?bann?ers?|block([-a-zA-Z_]{3,})?|(\W|\_)?builder|force|gear)([0-9]{1,2}|(\W|\_).*|\.min)?\.js/$xmlhttprequest,script,~third-party,domain=animeyt2.tv|anistar.org|anistar1.org|bahnbonus-shopping.de|bingfeng.tw|brid.tv|clipwatching.com|cyclismactu.net|dustreaming.com|embedy.me|extremereportbot.com|fux.com|gelbeseiten.de|gidfilm.ru|hepan.com|kenkenpuzzle.com|kisshentai.net|laradiobbs.net|mediaite.com|minhaconexao.com.br|missouristatebears.com|ncaa.com|newser.com|politiken.dk|povw1deo.com|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|powvldeo.net|spinbot.com|ultradownloads.com.br|uploadmp4.com|won.pe
 @@/^https?:\/\/(www\.)?.*\/ad[svbx]?(block([-a-zA-Z_]{3,})?|[Ff]rame|js|bygoogle)([0-9]{1,2}|(\W|\_).*|\.min)?\.js/$xmlhttprequest,script,third-party,domain=atv.com.tr|beelink.in|filmweb.pl|fox.com.tr|imagebam.com|megogo.net|mitele.es
 @@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?([0-9]{1,2}|(\W|\_).*)?\.js/$xmlhttprequest,script,third-party,domain=gntai.xyz|tvn24.pl|x-link.pl
 @@/^https?:\/\/(www\.)?.*\/adv(ert(ising|isement)?)?([0-9]{1,2}|(\W|\_).*)?\.js/$xmlhttprequest,script,~third-party,domain=alghad.com|alladvices.ru|animedigitalnetwork.fr|arkowcy.pl|atresplayer.com|blocket.se|bolgegundem.com|cc-fan.tv|clksite.com|cn-fan.tv|converter-btc.world|crypto-fun.cf|cyfostreams.com|drtuber.com|dz4up.com|easybitcoins.ml|ferrovie.info|fox-fan.tv|gayporno.fm|geekspin.co|getfreebit.xyz|getinmac.com|haaretz.com|hopto.org|icegay.tv|infosia.xyz|insurance-info.us|japan.zdnet.com|kertashitam.com|ktozvonit.com.ua|lurlo.news|nf-fan.tv|nohat.cc|official-kmspico.com|oturl.com|overclockers.ru|popsci.com|radikal-gamez.net|rjiblog.org|rockstargame.su|schwaebische.de|seo-fast.ru|swatchseries.to|teknologilink.com|thedailybeast.com|tuotromedico.com|upload.ac|uploadbox.io|uploadship.com|vw-page.com|wetransfer.com|zdnet.co.kr|zdnet.com|zdnet.com.cn|zdnet.de|zdnet.fr
@@ -602,8 +602,8 @@ linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false
 ceesty.com,clkmein.com,gestyy.com,viid.me##+js(set-constant.js, adsBlockerDetector, noopFunc)
 ceesty.com,clkmein.com,gestyy.com,viid.me#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
 
-daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,pornscum.com,short.pe,psl.pw##+js(abort-current-inline-script.js, atob, tabunder)
-daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,pornscum.com,short.pe,psl.pw#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
+daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,pornscum.com,short.pe,psl.pw,nekopoi.*##+js(abort-current-inline-script.js, atob, tabunder)
+daxab.com,fastplay.*,femefun.com,gnula.nu,hdvid.*,leporno.org,m4ufree.*,rule34hentai.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,pornscum.com,short.pe,psl.pw,nekopoi.*#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
 
 lektsii.org,studopedia.com.ua,studopedia.ru,studopedia.su##+js(abort-current-inline-script.js, detectAdblk)
 lektsii.org,studopedia.com.ua,studopedia.ru,studopedia.su#%#//scriptlet("abort-current-inline-script", "detectAdblk")
@@ -1671,16 +1671,20 @@ izzylaif.com##+js(abort-current-inline-script.js, jQuery, undefined)
 izzylaif.com#%#//scriptlet("abort-current-inline-script", "jQuery", "undefined")
 
 oload.*,openload.*##+js(set-constant.js, sadbl, false)
-oload.*,openload.*%#//scriptlet("set-constant", "sadbl", "false")
+oload.*,openload.*#%#//scriptlet("set-constant", "sadbl", "false")
 
 shinden.pl##+js(noeval-if.js, Criteo)
 shinden.pl#%#//scriptlet("prevent-eval-if", "Criteo")
 
 bc.vc##+js(set-constant.js, show_pop, noopFunc)
-bc.vc%#//scriptlet("set-constant", "show_pop", "noopFunc")
+bc.vc#%#//scriptlet("set-constant", "show_pop", "noopFunc")
 
 vidzi.*##+js(addEventListener-defuser.js, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.pops2.popunderCondition)
 vidzi.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/", "system.pops2.popunderCondition")
 
 pornhd.com##+js(abort-on-property-read.js, hasAdBlock)
 pornhd.com#%#//scriptlet("abort-on-property-read", "hasAdBlock")
+
+nekopoi.*##+js(set-constant.js, isAdsDisplayed, true)
+nekopoi.*#%#//scriptlet("set-constant", "isAdsDisplayed", "true")
+
