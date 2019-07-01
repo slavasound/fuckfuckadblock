@@ -270,6 +270,7 @@
 ||vidlox.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.vidlox.me *.jsdelivr.net;
 ||vidoza.net^$csp=script-src 'self' 'unsafe-inline' *.vidoza.net vidoza.net *.7vid.net *.cloudflare.com; frame-src vidoza.net;
 ||nekopoi.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.chatango.com *.jquery.com *.vidlox.me *.jsdelivr.net vidoza.net vidlox.me *.cloudflare.com *.gstatic.com nekopoi.care nekopoi.lol nekopoi.ga nekopoi.cash *.chatango.com streamcherry.com;
+||skidrowreloaded.com^$csp=script-src 'self';
 
 *$script,third-party,domain=clicknupload.org|clipwatching.com|ecoimages.xyz|fembed.com|igg-games.com|kuntv.pw|linkdrop.net|newsyou.info|openloed.co|readcomiconline.to|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|vidsrc.me
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
