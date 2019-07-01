@@ -927,8 +927,8 @@ gadzetomania.pl#%#//scriptlet("abort-on-property-write", "__serviceAbModal")
 smartage.pl##+js(abort-current-inline-script.js, parseInt, adblock)
 smartage.pl#%#//scriptlet("abort-current-inline-script", "parseInt", "adblock")
 
-dniwolne.eu##+js(set-constant.js, window.google_jobrunner, noopFunc)
-dniwolne.eu#%#//scriptlet("set-constant", "window.google_jobrunner", "noopFunc")
+bookfere.com,bonk.io,openspeedtest.com,resourcepacks24.de,esosedi.org,crosswordtracker.com,segnidalcielo.it,techsolutiontips.com,kodiwpigulce.pl,cs-fundamentals.com,summonersw.xyz,whaleoil.co.nz,multiplayer.gg,skilloutlook.com,des-livres-pour-changer-de-vie.com,pixlov.com,forumsospc.fr,collegian.com,lublu.tv,idealphotography.biz,buscaminas.eu,bonkio2.com,forbes.sk,accessgenealogy.com,nsrescapegames.com,betworld90.live,tutswing.com,pranplezi.com,alraghban.com,yeahthatskosher.com,jeshoots.com,cartiaudio.eu,books-world.net,droidtekno.com,your-happy-life.com,pokemonforever.com,doyouremember.love,marduktv.com.br,dniwolne.eu,jtrouver.com##+js(set-constant.js, window.google_jobrunner, noopFunc)
+bookfere.com,bonk.io,openspeedtest.com,resourcepacks24.de,esosedi.org,crosswordtracker.com,segnidalcielo.it,techsolutiontips.com,kodiwpigulce.pl,cs-fundamentals.com,summonersw.xyz,whaleoil.co.nz,multiplayer.gg,skilloutlook.com,des-livres-pour-changer-de-vie.com,pixlov.com,forumsospc.fr,collegian.com,lublu.tv,idealphotography.biz,buscaminas.eu,bonkio2.com,forbes.sk,accessgenealogy.com,nsrescapegames.com,betworld90.live,tutswing.com,pranplezi.com,alraghban.com,yeahthatskosher.com,jeshoots.com,cartiaudio.eu,books-world.net,droidtekno.com,your-happy-life.com,pokemonforever.com,doyouremember.love,marduktv.com.br,dniwolne.eu,jtrouver.com#%#//scriptlet("set-constant", "window.google_jobrunner", "noopFunc")
 
 bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
 bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
@@ -1309,9 +1309,6 @@ comingsoon.net,dailycaller.com,emlaktasondakika.com,post-gazette.com,switch-xci.
 
 al.com,allkpop.com,ccn.com,comicsands.com,duffelblog.com,gamepur.com,mandatory.com,mlive.com,newatlas.com,nj.com,pgatour.com,readlightnovel.org,secondnexus.com,sevenforums.com,sport24.co.za,theodysseyonline.com,westernjournal.com,guru3d.com##+js(abort-on-property-read.js, __cmpGdprAppliesGlobally)
 al.com,allkpop.com,ccn.com,comicsands.com,duffelblog.com,gamepur.com,mandatory.com,mlive.com,newatlas.com,nj.com,pgatour.com,readlightnovel.org,secondnexus.com,sevenforums.com,sport24.co.za,theodysseyonline.com,westernjournal.com,guru3d.com#%#//scriptlet("abort-on-property-read", "__cmpGdprAppliesGlobally")
-
-jtrouver.com##+js(set-constant.js, google_jobrunner, true)
-jtrouver.com#%#//scriptlet("set-constant", "google_jobrunner", "true")
 
 movie4k.is##+js(abort-on-property-read.js, urlToShow)
 movie4k.is#%#//scriptlet("abort-on-property-read", "urlToShow")
