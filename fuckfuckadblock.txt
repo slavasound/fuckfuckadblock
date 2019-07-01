@@ -267,6 +267,7 @@
 ||spankbang.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.spankbang.com *.cloudflare.com *.gravatar.com *.zencdn.net;
 ||porntrex.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.cdntrex.com ajax.googleapis.com;
 ||clipwatching.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.clipwatching.com;
+||vidlox.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.vidlox.me *.jsdelivr.net;
 
 *$script,third-party,domain=clicknupload.org|clipwatching.com|ecoimages.xyz|fembed.com|igg-games.com|kuntv.pw|linkdrop.net|newsyou.info|openloed.co|readcomiconline.to|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|vidsrc.me
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
