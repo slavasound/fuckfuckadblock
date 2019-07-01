@@ -1649,8 +1649,8 @@ wired.com#%#//scriptlet("prevent-setTimeout", "Bait")
 ddl.to##+js(set-constant.js, adb_check, true)
 ddl.to#%#//scriptlet("set-constant", "adb_check", "true")
 
-farodevigo.es,laprovincia.es##+js(abort-current-inline-script.js, compruebaAdblockPremium, setTimeout)
-farodevigo.es,laprovincia.es#%#//scriptlet("abort-current-inline-script", "compruebaAdblockPremium", "setTimeout")
+diaridegirona.cat,diariodeibiza.es,emporda.info,farodevigo.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,regio7.cat,superdeporte.es##+js(abort-current-inline-script.js, compruebaAdblockPremium, setTimeout)
+diaridegirona.cat,diariodeibiza.es,emporda.info,farodevigo.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,regio7.cat,superdeporte.es#%#//scriptlet("abort-current-inline-script", "compruebaAdblockPremium", "setTimeout")
 
 vev.io##+js(set-constant.js, __INITIAL_STATE__.ads, undefined)
 vev.io#%#//scriptlet("set-constant", "__INITIAL_STATE__.ads", "undefined")
