@@ -862,12 +862,6 @@ inmanga.com#%#//scriptlet("abort-current-inline-script", "setTimeout", "manageAn
 agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
 agargold.*#%#//scriptlet("abort-current-inline-script", "document.getElementById", "block")
 
-go.bucketforms.com##+js(abort-current-inline-script.js, $, adblocker)
-go.bucketforms.com#%#//scriptlet("abort-current-inline-script", "$", "adblocker")
-
-intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
-intporn.org#%#//scriptlet("abort-on-property-read", "jsm_reruntime")
-
 haaretz.com##+js(abort-current-inline-script.js, $, AdBlockUtil)
 haaretz.com#%#//scriptlet("abort-current-inline-script", "$", "AdBlockUtil")
 
@@ -877,8 +871,8 @@ prevention.com#%#//scriptlet("abort-on-property-read", "adBlockPromise")
 bibliacatolica.com.br##+js(abort-on-property-read.js, getSelection)
 bibliacatolica.com.br#%#//scriptlet("abort-on-property-read", "getSelection")
 
-bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
-bidouillesikea.com#%#//scriptlet("abort-on-property-read", "adbackDebug")
+olhardigital.com.br,turf-fr.com,grands-meres.net,ptitchef.com,livepeople.fr,lenouvelliste.ch,recreatisse.com,arcinfo.ch,lippycorn.com,zmoe.ru,worldfreeware.com,planificacionmedios.com,bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
+olhardigital.com.br,turf-fr.com,grands-meres.net,ptitchef.com,livepeople.fr,lenouvelliste.ch,recreatisse.com,arcinfo.ch,lippycorn.com,zmoe.ru,worldfreeware.com,planificacionmedios.com,bidouillesikea.com#%#//scriptlet("abort-on-property-read", "adbackDebug")
 
 lavoixdux.com##+js(set-constant.js, is_adblocked, false)
 lavoixdux.com#%#//scriptlet("set-constant", "is_adblocked", "false")
