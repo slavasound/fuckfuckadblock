@@ -1095,8 +1095,8 @@ tomshw.it#%#//scriptlet("prevent-setTimeout", "bioEp.showPopup")
 xopenload.me,speedporn.net##+js(set-constant.js, jsUnda, noopFunc)
 xopenload.me,speedporn.net#%#//scriptlet("set-constant", "jsUnda", "noopFunc")
 
-69games.xxx,animeforce.*,embedy.me,fiuxy.eu,gounlimited.to,hd-world.org,hotpornfile.org,kaotic.com,playpornfree.xyz,bangdom.com,fapster.xxx,smutr.com##+js(abort-on-property-read.js, popns)
-69games.xxx,animeforce.*,embedy.me,fiuxy.eu,gounlimited.to,hd-world.org,hotpornfile.org,kaotic.com,playpornfree.xyz,bangdom.com,fapster.xxx,smutr.com#%#//scriptlet("abort-on-property-read", "popns")
+69games.xxx,animeforce.*,embedy.me,fiuxy.eu,gounlimited.to,hd-world.org,hotpornfile.org,kaotic.com,playpornfree.xyz,bangdom.com,fapster.xxx,smutr.com,asextube.net##+js(abort-on-property-read.js, popns)
+69games.xxx,animeforce.*,embedy.me,fiuxy.eu,gounlimited.to,hd-world.org,hotpornfile.org,kaotic.com,playpornfree.xyz,bangdom.com,fapster.xxx,smutr.com,asextube.net#%#//scriptlet("abort-on-property-read", "popns")
 
 pluspremieres.*##+js(setTimeout-defuser.js, adv)
 pluspremieres.*#%#//scriptlet("prevent-setTimeout", "adv")
