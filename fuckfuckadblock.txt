@@ -672,8 +672,8 @@ jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,opjav.com,rhvgmritmziwcm.net,zbqh
 notebookcheck.com,notebookcheck.net##+js(abort-current-inline-script.js, document.getElementById, XMLHttpRequest)
 notebookcheck.com,notebookcheck.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "XMLHttpRequest")
 
-anime-free.net,krasivoeporno.tv,nasheporno.tv,orgazmtv.com,pornodoma.tv##+js(abort-on-property-write.js, tnAdditionalParams)
-anime-free.net,krasivoeporno.tv,nasheporno.tv,orgazmtv.com,pornodoma.tv#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
+anime-free.net,krasivoeporno.tv,nasheporno.tv,orgazmtv.com,pornodoma.tv,investgram.ru##+js(abort-on-property-write.js, tnAdditionalParams)
+anime-free.net,krasivoeporno.tv,nasheporno.tv,orgazmtv.com,pornodoma.tv,investgram.ru#%#//scriptlet("abort-on-property-write", "tnAdditionalParams")
 
 4patas.com.co,allstarslots.com,askjan.org,autocasion.com,betterloanchoice.com,bienmeloger.nc,bizcongo.cd,bizled.co.in,buscaminas.eu,caberia.com,cradleshop.global,dinero.com,donsducoeur.ovh,duplichecker.com,finanzaspersonales.co,flash4gamers.com,fleetmon.com,geekinterview.com,igroutka.net,iturf.fr,jazzfanz.com,kaldeneker.hu,khabarnwi.com,ladepanne.fr,lamusica.com,lifestyle.bg,mon-qi.com,money.bg,news.bg,news.sportbox.ru,newsworldindia.in,niobioco.in,ocaholic.ch,odl.one,onnetwork.tv,passitdown.tv,plagiarismdetector.net,revistaarcadia.com,saharacable.com,searchenginereports.net,semana.com,slashdot.org,smallseotools.com,smallseotoolz.net,soho.co,sp-today.com,sprout.nl,streetvoice.com,tellychakkar.com,test-develocidad.com,topsport.bg,trafficjunky.com,tvigle.ru,unoauto.com,waiyeehong.com,wmg.bg,xn----9sbffabx5ds.xn--p1ai,xn--r3c5aj.com,yad2.co.il##+js(abort-on-property-read.js, isAdBlockActive)
 4patas.com.co,allstarslots.com,askjan.org,autocasion.com,betterloanchoice.com,bienmeloger.nc,bizcongo.cd,bizled.co.in,buscaminas.eu,caberia.com,cradleshop.global,dinero.com,donsducoeur.ovh,duplichecker.com,finanzaspersonales.co,flash4gamers.com,fleetmon.com,geekinterview.com,igroutka.net,iturf.fr,jazzfanz.com,kaldeneker.hu,khabarnwi.com,ladepanne.fr,lamusica.com,lifestyle.bg,mon-qi.com,money.bg,news.bg,news.sportbox.ru,newsworldindia.in,niobioco.in,ocaholic.ch,odl.one,onnetwork.tv,passitdown.tv,plagiarismdetector.net,revistaarcadia.com,saharacable.com,searchenginereports.net,semana.com,slashdot.org,smallseotools.com,smallseotoolz.net,soho.co,sp-today.com,sprout.nl,streetvoice.com,tellychakkar.com,test-develocidad.com,topsport.bg,trafficjunky.com,tvigle.ru,unoauto.com,waiyeehong.com,wmg.bg,xn----9sbffabx5ds.xn--p1ai,xn--r3c5aj.com,yad2.co.il#%#//scriptlet("abort-on-property-read", "isAdBlockActive")
@@ -781,8 +781,8 @@ proxyrarbg.*,rarbg.is,rarbg.to,rarbg.unblockall.org,rarbg.unblocked.kim,rarbg201
 animeyt2.tv,ebookdz.com,newsyou.info,swatchseries.to##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
 animeyt2.tv,ebookdz.com,newsyou.info,swatchseries.to#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
 
-69games.xxx,fapxl.com,iporntv.net,jetload.net,justupload.io,porcore.com,hxload.co,mylinks.xyz,porno365.cc,gayforit.eu##+js(abort-current-inline-script.js, document.createElement, script)
-69games.xxx,fapxl.com,iporntv.net,jetload.net,justupload.io,porcore.com,hxload.co,mylinks.xyz,porno365.cc,gayforit.eu#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
+69games.xxx,fapxl.com,iporntv.net,jetload.net,justupload.io,porcore.com,hxload.co,mylinks.xyz,porno365.cc,gayforit.eu,altaisouvenirs.ru##+js(abort-current-inline-script.js, document.createElement, script)
+69games.xxx,fapxl.com,iporntv.net,jetload.net,justupload.io,porcore.com,hxload.co,mylinks.xyz,porno365.cc,gayforit.eu,altaisouvenirs.ru#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
 
 pornbimbo.com,eroclips.org##+js(setTimeout-defuser.js, (), 2000)
 pornbimbo.com,eroclips.org#%#//scriptlet("prevent-setTimeout", "()", "2000")
