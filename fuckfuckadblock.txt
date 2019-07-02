@@ -639,8 +639,8 @@ fastplay.*,ffmovies.ru,fmovies.*#%#//scriptlet("abort-current-inline-script", "d
 daddylive.live,faselhd.*,watchhowimetyourmother.online##+js(abort-on-property-read.js, require)
 daddylive.live,faselhd.*,watchhowimetyourmother.online#%#//scriptlet("abort-on-property-read", "require")
 
-anysex.com,dailyimages.*,ecoimages.xyz,fantasti.cc,fuckpix.club,girlsofdesire.org,imgmercy.com,javhihi.com,mangovideo.pw,nakenprat.com,playpornfree.xyz,porndr.com,speedporn.net,tmohentai.com,youav.com,yourlust.com,youwatchporn.com,pornhd.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
-anysex.com,dailyimages.*,ecoimages.xyz,fantasti.cc,fuckpix.club,girlsofdesire.org,imgmercy.com,javhihi.com,mangovideo.pw,nakenprat.com,playpornfree.xyz,porndr.com,speedporn.net,tmohentai.com,youav.com,yourlust.com,youwatchporn.com,pornhd.com#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
+anysex.com,dailyimages.*,ecoimages.xyz,fantasti.cc,fuckpix.club,girlsofdesire.org,imgmercy.com,javhihi.com,mangovideo.pw,nakenprat.com,playpornfree.xyz,porndr.com,speedporn.net,tmohentai.com,youav.com,yourlust.com,youwatchporn.com,pornhd.com,hotxnxxporn.com##+js(abort-current-inline-script.js, document.dispatchEvent, getexoloader)
+anysex.com,dailyimages.*,ecoimages.xyz,fantasti.cc,fuckpix.club,girlsofdesire.org,imgmercy.com,javhihi.com,mangovideo.pw,nakenprat.com,playpornfree.xyz,porndr.com,speedporn.net,tmohentai.com,youav.com,yourlust.com,youwatchporn.com,pornhd.com,hotxnxxporn.com#%#//scriptlet("abort-current-inline-script", "document.dispatchEvent", "getexoloader")
 
 4inlook.com,belloporno.com,bestxvideos.site,comicspornos.com,cushyporn.com,douxporno.com,gaysamadores.com.br,gravuregirlz.com,gutteruncensored.org,luscious.net,mature.bz,mmmoffice.mx,pornoreino.com,pornult.com,sexv.video,supermzigo.co.tz,tegra.ir,worldsex.com,xasiat.com,xuandan.com,rapidvideo.com,tmohentai.com,vqporn.com##+js(addEventListener-defuser.js, /^(?:load|click)$/, popMagic)
 4inlook.com,belloporno.com,bestxvideos.site,comicspornos.com,cushyporn.com,douxporno.com,gaysamadores.com.br,gravuregirlz.com,gutteruncensored.org,luscious.net,mature.bz,mmmoffice.mx,pornoreino.com,pornult.com,sexv.video,supermzigo.co.tz,tegra.ir,worldsex.com,xasiat.com,xuandan.com,rapidvideo.com,tmohentai.com,vqporn.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|click)$/", "popMagic")
@@ -702,6 +702,9 @@ xnxx.com,xvideos.com#%#Object.defineProperty(window,'openpop',{get:function(){re
 
 allnorilsk.ru,hotpornfile.org,olegon.ru##+js(abort-on-property-read.js, onload)
 allnorilsk.ru,hotpornfile.org,olegon.ru#%#//scriptlet("abort-on-property-read", "onload")
+
+hotxnxxporn.com##+js(abort-on-property-read.js, evipop)
+hotxnxxporn.com#%#//scriptlet("abort-on-property-read", "evipop")
 
 ecoimages.xyz,funimg.net,hclips.com,hitomi.la,hotpornfile.org,nsfwalbum.com,unporn.site,watchfreexxx.net,xaoutchouc.live,xxxdessert.com#%#//scriptlet("prevent-addEventListener", "getexoloader")
 ecoimages.xyz,funimg.net,hclips.com,hitomi.la,hotpornfile.org,nsfwalbum.com,unporn.site,watchfreexxx.net,xaoutchouc.live,xxxdessert.com##+js(addEventListener-defuser.js, getexoloader)
