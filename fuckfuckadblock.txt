@@ -1029,8 +1029,8 @@ freeopenvpn.org#%#//scriptlet("set-constant", "adBlock", "false")
 3dtuning.com,habbowert.de,won.pe##+js(set-constant.js, adblock, false)
 3dtuning.com,habbowert.de,won.pe#%#//scriptlet("set-constant", "adblock", "false")
 
-nutraceuticalsworld.com##+js(abort-on-property-read.js, adblockerpopup)
-nutraceuticalsworld.com#%#//scriptlet("abort-on-property-read", "adblockerpopup")
+mpo-mag.com,labelandnarrowweb.com,coatingsworld.com,happi.com,inkworldmagazine.com,contractpharma.com,nutraceuticalsworld.com,beautypackaging.com##+js(abort-on-property-read.js, adblockerpopup)
+mpo-mag.com,labelandnarrowweb.com,coatingsworld.com,happi.com,inkworldmagazine.com,contractpharma.com,nutraceuticalsworld.com,beautypackaging.com#%#//scriptlet("abort-on-property-read", "adblockerpopup")
 
 eldia.es##+js(set-constant.js, pr_okvalida, true)
 eldia.es#%#//scriptlet("set-constant", "pr_okvalida", "true")
