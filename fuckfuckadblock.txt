@@ -880,8 +880,8 @@ voyeurfrance.net,lavoixdux.com,vosfemmes.com,jacquieetmichelelite.com,desinhibit
 yaysavings.com##+js(abort-on-property-write.js, is_adblocked)
 yaysavings.com#%#//scriptlet("abort-on-property-write", "is_adblocked")
 
-jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
-jovempan.uol.com.br#%#//scriptlet("abort-on-property-read", "window.abStyle")
+jovempan.uol.com.br,recreatisse.com,lippycorn.com,zmoe.ru,worldfreeware.com,planificacionmedios.com##+js(abort-on-property-read.js, window.abStyle)
+jovempan.uol.com.br,recreatisse.com,lippycorn.com,zmoe.ru,worldfreeware.com,planificacionmedios.com#%#//scriptlet("abort-on-property-read", "window.abStyle")
 
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.adback_wording)
 jovempan.uol.com.br#%#//scriptlet("abort-on-property-read", "window.adback_wording")
