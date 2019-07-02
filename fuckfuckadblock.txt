@@ -960,8 +960,8 @@ empflix.com#%#//scriptlet("abort-on-property-read", "ALoader")
 empflix.com,tnaflix.com##+js(abort-on-property-read.js, ads.pop_url)
 empflix.com,tnaflix.com#%#//scriptlet("abort-on-property-read", "ads.pop_url")
 
-empflix.com##+js(abort-on-property-write.js, popzone)
-empflix.com#%#//scriptlet("abort-on-property-write", "popzone")
+empflix.com,tnaflix.com##+js(abort-on-property-write.js, exoloaderLocation)
+empflix.com,tnaflix.com#%#//scriptlet("abort-on-property-write", "exoloaderLocation")
 
 gslink.*##+js(abort-current-inline-script.js, atob, TABUNDER)
 gslink.*#%#//scriptlet("abort-current-inline-script", "atob", "TABUNDER")
