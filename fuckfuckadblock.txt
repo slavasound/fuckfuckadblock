@@ -1095,8 +1095,8 @@ tomshw.it#%#//scriptlet("prevent-setTimeout", "bioEp.showPopup")
 xopenload.me,speedporn.net##+js(set-constant.js, jsUnda, noopFunc)
 xopenload.me,speedporn.net#%#//scriptlet("set-constant", "jsUnda", "noopFunc")
 
-69games.xxx,animeforce.*,embedy.me,fiuxy.eu,gounlimited.to,hd-world.org,hotpornfile.org,kaotic.com,playpornfree.xyz,bangdom.com,fapster.xxx,smutr.com,asextube.net##+js(abort-on-property-read.js, popns)
-69games.xxx,animeforce.*,embedy.me,fiuxy.eu,gounlimited.to,hd-world.org,hotpornfile.org,kaotic.com,playpornfree.xyz,bangdom.com,fapster.xxx,smutr.com,asextube.net#%#//scriptlet("abort-on-property-read", "popns")
+3ddl.tv,69games.xxx,8tube.xxx,animeforce.*,asextube.net,b4busty.com,bangdom.com,bbwhottie.com,dddcups.net,dddvids.com,ddl-mdh.org,dump.xxx,embedy.me,fapster.xxx,fiuxy.eu,gotgayporn.com,gounlimited.to,hd-world.org,hdporn.to,hdxnxx.xxx,homosexualtube.com,hotpornfile.org,hqtube.xxx,kaotic.com,kingsizejuggs.com,maturexxxphotos.com,maturosexy.com,milfgals.net,milfmaturesex.net,myxvids.com,oldmaturepost.com,oldpornwhore.com,pinjuggs.com,playpornfree.xyz,pornbust.net,pornid.xxx,redhdtube.xxx,smutr.com,spicytitties.com,swipe.xxx,titsintops.com,warez-world.org,xxx-blog.to##+js(abort-on-property-read.js, popns)
+3ddl.tv,69games.xxx,8tube.xxx,animeforce.*,asextube.net,b4busty.com,bangdom.com,bbwhottie.com,dddcups.net,dddvids.com,ddl-mdh.org,dump.xxx,embedy.me,fapster.xxx,fiuxy.eu,gotgayporn.com,gounlimited.to,hd-world.org,hdporn.to,hdxnxx.xxx,homosexualtube.com,hotpornfile.org,hqtube.xxx,kaotic.com,kingsizejuggs.com,maturexxxphotos.com,maturosexy.com,milfgals.net,milfmaturesex.net,myxvids.com,oldmaturepost.com,oldpornwhore.com,pinjuggs.com,playpornfree.xyz,pornbust.net,pornid.xxx,redhdtube.xxx,smutr.com,spicytitties.com,swipe.xxx,titsintops.com,warez-world.org,xxx-blog.to#%#//scriptlet("abort-on-property-read", "popns")
 
 pluspremieres.*##+js(setTimeout-defuser.js, adv)
 pluspremieres.*#%#//scriptlet("prevent-setTimeout", "adv")
