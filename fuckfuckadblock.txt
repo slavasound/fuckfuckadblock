@@ -874,8 +874,11 @@ bibliacatolica.com.br#%#//scriptlet("abort-on-property-read", "getSelection")
 olhardigital.com.br,turf-fr.com,grands-meres.net,ptitchef.com,livepeople.fr,lenouvelliste.ch,recreatisse.com,arcinfo.ch,lippycorn.com,zmoe.ru,worldfreeware.com,planificacionmedios.com,bidouillesikea.com##+js(abort-on-property-read.js, adbackDebug)
 olhardigital.com.br,turf-fr.com,grands-meres.net,ptitchef.com,livepeople.fr,lenouvelliste.ch,recreatisse.com,arcinfo.ch,lippycorn.com,zmoe.ru,worldfreeware.com,planificacionmedios.com,bidouillesikea.com#%#//scriptlet("abort-on-property-read", "adbackDebug")
 
-jacquieetmichel.net,jacquieetmicheltv.net,jacquieetmicheltv2.net,lavideodujourjetm.net,tonpornodujour.com,jacquieetmichelblog.fr,lavoixdux.com##+js(set-constant.js, is_adblocked, false)
-jacquieetmichel.net,jacquieetmicheltv.net,jacquieetmicheltv2.net,lavideodujourjetm.net,tonpornodujour.com,jacquieetmichelblog.fr,lavoixdux.com#%#//scriptlet("set-constant", "is_adblocked", "false")
+voyeurfrance.net,lavoixdux.com,vosfemmes.com,jacquieetmichelelite.com,desinhibition.com,illicoporno.com,jacquieetmichel.net,jacquieetmicheltv.net,jacquieetmicheltv2.net,lavideodujourjetm.net,tonpornodujour.com,jacquieetmichelblog.fr,lavoixdux.com##+js(set-constant.js, is_adblocked, false)
+voyeurfrance.net,lavoixdux.com,vosfemmes.com,jacquieetmichelelite.com,desinhibition.com,illicoporno.com,jacquieetmichel.net,jacquieetmicheltv.net,jacquieetmicheltv2.net,lavideodujourjetm.net,tonpornodujour.com,jacquieetmichelblog.fr,lavoixdux.com#%#//scriptlet("set-constant", "is_adblocked", "false")
+
+yaysavings.com##+js(abort-on-property-write.js, is_adblocked)
+yaysavings.com#%#//scriptlet("abort-on-property-write", "is_adblocked")
 
 jovempan.uol.com.br##+js(abort-on-property-read.js, window.abStyle)
 jovempan.uol.com.br#%#//scriptlet("abort-on-property-read", "window.abStyle")
