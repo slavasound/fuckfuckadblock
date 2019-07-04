@@ -1579,9 +1579,6 @@ lotechnocan.org#%#//scriptlet("abort-on-property-read", "atob")
 kissanime.*,grandmp.com##+js(abort-on-property-write.js, isClickHide)
 kissanime.*,grandmp.com#%#//scriptlet("abort-on-property-write", "isClickHide")
 
-kissanime.*##+js(kissanime-defuser.js)
-kissanime.*#%#Object.defineProperties(window,{DoDetect1:{get:function(){return;}},DoDetect2:{get:function(){return;}}});
-
 vqporn.com,wired.com,pitchfork.com,newyorker.com,tripadvisor.*##+js(abort-on-property-write.js, adblockDetect)
 vqporn.com,wired.com,pitchfork.com,newyorker.com,tripadvisor.*#%#//scriptlet("abort-on-property-write", "adblockDetect")
 
