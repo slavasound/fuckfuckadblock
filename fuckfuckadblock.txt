@@ -1649,3 +1649,6 @@ luxviral.com#%#//scriptlet("abort-on-property-read", "SerbinLoader")
 motherless.com##+js(abort-on-property-read.js, _ml_ads_ns)
 motherless.com#%#//scriptlet("abort-on-property-read", "_ml_ads_ns")
 
+lifo.gr##+js(setTimeout-defuser.js, slideout)
+lifo.gr#%#//scriptlet("prevent-setTimeout", "slideout")
+
