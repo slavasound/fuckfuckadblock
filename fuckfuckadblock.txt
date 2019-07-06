@@ -4,7 +4,11 @@
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
 ! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
 ! RAW: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
-! Description: Filters for blocking pop-ups and anti-adblock bypass.
+! CDN:
+!	1. https://raw.githack.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+!	2. https://cdn.statically.io/gh/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+!	3. https://cdn.jsdelivr.net/gh/bogachenko/fuckfuckadblock/fuckfuckadblock.txt
+! Description: Filters for blocking pop-ups and anti-adblock bypass
 
 ###AdBlockDialog
 ###ab--notification-ribbon
