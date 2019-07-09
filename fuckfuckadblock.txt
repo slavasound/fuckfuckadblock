@@ -769,11 +769,11 @@ proxyrarbg.*,rarbg.is,rarbg.to,rarbg.unblockall.org,rarbg.unblocked.kim,rarbg201
 4tube.com,hotmovs.com,voyeurhit.com##+js(abort-on-property-write.js, ads_priv)
 4tube.com,hotmovs.com,voyeurhit.com#%#//scriptlet("abort-on-property-write", "ads_priv")
 
-animeyt2.tv,ebookdz.com,newsyou.info,swatchseries.to##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
-animeyt2.tv,ebookdz.com,newsyou.info,swatchseries.to#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
+animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
+animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
 
-69games.xxx,altaisouvenirs.ru,fapxl.com,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,mylinks.xyz,porcore.com,porno365.cc##+js(abort-current-inline-script.js, document.createElement, script)
-69games.xxx,altaisouvenirs.ru,fapxl.com,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,mylinks.xyz,porcore.com,porno365.cc#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
+69games.xxx,altaisouvenirs.ru,fapxl.com,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,porcore.com,porno365.cc,rutor.info##+js(abort-current-inline-script.js, document.createElement, script)
+69games.xxx,altaisouvenirs.ru,fapxl.com,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,porcore.com,porno365.cc,rutor.info#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
 
 eroclips.org,pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 eroclips.org,pornbimbo.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
