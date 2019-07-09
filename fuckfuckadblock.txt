@@ -235,7 +235,7 @@
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.myanimelist.net *.cdn-dena.com *.rapidvideo.is *.rapidvideo.com *.playercdn.net oload.stream openload.co *.oloadcdn.net streamcherry.com *.fruithosted.net *.jwpcdn.com;
 ||luxubu.review^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.hlsmp4.com fvs.io;
 ||m4ufree.$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.google-analytics.com *.jwpcdn.com *.twimg.com *.twitter.com *.hydrax.net *.facebook.com *.googleapis.com *.facebook.net *.iomovies.info;
-||mangovideo.pw^$csp=script-src 'self' 'unsafe-inline';
+||mangovideo.pw^$csp=script-src 'self' 'unsafe-inline'; connect-src 'none';
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.to *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com *.jwpcdn.com *.akacdn.ru;
 ||mp4upload.com^$csp=script-src 'unsafe-inline' 'unsafe-eval' *.jquery.com *.mp4upload.com; frame-src 'none';
 ||nekopoi.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.chatango.com *.jquery.com *.vidlox.me *.jsdelivr.net vidoza.net vidlox.me *.cloudflare.com *.gstatic.com nekopoi.care nekopoi.lol nekopoi.ga nekopoi.cash *.chatango.com streamcherry.com;
@@ -290,7 +290,7 @@
 @@*$stealth,domain=cablegratis.tv|embed.streamx.live|hotmovs.com|premiumtvchannels.com|redcdn.pl|sweetbc4.club|tvokazje.pl|txxx.com|yaeby.me
 @@*$xmlhttprequest,script,~third-party,domain=boxing-live.stream|fbstream.io|homerun.re|live-ufc.stream|livef1.stream|livemotgp.stream|mlbstream.io|muzlan.top|nbastream.io|nflstream.io|nhlstream.io|programiz.com|readcomiconline.to|reevown.com|rugbystream.me|soccer-live.stream|strikeout.co|tennisstream.me|vipleague.bz|vipleague.cc
 
-*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx|pandavideo.pw
+*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx|pandavideo.pw|mangovideo.pw
 */adbuddy.min.js$script,redirect=noopjs
 */adsid/integrator.js$script,redirect=noopjs,domain=reevown.com
 */anti-ad-buster.js$script,redirect=noopjs
@@ -371,7 +371,6 @@
 ||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js,important,domain=solvetube.site
 ||hellobeyellow.tk/mm/website.php^$important
 ||jsdelivr.net/*/levelmaxblock.js$script,third-party,domain=permadihermawan.site
-||mangovideo.pw/player/float.php$xmlhttprequest
 ||mobzon.ru/adbp/adbp.js$script,domain=mobzon.ru
 ||npttech.com/advertising.js$script,redirect=fuckadblock.js-3.2.0
 ||npttech.com/advertising.js$script,redirect=prevent-fab-3.2.0
@@ -386,7 +385,6 @@
 ||samlab.ws/samlab.js$script
 ||wandouys.com/runtime/js/*$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
-||mangovideo.pw/player/float.php$xmlhttprequest
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
