@@ -1490,8 +1490,8 @@ chip.cz,g.cz,idnes.cz,labuznik.cz,moviemaniac.org,spisovatele.cz#%#//scriptlet("
 69games.xxx##+js(abort-current-inline-script.js, lnkArr, lnkRnd)
 69games.xxx#%#//scriptlet("abort-current-inline-script", "lnkArr", "lnkRnd")
 
-atk-cuteandhairy.com,gaynet.tv##+js(abort-on-property-read.js, puShown)
-atk-cuteandhairy.com,gaynet.tv#%#//scriptlet("abort-on-property-read", "puShown")
+atk-cuteandhairy.com,gaynet.tv,refdomain5.xyz,hepfullfilmizle1.com##+js(abort-on-property-read.js, puShown)
+atk-cuteandhairy.com,gaynet.tv,refdomain5.xyz,hepfullfilmizle1.com#%#//scriptlet("abort-on-property-read", "puShown")
 
 free-mp3-download.net##+js(set-constant.js, showMsg, noopFunc)
 free-mp3-download.net#%#//scriptlet("set-constant", "showMsg", "noopFunc")
