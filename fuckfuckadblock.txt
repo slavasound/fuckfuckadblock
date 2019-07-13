@@ -386,6 +386,7 @@
 ||ruanyifeng.com/blog/checker.js$script
 ||samlab.ws/samlab.js$script
 ||wandouys.com/runtime/js/*$script
+||sgr1.com/main.js$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
 
 1fichier.com##.ct_warn
@@ -773,8 +774,8 @@ proxyrarbg.*,rarbg.is,rarbg.to,rarbg.unblockall.org,rarbg.unblocked.kim,rarbg201
 4tube.com,hotmovs.com,voyeurhit.com##+js(abort-on-property-write.js, ads_priv)
 4tube.com,hotmovs.com,voyeurhit.com#%#//scriptlet("abort-on-property-write", "ads_priv")
 
-animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
-animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
+animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to,openloadmovies.bz##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
+animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to,openloadmovies.bz#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
 
 69games.xxx,altaisouvenirs.ru,fapxl.com,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.mytorr.fun,the-rutor.org##+js(abort-current-inline-script.js, document.createElement, script)
 69games.xxx,altaisouvenirs.ru,fapxl.com,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.mytorr.fun,the-rutor.org#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
