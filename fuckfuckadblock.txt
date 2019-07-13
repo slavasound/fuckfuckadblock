@@ -1652,3 +1652,6 @@ linkandroid.com#%#//scriptlet("abort-on-property-write", "fabActive")
 opjav.com##+js(abort-on-property-read.js, dh_popup)
 opjav.com#%#//scriptlet("abort-on-property-read", "dh_popup")
 
+thesimsresource.com##+js(set-constant.js, isAdBlocked, false)
+thesimsresource.com#%#//scriptlet("set-constant", "isAdsDisplayed", "false")
+
