@@ -218,6 +218,7 @@
 ||cpmlink.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.cloudflare.com;
 ||dailyuploads.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google.com *.gstatic.com ajax.googleapis.com;
 ||embed.media^$csp=script-src 'self' data: 'unsafe-eval' embed.media; media-src *.hlsmp4.com fvs.io; connect-src 'self' embed.media;
+||fembed.com^$csp=script-src 'self' 'unsafe-eval';
 ||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to *.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;
 ||filerio.in^$csp=script-src 'self' 'unsafe-eval' *.bootstrapcdn.com;
 ||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com *.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to *.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;
@@ -228,6 +229,7 @@
 ||grantorrent.com^$csp=script-src 'unsafe-inline' 'self' *.ytimg.com *.youtube.com;
 ||hanime.tv^$csp=upgrade-insecure-requests;
 ||hentai-share.tv^$csp=default-src 'self' 'unsafe-inline' *.cloudflare.com openload.co oloadcdn.net vidoza.net newcloud.tv hqq.tv hub.e-hentai.me fapservice.ru tiwi.kiwi;
+||hqq.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.gstatic.com *.cloudflare.com *.google.com *.hqq.tv *.vkcache.com *.jsdelivr.net;
 ||indishare.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bootstrapcdn.com *.cloudflare.com *.google-analytics.com;
 ||javmec.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval';
 ||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com *.jquery.com *.fruithosted.net *.googleusercontent.com *.googlevideo.com *.fbcdn.net;
@@ -242,6 +244,7 @@
 ||nekopoi.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.chatango.com *.jquery.com *.vidlox.me *.jsdelivr.net vidoza.net vidlox.me *.cloudflare.com *.gstatic.com nekopoi.care nekopoi.lol nekopoi.ga nekopoi.cash *.chatango.com streamcherry.com;
 ||newsfilter.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.addthis.com *.disqus.com *.google-analytics.com *.googleapis.com *.gstatic.com *.google.com *.solvemedia.com;
 ||ourl.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com;
+||pandavideo.pw^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'; frame-src *;
 ||picbaron.com^$csp=script-src 'self';
 ||pornalin.com^$csp=script-src 'self' 'unsafe-inline' *.hwcdn.net; media-src 'self' *.hwcdn.net; frame-src 'none'; connect-src *.hwcdn.net;
 ||pornhd.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.pornhd.com *.awemwh.com *.dditscdn.com;
@@ -252,8 +255,8 @@
 ||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: ajax.googleapis.com *.jwpcdn.com *.googleusercontent.com;
 ||psl.pw^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.solvemedia.com *.scorecardresearch.com *.googletagmanager.com *.googletagservices.com; child-src 'self' *.solvemedia.com *.gstatic.com *.google.com;
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com *.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to *.cloudflare.com streamango.com *.fruithosted.net prettyfast.to entervideo.net;
-||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;
 ||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;
+||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;
 ||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com *.twitter.com *.facebook.net;
 ||rule34hentai.net^$csp=script-src 'self' 'unsafe-inline' *.googleapis.com *.cloudflare.com *.fluidplayer.com *.google.com *.gstatic.com;
 ||sendit.cloud^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.jquery.com;
@@ -280,8 +283,6 @@
 ||xn--e1afprfv.org^$csp=connect-src 'none';
 ||xstreamcdn.com^$csp=connect-src *.xstreamcdn.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.hlsmp4.com *.gstatic.com;
 ||yts.am^$csp=script-src 'self' * 'unsafe-inline';
-||pandavideo.pw^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'; frame-src *;
-||fembed.com^$csp=script-src 'self' 'unsafe-eval';
 
 *$script,third-party,domain=clicknupload.org|clipwatching.com|ecoimages.xyz|fembed.com|igg-games.com|kuntv.pw|linkdrop.net|newsyou.info|openloed.co|readcomiconline.to|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|vidsrc.me
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
@@ -333,11 +334,9 @@
 /^https?:\/\/www\.([a-z]{6,16})\.com\/([a-z]{1,4})\.js$/$third-party,script
 @@*/dfp.js$script,xmlhttprequest,~third-party,domain=detectadblock.com
 @@/^https?:\/\/(.*\.)?adocean\.pl\/(.*\/)?ad\.(js|xml)\?/$script,xmlhttprequest,domain=tvn24.pl
-@@/^https?:\/\/cdnjs\.cloudflare\.com\/.*\/fuckadblock(\.min)?\.js/$third-party,important
 @@||9anime.*/assets/$script
 @@||amgload.net/z|$third-party,xmlhttprequest
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
-@@||cdnjs.cloudflare.com/ajax/libs/jquery/*$script
 @@||chefkoch.de/ads/werbe-banner/doubleclicktag.js
 @@||d1xrtnyoeeet33.cloudfront.net/assets/js/lib/$script,domain=montrealgazette.com|nationalpost.com
 @@||disqus.com^
@@ -359,6 +358,7 @@
 @@||static.animecdn.xyz^$domain=kissanime.ac|kissanime.co|kissanime.com|kissanime.io|kissanime.ru|kissanime.si|kissanime.to
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
+@@||cdnjs.cloudflare.com^$third-party
 ||1movies.*/site/$xmlhttprequest
 ||9anime.*^$script,~third-party
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
