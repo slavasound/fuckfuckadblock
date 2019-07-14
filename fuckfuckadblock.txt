@@ -177,12 +177,13 @@
 
 /(acales)\.ru/$third-party
 /(adbetclickin)\.pink/$third-party
-/(adbetnet|bodelen|braun634|cap\-cap\-pop|clickadilla|clickiocdn|clksite|cpiyz|defpush|deloplen|deloplenn|dolohen|doublepimp|exarab|exdynsrv|exoclick|exoclsodaqs|exosrv|getclicky|juicyads|muahohanghoa|newdonate|onclicksuper|pastoupt|poparya|popmajor|popmyads|propellerclick|punosy|pushlaram|pushnative|pushnevis|pushqwer|s2block|sdasasyydd|syndapop|syndicpop|tinypass|tslomhfys|xclickers|ytimgg|zarpop)\.com/$third-party
+/(adbetnet|bodelen|braun634|cap\-cap\-pop|clickadilla|clickiocdn|clksite|cpiyz|defpush|deloplen|deloplenn|dolohen|doublepimp|exarab|exdynsrv|exoclick|exoclsodaqs|exosrv|getclicky|juicyads|muahohanghoa|newdonate|onclicksuper|pastoupt|poparya|popmajor|popmyads|propellerclick|punosy|pushlaram|pushnative|pushnevis|pushqwer|s2block|sdasasyydd|syndapop|syndicpop|tinypass|tslomhfys|xclickers|ytimgg|zarpop|koindut)\.com/$third-party
 /(adswrapme)\.click/$third-party
 /(clcknads)\.pro/$third-party
 /(click2m)\.org/$third-party
 /(clickmon)\.co\.kr/$third-party
 /(hostingcloud)\.racing/$third-party
+/(kenvam)\.online/$third-party
 /(popcash)\.net/$third-party
 /(popunders)\.bid/$third-party
 /(propu)\.sh/$third-party
@@ -780,8 +781,8 @@ proxyrarbg.*,rarbg.is,rarbg.to,rarbg.unblockall.org,rarbg.unblocked.kim,rarbg201
 4tube.com,hotmovs.com,voyeurhit.com##+js(abort-on-property-write.js, ads_priv)
 4tube.com,hotmovs.com,voyeurhit.com#%#//scriptlet("abort-on-property-write", "ads_priv")
 
-animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to,openloadmovies.bz##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
-animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to,openloadmovies.bz#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
+animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to,openloadmovies.bz,streamingworld.xyz##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
+animeyt2.tv,ebookdz.com,newsyou.info,rutorgames.info,swatchseries.to,openloadmovies.bz,streamingworld.xyz#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
 
 69games.xxx,altaisouvenirs.ru,fapxl.com,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.mytorr.fun,the-rutor.org##+js(abort-current-inline-script.js, document.createElement, script)
 69games.xxx,altaisouvenirs.ru,fapxl.com,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.mytorr.fun,the-rutor.org#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
