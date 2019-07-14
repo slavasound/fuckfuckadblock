@@ -254,7 +254,7 @@
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;
 ||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;
 ||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com *.twitter.com *.facebook.net;
-||rule34hentai.net^$csp=script-src 'self' 'unsafe-inline' *.googleapis.com *.cloudflare.com *.fluidplayer.com *.google.com *.gstatic.com *.google-analytics.com;
+||rule34hentai.net^$csp=script-src 'self' 'unsafe-inline' *.googleapis.com *.cloudflare.com *.fluidplayer.com *.google.com *.gstatic.com;
 ||sendit.cloud^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.jquery.com;
 ||short.pe^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.solvemedia.com *.scorecardresearch.com *.googletagmanager.com *.googletagservices.com; child-src 'self' *.solvemedia.com *.gstatic.com *.google.com;
 ||short.pe^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google-analytics.com *.google.com *.solvemedia.com *.scorecardresearch.com *.googletagmanager.com *.googletagservices.com; child-src 'self' *.solvemedia.com *.gstatic.com *.google.com;
@@ -325,6 +325,7 @@
 */source/antiblock.js$script
 */stl.js$script,domain=thatav.net
 */sw.js$script,redirect=noopjs
+/\/(license|script)\.\d{1,5}\.js/$script
 /\/(propadbl\_epxhd\.js|galaxad\_tpx\.js)/$script,domain=topeuropix.net|europixhd.net,important
 /^https:\/\/.*?\/v2\/0\/[a-zA-Z0-9_-]{30,}$/$third-party,script
 /^https?:\/\/([a-z0-9]{3,10}\.)?[a-z0-9]{5,15}\.(click|com|bid|net|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/script
@@ -362,6 +363,7 @@
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
 ||akamaihd.net/vod$media,redirect=noopmp3-0.1s,domain=glomex.com
 ||allnorilsk.ru/js/adb.js$script,domain=allnorilsk.ru
+||animeland.us/dontuse2.png$subdocument
 ||cdn.zomap.de^$media,redirect=noopmp3-0.1s,domain=prosieben.de
 ||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,third-party
@@ -386,10 +388,9 @@
 ||rp5.*/scripts/main.*.js$script
 ||ruanyifeng.com/blog/checker.js$script
 ||samlab.ws/samlab.js$script
-||wandouys.com/runtime/js/*$script
 ||sgr1.com/main.js$script
+||wandouys.com/runtime/js/*$script
 ||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
-||animeland.us/dontuse2.png$subdocument
 
 1fichier.com##.ct_warn
 adyou.*#@#.adscontainer
@@ -446,9 +447,10 @@ respekt.cz##.adblocker
 ||beeg.com/logo.gif?$badfilter
 ||gemius.pl^$third-party,badfilter
 ||kinozal-tv.appspot.com^$badfilter
-||rapidvideo.com^$script,badfilter
 ||newrutor.eu.org^$badfilter
+||rapidvideo.com^$script,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
+||rule34hentai.net^$script,~third-party,badfilter
 
 1777.ru,1variant.ru,24boxing.com.ua,24tv.ua,actual.today,afterdispatch.com,beztabu.net,bonnylady.com,bookre.org,boxnews.com.ua,bukvar.su,businessua.com,chtyvo.org.ua,cn.ru,cotlix.com,cxid.info,dengi.ua,economics-prorok.com,edinstvennaya.ua,etextlib.ru,football-ukraine.com,football24.ua,footballtransfer.com.ua,getwall.ru,glavcom.ua,glianec.com,hvylya.net,i.ua,iarex.ru,institute.com.ua,internetua.com,kinoafisha.ua,korrespondent.net,kp.ua,kriminal.tv,lessons.com.ua,liga.net,lux.fm,mabila.ua,maximum.fm,metodportal.net,mignews.com.ua,nashamama.com,newsone.ua,nnovosti.info,obozrevatel.com,oligarh.media,orakul.com,ostro.org,padabum.com,padabum.net,padaread.com,paparazzi.ru,peers.tv,pozitciya.com.ua,ppt.ru,pravda.com.ua,primecrime.ru,radnuk.info,referatbox.com,refsmarket.com.ua,repetitor.ua,schoollit.com.ua,sdnnet.ru,smak.ua,socportal.info,sportanalytic.com,superdom.ua,telegraf.in.ua,testsoch.com,testsoch.net,tochka.net,torrentom.com,tv.ua,tvgid.ua,tvori.com.ua,tvoymalysh.com.ua,ukrlib.com.ua,vchaspik.ua,vgorode.ua,viva.ua,vringe.com,vsetv.com,vsetv.ru,wow-helper.com,xittv.net,zaxid.net,zdorovia.com.ua,zn.ua##^script:has-text("zmctrack")
 1777.ru,1variant.ru,24boxing.com.ua,24tv.ua,actual.today,afterdispatch.com,beztabu.net,bonnylady.com,bookre.org,boxnews.com.ua,bukvar.su,businessua.com,chtyvo.org.ua,cn.ru,cotlix.com,cxid.info,dengi.ua,economics-prorok.com,edinstvennaya.ua,etextlib.ru,football-ukraine.com,football24.ua,footballtransfer.com.ua,getwall.ru,glavcom.ua,glianec.com,hvylya.net,i.ua,iarex.ru,institute.com.ua,internetua.com,kinoafisha.ua,korrespondent.net,kp.ua,kriminal.tv,lessons.com.ua,liga.net,lux.fm,mabila.ua,maximum.fm,metodportal.net,mignews.com.ua,nashamama.com,newsone.ua,nnovosti.info,obozrevatel.com,oligarh.media,orakul.com,ostro.org,padabum.com,padabum.net,padaread.com,paparazzi.ru,peers.tv,pozitciya.com.ua,ppt.ru,pravda.com.ua,primecrime.ru,radnuk.info,referatbox.com,refsmarket.com.ua,repetitor.ua,schoollit.com.ua,sdnnet.ru,smak.ua,socportal.info,sportanalytic.com,superdom.ua,telegraf.in.ua,testsoch.com,testsoch.net,tochka.net,torrentom.com,tv.ua,tvgid.ua,tvori.com.ua,tvoymalysh.com.ua,ukrlib.com.ua,vchaspik.ua,vgorode.ua,viva.ua,vringe.com,vsetv.com,vsetv.ru,wow-helper.com,xittv.net,zaxid.net,zdorovia.com.ua,zn.ua$$script[tag-content="zmctrack"][max-length="25000"]
