@@ -1221,8 +1221,8 @@ rustorka.com##+js(abort-current-inline-script.js, ads_script)
 atresplayer.com##+js(setTimeout-defuser.js, _creatBait)
 atresplayer.com#%#//scriptlet("prevent-setTimeout", "_creatBait")
 
-alrincon.com,cambabe.*,camwhores.tv,doseofgay.com,free-porn.games,moozpussy.com,porno-island.*,wantedbabes.com,webcamsluts.net,windows-portal.pw,zehnporn.com,ftopx.com##+js(abort-current-inline-script.js, loadTool, popping)
-alrincon.com,cambabe.*,camwhores.tv,doseofgay.com,free-porn.games,moozpussy.com,porno-island.*,wantedbabes.com,webcamsluts.net,windows-portal.pw,zehnporn.com,ftopx.com#%#//scriptlet("abort-current-inline-script", "loadTool", "popping")
+alrincon.com,cambabe.*,camwhores.*,doseofgay.com,free-porn.games,moozpussy.com,porno-island.*,wantedbabes.com,webcamsluts.net,windows-portal.pw,zehnporn.com,ftopx.com##+js(abort-current-inline-script.js, loadTool, popping)
+alrincon.com,cambabe.*,camwhores.*,doseofgay.com,free-porn.games,moozpussy.com,porno-island.*,wantedbabes.com,webcamsluts.net,windows-portal.pw,zehnporn.com,ftopx.com#%#//scriptlet("abort-current-inline-script", "loadTool", "popping")
 
 lifesurance.info##+js(abort-on-property-read.js, showAds)
 lifesurance.info#%#//scriptlet("abort-on-property-read", "showAds")
