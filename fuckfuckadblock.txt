@@ -206,7 +206,6 @@
 /^https?:\/\/(www\.)?(xvideos|xnxx)\.com/$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.gstatic.com *.xvideos-cdn.com *.xvideos.com *.xnxx-cdn.com *.xnxx;
 ||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com *.jwpcdn.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to;
 ||1337x.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval';img-src *;
-||1337x.*^$csp=script-src 'self' 'unsafe-inline';
 ||admew.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.googletagmanager.com *.gstatic.com;
 ||adshort.*^$csp=script-src 'self' 'unsafe-inline' data: *.google.com *.gstatic.com;
 ||adsrt.*^$csp=script-src 'self' 'unsafe-inline' data: *.google.com *.gstatic.com;
@@ -230,6 +229,7 @@
 ||grantorrent.com^$csp=script-src 'unsafe-inline' 'self' *.ytimg.com *.youtube.com;
 ||hanime.tv^$csp=upgrade-insecure-requests;
 ||hentai-share.tv^$csp=default-src 'self' 'unsafe-inline' *.cloudflare.com openload.co oloadcdn.net vidoza.net newcloud.tv hqq.tv hub.e-hentai.me fapservice.ru tiwi.kiwi;
+||hitorrentsearchweb.pw^$csp=script-src 'none'; object-src 'none'; connect-src 'none';
 ||hqq.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.gstatic.com *.cloudflare.com *.google.com *.hqq.tv *.vkcache.com *.jsdelivr.net;
 ||indishare.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bootstrapcdn.com *.cloudflare.com *.google-analytics.com;
 ||javmec.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval';
