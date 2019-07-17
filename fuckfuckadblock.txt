@@ -1272,8 +1272,8 @@ upflix.pl#%#//scriptlet("set-constant", "adBlocker", "noopFunc")
 deutsche-porn.com##+js(abort-on-property-read.js, _paq)
 deutsche-porn.com#%#//scriptlet("abort-on-property-read", "_paq")
 
-xhamster.*##+js(abort-on-property-write.js, dataPopUnder)
-xhamster.*#%#//scriptlet("abort-on-property-write", "dataPopUnder")
+xhamster.*,gate.cc##+js(abort-on-property-write.js, dataPopUnder)
+xhamster.*,gate.cc#%#//scriptlet("abort-on-property-write", "dataPopUnder")
 
 xhamster.com##+js(abort-on-property-read.js, initials.urls.backUrl)
 xhamster.com#%#//scriptlet("abort-on-property-read", "initials.urls.backUrl")
