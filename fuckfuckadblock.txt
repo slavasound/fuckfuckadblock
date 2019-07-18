@@ -338,6 +338,7 @@
 @@||9anime.*/assets/$script
 @@||amgload.net/z|$third-party,xmlhttprequest
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
+@@||cdnjs.cloudflare.com^$third-party
 @@||chefkoch.de/ads/werbe-banner/doubleclicktag.js
 @@||d1xrtnyoeeet33.cloudfront.net/assets/js/lib/$script,domain=montrealgazette.com|nationalpost.com
 @@||disqus.com^
@@ -359,7 +360,6 @@
 @@||static.animecdn.xyz^$domain=kissanime.ac|kissanime.co|kissanime.com|kissanime.io|kissanime.ru|kissanime.si|kissanime.to
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
-@@||cdnjs.cloudflare.com^$third-party
 ||1movies.*/site/$xmlhttprequest
 ||9anime.*^$script,~third-party
 ||ad4msan.*/wp-content/plugins/adunblocker/*$script
@@ -367,6 +367,7 @@
 ||allnorilsk.ru/js/adb.js$script,domain=allnorilsk.ru
 ||animeland.us/dontuse2.png$subdocument
 ||cdn.zomap.de^$media,redirect=noopmp3-0.1s,domain=prosieben.de
+||cibntv.net/youku/*$media,redirect=noopmp3-0.1s,domain=youku.com
 ||convert2mp3.net/assets/js/push.js$script,important,domain=convert2mp3.net
 ||d1wa9546y9kg0n.cloudfront.net/index.js$script,third-party
 ||damoh.tvnow.de/*$media,redirect=noopmp3-0.1s,domain=tvnow.de
