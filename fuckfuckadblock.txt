@@ -1574,8 +1574,8 @@ badassoftcore.com#%#//scriptlet("prevent-setTimeout", "msg")
 hxload.*##+js(set-constant.js, iExist, true)
 hxload.*#%#//scriptlet("set-constant", "iExist", "true")
 
-lotechnocan.org##+js(abort-on-property-read.js, atob)
-lotechnocan.org#%#//scriptlet("abort-on-property-read", "atob")
+lotechnocan.org,rusporno.co##+js(abort-on-property-read.js, atob)
+lotechnocan.org,rusporno.co#%#//scriptlet("abort-on-property-read", "atob")
 
 kissanime.*,grandmp.com##+js(abort-on-property-write.js, isClickHide)
 kissanime.*,grandmp.com#%#//scriptlet("abort-on-property-write", "isClickHide")
