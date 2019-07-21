@@ -656,8 +656,8 @@ anysex.com,dailyimages.*,ecoimages.xyz,fantasti.cc,fuckpix.club,girlsofdesire.or
 4inlook.com,bdsmporn.cc,belloporno.com,bestxvideos.site,celebsepna.com,cocoporn.net,comicspornos.com,cushyporn.com,douxporno.com,faperplace.com,freeadultvideos.cc,freepornstream.cc,french-streams.com,ftopx.com,gaysamadores.com.br,generalpornmovies.com,gonzoporn.cc,gravuregirlz.com,gutteruncensored.org,luscious.net,mature.bz,mmmoffice.mx,onlinefetishporn.cc,onlinexxx.cc,peetube.cc,pornoreino.com,porntube18.cc,pornult.com,rapidvideo.com,sexv.video,streamextreme.cc,streamporn.cc,supermzigo.co.tz,tegra.ir,tmohentai.com,tvporn.cc,vqporn.com,watchporn.cc,worldsex.com,xasiat.com,xuandan.com,xxxonline.cc,xxxopenload.com##+js(addEventListener-defuser.js, /^(?:load|click)$/, popMagic)
 4inlook.com,bdsmporn.cc,belloporno.com,bestxvideos.site,celebsepna.com,cocoporn.net,comicspornos.com,cushyporn.com,douxporno.com,faperplace.com,freeadultvideos.cc,freepornstream.cc,french-streams.com,ftopx.com,gaysamadores.com.br,generalpornmovies.com,gonzoporn.cc,gravuregirlz.com,gutteruncensored.org,luscious.net,mature.bz,mmmoffice.mx,onlinefetishporn.cc,onlinexxx.cc,peetube.cc,pornoreino.com,porntube18.cc,pornult.com,rapidvideo.com,sexv.video,streamextreme.cc,streamporn.cc,supermzigo.co.tz,tegra.ir,tmohentai.com,tvporn.cc,vqporn.com,watchporn.cc,worldsex.com,xasiat.com,xuandan.com,xxxonline.cc,xxxopenload.com#%#//scriptlet("prevent-addEventListener", "/^(?:load|click)$/", "popMagic")
 
-fas.li,jntufastupdates.com,likn.xyz,techperiod.com,thefilmbay.com,tmohentai.com##+js(abort-on-property-read.js, blockAdBlock)
-fas.li,jntufastupdates.com,likn.xyz,techperiod.com,thefilmbay.com,tmohentai.com#%#//scriptlet("abort-on-property-read", "blockAdBlock")
+fas.li,jntufastupdates.com,likn.xyz,techperiod.com,thefilmbay.com,tmohentai.com,novaenreta.space##+js(abort-on-property-read.js, blockAdBlock)
+fas.li,jntufastupdates.com,likn.xyz,techperiod.com,thefilmbay.com,tmohentai.com,novaenreta.space#%#//scriptlet("abort-on-property-read", "blockAdBlock")
 
 bellinghamherald.com,elpais.com,okdiario.com##+js(abort-current-inline-script.js, googlefc)
 bellinghamherald.com,elpais.com,okdiario.com#%#//scriptlet("abort-current-inline-script", "googlefc")
@@ -1117,12 +1117,6 @@ lesoir.be#%#//scriptlet("prevent-setTimeout", "adb")
 
 2ddl.*,adsvy.com,ancensored.com,av8x.com,biqle.ru,boxing-live.stream,fbstream.io,fembed.com,ganol.*,ganool.*,homerun.re,javboss.com,javqd.com,jurl.io,live-ufc.stream,livef1.stream,livemotgp.stream,mispelisyseries.com,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,oturl.com,planetatorrent.com,qdembed.com,readcomiconline.to,rugbystream.me,seehd.*,short2win.*,soccer-live.stream,strikeout.*,tennisstream.me,thepiratebay.*,torrentrapid.com,tubeqd.com,tumejortorrent.com,tvsinpagar.com,vipleague.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 2ddl.*,adsvy.com,ancensored.com,av8x.com,biqle.ru,boxing-live.stream,fbstream.io,fembed.com,ganol.*,ganool.*,homerun.re,javboss.com,javqd.com,jurl.io,live-ufc.stream,livef1.stream,livemotgp.stream,mispelisyseries.com,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,oturl.com,planetatorrent.com,qdembed.com,readcomiconline.to,rugbystream.me,seehd.*,short2win.*,soccer-live.stream,strikeout.*,tennisstream.me,thepiratebay.*,torrentrapid.com,tubeqd.com,tumejortorrent.com,tvsinpagar.com,vipleague.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
-
-shink.*,shon.xyz##+js(abort-current-inline-script.js, $, blockAdBlock)
-shink.*,shon.xyz#%#//scriptlet("abort-current-inline-script", "$", "blockAdBlock")
-
-shink.*##+js(abort-on-property-read.js, pup)
-shink.*#%#//scriptlet("abort-on-property-read", "pup")
 
 123link.*,anistar.org,megaurl.in#%#//scriptlet("abort-on-property-read", "jQuery.adblock")
 123link.*,anistar.org,megaurl.in##+js(abort-on-property-read.js, jQuery.adblock)
