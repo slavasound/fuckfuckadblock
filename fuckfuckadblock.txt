@@ -358,6 +358,7 @@
 @@||stat24.com^
 @@||static.animecdn.xyz^$domain=kissanime.ac|kissanime.co|kissanime.com|kissanime.io|kissanime.ru|kissanime.si|kissanime.to
 @@||turkanime.tv/ad/$xmlhttprequest,~third-party
+@@||remont-aud.net/js/pagead2.ads.js$script
 @@||yjcontentdelivery.com^$script,domain=youjizz.com
 ||1movies.*/site/$xmlhttprequest
 ||9anime.*^$script,~third-party
