@@ -749,8 +749,8 @@ allapp.xyz,converthinks.xyz,filmywap.*,hentai-vl.blogspot.com,infotrendy.me,javh
 povvideo.*,powvldeo.*,streamp1ay.*##+js(abort-on-property-write.js, Fingerprent2)
 povvideo.*,powvldeo.*,streamp1ay.*#%#//scriptlet("abort-on-property-write", "Fingerprent2")
 
-grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,vidup.me##+js(abort-on-property-read.js, miner)
-grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,vidup.me#%#//scriptlet("abort-on-property-read", "miner")
+grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,vidup.me,xmoviesforyou.com##+js(abort-on-property-read.js, miner)
+grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,vidup.me,xmoviesforyou.com#%#//scriptlet("abort-on-property-read", "miner")
 
 nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br##+js(abort-on-property-write.js, CoinNebula)
 nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br#%#//scriptlet("abort-on-property-write", "CoinNebula")
@@ -896,9 +896,6 @@ yaysavings.com#%#//scriptlet("abort-on-property-write", "is_adblocked")
 jovempan.uol.com.br,lippycorn.com,planificacionmedios.com,recreatisse.com,worldfreeware.com,zmoe.ru##+js(abort-on-property-read.js, window.adback_wording)
 jovempan.uol.com.br,lippycorn.com,planificacionmedios.com,recreatisse.com,worldfreeware.com,zmoe.ru#%#//scriptlet("abort-on-property-read", "window.adback_wording")
 
-fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
-fox.com.tr#%#//scriptlet("set-constant", "adblockDetector", "trueFunc")
-
 athyrium.eu,bilgisayarbilisim.net,blackhatworld.com,bmwfaq.org,civicx.com,controlbooth.com,dbstalk.com,digiex.net,forum.bestflowers.ru,gamekiller.net,gotitans.com,hiphopshelter.com,hornfans.com,ihax.fr,lilhonda.com,myteamspeak.ru,osxinfo.net,pakistan.web.pk,paperzonevn.com,parents.at,pflegeboard.de,photrio.com,portaliz.info,r3owners.net,redcafe.net,sandalwoodking.rocks,seoxa.club,snbforums.com,svtperformance.com,talkceltic.net,tilersforums.co.uk,tivocommunity.com,toptipstricks.net,traderviet.com,truckingboards.com asoccer.co.il,zdravtrav.ru##+js(abort-on-property-write.js, AdBlockDetectorWorkaround)
 athyrium.eu,bilgisayarbilisim.net,blackhatworld.com,bmwfaq.org,civicx.com,controlbooth.com,dbstalk.com,digiex.net,forum.bestflowers.ru,gamekiller.net,gotitans.com,hiphopshelter.com,hornfans.com,ihax.fr,lilhonda.com,myteamspeak.ru,osxinfo.net,pakistan.web.pk,paperzonevn.com,parents.at,pflegeboard.de,photrio.com,portaliz.info,r3owners.net,redcafe.net,sandalwoodking.rocks,seoxa.club,snbforums.com,svtperformance.com,talkceltic.net,tilersforums.co.uk,tivocommunity.com,toptipstricks.net,traderviet.com,truckingboards.com asoccer.co.il,zdravtrav.ru#%#//scriptlet("abort-on-property-write", "AdBlockDetectorWorkaround")
 
@@ -1034,20 +1031,8 @@ beautypackaging.com,coatingsworld.com,contractpharma.com,happi.com,inkworldmagaz
 eldia.es##+js(set-constant.js, pr_okvalida, true)
 eldia.es#%#//scriptlet("set-constant", "pr_okvalida", "true")
 
-hotpornfile.org##+js(abort-current-inline-script.js, jQuery, perpage)
-hotpornfile.org#%#//scriptlet("abort-current-inline-script", "jQuery", "perpage")
-
 hotpornfile.org##+js(abort-on-property-read.js, ExLdr.serve)
 hotpornfile.org#%#//scriptlet("abort-on-property-read", "ExLdr.serve")
-
-hotpornfile.org##+js(abort-on-property-write.js, getIfc)
-hotpornfile.org#%#//scriptlet("abort-on-property-write", "getIfc")
-
-hotpornfile.org##+js(abort-on-property-write.js, overlay_as_script)
-hotpornfile.org#%#//scriptlet("abort-on-property-write", "overlay_as_script")
-	
-hotpornfile.org##+js(abort-current-inline-script.js, postscribe, setTimeout)
-hotpornfile.org#%#//scriptlet("abort-current-inline-script", "postscribe", "setTimeout")
 
 eporner.*##+js(abort-on-property-write.js, EPeventFire)
 eporner.*#%#//scriptlet("abort-on-property-write", "EPeventFire")
@@ -1088,12 +1073,6 @@ samlab.*#%#//scriptlet("abort-on-property-read", "ad_block")
 m.rp5.*##+js(abort-on-property-read.js, adInvite_id)
 m.rp5.*#%#//scriptlet("abort-on-property-read", "adInvite_id")
 
-sme.sk##+js(abort-on-property-read.js, adBlockDetector)
-sme.sk#%#//scriptlet("abort-on-property-read", "adBlockDetector")
-
-sme.sk##+js(abort-on-property-read.js, GoogleContributor)
-sme.sk#%#//scriptlet("abort-on-property-read", "GoogleContributor")
-
 sportsplays.com#%#//scriptlet("prevent-setTimeout", "abDetected")
 sportsplays.com##+js(setTimeout-defuser.js, abDetected)
 
@@ -1102,9 +1081,6 @@ tomshw.it#%#//scriptlet("prevent-setTimeout", "bioEp.showPopup")
 
 speedporn.net,xopenload.me,adultvideoz.net,pandavideo.pw##+js(set-constant.js, jsUnda, noopFunc)
 speedporn.net,xopenload.me,adultvideoz.net,pandavideo.pw#%#//scriptlet("set-constant", "jsUnda", "noopFunc")
-
-adultvideoz.net##+js(addEventListener-defuser.js, load, popunder)
-adultvideoz.net#%#//scriptlet("prevent-addEventListener", "load", "popunder")
 
 3ddl.tv,69games.xxx,8tube.xxx,animeforce.*,asextube.net,b4busty.com,bangdom.com,bbwhottie.com,dddcups.net,dddvids.com,ddl-mdh.org,dump.xxx,embedy.me,fapster.xxx,fiuxy.eu,gotgayporn.com,gounlimited.to,hd-world.org,hdporn.to,hdxnxx.xxx,homosexualtube.com,hotpornfile.org,hqtube.xxx,kaotic.com,kingsizejuggs.com,maturexxxphotos.com,maturosexy.com,milfgals.net,milfmaturesex.net,myxvids.com,oldmaturepost.com,oldpornwhore.com,pinjuggs.com,playpornfree.xyz,pornbust.net,pornid.xxx,redhdtube.xxx,smutr.com,spicytitties.com,swipe.xxx,titsintops.com,warez-world.org,xxx-blog.to##+js(abort-on-property-read.js, popns)
 3ddl.tv,69games.xxx,8tube.xxx,animeforce.*,asextube.net,b4busty.com,bangdom.com,bbwhottie.com,dddcups.net,dddvids.com,ddl-mdh.org,dump.xxx,embedy.me,fapster.xxx,fiuxy.eu,gotgayporn.com,gounlimited.to,hd-world.org,hdporn.to,hdxnxx.xxx,homosexualtube.com,hotpornfile.org,hqtube.xxx,kaotic.com,kingsizejuggs.com,maturexxxphotos.com,maturosexy.com,milfgals.net,milfmaturesex.net,myxvids.com,oldmaturepost.com,oldpornwhore.com,pinjuggs.com,playpornfree.xyz,pornbust.net,pornid.xxx,redhdtube.xxx,smutr.com,spicytitties.com,swipe.xxx,titsintops.com,warez-world.org,xxx-blog.to#%#//scriptlet("abort-on-property-read", "popns")
@@ -1379,8 +1355,8 @@ crazyshit.com,donk69.com,fantasti.cc,gfjizz.com,pornxs.com,pornxt.com,smutr.com,
 playpornfree.xyz,watchfreexxx.net,wpncdn.com,pandavideo.pw##+js(abort-current-inline-script.js, jsUnda , /pop2under|URLlist/)
 playpornfree.xyz,watchfreexxx.net,wpncdn.com,pandavideo.pw#%#//scriptlet("abort-current-inline-script", "jsUnda", "/pop2under|URLlist/")
 
-69games.xxx,gamcore.com,goodav17.com,hclips.com,hentaifreak.org,hotmovs.com,jobnet.co.il,playpornfree.xyz,pornalin.com,senimovies.net,streamtajm.*,uiporn.com,xozilla.com##+js(abort-on-property-read.js, popunder)
-69games.xxx,gamcore.com,goodav17.com,hclips.com,hentaifreak.org,hotmovs.com,jobnet.co.il,playpornfree.xyz,pornalin.com,senimovies.net,streamtajm.*,uiporn.com,xozilla.com#%#//scriptlet("abort-on-property-read", "popunder")
+69games.xxx,gamcore.com,goodav17.com,hclips.com,hentaifreak.org,hotmovs.com,jobnet.co.il,playpornfree.xyz,pornalin.com,senimovies.net,streamtajm.*,uiporn.com,xozilla.com,adultvideoz.net##+js(abort-on-property-read.js, popunder)
+69games.xxx,gamcore.com,goodav17.com,hclips.com,hentaifreak.org,hotmovs.com,jobnet.co.il,playpornfree.xyz,pornalin.com,senimovies.net,streamtajm.*,uiporn.com,xozilla.com,adultvideoz.net#%#//scriptlet("abort-on-property-read", "popunder")
 
 readcomiconline.to,vidsrc.*##+js(set-constant.js, String.fromCharCode, trueFunc)
 readcomiconline.to,vidsrc.*#%#//scriptlet("set-constant", "String.fromCharCode", "trueFunc")
@@ -1534,9 +1510,6 @@ egybest2.com,egybest4.com#%#//scriptlet("abort-on-property-read", "localStorage"
 
 hd21.com,winporn.com##+js(abort-on-property-read.js, showspop)
 hd21.com,winporn.com#%#//scriptlet("abort-on-property-read", "showspop")
-
-xmoviesforyou.com##+js(abort-on-property-write.js, miner)
-xmoviesforyou.com#%#//scriptlet("abort-on-property-write", "miner")
 
 countrygames.net,cogamer.net##+js(addEventListener-defuser.js, click, openWindow)
 countrygames.net,cogamer.net#%#//scriptlet("prevent-addEventListener", "click", "openWindow")
