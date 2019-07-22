@@ -416,6 +416,7 @@ finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefak
 firmwarefiledownload.xyz##.js-reveal-modal, .reveal-modal-bg
 finanse.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl##div:has(div > img[src*="NDM0MzY2YSUsUjtJdklsMG8KbxkpWhE3OVRvVntHbH5vHyQXOFUrN2JRLBh2XCcmY0AjHXtP"])
 forum.xda-developers.com##.bravetwig-top:has(a[href^="https://forum.xda-developers.com/getbrave"])
+finanse.wp.pl,gwiazdy.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,tech.wp.pl,wiadomosci.wp.pl##body > div[class][id]:has(img[class][src="https://v.wpimg.pl/NDM0Mzg1YSUsUjtJSEpsMG8KbxkXWRE3OVRvVkVEbH5vHyQXBlYrN2JRLBhIXycmY0AjHUVM"])
 full-stream.co,full-stream.nu##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed; z-index:"]
 gamesubject.com###headb
 gelbooru.com##a[href*="/track/"][target="_blank"]
