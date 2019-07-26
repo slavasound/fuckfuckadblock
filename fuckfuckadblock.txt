@@ -556,9 +556,6 @@ bubblecloud.ml,file-up.*,file-upload.*,filesharing.io,freeupload.*,fstore.*,hopt
 2speed.net,dailyuploads.*,dropupload.com,speed4up.*,uploadship.com,userupload.net##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 2speed.net,dailyuploads.*,dropupload.com,speed4up.*,uploadship.com,userupload.net#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adblockinfo")
 
-leakforums.*,verystream.com,mad4wheels.com##+js(abort-on-property-read.js, adblock)
-leakforums.*,verystream.com,mad4wheels.com#%#//scriptlet("abort-on-property-read", "adblock")
-
 18tube.club,ad4msan.*,andek.com.pl,arcadepunks.com,berryboot.alexgoldcheidt.com,blogspot.com,chicoer.com,damnripped.com,finobe.com,freemalaysiatoday.com,gamesource.it,hackinblood.com,independent.co.uk,jbzdy.com.pl,logrosxbox.com,mshare.io,myvidster.com,mywrestling.com.pl,olympine.com,onet.pl,openloadtv.*,papalah.com,playview.io,pleximum.com,professionaltutorial.com,sexgayhot.com,sme.sk,svapo.it,thefilmbay.com,tvple.com,udemycouponscode.com,vehicle-techno.cf,yumechan.club##+js(abort-on-property-write.js, KillAdBlock)
 18tube.club,ad4msan.*,andek.com.pl,arcadepunks.com,berryboot.alexgoldcheidt.com,blogspot.com,chicoer.com,damnripped.com,finobe.com,freemalaysiatoday.com,gamesource.it,hackinblood.com,independent.co.uk,jbzdy.com.pl,logrosxbox.com,mshare.io,myvidster.com,mywrestling.com.pl,olympine.com,onet.pl,openloadtv.*,papalah.com,playview.io,pleximum.com,professionaltutorial.com,sexgayhot.com,sme.sk,svapo.it,thefilmbay.com,tvple.com,udemycouponscode.com,vehicle-techno.cf,yumechan.club#%#//scriptlet("abort-on-property-write", "KillAdBlock")
 
@@ -862,9 +859,6 @@ autocentrum.pl#%#//scriptlet("set-constant", "adblockJsFile", "true")
 gfycat.com,wantedbabes.com##+js(set-constant.js, setInterval, noopFunc)
 gfycat.com,wantedbabes.com#%#//scriptlet("set-constant", "setInterval", "noopFunc")
 
-programinadresi.com##+js(abort-on-property-read.js, adBlock)
-programinadresi.com#%#//scriptlet("abort-on-property-read", "adBlock")
-
 freemcserver.net,mangahost1.com,mangahost2.com##+js(setTimeout-defuser.js, adblock)
 freemcserver.net,mangahost1.com,mangahost2.com#%#//scriptlet("prevent-setTimeout", "adblock")
 
@@ -936,6 +930,9 @@ bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_N
 
 vinaurl.in##+js(abort-on-property-read.js, adsHeight)
 vinaurl.in#%#//scriptlet("abort-on-property-read", "adsHeight")
+
+leakforums.*,verystream.com,mad4wheels.com,programinadresi.com##+js(abort-on-property-read.js, /adblock|adBlock/)
+leakforums.*,verystream.com,mad4wheels.com,programinadresi.com#%#//scriptlet("abort-on-property-read", "adblock")
 
 dieroten.pl##+js(addEventListener-defuser.js, DOMContentLoaded, checkAdBlock)
 dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "checkAdBlock")
@@ -1180,8 +1177,8 @@ rustorka.com##+js(abort-current-inline-script.js, ads_script)
 atresplayer.com##+js(setTimeout-defuser.js, _creatBait)
 atresplayer.com#%#//scriptlet("prevent-setTimeout", "_creatBait")
 
-alrincon.com,cambabe.*,camwhores.*,doseofgay.com,free-porn.games,moozpussy.com,porno-island.*,wantedbabes.com,webcamsluts.net,windows-portal.pw,zehnporn.com,ftopx.com##+js(abort-current-inline-script.js, loadTool, popping)
-alrincon.com,cambabe.*,camwhores.*,doseofgay.com,free-porn.games,moozpussy.com,porno-island.*,wantedbabes.com,webcamsluts.net,windows-portal.pw,zehnporn.com,ftopx.com#%#//scriptlet("abort-current-inline-script", "loadTool", "popping")
+alrincon.com,cambabe.*,camwhores.*,doseofgay.com,free-porn.games,moozpussy.com,porno-island.*,wantedbabes.com,webcamsluts.net,windows-portal.pw,zehnporn.com,ftopx.com,consoletarget.com##+js(abort-current-inline-script.js, loadTool, popping)
+alrincon.com,cambabe.*,camwhores.*,doseofgay.com,free-porn.games,moozpussy.com,porno-island.*,wantedbabes.com,webcamsluts.net,windows-portal.pw,zehnporn.com,ftopx.com,consoletarget.com#%#//scriptlet("abort-current-inline-script", "loadTool", "popping")
 
 lifesurance.info##+js(abort-on-property-read.js, showAds)
 lifesurance.info#%#//scriptlet("abort-on-property-read", "showAds")
