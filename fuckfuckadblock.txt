@@ -796,9 +796,6 @@ eroclips.org,pornbimbo.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
 larena.it##+js(setTimeout-defuser.js, adblock-check)
 larena.it#%#//scriptlet("prevent-setTimeout", "adblock-check")
 
-pantsu.cat,rule34hentai.net##+js(abort-on-property-read.js, TsanPop.add)
-pantsu.cat,rule34hentai.net#%#//scriptlet("abort-on-property-read", "TsanPop.add")
-
 rim-world.com##+js(setTimeout-defuser.js, adblock, 5000)
 rim-world.com#%#//scriptlet("prevent-setTimeout", "adblock", "5000")
 
@@ -1072,8 +1069,8 @@ tomshw.it#%#//scriptlet("prevent-setTimeout", "bioEp.showPopup")
 speedporn.net,xopenload.me,adultvideoz.net,pandavideo.pw##+js(set-constant.js, jsUnda, noopFunc)
 speedporn.net,xopenload.me,adultvideoz.net,pandavideo.pw#%#//scriptlet("set-constant", "jsUnda", "noopFunc")
 
-3ddl.tv,69games.xxx,8tube.xxx,animeforce.*,asextube.net,b4busty.com,bangdom.com,bbwhottie.com,dddcups.net,dddvids.com,ddl-mdh.org,dump.xxx,embedy.me,fapster.xxx,fiuxy.eu,gotgayporn.com,gounlimited.to,hd-world.org,hdporn.to,hdxnxx.xxx,homosexualtube.com,hotpornfile.org,hqtube.xxx,kaotic.com,kingsizejuggs.com,maturexxxphotos.com,maturosexy.com,milfgals.net,milfmaturesex.net,myxvids.com,oldmaturepost.com,oldpornwhore.com,pinjuggs.com,playpornfree.xyz,pornbust.net,pornid.xxx,redhdtube.xxx,smutr.com,spicytitties.com,swipe.xxx,titsintops.com,warez-world.org,xxx-blog.to##+js(abort-on-property-read.js, popns)
-3ddl.tv,69games.xxx,8tube.xxx,animeforce.*,asextube.net,b4busty.com,bangdom.com,bbwhottie.com,dddcups.net,dddvids.com,ddl-mdh.org,dump.xxx,embedy.me,fapster.xxx,fiuxy.eu,gotgayporn.com,gounlimited.to,hd-world.org,hdporn.to,hdxnxx.xxx,homosexualtube.com,hotpornfile.org,hqtube.xxx,kaotic.com,kingsizejuggs.com,maturexxxphotos.com,maturosexy.com,milfgals.net,milfmaturesex.net,myxvids.com,oldmaturepost.com,oldpornwhore.com,pinjuggs.com,playpornfree.xyz,pornbust.net,pornid.xxx,redhdtube.xxx,smutr.com,spicytitties.com,swipe.xxx,titsintops.com,warez-world.org,xxx-blog.to#%#//scriptlet("abort-on-property-read", "popns")
+3ddl.tv,69games.xxx,8tube.xxx,animeforce.*,asextube.net,b4busty.com,bangdom.com,bbwhottie.com,dddcups.net,dddvids.com,ddl-mdh.org,dump.xxx,embedy.me,fapster.xxx,fiuxy.eu,gotgayporn.com,gounlimited.to,hd-world.org,hdporn.to,hdxnxx.xxx,homosexualtube.com,hotpornfile.org,hqtube.xxx,kaotic.com,kingsizejuggs.com,maturexxxphotos.com,maturosexy.com,milfgals.net,milfmaturesex.net,myxvids.com,oldmaturepost.com,oldpornwhore.com,pantsu.cat,pinjuggs.com,playpornfree.xyz,pornbust.net,pornid.xxx,redhdtube.xxx,rule34hentai.net,smutr.com,spicytitties.com,swipe.xxx,titsintops.com,warez-world.org,xxx-blog.to##+js(abort-on-property-read.js, popns)
+3ddl.tv,69games.xxx,8tube.xxx,animeforce.*,asextube.net,b4busty.com,bangdom.com,bbwhottie.com,dddcups.net,dddvids.com,ddl-mdh.org,dump.xxx,embedy.me,fapster.xxx,fiuxy.eu,gotgayporn.com,gounlimited.to,hd-world.org,hdporn.to,hdxnxx.xxx,homosexualtube.com,hotpornfile.org,hqtube.xxx,kaotic.com,kingsizejuggs.com,maturexxxphotos.com,maturosexy.com,milfgals.net,milfmaturesex.net,myxvids.com,oldmaturepost.com,oldpornwhore.com,pantsu.cat,pinjuggs.com,playpornfree.xyz,pornbust.net,pornid.xxx,redhdtube.xxx,rule34hentai.net,smutr.com,spicytitties.com,swipe.xxx,titsintops.com,warez-world.org,xxx-blog.to#%#//scriptlet("abort-on-property-read", "popns")
 
 pluspremieres.*##+js(setTimeout-defuser.js, adv)
 pluspremieres.*#%#//scriptlet("prevent-setTimeout", "adv")
@@ -1081,8 +1078,8 @@ pluspremieres.*#%#//scriptlet("prevent-setTimeout", "adv")
 pluspremieres.*,jpidols.tv##+js(setInterval-defuser.js)
 pluspremieres.*,jpidols.tv#%#//scriptlet("prevent-setInterval")
 
-gelbooru.com##+js(abort-current-inline-script.js, ExoDetector)
-gelbooru.com#%#//scriptlet("abort-current-inline-script", "ExoDetector")
+perfectgirls.net,perfektdamen.co,mypornstarbook.net,perfectgirls.es,nudismteens.com,nudisteens.com,videosesso.com,hdpornole.pl,coquinetv.com,porngo.tv,teenage-nudists.net,allschoolboysecrets.com,nude-beach-tube.com,gratuito.xxx,gelbooru.com##+js(abort-current-inline-script.js, ExoDetector)
+perfectgirls.net,perfektdamen.co,mypornstarbook.net,perfectgirls.es,nudismteens.com,nudisteens.com,videosesso.com,hdpornole.pl,coquinetv.com,porngo.tv,teenage-nudists.net,allschoolboysecrets.com,nude-beach-tube.com,gratuito.xxx,gelbooru.com#%#//scriptlet("abort-current-inline-script", "ExoDetector")
 
 gelbooru.com##+js(abort-on-property-read.js, adtoniq)
 gelbooru.com#%#//scriptlet("abort-on-property-read", "adtoniq")
