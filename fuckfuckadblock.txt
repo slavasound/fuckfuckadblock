@@ -916,9 +916,6 @@ mispelisyseries.com,tvsinpagar.com#%#//scriptlet("prevent-addEventListener", "/(
 gadzetomania.pl##+js(abort-on-property-write.js, __serviceAbModal)
 gadzetomania.pl#%#//scriptlet("abort-on-property-write", "__serviceAbModal")
 
-smartage.pl##+js(abort-current-inline-script.js, parseInt, adblock)
-smartage.pl#%#//scriptlet("abort-current-inline-script", "parseInt", "adblock")
-
 accessgenealogy.com,alraghban.com,betworld90.live,bonk.io,bonkio2.com,bookfere.com,books-world.net,buscaminas.eu,cartiaudio.eu,collegian.com,crosswordtracker.com,cs-fundamentals.com,des-livres-pour-changer-de-vie.com,dniwolne.eu,doyouremember.love,droidtekno.com,esosedi.org,forbes.sk,forumsospc.fr,idealphotography.biz,jeshoots.com,jtrouver.com,kodiwpigulce.pl,lublu.tv,marduktv.com.br,multiplayer.gg,nsrescapegames.com,openspeedtest.com,pixlov.com,pokemonforever.com,pranplezi.com,resourcepacks24.de,segnidalcielo.it,skilloutlook.com,summonersw.xyz,techsolutiontips.com,tutswing.com,whaleoil.co.nz,yeahthatskosher.com,your-happy-life.com##+js(set-constant.js, window.google_jobrunner, noopFunc)
 accessgenealogy.com,alraghban.com,betworld90.live,bonk.io,bonkio2.com,bookfere.com,books-world.net,buscaminas.eu,cartiaudio.eu,collegian.com,crosswordtracker.com,cs-fundamentals.com,des-livres-pour-changer-de-vie.com,dniwolne.eu,doyouremember.love,droidtekno.com,esosedi.org,forbes.sk,forumsospc.fr,idealphotography.biz,jeshoots.com,jtrouver.com,kodiwpigulce.pl,lublu.tv,marduktv.com.br,multiplayer.gg,nsrescapegames.com,openspeedtest.com,pixlov.com,pokemonforever.com,pranplezi.com,resourcepacks24.de,segnidalcielo.it,skilloutlook.com,summonersw.xyz,techsolutiontips.com,tutswing.com,whaleoil.co.nz,yeahthatskosher.com,your-happy-life.com#%#//scriptlet("set-constant", "window.google_jobrunner", "noopFunc")
 
@@ -1084,14 +1081,11 @@ perfectgirls.net,perfektdamen.co,mypornstarbook.net,perfectgirls.es,nudismteens.
 gelbooru.com,thegatewaypundit.com,usersub.com,your-daily-girl.com,ilovemyfreedom.org,teaparty.org,colorfuleyes.org##+js(abort-on-property-read.js, adtoniq)
 gelbooru.com,thegatewaypundit.com,usersub.com,your-daily-girl.com,ilovemyfreedom.org,teaparty.org,colorfuleyes.org#%#//scriptlet("abort-on-property-read", "adtoniq")
 
-g1novelas.online##+js(abort-on-property-read.js, daau_app)
-g1novelas.online#%#//scriptlet("abort-on-property-read", "daau_app")
-
 fembed.com,fox-dl.com,loadingz.com,nulled.life,psystreams.com,qdembed.com,repelisgo.*,watchhouseonline.net,zbporn.com,katestube.com,vikiporn.com##+js(abort-on-property-read.js, decodeURI)
 fembed.com,fox-dl.com,loadingz.com,nulled.life,psystreams.com,qdembed.com,repelisgo.*,watchhouseonline.net,zbporn.com,katestube.com,vikiporn.com#%#//scriptlet("abort-on-property-read", "decodeURI")
 
-innpoland.pl##+js(abort-current-inline-script.js, parseInt, adBlock)
-innpoland.pl#%#//scriptlet("abort-current-inline-script", "parseInt", "adBlock")
+innpoland.pl,userupload.net,smartage.pl##+js(abort-current-inline-script.js, parseInt, /adBlock|adblock|Adblock/)
+innpoland.pl,userupload.net,smartage.pl#%#//scriptlet("abort-current-inline-script", "parseInt", "/adBlock|adblock|Adblock/")
 
 animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
 animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
@@ -1473,9 +1467,6 @@ pluspremieres.*#%#//scriptlet("prevent-setTimeout", "/getElementsByClassName|adb
 
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com##+js(abort-current-inline-script.js, document.createElement, iframe)
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com##+js(abort-current-inline-script.js, document.createElement, iframe)
-
-userupload.net##+js(abort-current-inline-script.js, parseInt, Adblock)
-userupload.net#%#//scriptlet("abort-current-inline-script", "Adblock")
 
 egybest2.com,egybest4.com##+js(abort-on-property-read.js, localStorage)
 egybest2.com,egybest4.com#%#//scriptlet("abort-on-property-read", "localStorage")
