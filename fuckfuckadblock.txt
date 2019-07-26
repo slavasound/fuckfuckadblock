@@ -1471,8 +1471,8 @@ vivo.sx#%#//scriptlet("abort-current-inline-script", "Math.random", "encodeURICo
 up-4ever.*,nbcnews.com##+js(abort-on-property-read.js, adsDisabled)
 up-4ever.*,nbcnews.com#%#//scriptlet("abort-on-property-read", "adsDisabled")
 
-lewat.club,romfirmware.com,flash-firmware.blogspot.com##+js(abort-on-property-write.js, ignielAdBlock)
-lewat.club,romfirmware.com,flash-firmware.blogspot.com#%#//scriptlet("abort-on-property-write", "ignielAdBlock")
+lewat.club,romfirmware.com,flash-firmware.blogspot.com,crackboxgsm.blogspot.com##+js(abort-on-property-write.js, ignielAdBlock)
+lewat.club,romfirmware.com,flash-firmware.blogspot.com.crackboxgsm.blogspot.com#%#//scriptlet("abort-on-property-write", "ignielAdBlock")
 
 pluspremieres.*##+js(setTimeout-defuser.js, /getElementsByClassName|adb|parentNode/)
 pluspremieres.*#%#//scriptlet("prevent-setTimeout", "/getElementsByClassName|adb|parentNode/")
