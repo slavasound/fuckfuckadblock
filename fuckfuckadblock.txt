@@ -1081,8 +1081,8 @@ pluspremieres.*,jpidols.tv#%#//scriptlet("prevent-setInterval")
 perfectgirls.net,perfektdamen.co,mypornstarbook.net,perfectgirls.es,nudismteens.com,nudisteens.com,videosesso.com,hdpornole.pl,coquinetv.com,porngo.tv,teenage-nudists.net,allschoolboysecrets.com,nude-beach-tube.com,gratuito.xxx,gelbooru.com##+js(abort-current-inline-script.js, ExoDetector)
 perfectgirls.net,perfektdamen.co,mypornstarbook.net,perfectgirls.es,nudismteens.com,nudisteens.com,videosesso.com,hdpornole.pl,coquinetv.com,porngo.tv,teenage-nudists.net,allschoolboysecrets.com,nude-beach-tube.com,gratuito.xxx,gelbooru.com#%#//scriptlet("abort-current-inline-script", "ExoDetector")
 
-gelbooru.com##+js(abort-on-property-read.js, adtoniq)
-gelbooru.com#%#//scriptlet("abort-on-property-read", "adtoniq")
+gelbooru.com,thegatewaypundit.com,usersub.com,your-daily-girl.com,ilovemyfreedom.org,teaparty.org,colorfuleyes.org##+js(abort-on-property-read.js, adtoniq)
+gelbooru.com,thegatewaypundit.com,usersub.com,your-daily-girl.com,ilovemyfreedom.org,teaparty.org,colorfuleyes.org#%#//scriptlet("abort-on-property-read", "adtoniq")
 
 g1novelas.online##+js(abort-on-property-read.js, daau_app)
 g1novelas.online#%#//scriptlet("abort-on-property-read", "daau_app")
