@@ -619,8 +619,8 @@ linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false
 123movies.*,1uwatchfree.*,300mbmovies.*,7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,bolly4u.*,bolly4uhd.*,ckk.ai,cloudvideo.tv,ddl.to,desiupload.in,dlfiles.online,dualinks.club,filmymeet.*,filmywap.*,filmywapofficial.com,foumovies.net,gorillavid.in,hdfriday.org,indishare.*,indoxxi.show,megaurl.in,moviescouch.*,moviescounter.store,moviescrush.co,moviespapa.site,oko.sh,rdxhd.*,sendit.cloud,ssrmovies.wiki,stream2watch.*,thefilmbay.com,uploadbuzz.org,uppom.*,userscloud.com,w4files.ws,zeefiles.*,ssrmovies.*,gdtot.com,tusfiles.com,moviezen.co,uptomega.com##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 123movies.*,1uwatchfree.*,300mbmovies.*,7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,bolly4u.*,bolly4uhd.*,ckk.ai,cloudvideo.tv,ddl.to,desiupload.in,dlfiles.online,dualinks.club,filmymeet.*,filmywap.*,filmywapofficial.com,foumovies.net,gorillavid.in,hdfriday.org,indishare.*,indoxxi.show,megaurl.in,moviescouch.*,moviescounter.store,moviescrush.co,moviespapa.site,oko.sh,rdxhd.*,sendit.cloud,ssrmovies.wiki,stream2watch.*,thefilmbay.com,uploadbuzz.org,uppom.*,userscloud.com,w4files.ws,zeefiles.*,ssrmovies.*,gdtot.com,tusfiles.com,moviezen.co,uptomega.com#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
 
-69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,dailyuploads.*,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,putlockertv.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,flashx.*##+js(abort-current-inline-script.js, parseInt, tabunder)
-69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,dailyuploads.*,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,putlockertv.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,flashx.*#%#//scriptlet("abort-current-inline-script", "parseInt", "tabunder")
+69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,dailyuploads.*,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,putlockertv.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,flashx.*,20sat.com,astikitline.es,beemp3s.*,gomovieshub.io,javlot.com,moviesin.co,mp3skulls.to,putlocker.tl,sonyoutube.com##+js(abort-current-inline-script.js, parseInt, /tabunder|TABUNDER/)
+69games.xxx,camwhores.tv,ceesty.com,clkmein.com,corneey.com,dailyuploads.*,descargas2020.*,destyy.com,europixhd.*,festyy.com,gamcore.com,gestyy.com,gnula.nu,hdeuropix.*,imgmonkey.com,kaotic.com,mispelisyseries.com,porntrex.com,putlockers.*,putlockertv.*,sh.st,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,flashx.*#%#//scriptlet("abort-current-inline-script", "parseInt", "/tabunder|TABUNDER/")
 
 ceesty.com,clkmein.com,gestyy.com,viid.me##+js(set-constant.js, adsBlockerDetector, noopFunc)
 ceesty.com,clkmein.com,gestyy.com,viid.me#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
@@ -1426,9 +1426,6 @@ alefo.de,alg17.com,antenna-theory.com,bigdonsboys.com,bigescapegames.com,capital
 dailymotiontomp3.com#%#//scriptlet("set-constant", "IsPopAd", "false")
 dailymotiontomp3.com##+js(set-constant.js, IsPopAd, false)
 
-macrotrends.net##+js(abort-current-inline-script.js, atob, removeCookie)
-macrotrends.net#%#//scriptlet("abort-current-inline-script", "atob", "removeCookie")
-
 topeuropix.net,indoxxi.studio##+js(abort-on-property-read.js, Math.sin, vocabulary)
 topeuropix.net,indoxxi.studio#%#//scriptlet("abort-on-property-read", "Math.sin", "vocabulary")
 
@@ -1524,9 +1521,6 @@ kissanime.*,grandmp.com#%#//scriptlet("abort-on-property-write", "isClickHide")
 
 vqporn.com,wired.com,pitchfork.com,newyorker.com,tripadvisor.*##+js(abort-on-property-write.js, adblockDetect)
 vqporn.com,wired.com,pitchfork.com,newyorker.com,tripadvisor.*#%#//scriptlet("abort-on-property-write", "adblockDetect")
-
-20sat.com,astikitline.es,beemp3s.*,gomovieshub.io,javlot.com,moviesin.co,mp3skulls.to,putlocker.tl,sonyoutube.com##+js(abort-current-inline-script.js, parseInt, TABUNDER)
-20sat.com,astikitline.es,beemp3s.*,gomovieshub.io,javlot.com,moviesin.co,mp3skulls.to,putlocker.tl,sonyoutube.com#%#//scriptlet("abort-current-inline-script", "parseInt", "TABUNDER")
 
 calciomercato.com,clik.*,javfinder.is,linksht.com,pasty.link,robloxscripts.com,sosiali.com##+js(setTimeout-defuser.js, _0x)
 calciomercato.com,clik.*,javfinder.is,linksht.com,pasty.link,robloxscripts.com,sosiali.com#%#//scriptlet("prevent-setTimeout", "_0x")
