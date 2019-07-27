@@ -235,6 +235,7 @@
 ||javmec.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval';
 ||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com *.jquery.com *.fruithosted.net *.googleusercontent.com *.googlevideo.com *.fbcdn.net;
 ||kinoseans.pl$csp=script-src 'self' 'unsafe-inline';
+||datoporn.co^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.peer5.com *.jwpcdn.com;
 ||kissanime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cdn-dena.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.fbsbx.com *.replay.watch *.animecdn.xyz *.streamx.live;media-src *;img-src *;
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.myanimelist.net *.cdn-dena.com *.rapidvideo.is *.rapidvideo.com *.playercdn.net oload.stream openload.co *.oloadcdn.net streamcherry.com *.fruithosted.net *.jwpcdn.com;
 ||luxubu.review^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.hlsmp4.com fvs.io;
