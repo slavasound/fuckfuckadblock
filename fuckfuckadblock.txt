@@ -841,9 +841,6 @@ uploadbox.io#%#//scriptlet("abort-on-property-read", "replaceContentWithAdBlocke
 avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
 avgle.com#%#//scriptlet("set-constant", "showBlockIf", "noopFunc")
 
-clik.*##+js(addEventListener-defuser.js, mouseup, click)
-clik.*#%#//scriptlet("prevent-addEventListener", "mouseup", "click")
-
 autocentrum.pl##+js(set-constant.js, adblockJsFile, true)
 autocentrum.pl#%#//scriptlet("set-constant", "adblockJsFile", "true")
 
@@ -1399,8 +1396,8 @@ gosswatch.com##+js(set-constant.js, pop, noopFunc)
 alefo.de,alg17.com,antenna-theory.com,bigdonsboys.com,bigescapegames.com,capitalcube.com,cochesrc.com,computer-automation.de,corona-materials.de,dc4in.com,die-startseite.net,eishockey.info,elektroboerse-smarthouse.de,faszination-fankurve.de,finews.asia,galatta.com,iboys.at,kapten-son.com,maclaw.pl,novafusion.pl,penpaland.com,ps4-magazin.de,serienjunkies.de,thefouriertransform.com,umrechner-euro.de,unicum.de,vision-mobility.de,zueriost.ch##+js(setTimeout-defuser.js, afs_ads, 2000)
 alefo.de,alg17.com,antenna-theory.com,bigdonsboys.com,bigescapegames.com,capitalcube.com,cochesrc.com,computer-automation.de,corona-materials.de,dc4in.com,die-startseite.net,eishockey.info,elektroboerse-smarthouse.de,faszination-fankurve.de,finews.asia,galatta.com,iboys.at,kapten-son.com,maclaw.pl,novafusion.pl,penpaland.com,ps4-magazin.de,serienjunkies.de,thefouriertransform.com,umrechner-euro.de,unicum.de,vision-mobility.de,zueriost.ch#%#//scriptlet("prevent-setTimeout", "afs_ads", "2000")
 
-dailymotiontomp3.com#%#//scriptlet("set-constant", "IsPopAd", "false")
-dailymotiontomp3.com##+js(set-constant.js, IsPopAd, false)
+dailymotiontomp3.com,tripresso.com#%#//scriptlet("set-constant", "IsPopAd", "false")
+dailymotiontomp3.com,tripresso.com##+js(set-constant.js, IsPopAd, false)
 
 topeuropix.net,indoxxi.studio##+js(abort-on-property-read.js, Math.sin, vocabulary)
 topeuropix.net,indoxxi.studio#%#//scriptlet("abort-on-property-read", "Math.sin", "vocabulary")
@@ -1513,8 +1510,8 @@ diaridegirona.cat,diariodeibiza.es,emporda.info,farodevigo.es,laopinioncoruna.es
 vev.io##+js(set-constant.js, __INITIAL_STATE__.ads, undefined)
 vev.io#%#//scriptlet("set-constant", "__INITIAL_STATE__.ads", "undefined")
 
-vev.io##+js(addEventListener-defuser.js, /^(?:click|mousedown|mouseup)$/)
-vev.io#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mouseup)$/")
+vev.io,clik.*##+js(addEventListener-defuser.js, /^(?:click|mousedown|mouseup)$/)
+vev.io,clik.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mouseup)$/")
 
 indiatimes.com##+js(setTimeout-defuser.js, adBlockDetectionStart)
 indiatimes.com#%#//scriptlet("prevent-setTimeout", "adBlockDetectionStart")
