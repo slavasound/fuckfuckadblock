@@ -892,8 +892,8 @@ upload.*#%#//scriptlet("abort-current-inline-script", "document.getElementById",
 streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
 streamango.com#%#//scriptlet("abort-current-inline-script", "isSandboxed", "fruitadblock")
 
-erome.com,planetatorrent.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##+js(abort-on-property-read.js, tia)
-erome.com,planetatorrent.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com#%#//scriptlet("abort-on-property-read", "tia")
+erome.com,planetatorrent.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com,sexato.com,jajaporn.com,luderporn.com##+js(abort-on-property-read.js, tia)
+erome.com,planetatorrent.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com,sexato.com,jajaporn.com,luderporn.com#%#//scriptlet("abort-on-property-read", "tia")
 
 mispelisyseries.com,tvsinpagar.com##+js(addEventListener-defuser.js, /(?:click|mousedown)/, 0x)
 mispelisyseries.com,tvsinpagar.com#%#//scriptlet("prevent-addEventListener", "/(?:click|mousedown)/", "0x")
