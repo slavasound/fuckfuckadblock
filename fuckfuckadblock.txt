@@ -571,12 +571,6 @@ animeforce.*,animeforce.org,avforme.com,camuploads.com,embedy.me,eporner.*,goovi
 earnwithshortlink.com,userscloud.com##+js(abort-on-property-read.js, parcelRequire)
 earnwithshortlink.com,userscloud.com#%#//scriptlet("abort-on-property-read", "parcelRequire")
 
-fullstacks.net,herokuapp.com##+js(set-constant.js, gadb, false)
-fullstacks.net,herokuapp.com#%#//scriptlet("set-constant", "gadb", "false")
-
-diariodenavarra.es##+js(setTimeout-defuser.js, AdBanner, 2000)
-diariodenavarra.es#%#//scriptlet("prevent-setTimeout", "AdBanner", "2000")
-
 link.tl,mp4upload.com,vipleague.*,xmovies8.*##+js(addEventListener-defuser.js, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
 link.tl,mp4upload.com,vipleague.*,xmovies8.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/", "system.popunder")
 
@@ -874,11 +868,8 @@ bibliacatolica.com.br#%#//scriptlet("abort-on-property-read", "getSelection")
 arcinfo.ch,bidouillesikea.com,grands-meres.net,lenouvelliste.ch,lippycorn.com,livepeople.fr,olhardigital.com.br,planificacionmedios.com,ptitchef.com,recreatisse.com,turf-fr.com,worldfreeware.com,zmoe.ru##+js(abort-on-property-read.js, adbackDebug)
 arcinfo.ch,bidouillesikea.com,grands-meres.net,lenouvelliste.ch,lippycorn.com,livepeople.fr,olhardigital.com.br,planificacionmedios.com,ptitchef.com,recreatisse.com,turf-fr.com,worldfreeware.com,zmoe.ru#%#//scriptlet("abort-on-property-read", "adbackDebug")
 
-desinhibition.com,illicoporno.com,jacquieetmichel.net,jacquieetmichelblog.fr,jacquieetmichelelite.com,jacquieetmicheltv.net,jacquieetmicheltv2.net,lavideodujourjetm.net,lavoixdux.com,tonpornodujour.com,vosfemmes.com,voyeurfrance.net##+js(set-constant.js, is_adblocked, false)
-desinhibition.com,illicoporno.com,jacquieetmichel.net,jacquieetmichelblog.fr,jacquieetmichelelite.com,jacquieetmicheltv.net,jacquieetmicheltv2.net,lavideodujourjetm.net,lavoixdux.com,tonpornodujour.com,vosfemmes.com,voyeurfrance.net#%#//scriptlet("set-constant", "is_adblocked", "false")
-
-yaysavings.com##+js(abort-on-property-write.js, is_adblocked)
-yaysavings.com#%#//scriptlet("abort-on-property-write", "is_adblocked")
+desinhibition.com,illicoporno.com,jacquieetmichel.net,jacquieetmichelblog.fr,jacquieetmichelelite.com,jacquieetmicheltv.net,jacquieetmicheltv2.net,lavideodujourjetm.net,lavoixdux.com,tonpornodujour.com,vosfemmes.com,voyeurfrance.net,yaysavings.com##+js(set-constant.js, is_adblocked, false)
+desinhibition.com,illicoporno.com,jacquieetmichel.net,jacquieetmichelblog.fr,jacquieetmichelelite.com,jacquieetmicheltv.net,jacquieetmicheltv2.net,lavideodujourjetm.net,lavoixdux.com,tonpornodujour.com,vosfemmes.com,voyeurfrance.net,yaysavings.com#%#//scriptlet("set-constant", "is_adblocked", "false")
 
 jovempan.uol.com.br,lippycorn.com,planificacionmedios.com,recreatisse.com,worldfreeware.com,zmoe.ru##+js(abort-on-property-read.js, window.adback_wording)
 jovempan.uol.com.br,lippycorn.com,planificacionmedios.com,recreatisse.com,worldfreeware.com,zmoe.ru#%#//scriptlet("abort-on-property-read", "window.adback_wording")
@@ -922,8 +913,8 @@ bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_N
 vinaurl.in##+js(abort-on-property-read.js, adsHeight)
 vinaurl.in#%#//scriptlet("abort-on-property-read", "adsHeight")
 
-leakforums.*,verystream.com,mad4wheels.com,programinadresi.com##+js(abort-on-property-read.js, /adblock|adBlock/)
-leakforums.*,verystream.com,mad4wheels.com,programinadresi.com#%#//scriptlet("abort-on-property-read", "adblock")
+leakforums.*,verystream.com,mad4wheels.com,programinadresi.com,thuvienvatly.com##+js(abort-on-property-read.js, /adblock|adBlock/)
+leakforums.*,verystream.com,mad4wheels.com,programinadresi.com,thuvienvatly.com#%#//scriptlet("abort-on-property-read", "adblock")
 
 dieroten.pl##+js(addEventListener-defuser.js, DOMContentLoaded, checkAdBlock)
 dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "checkAdBlock")
