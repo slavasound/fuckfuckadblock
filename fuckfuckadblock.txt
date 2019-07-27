@@ -1102,8 +1102,8 @@ ddl-music.*#%#//scriptlet("abort-current-inline-script", "$", "ddlpop")
 swatchseries.to##+js(abort-current-inline-script.js, atob, TextDecoder)
 swatchseries.to#%#//scriptlet("abort-current-inline-script", "atob", "TextDecoder")
 
-mshelxxx.ru.com##+js(set-constant.js, String.fromCharCode, noopFunc)
-mshelxxx.ru.com#%#//scriptlet("set-constant", "String.fromCharCode", "noopFunc")
+mshelxxx.ru.com,uwatchfree.st##+js(set-constant.js, String.fromCharCode, noopFunc)
+mshelxxx.ru.com,uwatchfree.st#%#//scriptlet("set-constant", "String.fromCharCode", "noopFunc")
 
 arenavision.*,hqq.*,pelisplay.tv,pelisplus.*##+js(abort-on-property-write.js, smrtSP)
 arenavision.*,hqq.*,pelisplay.tv,pelisplus.*#%#//scriptlet("abort-on-property-write", "smrtSP")
