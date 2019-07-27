@@ -243,7 +243,7 @@
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.to *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com *.jwpcdn.com *.akacdn.ru;
 ||mp4upload.com^$csp=script-src 'unsafe-inline' 'unsafe-eval' *.jquery.com *.mp4upload.com; frame-src 'none';
 ||nekopoi.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.chatango.com *.jquery.com *.vidlox.me *.jsdelivr.net vidoza.net vidlox.me *.cloudflare.com *.gstatic.com nekopoi.care nekopoi.lol nekopoi.ga nekopoi.cash *.chatango.com streamcherry.com;
-||newsfilter.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.addthis.com *.disqus.com *.googleapis.com *.gstatic.com *.google.com *.solvemedia.com;
+||newsfilter.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.disqus.com *.googleapis.com *.gstatic.com *.google.com *.solvemedia.com;
 ||ourl.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com;
 ||pandavideo.pw^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'; frame-src *;
 ||picbaron.com^$csp=script-src 'self';
@@ -296,7 +296,7 @@
 @@*$stealth,domain=cablegratis.tv|embed.streamx.live|hotmovs.com|premiumtvchannels.com|redcdn.pl|sweetbc4.club|tvokazje.pl|txxx.com|yaeby.me|prettyfast.to|9anime.ru|fmovies.to|9anime.to|9anime.is|9anime.tv
 @@*$xmlhttprequest,script,~third-party,domain=boxing-live.stream|fbstream.io|homerun.re|live-ufc.stream|livef1.stream|livemotgp.stream|mlbstream.io|muzlan.top|nbastream.io|nflstream.io|nhlstream.io|programiz.com|readcomiconline.to|reevown.com|rugbystream.me|soccer-live.stream|strikeout.co|tennisstream.me|vipleague.bz|vipleague.cc
 
-*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx|pandavideo.pw|mangovideo.pw|xyzcomics.com
+*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx|pandavideo.pw|mangovideo.pw|xyzcomics.com|newsfilter.org
 */adbuddy.min.js$script,redirect=noopjs
 */adsid/integrator.js$script,redirect=noopjs,domain=reevown.com
 */anti-ad-buster.js$script,redirect=noopjs
@@ -757,8 +757,8 @@ camuploads.com,tonpornodujour.com,xxxdessert.com#%#//scriptlet("abort-on-propert
 sound-park.club,soundpark-club.*,soundpark.red##+js(abort-current-inline-script.js, $, open)
 sound-park.club,soundpark-club.*,soundpark.red#%#//scriptlet("abort-current-inline-script", "$", "open")
 
-24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,filmshd1080.net,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,soft-portal.club,turboimagehost.com,xozilla.com,zagonka.tv,kaztorka.org,rutor.is,gamesmega.net,ghasrchat.org##+js(abort-current-inline-script.js, document.createElement, 'script')
-24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,filmshd1080.net,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,soft-portal.club,turboimagehost.com,xozilla.com,zagonka.tv,kaztorka.org,rutor.is,gamesmega.net,ghasrchat.org#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
+24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,filmshd1080.net,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,soft-portal.club,turboimagehost.com,xozilla.com,zagonka.tv,kaztorka.org,rutor.is,gamesmega.net,ghasrchat.org,rutor.info##+js(abort-current-inline-script.js, document.createElement, 'script')
+24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,filmlinks4u.is,filmshd1080.net,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,soft-portal.club,turboimagehost.com,xozilla.com,zagonka.tv,kaztorka.org,rutor.is,gamesmega.net,ghasrchat.org,rutor.info#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
 digitaltrends.com,nwitimes.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
 digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
