@@ -1396,8 +1396,8 @@ gosswatch.com##+js(set-constant.js, pop, noopFunc)
 alefo.de,alg17.com,antenna-theory.com,bigdonsboys.com,bigescapegames.com,capitalcube.com,cochesrc.com,computer-automation.de,corona-materials.de,dc4in.com,die-startseite.net,eishockey.info,elektroboerse-smarthouse.de,faszination-fankurve.de,finews.asia,galatta.com,iboys.at,kapten-son.com,maclaw.pl,novafusion.pl,penpaland.com,ps4-magazin.de,serienjunkies.de,thefouriertransform.com,umrechner-euro.de,unicum.de,vision-mobility.de,zueriost.ch##+js(setTimeout-defuser.js, afs_ads, 2000)
 alefo.de,alg17.com,antenna-theory.com,bigdonsboys.com,bigescapegames.com,capitalcube.com,cochesrc.com,computer-automation.de,corona-materials.de,dc4in.com,die-startseite.net,eishockey.info,elektroboerse-smarthouse.de,faszination-fankurve.de,finews.asia,galatta.com,iboys.at,kapten-son.com,maclaw.pl,novafusion.pl,penpaland.com,ps4-magazin.de,serienjunkies.de,thefouriertransform.com,umrechner-euro.de,unicum.de,vision-mobility.de,zueriost.ch#%#//scriptlet("prevent-setTimeout", "afs_ads", "2000")
 
-dailymotiontomp3.com,tripresso.com#%#//scriptlet("set-constant", "IsPopAd", "false")
-dailymotiontomp3.com,tripresso.com##+js(set-constant.js, IsPopAd, false)
+dailymotiontomp3.com,tripresso.com,myvideodownloader.de,youtubetom4a.com#%#//scriptlet("set-constant", "IsPopAd", "false")
+dailymotiontomp3.com,tripresso.com,myvideodownloader.de,youtubetom4a.com##+js(set-constant.js, IsPopAd, false)
 
 topeuropix.net,indoxxi.studio##+js(abort-on-property-read.js, Math.sin, vocabulary)
 topeuropix.net,indoxxi.studio#%#//scriptlet("abort-on-property-read", "Math.sin", "vocabulary")
