@@ -1568,8 +1568,8 @@ lifo.gr#%#//scriptlet("prevent-setTimeout", "slideout")
 linkandroid.com##+js(abort-on-property-write.js, fabActive)
 linkandroid.com#%#//scriptlet("abort-on-property-write", "fabActive")
 
-rollingstone.*##+js(set-constant.js, adsBlocked, noopFunc)
-rollingstone.*#%#//scriptlet("set-constant", "adsBlocked", "noopFunc")
+rollingstone.*,managertoday.com.tw##+js(set-constant.js, adsBlocked, noopFunc)
+rollingstone.*,managertoday.com.tw#%#//scriptlet("set-constant", "adsBlocked", "noopFunc")
 
 opjav.com##+js(abort-on-property-read.js, dh_popup)
 opjav.com#%#//scriptlet("abort-on-property-read", "dh_popup")
