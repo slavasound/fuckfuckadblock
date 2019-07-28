@@ -356,6 +356,8 @@
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl|redefine.pl|tvn24.pl|stronazdrowia.pl|x-link.pl
 @@||geoguessr.com/_ads/$script
 @@||imgtown.net^$script,domain=imgtown.pw|imgtown.net
+@@||adservice.google.com^$script,xmlhttprequest,domain=player.tubia.com
+@@||imasdk.googleapis.com^$script,domain=player.tubia.com
 @@||kuntv.pw^$script,domain=strikeout.co|strikeout.nu|vipleague.pw
 @@||mirrorfinder.xyz/getlink?$xmlhttprequest,script
 @@||motortrendondemand.com/advertisements-ad-unit/$xmlhttprequest,domain=motortrendondemand.com
