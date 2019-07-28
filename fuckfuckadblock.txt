@@ -1568,8 +1568,8 @@ lifo.gr#%#//scriptlet("prevent-setTimeout", "slideout")
 linkandroid.com##+js(abort-on-property-write.js, fabActive)
 linkandroid.com#%#//scriptlet("abort-on-property-write", "fabActive")
 
-rollingstone.*,managertoday.com.tw,thrillist.com,sherdog.com,fanpage.it,forbes.ru,surviv.io,touchofmodern.com,komonews.com,burbuja.info,mims.com,bandwidthplace.com,autopista.es,carbonite.co.za,motociclismo.es,unisportstore.com,sportlife.es,aviationcv.com,vat-search.co.uk,ciclismoafondo.es,iva-ricerca.it,pijanitvor.com,mountainbike.es,marineaquariumsa.com,architecturenow.co.nz##+js(set-constant.js, adsBlocked, noopFunc)
-rollingstone.*,managertoday.com.tw,thrillist.com,sherdog.com,fanpage.it,forbes.ru,surviv.io,touchofmodern.com,komonews.com,burbuja.info,mims.com,bandwidthplace.com,autopista.es,carbonite.co.za,motociclismo.es,unisportstore.com,sportlife.es,aviationcv.com,vat-search.co.uk,ciclismoafondo.es,iva-ricerca.it,pijanitvor.com,mountainbike.es,marineaquariumsa.com,architecturenow.co.nz#%#//scriptlet("set-constant", "adsBlocked", "noopFunc")
+architecturenow.co.nz,autopista.es,aviationcv.com,bandwidthplace.com,burbuja.info,carbonite.co.za,ciclismoafondo.es,fanpage.it,forbes.ru,iva-ricerca.it,komonews.com,managertoday.com.tw,marineaquariumsa.com,mims.com,motociclismo.es,mountainbike.es,pijanitvor.com,rollingstone.*,sherdog.com,sportlife.es,surviv.io,thrillist.com,touchofmodern.com,unisportstore.*,vat-search.co.uk##+js(set-constant.js, adsBlocked, noopFunc)
+architecturenow.co.nz,autopista.es,aviationcv.com,bandwidthplace.com,burbuja.info,carbonite.co.za,ciclismoafondo.es,fanpage.it,forbes.ru,iva-ricerca.it,komonews.com,managertoday.com.tw,marineaquariumsa.com,mims.com,motociclismo.es,mountainbike.es,pijanitvor.com,rollingstone.*,sherdog.com,sportlife.es,surviv.io,thrillist.com,touchofmodern.com,unisportstore.*,vat-search.co.uk#%#//scriptlet("set-constant", "adsBlocked", "noopFunc")
 
 opjav.com##+js(abort-on-property-read.js, dh_popup)
 opjav.com#%#//scriptlet("abort-on-property-read", "dh_popup")
