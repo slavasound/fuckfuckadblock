@@ -1343,8 +1343,8 @@ stream2watch.*#%#//scriptlet("set-constant", "ab", "false")
 vivo.sx##+js(abort-on-property-read.js, WebAssembly)
 vivo.sx#%#//scriptlet("abort-on-property-read", "WebAssembly")
 
-0xxx.ws,arenavision.*,bmovies.*,megaurl.in,shorteh.com,unblock2.xyz,yesmovies.*##+js(abort-on-property-read.js, zfgloadedpopup)
-0xxx.ws,arenavision.*,bmovies.*,megaurl.in,shorteh.com,unblock2.xyz#%#//scriptlet("abort-on-property-read", "zfgloadedpopup")
+0xxx.ws,arenavision.*,bmovies.*,megaurl.in,shorteh.com,unblock2.xyz,yesmovies.*,ytmp3.mobi##+js(abort-on-property-read.js, zfgloadedpopup)
+0xxx.ws,arenavision.*,bmovies.*,megaurl.in,shorteh.com,unblock2.xyz,yesmovies.*,ytmp3.mobi#%#//scriptlet("abort-on-property-read", "zfgloadedpopup")
 
 newsfilter.org,pornxs.com,sxyprn.com,katestube.com,crazyshit.com,vikiporn.com,sleazyneasy.com,fetishshrine.com##+js(abort-on-property-read.js, raSettings)
 newsfilter.org,pornxs.com,sxyprn.com,katestube.com,crazyshit.com,vikiporn.com,sleazyneasy.com,fetishshrine.com#%#//scriptlet("abort-on-property-read", "raSettings")
@@ -1457,8 +1457,8 @@ pluspremieres.*#%#//scriptlet("prevent-setTimeout", "/getElementsByClassName|adb
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com##+js(abort-current-inline-script.js, document.createElement, iframe)
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com##+js(abort-current-inline-script.js, document.createElement, iframe)
 
-egybest2.com,egybest4.com##+js(abort-on-property-read.js, localStorage)
-egybest2.com,egybest4.com#%#//scriptlet("abort-on-property-read", "localStorage")
+egybest2.com,egybest4.com,mp4s.org##+js(abort-on-property-read.js, localStorage)
+egybest2.com,egybest4.com,mp4s.org#%#//scriptlet("abort-on-property-read", "localStorage")
 
 hd21.com,winporn.com##+js(abort-on-property-read.js, showspop)
 hd21.com,winporn.com#%#//scriptlet("abort-on-property-read", "showspop")
