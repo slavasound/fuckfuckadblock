@@ -245,7 +245,6 @@
 ||m4ufree.$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.jwpcdn.com *.twimg.com *.twitter.com *.hydrax.net *.facebook.com *.googleapis.com *.facebook.net *.iomovies.info;
 ||mangovideo.pw^$csp=script-src 'self' 'unsafe-inline'; connect-src 'none';
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.to *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com *.jwpcdn.com *.akacdn.ru;
-||mp4upload.com^$csp=script-src 'unsafe-inline' 'unsafe-eval' *.jquery.com *.mp4upload.com; frame-src 'none';
 ||nekopoi.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.chatango.com *.jquery.com *.vidlox.me *.jsdelivr.net vidoza.net vidlox.me *.cloudflare.com *.gstatic.com nekopoi.care nekopoi.lol nekopoi.ga nekopoi.cash *.chatango.com streamcherry.com;
 ||newsfilter.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.disqus.com *.googleapis.com *.gstatic.com *.google.com *.solvemedia.com;
 ||ourl.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com;
@@ -458,6 +457,7 @@ youx.xxx###player-banner
 vev.red,vev.io,vidup.io,vidop.icu##.vjs-overlay-background.hidden-xs-down.vjs-overlay-center.vjs-overlay
 
 *$domain=kinozal-tv.appspot.com,badfilter
+*$first-party,subdocument,domain=mp4upload.com,badfilter
 *$popup,domain=dailyuploads.net,badfilter
 *$third-party,script,domain=waaw.tv,badfilter
 @@||xhamster.com/videos/$first-party,csp,badfilter
