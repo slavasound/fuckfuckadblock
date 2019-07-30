@@ -140,7 +140,6 @@
 
 #@##banner_ad
 #@##sponsored-ad
-#@#.adsbygoogle
 #@#.afs_ads
 #@#.ga
 #@#.ads1x1
@@ -248,7 +247,7 @@
 ||mangovideo.pw^$csp=script-src 'self' 'unsafe-inline'; connect-src 'none';
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.to *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com *.jwpcdn.com *.akacdn.ru;
 ||nekopoi.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.chatango.com *.jquery.com *.vidlox.me *.jsdelivr.net vidoza.net vidlox.me *.cloudflare.com *.gstatic.com nekopoi.care nekopoi.lol nekopoi.ga nekopoi.cash *.chatango.com streamcherry.com;
-||newsfilter.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.disqus.com *.googleapis.com *.gstatic.com *.google.com *.solvemedia.com;
+||newsfilter.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleapis.com *.gstatic.com *.google.com *.solvemedia.com;
 ||ourl.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com;
 ||pandavideo.pw^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'; frame-src *;
 ||picbaron.com^$csp=script-src 'self';
@@ -263,7 +262,7 @@
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com *.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to *.cloudflare.com streamango.com *.fruithosted.net prettyfast.to entervideo.net *.rapidvid.to rapidvid.to;
 ||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.is *.rapidvideo.com *.playercdn.net;
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.is *.rapidvideo.com *.playercdn.net;
-||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com *.twitter.com *.facebook.net;
+||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.twitter.com *.facebook.net;
 ||rule34hentai.net^$csp=script-src 'self' 'unsafe-inline' *.googleapis.com *.cloudflare.com *.fluidplayer.com *.google.com *.gstatic.com;
 ||sendit.cloud^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.jquery.com;
 ||short.pe^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google.com *.solvemedia.com; child-src 'self' *.solvemedia.com *.gstatic.com *.google.com;
@@ -349,11 +348,9 @@
 @@||adservice.google.com^$script,xmlhttprequest,domain=player.tubia.com
 @@||amgload.net/z|$third-party,xmlhttprequest
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
-@@||cdnjs.cloudflare.com^$third-party
+@@||cdnjs.cloudflare.com/*/fuckadblock.min.js$third-party
 @@||chefkoch.de/ads/werbe-banner/doubleclicktag.js
 @@||d1xrtnyoeeet33.cloudfront.net/assets/js/lib/$script,domain=montrealgazette.com|nationalpost.com
-@@||disqus.com^
-@@||disquscdn.com^
 @@||doubleclick.net^$xmlhttprequest,domain=linksht.com
 @@||fluidplayer.com^$script,domain=rule34hentai.net
 @@||freemcserver.net/js/*$script,domain=freemcserver.net
