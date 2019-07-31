@@ -1369,9 +1369,6 @@ download.mokeedev.com##+js(setTimeout-defuser.js, adsbygoogle, 5000)
 download.mokeedev.com##+js(setTimeout-defuser.js, alert-danger-enabled)
 download.mokeedev.com#%#//scriptlet("prevent-setTimeout", "alert-danger-enabled")
 
-streamtajm.*##+js(abort-current-inline-script.js, TID, J0)
-streamtajm.*#%#//scriptlet("abort-current-inline-script", "TID", "J0")
-
 gogoanime.*##+js(set-constant.js, String.prototype.charAt, noopFunc)
 gogoanime.*#%#//scriptlet("set-constant", "String.prototype.charAt", "noopFunc")
 
