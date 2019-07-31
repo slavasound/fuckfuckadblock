@@ -797,8 +797,8 @@ proxyrarbg.*,rarbg.is,rarbg.to,rarbg.unblockall.org,rarbg.unblocked.kim,rarbg201
 animeyt2.tv,ebookdz.com,movie25com.com,movie2kfree.com,movie2khd.org,newsyou.info,openloadmovies.bz,rutorgames.info,streamingworld.*,swatchseries.to,xmovies8net.org##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
 animeyt2.tv,ebookdz.com,movie25com.com,movie2kfree.com,movie2khd.org,newsyou.info,openloadmovies.bz,rutorgames.info,streamingworld.*,swatchseries.to,xmovies8net.org#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
 
-69games.xxx,altaisouvenirs.ru,audioboo.ru,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.is,rutor.mytorr.fun,sebeadmin.ru,the-rutor.org##+js(abort-current-inline-script.js, document.createElement, script)
-69games.xxx,altaisouvenirs.ru,audioboo.ru,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.is,rutor.mytorr.fun,sebeadmin.ru,the-rutor.org#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
+69games.xxx,altaisouvenirs.ru,audioboo.ru,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.is,rutor.mytorr.fun,sebeadmin.ru,the-rutor.org,erzsebet.org##+js(abort-current-inline-script.js, document.createElement, script)
+69games.xxx,altaisouvenirs.ru,audioboo.ru,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.is,rutor.mytorr.fun,sebeadmin.ru,the-rutor.org,erzsebet.org#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
 
 eroclips.org,pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 eroclips.org,pornbimbo.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
