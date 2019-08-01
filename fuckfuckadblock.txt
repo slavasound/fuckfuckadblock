@@ -350,7 +350,7 @@
 @@||adservice.google.com^$script,xmlhttprequest,domain=player.tubia.com
 @@||amgload.net/z|$third-party,xmlhttprequest
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
-@@||cdnjs.cloudflare.com/*/fuckadblock.min.js$third-party
+@@||cdnjs.cloudflare.com/*/fuckadblock.$script,third-party
 @@||chefkoch.de/ads/werbe-banner/doubleclicktag.js
 @@||d1xrtnyoeeet33.cloudfront.net/assets/js/lib/$script,domain=montrealgazette.com|nationalpost.com
 @@||doubleclick.net^$xmlhttprequest,domain=linksht.com
