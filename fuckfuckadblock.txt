@@ -1520,20 +1520,11 @@ imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com,izzylaif.com,gallerix.ru#%#/
 oload.*,openload.*##+js(set-constant.js, sadbl, false)
 oload.*,openload.*#%#//scriptlet("set-constant", "sadbl", "false")
 
-shinden.pl##+js(noeval-if.js, Criteo)
-shinden.pl#%#//scriptlet("prevent-eval-if", "Criteo")
-
-bc.vc##+js(set-constant.js, show_pop, noopFunc)
-bc.vc#%#//scriptlet("set-constant", "show_pop", "noopFunc")
-
 vidzi.*##+js(addEventListener-defuser.js, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.pops2.popunderCondition)
 vidzi.*#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/", "system.pops2.popunderCondition")
 
 pornhd.com##+js(abort-on-property-read.js, hasAdBlock)
 pornhd.com#%#//scriptlet("abort-on-property-read", "hasAdBlock")
-
-aternos.org##+js(setTimeout-defuser, hasAdblock)
-aternos.org#%#//scriptlet("prevent-setTimeout", "hasAdblock")
 
 adeex.in,adeex.us,adsriver.com,chceauto.pl,clipmass.com,corren.se,doplim.cl,doplim.com.ar,doplim.com.br,doplim.com.co,doplim.com.mx,doplim.com.pe,doplim.com.uy,doplim.ec,doplim.in,doplim.pt,ekuriren.se,eposten.se,evisos.cl,evisos.co.cr,evisos.com,evisos.com.bo,evisos.com.gt,evisos.com.mx,evisos.com.pe,evisos.com.pr,evisos.com.uy,evisos.ec,folkbladet.se,guiadetacos.com,hardgamers.com.ar,helagotland.se,iptvtools.net,joliecarte.com,kurdtvs.net,kuriren.nu,maparadar.com,meetings-conventions.com,motorzoom.es,mvt.se,nekopoi.*,netbookdelgobierno.com,nsd.se,nt.se,nyheter,phocuswire.com,pt.se,sn.se,south-ayrshire.gov.uk,stockstracker.com,travelpop.hk,tuttogratis.it,tv-arg.com,unt.se,uppgang.com,vt.se##+js(set-constant.js, isAdsDisplayed, true)
 adeex.in,adeex.us,adsriver.com,chceauto.pl,clipmass.com,corren.se,doplim.cl,doplim.com.ar,doplim.com.br,doplim.com.co,doplim.com.mx,doplim.com.pe,doplim.com.uy,doplim.ec,doplim.in,doplim.pt,ekuriren.se,eposten.se,evisos.cl,evisos.co.cr,evisos.com,evisos.com.bo,evisos.com.gt,evisos.com.mx,evisos.com.pe,evisos.com.pr,evisos.com.uy,evisos.ec,folkbladet.se,guiadetacos.com,hardgamers.com.ar,helagotland.se,iptvtools.net,joliecarte.com,kurdtvs.net,kuriren.nu,maparadar.com,meetings-conventions.com,motorzoom.es,mvt.se,nekopoi.*,netbookdelgobierno.com,nsd.se,nt.se,nyheter,phocuswire.com,pt.se,sn.se,south-ayrshire.gov.uk,stockstracker.com,travelpop.hk,tuttogratis.it,tv-arg.com,unt.se,uppgang.com,vt.se#%#//scriptlet("set-constant", "isAdsDisplayed", "true")
