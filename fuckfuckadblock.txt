@@ -523,9 +523,6 @@ aboutchromebooks.com,al.com,allkpop.com,alternet.org,anonyviet.com,boobsrealm.co
 streamingworld.*##+js(abort-current-inline-script.js, atob, decodeURI)
 streamingworld.*#%#//scriptlet("abort-current-inline-script", "atob", "decodeURI")
 
-vidup.*##+js(abort-on-property-read.js, adsShowPopup) 
-vidup.*#%#//scriptlet("abort-on-property-read", "adsShowPopup")
-
 eroclips.org,hotpornfile.org,opjav.com,oboom.com$popunder,important
 funimg.net,imgmaze.pw,imgrock.pw,opjav.com$popunder,third-party,important
 
