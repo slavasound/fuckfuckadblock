@@ -1167,11 +1167,11 @@ cut-w.in,cutwi.in,healthinsider.online#%#//scriptlet("abort-on-property-write", 
 youtube-mp3.my##+js(set-constant.js, canAds, true)
 youtube-mp3.my#%#//scriptlet("set-constant", "canAds", "true")
 
-youporngay.com##+js(abort-on-property-write.js, AdDelivery)
-youporngay.com#%#//scriptlet("abort-on-property-write", "AdDelivery")
+youporngay.com,tube8.com##+js(abort-on-property-write.js, AdDelivery)
+youporngay.com,tube8.com#%#//scriptlet("abort-on-property-write", "AdDelivery")
 
-youporngay.com#%#//scriptlet("abort-on-property-read", "smpop")
-youporngay.com##+js(abort-on-property-read.js, smpop)
+youporngay.com,tube8.com#%#//scriptlet("abort-on-property-read", "smpop")
+youporngay.com,tube8.com##+js(abort-on-property-read.js, smpop)
 
 newsyou.info##+js(set-constant.js, Math.random, noopFunc)
 newsyou.info#%#//scriptlet("set-constant", "Math.random", "noopFunc")
