@@ -939,9 +939,6 @@ rjno1.com#%#//scriptlet("prevent-setTimeout", "rjnocanrunads", "3000")
 letmejerk.com,pornktube.*##+js(addEventListener-defuser.js, load, exoJsPop)
 letmejerk.com,pornktube.*#%#//scriptlet("prevent-addEventListener", "load", "exoJsPop")
 
-t66y.com##+js(abort-current-inline-script.js, $, undefined)
-t66y.com#%#//scriptlet("abort-current-inline-script", "$", "undefined")
-
 di.se##+js(setInterval-defuser.js, runAdBlockPaywall, 1000)
 di.se#%#//scriptlet("prevent-setInterval", "runAdBlockPaywall", "1000")
 
