@@ -1233,17 +1233,11 @@ planetatorrent.com#%#//scriptlet("prevent-addEventListener", "mousedown", "()")
 hitomi.la,uiporn.com##+js(abort-on-property-write.js, adblock_detected)
 hitomi.la,uiporn.com#%#//scriptlet("abort-on-property-write", "adblock_detected")
 
-iporntv.net##+js(abort-current-inline-script.js, document.createElement, IFRAME)
-iporntv.net#%#//scriptlet("abort-current-inline-script", "document.createElement", "IFRAME")
-
-iporntv.net##+js(set-constant.js, ckaduMobilePop, noopFunc)
-iporntv.net#%#//scriptlet("set-constant", "ckaduMobilePop", "noopFunc")
+iporntv.net,pinkclips.mobi,adultjoy.net,16honeys.com##+js(set-constant.js, ckaduMobilePop, noopFunc)
+iporntv.net,pinkclips.mobi,adultjoy.net,16honeys.com#%#//scriptlet("set-constant", "ckaduMobilePop", "noopFunc")
 
 cambabe.*,camwhores.tv,thepiratebay.*##+js(abort-on-property-read.js, _wm)
 cambabe.*,camwhores.tv,thepiratebay.*#%#//scriptlet("abort-on-property-read", "_wm")
-
-88files.net#%#//scriptlet("set-constant", "openPopAd", "noopFunc")
-88files.net##+js(set-constant.js, openPopAd, noopFunc)
 
 rulu.co#%#//scriptlet("set-constant", "getDownloadNow", "noopFunc")
 rulu.co##+js(set-constant.js, getDownloadNow, noopFunc)
@@ -1344,8 +1338,8 @@ lewat.club,romfirmware.com,flash-firmware.blogspot.com.crackboxgsm.blogspot.com#
 pluspremieres.*##+js(setTimeout-defuser.js, /getElementsByClassName|adb|parentNode/)
 pluspremieres.*#%#//scriptlet("prevent-setTimeout", "/getElementsByClassName|adb|parentNode/")
 
-notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com##+js(abort-current-inline-script.js, document.createElement, iframe)
-notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com##+js(abort-current-inline-script.js, document.createElement, iframe)
+notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com,iporntv.net##+js(abort-current-inline-script.js, document.createElement, /iframe|IFRAME/)
+notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com,iporntv.net##+js(abort-current-inline-script.js, document.createElement, /iframe|IFRAME/)
 
 egybest2.com,egybest4.com,mp4s.org##+js(abort-on-property-read.js, localStorage)
 egybest2.com,egybest4.com,mp4s.org#%#//scriptlet("abort-on-property-read", "localStorage")
