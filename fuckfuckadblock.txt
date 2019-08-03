@@ -855,9 +855,6 @@ gfycat.com,wantedbabes.com#%#//scriptlet("set-constant", "setInterval", "noopFun
 inmanga.com##+js(abort-current-inline-script.js, setTimeout, manageAntiBlock)
 inmanga.com#%#//scriptlet("abort-current-inline-script", "setTimeout", "manageAntiBlock")
 
-agargold.*##+js(abort-current-inline-script.js, document.getElementById, block)
-agargold.*#%#//scriptlet("abort-current-inline-script", "document.getElementById", "block")
-
 prevention.com##+js(abort-on-property-read.js, adBlockPromise)
 prevention.com#%#//scriptlet("abort-on-property-read", "adBlockPromise")
 
@@ -901,7 +898,7 @@ vinaurl.in##+js(abort-on-property-read.js, adsHeight)
 vinaurl.in#%#//scriptlet("abort-on-property-read", "adsHeight")
 
 leakforums.*,verystream.com,mad4wheels.com,programinadresi.com,thuvienvatly.com##+js(abort-on-property-read.js, /adblock|adBlock/)
-leakforums.*,verystream.com,mad4wheels.com,programinadresi.com,thuvienvatly.com#%#//scriptlet("abort-on-property-read", "adblock")
+leakforums.*,verystream.com,mad4wheels.com,programinadresi.com,thuvienvatly.com#%#//scriptlet("abort-on-property-read", "/adblock|adBlock/")
 
 dieroten.pl##+js(addEventListener-defuser.js, DOMContentLoaded, checkAdBlock)
 dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "checkAdBlock")
