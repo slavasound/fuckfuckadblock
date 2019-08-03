@@ -738,9 +738,6 @@ dbupload.*,desiupload.in,gorillavid.in,hdmoviesplus.xyz,movies-300mb.*,mylust.co
 3dloto.ru,amante-nn.ru,beegfree.org,bibliotekar.kz,bubluoteka.org,chebellavista.ru,chebelpost.ru,cityporno.org,ckr51.ru,dengivpodarok.ru,doyki.org,editlw.ru,eroplatinum.ru,feromonov.net,heliograph.ru,imageshtorm.com,incestru.org,incestsex.org,infoblago.ru,isira.ru,klub-kac.ru,loginz.org,lovcity.com,mikrobiki.ru,mshelxxx.ru.com,opfi.ru,parnuhahome.com,picpool.ru,picsbase.ru,porno-be.online,porno-be.video,porno-comix.com,porno-freee.com,porno220.biz,pornoorgazm.com,pornosee.info,pornovideo24.click,pornoxtv.online,pornreactor.cc,rumanda.net,russianxxx.org,russkoevideoonline.com,samoexxxporno.ru,seksxvideo.com,siski-porno.ru,skoraya.net,smotreti-porno-online.ru,thegaysex.net,toparticles.ru,trahsex.ru,union74.ru,unpictures.ru,upfy.org,vsetip.top,vzrosliedamy.com,wporno.net,xvideos.com.ru,xxxgruz.org,xxxmob.cc,xxxseks.org,youporno.pro##+js(abort-on-property-read.js, visitweb_script)
 3dloto.ru,amante-nn.ru,beegfree.org,bibliotekar.kz,bubluoteka.org,chebellavista.ru,chebelpost.ru,cityporno.org,ckr51.ru,dengivpodarok.ru,doyki.org,editlw.ru,eroplatinum.ru,feromonov.net,heliograph.ru,imageshtorm.com,incestru.org,incestsex.org,infoblago.ru,isira.ru,klub-kac.ru,loginz.org,lovcity.com,mikrobiki.ru,mshelxxx.ru.com,opfi.ru,parnuhahome.com,picpool.ru,picsbase.ru,porno-be.online,porno-be.video,porno-comix.com,porno-freee.com,porno220.biz,pornoorgazm.com,pornosee.info,pornovideo24.click,pornoxtv.online,pornreactor.cc,rumanda.net,russianxxx.org,russkoevideoonline.com,samoexxxporno.ru,seksxvideo.com,siski-porno.ru,skoraya.net,smotreti-porno-online.ru,thegaysex.net,toparticles.ru,trahsex.ru,union74.ru,unpictures.ru,upfy.org,vsetip.top,vzrosliedamy.com,wporno.net,xvideos.com.ru,xxxgruz.org,xxxmob.cc,xxxseks.org,youporno.pro#%#//scriptlet("abort-on-property-read", "visitweb_script")
 
-hotpornfile.org,underpic.club##+js(abort-on-property-read.js, document.dispatchEvent)
-hotpornfile.org,underpic.club#%#//scriptlet("abort-on-property-read", "document.dispatchEvent")
-
 avcao.cc,axjbt.com#%#//scriptlet("abort-on-property-read", "myclick")
 avcao.cc,axjbt.com##+js(abort-on-property-read.js, myclick)
 
@@ -765,14 +762,11 @@ povvideo.*,powvldeo.*,streamp1ay.*#%#//scriptlet("abort-on-property-write", "Fin
 grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,vidup.*,xmoviesforyou.com##+js(abort-on-property-read.js, miner)
 grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,vidup.*,xmoviesforyou.com#%#//scriptlet("abort-on-property-read", "miner")
 
-nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br##+js(abort-on-property-write.js, CoinNebula)
-nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br#%#//scriptlet("abort-on-property-write", "CoinNebula")
+nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br,unluresim.com,bitblitz.org,fovj.ir##+js(abort-on-property-write.js, CoinNebula)
+nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,valeconferir.com.br,unluresim.com,bitblitz.org,fovj.ir#%#//scriptlet("abort-on-property-write", "CoinNebula")
 
 povvideo.*,powvldeo.*##+js(abort-current-inline-script.js, $, test)
 povvideo.*,powvldeo.*#%#//scriptlet("abort-current-inline-script", "$", "test")
-
-camuploads.com,tonpornodujour.com,xxxdessert.com##+js(abort-on-property-read.js, popunders)
-camuploads.com,tonpornodujour.com,xxxdessert.com#%#//scriptlet("abort-on-property-read", "popunders")
 
 sound-park.club,soundpark-club.*,soundpark.red##+js(abort-current-inline-script.js, $, open)
 sound-park.club,soundpark-club.*,soundpark.red#%#//scriptlet("abort-current-inline-script", "$", "open")
@@ -797,9 +791,6 @@ kino-live2.org,upgrand.*#%#//scriptlet("prevent-addEventListener", "click")
 
 proxyrarbg.*,rarbg.is,rarbg.to,rarbg.unblockall.org,rarbg.unblocked.kim,rarbg2019.org,rarbgaccess.org,rarbgcore.org,rarbgdata.org,rarbgenter.org,rarbgget.org,rarbggo.org,rarbgmirror.*,rarbgp2p.org,rarbgproxy.*,rarbgprx.org,rarbgto.org,rarbgtor.org,rarbgunblock.*,rarbgweb.org##+js(abort-on-property-read.js, LieDetector)
 proxyrarbg.*,rarbg.is,rarbg.to,rarbg.unblockall.org,rarbg.unblocked.kim,rarbg2019.org,rarbgaccess.org,rarbgcore.org,rarbgdata.org,rarbgenter.org,rarbgget.org,rarbggo.org,rarbgmirror.*,rarbgp2p.org,rarbgproxy.*,rarbgprx.org,rarbgto.org,rarbgtor.org,rarbgunblock.*,rarbgweb.org#%#//scriptlet("abort-on-property-read", "LieDetector")
-
-4tube.com,hotmovs.com,voyeurhit.com##+js(abort-on-property-write.js, ads_priv)
-4tube.com,hotmovs.com,voyeurhit.com#%#//scriptlet("abort-on-property-write", "ads_priv")
 
 animeyt2.tv,ebookdz.com,movie25com.com,movie2kfree.com,movie2khd.org,newsyou.info,openloadmovies.bz,rutorgames.info,streamingworld.*,swatchseries.to,xmovies8net.org##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
 animeyt2.tv,ebookdz.com,movie25com.com,movie2kfree.com,movie2khd.org,newsyou.info,openloadmovies.bz,rutorgames.info,streamingworld.*,swatchseries.to,xmovies8net.org#%#//scriptlet("set-constant", "String.prototype.charCodeAt", "trueFunc")
