@@ -645,8 +645,8 @@ linkberuang.*,njiir.com#%#//scriptlet("set-constant", "safelink.adblock", "false
 ceesty.com,clkmein.com,gestyy.com,viid.me##+js(set-constant.js, adsBlockerDetector, noopFunc)
 ceesty.com,clkmein.com,gestyy.com,viid.me#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
 
-daxab.com,fastplay.*,femefun.com,foxebook.net,gnula.nu,hdvid.*,leporno.org,m4ufree.*,nekopoi.*,pornscum.com,psl.pw,rule34hentai.net,short.pe,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*##+js(abort-current-inline-script.js, atob, tabunder)
-daxab.com,fastplay.*,femefun.com,foxebook.net,gnula.nu,hdvid.*,leporno.org,m4ufree.*,nekopoi.*,pornscum.com,psl.pw,rule34hentai.net,short.pe,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*#%#//scriptlet("abort-current-inline-script", "atob", "tabunder")
+daxab.com,fastplay.*,femefun.com,foxebook.net,gnula.nu,hdvid.*,leporno.org,m4ufree.*,nekopoi.*,pornscum.com,psl.pw,rule34hentai.net,short.pe,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,gslink.*##+js(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
+daxab.com,fastplay.*,femefun.com,foxebook.net,gnula.nu,hdvid.*,leporno.org,m4ufree.*,nekopoi.*,pornscum.com,psl.pw,rule34hentai.net,short.pe,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,gslink.*#%#//scriptlet("abort-current-inline-script", "atob", "/tabunder|TABUNDER/")
 
 lektsii.org,studopedia.com.ua,studopedia.ru,studopedia.su##+js(abort-current-inline-script.js, detectAdblk)
 lektsii.org,studopedia.com.ua,studopedia.ru,studopedia.su#%#//scriptlet("abort-current-inline-script", "detectAdblk")
@@ -932,9 +932,6 @@ empflix.com,tnaflix.com#%#//scriptlet("abort-on-property-read", "ads.pop_url")
 
 empflix.com,tnaflix.com##+js(abort-on-property-write.js, exoloaderLocation)
 empflix.com,tnaflix.com#%#//scriptlet("abort-on-property-write", "exoloaderLocation")
-
-gslink.*##+js(abort-current-inline-script.js, atob, TABUNDER)
-gslink.*#%#//scriptlet("abort-current-inline-script", "atob", "TABUNDER")
 
 worder.cat,esportes.r7.com,thesimsresource.com##+js(abort-on-property-write.js, ga)
 worder.cat,esportes.r7.com,thesimsresource.com#%#//scriptlet("abort-on-property-write", "ga")
@@ -1323,8 +1320,8 @@ atk-cuteandhairy.com,gaynet.tv,refdomain5.xyz,hepfullfilmizle1.com,pandavideo.pw
 free-mp3-download.net##+js(set-constant.js, showMsg, noopFunc)
 free-mp3-download.net#%#//scriptlet("set-constant", "showMsg", "noopFunc")
 
-cartoon-sex.tv,morehardporn.com##+js(abort-on-property-read.js, prPuShown)
-cartoon-sex.tv,morehardporn.com#%#//scriptlet("abort-on-property-read", "prPuShown")
+cartoon-sex.tv,morehardporn.com,watchmygf.cc,fakeporn.tv,watchmyexgf.net##+js(abort-on-property-read.js, prPuShown)
+cartoon-sex.tv,morehardporn.com,watchmygf.cc,fakeporn.tv,watchmyexgf.net#%#//scriptlet("abort-on-property-read", "prPuShown")
 
 slader.com##+js(set-constant.js, sladerAbm, noopFunc)
 slader.com#%#//scriptlet("set-constant", "sladerAbm", "noopFunc")
