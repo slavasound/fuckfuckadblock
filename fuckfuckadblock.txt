@@ -257,7 +257,7 @@
 ||porno365.cc^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.porno365.cc *.jwpcdn.com;
 ||porno-island.*^$csp=script-src 'self' 'unsafe-inline';
 ||porntrex.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.cdntrex.com ajax.googleapis.com;
-||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: ajax.googleapis.com *.jwpcdn.com *.googleusercontent.com;
+||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: ajax.googleapis.com *.jwpcdn.com *.akacdn.ru *.googleusercontent.com;
 ||psl.pw^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google.com *.solvemedia.com; child-src 'self' *.solvemedia.com *.gstatic.com *.google.com;
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com *.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to *.cloudflare.com streamango.com *.fruithosted.net prettyfast.to entervideo.net *.rapidvid.to rapidvid.to;
 ||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.is *.rapidvideo.com *.playercdn.net;
