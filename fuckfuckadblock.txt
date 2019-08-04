@@ -305,7 +305,7 @@
 @@*$stealth,domain=cablegratis.tv|embed.streamx.live|hotmovs.com|premiumtvchannels.com|redcdn.pl|sweetbc4.club|tvokazje.pl|txxx.com|yaeby.me|prettyfast.to|9anime.ru|fmovies.to|9anime.to|9anime.is|9anime.tv|hxload.co|24video.site
 @@*$xmlhttprequest,script,~third-party,domain=boxing-live.stream|fbstream.io|homerun.re|live-ufc.stream|livef1.stream|livemotgp.stream|mlbstream.io|muzlan.top|nbastream.io|nflstream.io|nhlstream.io|programiz.com|readcomiconline.to|reevown.com|rugbystream.me|soccer-live.stream|strikeout.co|tennisstream.me|vipleague.bz|vipleague.cc
 
-*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx|pandavideo.pw|mangovideo.pw|xyzcomics.com|newsfilter.org|porntopic.com|ipicture.su
+*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx|pandavideo.pw|mangovideo.pw|xyzcomics.com|newsfilter.org|porntopic.com|ipicture.su|1337x.to
 */apu.php?$important
 *.php?aid=pause_$important
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
@@ -667,8 +667,8 @@ avcao.cc,axjbt.com##+js(abort-on-property-read.js, myclick)
 1337x.*,2ddl.*,9xupload.*,adyou.*,ancensored.com,av8x.com,biqle.ru,fembed.com,ganol.*,ganool.*,javboss.com,javqd.com,jurl.io,kissmanga.com,oturl.com,planetatorrent.com,qdembed.com,readcomiconline.to,safelinku.net,seehd.*,thepiratebay.*,torrentrapid.com,tubeqd.com,tumejortorrent.com,xmovies8.*,linsoo.co.kr,animeflv.ru,tpbproxyone.org,porntopic.com##+js(setInterval-defuser.js, (), 500)
 1337x.*,2ddl.*,9xupload.*,adyou.*,ancensored.com,av8x.com,biqle.ru,fembed.com,ganol.*,ganool.*,javboss.com,javqd.com,jurl.io,kissmanga.com,oturl.com,planetatorrent.com,qdembed.com,readcomiconline.to,safelinku.net,seehd.*,thepiratebay.*,torrentrapid.com,tubeqd.com,tumejortorrent.com,xmovies8.*,linsoo.co.kr,animeflv.ru,tpbproxyone.org,porntopic.com#%#//scriptlet("prevent-setInterval", "()", "500")
 
-payco.*,streamlive.to##+js(abort-current-inline-script.js, parseInt, charAt)
-payco.*,streamlive.to#%#//scriptlet("abort-current-inline-script", "parseInt", "charAt")
+payco.*,streamlive.to,unblocked.to##+js(abort-current-inline-script.js, parseInt, charAt)
+payco.*,streamlive.to,unblocked.to#%#//scriptlet("abort-current-inline-script", "parseInt", "charAt")
 
 mypornstarbook.net##+js(abort-current-inline-script.js, encodeURIComponent, popMagic)
 mypornstarbook.net#%#//scriptlet("abort-current-inline-script", "encodeURIComponent", "popMagic")
@@ -949,8 +949,8 @@ innpoland.pl,userupload.net,smartage.pl#%#//scriptlet("abort-current-inline-scri
 animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
 animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
 
-9xupload.*,descargas2020.*,kino-live2.org,sloomp.space,kissasian.*,mediafire.com,jyra.online,limitsizamca.org##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/)
-9xupload.*,descargas2020.*,kino-live2.org,sloomp.space,kissasian.*,mediafire.com,jyra.online,limitsizamca.org#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/")
+9xupload.*,descargas2020.*,kino-live2.org,sloomp.space,kissasian.*,mediafire.com,jyra.online,limitsizamca.org,unblocked.to##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/)
+9xupload.*,descargas2020.*,kino-live2.org,sloomp.space,kissasian.*,mediafire.com,jyra.online,limitsizamca.org,unblocked.to#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/")
 
 2ddl.*,adsvy.com,ancensored.com,av8x.com,biqle.ru,boxing-live.stream,fbstream.io,fembed.com,ganol.*,ganool.*,homerun.re,javboss.com,javqd.com,jurl.io,live-ufc.stream,livef1.stream,livemotgp.stream,mispelisyseries.com,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,oturl.com,planetatorrent.com,qdembed.com,readcomiconline.to,rugbystream.me,seehd.*,short2win.*,soccer-live.stream,strikeout.*,tennisstream.me,thepiratebay.*,torrentrapid.com,tubeqd.com,tumejortorrent.com,tvsinpagar.com,vipleague.*,kissmanga.com,animeflv.ru,mirrorace.com,motherless.com,tpbproxyone.org,porntopic.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 2ddl.*,adsvy.com,ancensored.com,av8x.com,biqle.ru,boxing-live.stream,fbstream.io,fembed.com,ganol.*,ganool.*,homerun.re,javboss.com,javqd.com,jurl.io,live-ufc.stream,livef1.stream,livemotgp.stream,mispelisyseries.com,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,oturl.com,planetatorrent.com,qdembed.com,readcomiconline.to,rugbystream.me,seehd.*,short2win.*,soccer-live.stream,strikeout.*,tennisstream.me,thepiratebay.*,torrentrapid.com,tubeqd.com,tumejortorrent.com,tvsinpagar.com,vipleague.*,kissmanga.com,animeflv.ru,mirrorace.com,motherless.com,tpbproxyone.org,porntopic.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "_0x")
