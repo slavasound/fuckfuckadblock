@@ -177,7 +177,7 @@
 
 /(acales)\.ru/$third-party
 /(adbetclickin)\.pink/$third-party
-/(adbetnet|bodelen|braun634|cap\-cap\-pop|clickadilla|clickiocdn|clickopop1000|clksite|cpiyz|defpush|deloplen|deloplenn|dolohen|doublepimp|exarab|exdynsrv|exoclick|exoclsodaqs|exosrv|getclicky|juicyads|koindut|muahohanghoa|newdonate|onclicksuper|pastoupt|poparya|popmajor|popmyads|propellerclick|punosy|pushlaram|pushnative|pushnevis|pushqwer|s2block|sdasasyydd|syndapop|syndicpop|tinypass|torvind|tslomhfys|xclickers|ytimgg|zarpop|pushlat|onclickmega|onclicksuper|superfastcdn|velocecdn|pastoupt|osskanger)\.com/$third-party
+/(adbetnet|bodelen|braun634|cap\-cap\-pop|clickadilla|clickiocdn|clickopop1000|clksite|cpiyz|defpush|deloplen|deloplenn|dolohen|doublepimp|exarab|exdynsrv|exoclick|exoclsodaqs|exosrv|getclicky|juicyads|koindut|muahohanghoa|newdonate|onclicksuper|pastoupt|poparya|popmajor|popmyads|propellerclick|punosy|pushlaram|pushnative|pushnevis|pushqwer|s2block|sdasasyydd|syndapop|syndicpop|tinypass|torvind|tslomhfys|xclickers|ytimgg|zarpop|pushlat|onclickmega|onclicksuper|superfastcdn|velocecdn|pastoupt|osskanger|ero\-advertising)\.com/$third-party
 /(adswrapme)\.click/$third-party
 /(clcknads)\.pro/$third-party
 /(click2m)\.org/$third-party
@@ -269,7 +269,7 @@
 ||short.pe^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google.com *.solvemedia.com; child-src 'self' *.solvemedia.com *.gstatic.com *.google.com;
 ||skidrowreloaded.com^$csp=script-src 'self';
 ||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com *.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to *.rapidvid.to rapidvid.to;
-||spankbang.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.spankbang.com *.cloudflare.com *.gravatar.com *.zencdn.net;
+||spankbang.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-eval' *.spankbang.com *.cloudflare.com *.zencdn.net *.google.com *.gstatic.com;
 ||streamtajm.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.tmdb.org *.media-amazon.com *.googleapis.com openload.co nxload.com streamango.com jawcloud.co *.rapidvideo.com *.rapidvideo.is vcstream.to verystream.com;
 ||swatchseries.to^$csp=script-src 'self' * 'unsafe-inline';
 ||szs.pw^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google.com *.solvemedia.com; child-src 'self' *.solvemedia.com *.gstatic.com *.google.com;
@@ -501,8 +501,8 @@ cutadlink.net,festinhasbrasil.com,jobnet.co.il,letmewatchthis.one,primewire.ltd,
 eveningtimes.co.uk,gamesradar.com,golem.de,lancashiretelegraph.co.uk,netdoktor.de,space.com,tweaktown.com,warringtonguardian.co.uk##+js(abort-on-property-write.js, _sp_)
 eveningtimes.co.uk,gamesradar.com,golem.de,lancashiretelegraph.co.uk,netdoktor.de,space.com,tweaktown.com,warringtonguardian.co.uk#%#//scriptlet("abort-on-property-write", "_sp_")
 
-adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site,atk-exotics.com,click2see.desi,clx.icu,crabcut.net,eklink.net,eporner.*,fiuxy.eu,hindibeen.com,humaribit.win,livenewsbuzz.com,morehardporn.com,p30day.com,queenfaucet.website,shortbit.co,stfly.*,tetewlink.me,twik.pw,youx.xxx,spankbang.com##+js(addEventListener-defuser.js, click, trigger)
-adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site,atk-exotics.com,click2see.desi,clx.icu,crabcut.net,eklink.net,eporner.*,fiuxy.eu,hindibeen.com,humaribit.win,livenewsbuzz.com,morehardporn.com,p30day.com,queenfaucet.website,shortbit.co,stfly.*,tetewlink.me,twik.pw,youx.xxx,spankbang.com#%#//scriptlet("prevent-addEventListener", "click", "trigger")
+adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site,atk-exotics.com,click2see.desi,clx.icu,crabcut.net,eklink.net,eporner.*,fiuxy.eu,hindibeen.com,humaribit.win,livenewsbuzz.com,morehardporn.com,p30day.com,queenfaucet.website,shortbit.co,stfly.*,tetewlink.me,twik.pw,youx.xxx##+js(addEventListener-defuser.js, click, trigger)
+adlpu.com,adpop.me,adshort.*,adsvy.com,allreports.site,atk-exotics.com,click2see.desi,clx.icu,crabcut.net,eklink.net,eporner.*,fiuxy.eu,hindibeen.com,humaribit.win,livenewsbuzz.com,morehardporn.com,p30day.com,queenfaucet.website,shortbit.co,stfly.*,tetewlink.me,twik.pw,youx.xxx#%#//scriptlet("prevent-addEventListener", "click", "trigger")
 
 accuweather.com,androidpolice.com,beliefnet.com,businessinsider.*,champions.co,eurogamer.*,financialpost.com,givemesport.com,grubstreet.com,hotair.com,lacrossetribune.com,madison.com,magicvalley.com,missoulian.com,moviepilot.com,napavalleyregister.com,notalwaysright.com,nowloading.co,ottawacitizen.com,pantagraph.com,parkers.co.uk,patheos.com,popculture.com,poststar.com,rawstory.com,thesouthern.com,thestudentroom.co.uk,townhall.com,trendblog.net,tucson.com,tvtropes.org,twitchy.com,vancouversun.com,watoday.com.au,wfaa.com,journalnow.com##+js(abort-on-property-read.js, stop)
 accuweather.com,androidpolice.com,beliefnet.com,businessinsider.*,champions.co,eurogamer.*,financialpost.com,givemesport.com,grubstreet.com,hotair.com,lacrossetribune.com,madison.com,magicvalley.com,missoulian.com,moviepilot.com,napavalleyregister.com,notalwaysright.com,nowloading.co,ottawacitizen.com,pantagraph.com,parkers.co.uk,patheos.com,popculture.com,poststar.com,rawstory.com,thesouthern.com,thestudentroom.co.uk,townhall.com,trendblog.net,tucson.com,tvtropes.org,twitchy.com,vancouversun.com,watoday.com.au,wfaa.com,journalnow.com#%#//scriptlet("abort-on-property-read", "stop")
