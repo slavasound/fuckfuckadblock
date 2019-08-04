@@ -300,8 +300,9 @@
 *$websocket,domain=vidup.io|vidlink.org
 *$xmlhttprequest,domain=sexvid.xxx|fantasti.cc
 *$xmlhttprequest,third-party,domain=userscloud.com|ssrmovies.club
+
 @@*$media,domain=camwhores.tv
-@@*$stealth,domain=cablegratis.tv|embed.streamx.live|hotmovs.com|premiumtvchannels.com|redcdn.pl|sweetbc4.club|tvokazje.pl|txxx.com|yaeby.me|prettyfast.to|9anime.ru|fmovies.to|9anime.to|9anime.is|9anime.tv|hxload.co
+@@*$stealth,domain=cablegratis.tv|embed.streamx.live|hotmovs.com|premiumtvchannels.com|redcdn.pl|sweetbc4.club|tvokazje.pl|txxx.com|yaeby.me|prettyfast.to|9anime.ru|fmovies.to|9anime.to|9anime.is|9anime.tv|hxload.co|24video.site
 @@*$xmlhttprequest,script,~third-party,domain=boxing-live.stream|fbstream.io|homerun.re|live-ufc.stream|livef1.stream|livemotgp.stream|mlbstream.io|muzlan.top|nbastream.io|nflstream.io|nhlstream.io|programiz.com|readcomiconline.to|reevown.com|rugbystream.me|soccer-live.stream|strikeout.co|tennisstream.me|vipleague.bz|vipleague.cc
 
 */*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx|pandavideo.pw|mangovideo.pw|xyzcomics.com|newsfilter.org
