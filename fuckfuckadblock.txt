@@ -293,17 +293,18 @@
 ||mp4upload.com^$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-eval' *.mp4upload.com *.jquery.com *.bootstrapcdn.com;
 
 *$script,domain=imgview.pw
+*$xmlhttprequest,domain=sexvid.xxx|fantasti.cc
 *$script,third-party,domain=clicknupload.org|clipwatching.com|ecoimages.xyz|fembed.com|igg-games.com|kuntv.pw|linkdrop.net|newsyou.info|openloed.co|readcomiconline.to|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|vidsrc.me|gamesfull.org
 *$script,~third-party,domain=maranhesduve.club
-*$third-party,domain=online.animedia.tv
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life
-*$websocket,domain=vidup.io|vidlink.org
-*$xmlhttprequest,domain=sexvid.xxx|fantasti.cc
+!*$~third-party,script,xmlhttprequest,domain=
 *$xmlhttprequest,third-party,domain=userscloud.com|ssrmovies.club
+!*$xmlhttprequest,~third-party,domain=
 
 @@*$media,domain=camwhores.tv
 @@*$stealth,domain=cablegratis.tv|embed.streamx.live|hotmovs.com|premiumtvchannels.com|redcdn.pl|sweetbc4.club|tvokazje.pl|txxx.com|yaeby.me|prettyfast.to|9anime.ru|fmovies.to|9anime.to|9anime.is|9anime.tv|hxload.co|24video.site
 @@*$xmlhttprequest,script,~third-party,domain=boxing-live.stream|fbstream.io|homerun.re|live-ufc.stream|livef1.stream|livemotgp.stream|mlbstream.io|muzlan.top|nbastream.io|nflstream.io|nhlstream.io|programiz.com|readcomiconline.to|reevown.com|rugbystream.me|soccer-live.stream|strikeout.co|tennisstream.me|vipleague.bz|vipleague.cc
+!@@*$xmlhttprequest,script,third-party,domain=
 
 */*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|maxiporno.tv|orgazmtv.com|pornalin.com|turboimagehost.com|xxxdessert.com|youx.xxx|pandavideo.pw|mangovideo.pw|xyzcomics.com|newsfilter.org|porntopic.com|ipicture.su|1337x.to
 */apu.php?$important
