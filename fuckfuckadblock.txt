@@ -236,7 +236,7 @@
 ||hanime.tv^$csp=upgrade-insecure-requests;
 ||hentai-share.tv^$csp=default-src 'self' 'unsafe-inline' *.cloudflare.com openload.co oloadcdn.net vidoza.net newcloud.tv hqq.tv hub.e-hentai.me fapservice.ru tiwi.kiwi;
 ||hitorrentsearchweb.pw^$csp=script-src 'none'; object-src 'none'; connect-src 'none';
-||hqq.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.gstatic.com *.cloudflare.com *.google.com *.hqq.tv *.vkcache.com *.jsdelivr.net;
+||hqq.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.gstatic.com *.cloudflare.com *.google.com *.hqq.tv *.vkcache.com *.jsdelivr.net *.zencdn.net *.bootstrapcdn.com *.googleapis.com;
 ||indishare.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bootstrapcdn.com *.cloudflare.com;
 ||javmec.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval';
 ||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com *.jquery.com *.fruithosted.net *.googleusercontent.com *.googlevideo.com *.fbcdn.net;
