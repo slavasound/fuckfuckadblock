@@ -615,8 +615,8 @@ cscscholarships.net,fas.li,jntufastupdates.com,likn.xyz,novaenreta.space,techper
 bellinghamherald.com,elpais.com,okdiario.com##+js(abort-current-inline-script.js, googlefc)
 bellinghamherald.com,elpais.com,okdiario.com#%#//scriptlet("abort-current-inline-script", "googlefc")
 
-knilife.com,nwtehranmusic.com,rmdown.com,userscloud.com,xopenload.me,tenttom.com##+js(abort-on-property-write.js, open)
-knilife.com,nwtehranmusic.com,rmdown.com,userscloud.com,xopenload.me,tenttom.com#%#//scriptlet("abort-on-property-write", "open")
+knilife.com,nwtehranmusic.com,rmdown.com,userscloud.com,xopenload.me,tenttom.com,xtapes.to##+js(abort-on-property-write.js, open)
+knilife.com,nwtehranmusic.com,rmdown.com,userscloud.com,xopenload.me,tenttom.com,xtapes.to#%#//scriptlet("abort-on-property-write", "open")
 
 2ddl.*,acefile.co,awsubs.tv,extrafreetv.me,goss.watch,imgmaze.*,imgrock.*,mangovideo.pw,mygoodstream.pw,planetatorrent.com,thepiratebay.*,watchmovies.pk,xmoviesforyou.com##+js(abort-on-property-read.js, popjs.init)
 2ddl.*,acefile.co,awsubs.tv,extrafreetv.me,goss.watch,imgmaze.*,imgrock.*,mangovideo.pw,mygoodstream.pw,planetatorrent.com,thepiratebay.*,watchmovies.pk,xmoviesforyou.com#%#//scriptlet("abort-on-property-read", "popjs.init")
@@ -1098,8 +1098,8 @@ mz-web.de#%#//scriptlet("abort-current-inline-script", "document.createElement",
 originalindianporn.com,wowindianporn.com##+js(abort-on-property-read.js, popit)
 originalindianporn.com,wowindianporn.com#%#//scriptlet("abort-on-property-read", "popit")
 
-1337x.*,aflamfree.top,lesbianexpert.com,safelinku.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, popunder)
-1337x.*,aflamfree.top,lesbianexpert.com,safelinku.net#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "popunder")
+1337x.*,aflamfree.top,lesbianexpert.com,safelinku.net,xtapes.to##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, popunder)
+1337x.*,aflamfree.top,lesbianexpert.com,safelinku.net,xtapes.to#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "popunder")
 
 e-mp3bul.xyz,modern-source.com#%#//scriptlet("set-constant", "_popwnd_open", "noopFunc")
 e-mp3bul.xyz,modern-source.com##+js(set-constant.js, _popwnd_open, noopFunc)
