@@ -711,8 +711,8 @@ digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uin
 douploads.com,uploadrar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "bannerad")
 douploads.com,uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
 
-kino-live2.org,short.pe,vidbob.com,gamer-info.com##+js(addEventListener-defuser.js, mousedown, preventDefault)
-kino-live2.org,short.pe,vidbob.com,gamer-info.com#%#//scriptlet("prevent-addEventListener", "mousedown", "preventDefault")
+kino-live2.org,short.pe,vidbob.com,gamer-info.com,dailymotion.com##+js(addEventListener-defuser.js, mousedown, preventDefault)
+kino-live2.org,short.pe,vidbob.com,gamer-info.com,dailymotion.com#%#//scriptlet("prevent-addEventListener", "mousedown", "preventDefault")
 
 kino-live2.org,upgrand.*##+js(addEventListener-defuser.js, click)
 kino-live2.org,upgrand.*#%#//scriptlet("prevent-addEventListener", "click")
