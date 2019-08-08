@@ -330,6 +330,7 @@
 */service-worker.js$script,important
 */sw-vodlocker.$script,important
 */sw.js$script,important
+*/license.$script,domain=fruithosts.net|oladblock.me|oladblock.services|oladblock.xyz|oload.best|oload.biz|oload.cc|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.life|oload.live|oload.press|oload.site|oload.space|oload.stream|oload.tv|oload.website|oload.win|olpair.com|openload.co|openload.pw|openloed.co|streamango.com|streamcherry.com|thevideobee.to
 /\/(propadbl\_epxhd|galaxad\_tpx|galax\_adsepxhd)([0-9]{1,2})?\.js/$script,domain=topeuropix.net|europixhd.net,important
 ||adservice.google.com^$xmlhttprequest,redirect=nooptext,domain=tubia.com
 ||assets.adobedtm.com^$script
