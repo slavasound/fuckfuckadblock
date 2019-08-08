@@ -233,8 +233,7 @@
 ||gelbooru.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com *.bootstrapcdn.com;
 ||gidfilm.ru^$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-eval' hlamer.ru gidfilm.ru; connect-src *.krasview.ru;
 ||gounlimited.to^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' data:;
-||grantorrent.co^$csp=script-src 'unsafe-inline' 'self' *.ytimg.com *.youtube.com;
-||grantorrent.com^$csp=script-src 'unsafe-inline' 'self' *.ytimg.com *.youtube.com;
+||grantorrent.*^$csp=script-src 'unsafe-inline' 'self' *.ytimg.com *.youtube.com;
 ||hanime.tv^$csp=upgrade-insecure-requests;
 ||hentai-share.tv^$csp=default-src 'self' * 'unsafe-inline' *.cloudflare.com openload.co *.openload.co openload.io *.openload.io openload.link *.openload.link openload.pw *.openload.pw oload.biz *.oload.biz oload.cc *.oload.cc oload.club *.oload.club oload.best *.oload.best oload.download *.oload.download oload.fun *.oload.fun oload.info *.oload.info oload.life *.oload.life oload.network *.oload.network oload.press *.oload.press oload.services *.oload.services oload.site *.oload.site oload.space *.oload.space oload.stream *.oload.stream oload.tv *.oload.tv oload.win *.oload.win oload.website *.oload.website oladblock.me *.oladblock.me oladblock.services *.oladblock.services oladblock.xyz *.oladblock.xyz oloadcdn.net vidoza.net newcloud.tv *.newcloud.tv hqq.tv *.e-hentai.me fapservice.ru tiwi.kiwi;
 ||hitorrentsearchweb.pw^$csp=script-src 'none'; object-src 'none'; connect-src 'none';
