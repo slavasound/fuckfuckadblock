@@ -588,8 +588,8 @@ linkberuang.*,njiir.com,razorlink.us#%#//scriptlet("set-constant", "safelink.adb
 ceesty.com,clkmein.com,gestyy.com,viid.me##+js(set-constant.js, adsBlockerDetector, noopFunc)
 ceesty.com,clkmein.com,gestyy.com,viid.me#%#//scriptlet("set-constant", "adsBlockerDetector", "noopFunc")
 
-daxab.com,fastplay.*,femefun.com,foxebook.net,gnula.nu,hdvid.*,leporno.org,m4ufree.*,nekopoi.*,pornscum.com,psl.pw,rule34hentai.net,short.pe,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,gslink.*,porntopic.com##+js(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
-daxab.com,fastplay.*,femefun.com,foxebook.net,gnula.nu,hdvid.*,leporno.org,m4ufree.*,nekopoi.*,pornscum.com,psl.pw,rule34hentai.net,short.pe,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,gslink.*,porntopic.com#%#//scriptlet("abort-current-inline-script", "atob", "/tabunder|TABUNDER/")
+daxab.com,fastplay.*,femefun.com,foxebook.net,gnula.nu,hdvid.*,leporno.org,m4ufree.*,nekopoi.*,pornscum.com,psl.pw,rule34hentai.net,short.pe,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,gslink.*,porntopic.com,imgrock.*##+js(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
+daxab.com,fastplay.*,femefun.com,foxebook.net,gnula.nu,hdvid.*,leporno.org,m4ufree.*,nekopoi.*,pornscum.com,psl.pw,rule34hentai.net,short.pe,torrentlocura.com,torrentrapid.com,tumejortorrent.com,watch-series.*,gslink.*,porntopic.com,imgrock.*#%#//scriptlet("abort-current-inline-script", "atob", "/tabunder|TABUNDER/")
 
 lektsii.org,studopedia.com.ua,studopedia.ru,studopedia.su##+js(abort-current-inline-script.js, detectAdblk)
 lektsii.org,studopedia.com.ua,studopedia.ru,studopedia.su#%#//scriptlet("abort-current-inline-script", "detectAdblk")
