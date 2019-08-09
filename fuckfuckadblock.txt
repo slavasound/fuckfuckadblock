@@ -305,7 +305,7 @@
 !*$xmlhttprequest,~third-party,domain=
 
 @@*$media,domain=camwhores.tv
-@@*$stealth,domain=cablegratis.tv|embed.streamx.live|hotmovs.com|premiumtvchannels.com|redcdn.pl|sweetbc4.club|tvokazje.pl|txxx.com|yaeby.me|prettyfast.to|9anime.ru|fmovies.to|9anime.to|9anime.is|9anime.tv|hxload.co|24video.site
+@@*$stealth,domain=cablegratis.tv|embed.streamx.live|hotmovs.com|premiumtvchannels.com|redcdn.pl|sweetbc4.club|tvokazje.pl|txxx.com|yaeby.me|prettyfast.to|9anime.ru|fmovies.to|9anime.to|9anime.is|9anime.tv|hxload.co|24video.site|yourupload.com
 @@*$xmlhttprequest,script,~third-party,domain=boxing-live.stream|fbstream.io|homerun.re|live-ufc.stream|livef1.stream|livemotgp.stream|mlbstream.io|muzlan.top|nbastream.io|nflstream.io|nhlstream.io|programiz.com|readcomiconline.to|reevown.com|rugbystream.me|soccer-live.stream|strikeout.co|tennisstream.me|vipleague.bz|vipleague.cc
 !@@*$xmlhttprequest,script,third-party,domain=
 
