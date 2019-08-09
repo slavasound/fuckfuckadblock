@@ -897,8 +897,8 @@ empireshort.com,vidstreaming.io,zbnfhsk.com#%#//scriptlet("abort-current-inline-
 savevideo.me##+js(abort-current-inline-script.js, $, banner)
 savevideo.me#%#//scriptlet("abort-current-inline-script", "$", "banner")
 
-countrygames.net,cut-w.in,uiz.io##+js(setTimeout-defuser.js, checkAdblockUser)
-countrygames.net,cut-w.in,uiz.io#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
+countrygames.net,cut-w.in,uiz.io,semawur.com##+js(setTimeout-defuser.js, checkAdblockUser)
+countrygames.net,cut-w.in,uiz.io,semawur.com#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
 
 theglobeandmail.com##+js(abort-on-property-write.js, adBlocker)
 theglobeandmail.com#%#//scriptlet("abort-on-property-write", "adBlocker")
