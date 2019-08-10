@@ -585,8 +585,8 @@ culturemap.com,planetf1.com,popmatters.com,northern-scot.co.uk#%#//scriptlet("ab
 linkberuang.*,njiir.com,razorlink.us##+js(set-constant.js, safelink.adblock, false)
 linkberuang.*,njiir.com,razorlink.us#%#//scriptlet("set-constant", "safelink.adblock", "false")
 
-123movies.*,1uwatchfree.*,300mbmovies.*,7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,bolly4u.*,bolly4uhd.*,ckk.ai,cloudvideo.tv,ddl.to,desiupload.in,dlfiles.online,dualinks.club,filmymeet.*,filmywap.*,filmywapofficial.com,foumovies.net,gdtot.com,gorillavid.in,hdfriday.org,holavid.com,indishare.*,indoxxi.show,letsupload.co,megaurl.in,moviescouch.*,moviescounter.store,moviescrush.co,moviespapa.site,moviespur.org,moviezen.co,oko.sh,rdxhd.*,sendit.cloud,ssrmovies.*,ssrmovies.wiki,stream2watch.*,thefilmbay.com,tusfiles.com,uploadbuzz.org,uploadever.com,uppom.*,uptomega.com,userscloud.com,w4files.ws,zeefiles.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
-123movies.*,1uwatchfree.*,300mbmovies.*,7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,bolly4u.*,bolly4uhd.*,ckk.ai,cloudvideo.tv,ddl.to,desiupload.in,dlfiles.online,dualinks.club,filmymeet.*,filmywap.*,filmywapofficial.com,foumovies.net,gdtot.com,gorillavid.in,hdfriday.org,holavid.com,indishare.*,indoxxi.show,letsupload.co,megaurl.in,moviescouch.*,moviescounter.store,moviescrush.co,moviespapa.site,moviespur.org,moviezen.co,oko.sh,rdxhd.*,sendit.cloud,ssrmovies.*,ssrmovies.wiki,stream2watch.*,thefilmbay.com,tusfiles.com,uploadbuzz.org,uploadever.com,uppom.*,uptomega.com,userscloud.com,w4files.ws,zeefiles.*#%#//scriptlet("abort-current-inline-script", "Math.sin", "vocabulary")
+123movies.*,1uwatchfree.*,300mbmovies.*,7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,bolly4u.*,bolly4uhd.*,ckk.ai,cloudvideo.tv,ddl.to,desiupload.in,dlfiles.online,dualinks.club,filmymeet.*,filmywap.*,filmywapofficial.com,foumovies.net,gdtot.com,gorillavid.in,hdfriday.org,holavid.com,indishare.*,indoxxi.show,letsupload.co,megaurl.in,moviescouch.*,moviescounter.store,moviescrush.co,moviespapa.site,moviespur.org,moviezen.co,oko.sh,rdxhd.*,sendit.cloud,ssrmovies.*,ssrmovies.wiki,stream2watch.*,thefilmbay.com,tusfiles.com,uploadbuzz.org,uploadever.com,uppom.*,uptomega.com,userscloud.com,w4files.ws,zeefiles.*##+js(abort-current-inline-script.js, /Math\.sin|Math\.tan/, vocabulary)
+123movies.*,1uwatchfree.*,300mbmovies.*,7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,bolly4u.*,bolly4uhd.*,ckk.ai,cloudvideo.tv,ddl.to,desiupload.in,dlfiles.online,dualinks.club,filmymeet.*,filmywap.*,filmywapofficial.com,foumovies.net,gdtot.com,gorillavid.in,hdfriday.org,holavid.com,indishare.*,indoxxi.show,letsupload.co,megaurl.in,moviescouch.*,moviescounter.store,moviescrush.co,moviespapa.site,moviespur.org,moviezen.co,oko.sh,rdxhd.*,sendit.cloud,ssrmovies.*,ssrmovies.wiki,stream2watch.*,thefilmbay.com,tusfiles.com,uploadbuzz.org,uploadever.com,uppom.*,uptomega.com,userscloud.com,w4files.ws,zeefiles.*#%#//scriptlet("abort-current-inline-script", "/Math\.sin|Math\.tan/", "vocabulary")
 
 20sat.com,69games.xxx,astikitline.es,beemp3s.*,camwhores.tv,ceesty.com,clkmein.com,corneey.com,dailyuploads.*,descargas2020.*,destyy.com,europixhd.*,festyy.com,flashx.*,gamcore.com,gestyy.com,gnula.nu,gomovieshub.io,hdeuropix.*,imgmonkey.com,javlot.com,kaotic.com,mispelisyseries.com,moviesin.co,mp3skulls.to,porntrex.com,putlocker.tl,putlockers.*,putlockertv.*,sh.st,sonyoutube.com,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,vidtodo.com##+js(abort-current-inline-script.js, parseInt, /tabunder|TABUNDER/)
 20sat.com,69games.xxx,astikitline.es,beemp3s.*,camwhores.tv,ceesty.com,clkmein.com,corneey.com,dailyuploads.*,descargas2020.*,destyy.com,europixhd.*,festyy.com,flashx.*,gamcore.com,gestyy.com,gnula.nu,gomovieshub.io,hdeuropix.*,imgmonkey.com,javlot.com,kaotic.com,mispelisyseries.com,moviesin.co,mp3skulls.to,porntrex.com,putlocker.tl,putlockers.*,putlockertv.*,sh.st,sonyoutube.com,topeuropix.net,torrentlocura.com,torrentrapid.com,tumejortorrent.com,tvsinpagar.com,vidstreaming.io,viid.me,watch-series.*,xmoviesforyou.com,xrares.com,vidtodo.com#%#//scriptlet("abort-current-inline-script", "parseInt", "/tabunder|TABUNDER/")
@@ -642,8 +642,8 @@ akanosora.com,blogspot.com,dictionnaire-medical.net,dreamfancy.org,ebookdz.com,i
 anonyviet.com,cutearn.ca,cutsouf.*,earn-url.com,earnbig.ca,hexafile.net,mycumx.com,sardeath.com,shortit.ca,tistory.com##+js(setTimeout-defuser.js, nextFunction, 250)
 anonyviet.com,cutearn.ca,cutsouf.*,earn-url.com,earnbig.ca,hexafile.net,mycumx.com,sardeath.com,shortit.ca,tistory.com#%#//scriptlet("prevent-setTimeout", "nextFunction", "250")
 
-billingsgazette.com,bismarcktribune.com,digitaltrends.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com##+js(abort-current-inline-script.js, Array, googlefcPresent)
-billingsgazette.com,bismarcktribune.com,digitaltrends.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com#%#//scriptlet("abort-current-inline-script", "Array", "googlefcPresent")
+billingsgazette.com,bismarcktribune.com,digitaltrends.com,jg-tc.com,nwitimes.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com##+js(abort-current-inline-script.js, /Uint8Array|Array/, googlefcPresent)
+billingsgazette.com,bismarcktribune.com,digitaltrends.com,jg-tc.com,nwitimes.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com#%#//scriptlet("abort-current-inline-script", "/Uint8Array|Array/", "googlefcPresent")
 
 jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,opjav.com,pandavideo.pw,rhvgmritmziwcm.net,zbqhfbetlmni.net##+js(addEventListener-defuser.js, click, popunder)
 jzrputtbut.net,mmwgopsoyfhzk.net,olgkzlwln.net,opjav.com,pandavideo.pw,rhvgmritmziwcm.net,zbqhfbetlmni.net#%#//scriptlet("prevent-addEventListener", "click", "popunder")
@@ -717,9 +717,6 @@ sound-park.*,soundpark.*,soundpark-club.*#%#//scriptlet("abort-current-inline-sc
 24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,dropapk.*,filmlinks4u.is,filmshd1080.net,gamesmega.net,ghasrchat.org,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,izvrata.net,kaztorka.org,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,metagmae.org,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,rutor.info,rutor.is,samlab.*,soft-portal.club,turboimagehost.com,xn--80aayfwofft0a1d.xn--p1ai,xozilla.com,zagonka.tv##+js(abort-current-inline-script.js, document.createElement, 'script')
 24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,dropapk.*,filmlinks4u.is,filmshd1080.net,gamesmega.net,ghasrchat.org,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,izvrata.net,kaztorka.org,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,metagmae.org,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,rutor.info,rutor.is,samlab.*,soft-portal.club,turboimagehost.com,xn--80aayfwofft0a1d.xn--p1ai,xozilla.com,zagonka.tv#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
-digitaltrends.com,nwitimes.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
-digitaltrends.com,nwitimes.com#%#//scriptlet("abort-current-inline-script", "Uint8Array", "googlefcPresent")
-
 douploads.com,uploadrar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "bannerad")
 douploads.com,uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
 
@@ -729,8 +726,8 @@ dailymotion.com,gamer-info.com,kino-live2.org,short.pe,vidbob.com#%#//scriptlet(
 kino-live2.org,upgrand.*##+js(addEventListener-defuser.js, click)
 kino-live2.org,upgrand.*#%#//scriptlet("prevent-addEventListener", "click")
 
-2speed.net,5278.space,92jav.com,asiansister.com,avtube.today,dailyuploads.*,dropupload.com,getrelax.club,javfree.club,speed4up.*,uploadship.com,userupload.net,xn--a-ko6aq37itxj.com##+js(abort-current-inline-script.js, document.getElementById, /adblockinfo|adisblock|adsBlockAlert/)
-2speed.net,5278.space,92jav.com,asiansister.com,avtube.today,dailyuploads.*,dropupload.com,getrelax.club,javfree.club,speed4up.*,uploadship.com,userupload.net,xn--a-ko6aq37itxj.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "/adblockinfo|adisblock|adsBlockAlert/")
+2speed.net,5278.space,92jav.com,asiansister.com,avtube.today,dailyuploads.*,dropupload.com,getrelax.club,javfree.club,speed4up.*,uploadship.com,userupload.net,xn--a-ko6aq37itxj.com##+js(abort-current-inline-script.js, document.getElementById, /adblockinfo|adisblock|adsBlockAlert|ads\-center/)
+2speed.net,5278.space,92jav.com,asiansister.com,avtube.today,dailyuploads.*,dropupload.com,getrelax.club,javfree.club,speed4up.*,uploadship.com,userupload.net,xn--a-ko6aq37itxj.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "/adblockinfo|adisblock|adsBlockAlert|ads\-center/")
 
 proxyrarbg.*,rarbg.is,rarbg.to,rarbg.unblockall.org,rarbg.unblocked.kim,rarbg2019.org,rarbgaccess.org,rarbgcore.org,rarbgdata.org,rarbgenter.org,rarbgget.org,rarbggo.org,rarbgmirror.*,rarbgp2p.org,rarbgproxy.*,rarbgprx.org,rarbgto.org,rarbgtor.org,rarbgunblock.*,rarbgweb.org##+js(abort-on-property-read.js, LieDetector)
 proxyrarbg.*,rarbg.is,rarbg.to,rarbg.unblockall.org,rarbg.unblocked.kim,rarbg2019.org,rarbgaccess.org,rarbgcore.org,rarbgdata.org,rarbgenter.org,rarbgget.org,rarbggo.org,rarbgmirror.*,rarbgp2p.org,rarbgproxy.*,rarbgprx.org,rarbgto.org,rarbgtor.org,rarbgunblock.*,rarbgweb.org#%#//scriptlet("abort-on-property-read", "LieDetector")
@@ -828,17 +825,11 @@ accessgenealogy.com,alraghban.com,betworld90.live,bonk.io,bonkio2.com,bookfere.c
 bingfeng.tw##+js(setTimeout-defuser.js, (), COOKIE_NAME)
 bingfeng.tw#%#//scriptlet("abort-current-inline-script", "setTimeout", "COOKIE_NAME")
 
-vinaurl.in##+js(abort-on-property-read.js, adsHeight)
-vinaurl.in#%#//scriptlet("abort-on-property-read", "adsHeight")
-
 leakforums.*,verystream.com,mad4wheels.com,programinadresi.com,thuvienvatly.com##+js(abort-on-property-read.js, /adblock|adBlock/)
 leakforums.*,verystream.com,mad4wheels.com,programinadresi.com,thuvienvatly.com#%#//scriptlet("abort-on-property-read", "/adblock|adBlock/")
 
 dieroten.pl##+js(addEventListener-defuser.js, DOMContentLoaded, checkAdBlock)
 dieroten.pl#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "checkAdBlock")
-
-desiupload.in##+js(abort-current-inline-script, Math.tan, vocabulary)
-desiupload.in#%#//scriptlet("abort-current-inline-script", "Math.tan", "vocabulary")
 
 zspnr1.lowicz.pl##+js(setInterval-defuser.js, seead)
 zspnr1.lowicz.pl#%#//scriptlet("prevent-setInterval", "seead")
