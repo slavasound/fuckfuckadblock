@@ -310,7 +310,7 @@
 !@@*$xmlhttprequest,script,third-party,domain=
 
 *.php?aid=pause_$important
-*/*.php$important,script,xmlhttprequest,domain=1337x.to|alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|ipicture.su|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|mangovideo.pw|maxiporno.tv|newsfilter.org|orgazmtv.com|pandavideo.pw|pornalin.com|porntopic.com|turboimagehost.com|xxxdessert.com|xyzcomics.com|youx.xxx
+*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|eporner.com|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|ipicture.su|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|mangovideo.pw|maxiporno.tv|newsfilter.org|orgazmtv.com|pandavideo.pw|pornalin.com|porntopic.com|turboimagehost.com|xxxdessert.com|xyzcomics.com|youx.xxx
 */apu.hh?$important
 */apu.php?$important
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
