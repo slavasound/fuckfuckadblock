@@ -699,9 +699,6 @@ grantorrent.com,iiv.pl,javdude.com,onitube.com,streamplay.*,tpbproxyone.org,vidu
 bitblitz.org,fovj.ir,nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,unluresim.com,valeconferir.com.br##+js(abort-on-property-write.js, CoinNebula)
 bitblitz.org,fovj.ir,nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,unluresim.com,valeconferir.com.br#%#//scriptlet("abort-on-property-write", "CoinNebula")
 
-povvideo.*,powvldeo.*##+js(abort-current-inline-script.js, $, test)
-povvideo.*,powvldeo.*#%#//scriptlet("abort-current-inline-script", "$", "test")
-
 sound-park.*,soundpark.*,soundpark-club.*##+js(abort-current-inline-script.js, $, open)
 sound-park.*,soundpark.*,soundpark-club.*#%#//scriptlet("abort-current-inline-script", "$", "open")
 
