@@ -314,6 +314,7 @@
 */apu.hh?$important
 */apu.php?$important
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
+*/blockDetect.min.js$script,~third-party,domain=racedepartment.com
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
 */blockadblock-$script,redirect=prevent-fab-3.2.0
 */blockadblock.$script,redirect=fuckadblock.js-3.2.0
@@ -325,23 +326,22 @@
 */fuckadblock-$script,redirect=prevent-fab-3.2.0
 */fuckadblock.$script,redirect=fuckadblock.js-3.2.0
 */fuckadblock.$script,redirect=prevent-fab-3.2.0
+*/license.$script,domain=fruithosts.net|oladblock.me|oladblock.services|oladblock.xyz|oload.best|oload.biz|oload.cc|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.life|oload.live|oload.press|oload.site|oload.space|oload.stream|oload.tv|oload.website|oload.win|olpair.com|openload.co|openload.pw|openloed.co|streamango.com|streamcherry.com|thevideobee.to
 */notification-sw.js$script,important
 */ntfc.php?$important
-*/blockDetect.min.js$script,~third-party,domain=racedepartment.com
 */service-worker.js$script,important
 */sw-vodlocker.$script,important
 */sw.js$script,important
-*/license.$script,domain=fruithosts.net|oladblock.me|oladblock.services|oladblock.xyz|oload.best|oload.biz|oload.cc|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.life|oload.live|oload.press|oload.site|oload.space|oload.stream|oload.tv|oload.website|oload.win|olpair.com|openload.co|openload.pw|openloed.co|streamango.com|streamcherry.com|thevideobee.to
 /\/(propadbl\_epxhd|galaxad\_tpx|galax\_adsepxhd)([0-9]{1,2})?\.js/$script,domain=topeuropix.net|europixhd.net,important
 ||adservice.google.com^$xmlhttprequest,redirect=nooptext,domain=tubia.com
 ||assets.adobedtm.com^$script
 ||npttech.com/advertising.js$script,redirect=fuckadblock.js-3.2.0
 ||npttech.com/advertising.js$script,redirect=prevent-fab-3.2.0
-||rockstargame.su/adb_script$script
 ||pagead2.googlesyndication.com^$important,script,redirect=noopjs,domain=2pi.pw|abdoutech.com|activistpost.com|addictinginfo.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allporncomic.com|allthingsvegas.com|alwalednet.blogspot.com|americanewshub.com|americasfreedomfighters.com|appleeats.com|arlinadzgn.com|atv.pw|audiotag.info|barbwire.com|bb4sp.com|bestfunnyjokes4u.com|bighealthreport.com|bigleaguepolitics.com|bizpacreview.com|boomsbeat.com|boycracked.com|breakingfirst.com|bugout.news|bulletsfirst.net|buzzlamp.com|canadafreepress.com|celebrity-gossip.net|cheapism.com|cheatsheet.com|chicksonright.com|clashamerica.com|clashdaily.com|classicalite.com|cloud.fw27.xyz|collapse.news|comicallyincorrect.com|conservativefiringline.com|constitution.com|craigjames.com|dailyheadlines.net|dailysurge.com|damnlol.com|deneenborelli.com|designbump.com|directexpose.com|duellinksmeta.com|eaglerising.com|eiflix.com|enstarz.com|evil.news|faithit.com|firm-ware27.blogspot.com|firstinfreedomdaily.com|flash-reset.blogspot.com|foreverymom.com|free-mp3-download.net|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|freeiptv.life|funnyand.com|gamer4k.com|gembelcit.net|glitch.news|godfatherpolitics.com|gopocalypse.org|grammarist.com|greatamericanrepublic.com|gsmcracktools.blogspot.com|guardianlv.com|guns.news|hackspirit.com|hautereport.com|hispolitica.com|hngn.com|htnovo.net|husseinezzat.com|icepop.com|idntheme.com|ifyouonlynews.com|infowars.com|instigatornews.com|insurance-corporate.blogspot.com|intellectualconservative.com|itechpost.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kharisma-adzana.blogspot.com|kitploit.com|knowledgedish.com|kpopstarz.com|kurazone.net|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyunyielding.com|lidblog.com|lifebuzz.com|linkszone.in|madworldnews.com|marfilius.blogspot.com|memoryhackers.org|mexashare.com|millionpictures.co|mitly.us|moneyversed.com|moongourd.com|musictimes.com|mylink.how|mylink.love|naminakiky.com|natural.news|naturalblaze.com|naturalsociety.com|natureworldnews.com|nsspot.net|o4anews.com|opednews.com|patriotoutdoornews.com|pjmedia.com|politicalcowboy.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|readysethealth.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|reverbpress.com|reviveusa.com|rightwingtribune.com|rollingout.com|sciencetimes.com|shark-tank.com|shedthoselbs.com|shidurlive.com|slender.news|solvetube.site|sonsoflibertymedia.com|speed4up.com|speed4up.net|sportsworldnews.com|sportsworldreport.com|stupid.news|supercheats.com|survivalnation.com|sweepstakesfanatics.com|tanked.io|techconsumer.com|techmantium.com|teknomatch.com|telexplorer.com.ar|terezowens.com|thealternativedaily.com|theblacksphere.net|theboredmind.com|thedesigninspiration.com|thefreethoughtproject.com|thegatewaypundit.com|thehayride.com|thelastlineofdefense.org|thelibertydaily.com|themattwalshblog.com|themeplatinum.blogspot.com|thepoke.co.uk|thepolitistick.com|therealside.com|threepercenternation.com|tiebreaker.com|tosavealife.com|trackr.fr|twisted.news|universityherald.com|vcpost.com|vev.io|vev.red|videogamesblogger.com|vidop.icu|vidup.io|viralnova.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|windowcleaningforums.co.uk|worldlifestyle.com|xtribune.com|youngcons.com|youthhealthmag.com
 ||pagead2.googlesyndication.com^$important,xmlhttprequest,redirect=nooptext,domain=9xbuddy.com
 ||popads.net/pop.js$script,important
 ||prxiy.com/stevenbaltay.js$script
+||rockstargame.su/adb_script$script
 
 @@||webshark.pl/adserver/*$script
 @@*/dfp.js$script,xmlhttprequest,~third-party,domain=detectadblock.com
@@ -412,29 +412,31 @@ wired.com##.paywall-container-component
 wize.life###wl-container
 youx.xxx###player-banner
 
-|https://$third-party,subdocument,domain=gowatchseries.tv,badfilter
-*$third-party,subdocument,domain=vidcloud.icu,badfilter
-||vshare.eu^$first-party,subdocument,badfilter
 *$domain=kinozal-tv.appspot.com,badfilter
 *$first-party,subdocument,domain=mp4upload.com,badfilter
 *$popup,domain=dailyuploads.net,badfilter
 *$third-party,script,domain=waaw.tv,badfilter
+*$third-party,stylesheet,domain=rapidvideo.com,badfilter
+*$third-party,subdocument,domain=vidcloud.icu,badfilter
+@@||1337x.to/torrent/$first-party,csp,badfilter
 @@||xhamster.com/videos/$first-party,csp,badfilter
 |http*://$image,domain=ip.cn,badfilter
 |http://$script,third-party,xmlhttprequest,domain=rule34hentai.net,badfilter
 |https://$script,third-party,xmlhttprequest,domain=rule34hentai.net,badfilter
+|https://$third-party,subdocument,domain=gowatchseries.tv,badfilter
+||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
 ||beeg.com/logo.gif?$badfilter
 ||gemius.pl^$third-party,badfilter
 ||kinozal-tv.appspot.com^$badfilter
 ||newrutor.eu.org^$badfilter
 ||rapidvideo.com^$script,badfilter
+||rapidvideo.com^$script,badfilter
 ||rjno1.com^$csp=script-src 'self' * 'unsafe-eval',badfilter
 ||rjno1.com^$csp=script-src 'self' *;style-src,badfilter
 ||rule34hentai.net^$script,~third-party,badfilter
-||xyz^$third-party,subdocument,domain=~anidub.com|~avtomaty-i-bonusy.com|~csgoreports.com|~cvid.kiev.ua|~estream.to|~funtik.tv|~hentaiz.org|~kinobig.me|~kinosklad.biz|~kristinita.ru|~magicfilm.net|~matchat.online|~my.mail.ru|~nccg.ru|~newdeaf.online|~online.animedia.tv|~onmovies.se|~roadhub.ru|~shamancoal.com|~soccer365.ru|~streetbee.io|~streetbee.ru|~vk.com,badfilter
+||vshare.eu^$first-party,subdocument,badfilter
 ||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline',badfilter
-*$third-party,stylesheet,domain=rapidvideo.com,badfilter
-||rapidvideo.com^$script,badfilter
+||xyz^$third-party,subdocument,domain=~anidub.com|~avtomaty-i-bonusy.com|~csgoreports.com|~cvid.kiev.ua|~estream.to|~funtik.tv|~hentaiz.org|~kinobig.me|~kinosklad.biz|~kristinita.ru|~magicfilm.net|~matchat.online|~my.mail.ru|~nccg.ru|~newdeaf.online|~online.animedia.tv|~onmovies.se|~roadhub.ru|~shamancoal.com|~soccer365.ru|~streetbee.io|~streetbee.ru|~vk.com,badfilter
 
 1777.ru,1variant.ru,24boxing.com.ua,24tv.ua,actual.today,afterdispatch.com,beztabu.net,bonnylady.com,bookre.org,boxnews.com.ua,bukvar.su,businessua.com,chtyvo.org.ua,cn.ru,cotlix.com,cxid.info,dengi.ua,economics-prorok.com,edinstvennaya.ua,etextlib.ru,football-ukraine.com,football24.ua,footballtransfer.com.ua,getwall.ru,glavcom.ua,glianec.com,hvylya.net,i.ua,iarex.ru,institute.com.ua,internetua.com,kinoafisha.ua,korrespondent.net,kp.ua,kriminal.tv,lessons.com.ua,liga.net,lux.fm,mabila.ua,maximum.fm,meta.ua,metodportal.net,mignews.com.ua,nashamama.com,newsone.ua,nnovosti.info,obozrevatel.com,oligarh.media,orakul.com,ostro.org,padabum.com,padabum.net,padaread.com,paparazzi.ru,peers.tv,pozitciya.com.ua,ppt.ru,pravda.com.ua,primecrime.ru,radnuk.info,referatbox.com,refsmarket.com.ua,repetitor.ua,schoollit.com.ua,sdnnet.ru,smak.ua,socportal.info,sportanalytic.com,superdom.ua,telegraf.in.ua,testsoch.com,testsoch.net,tochka.net,torrentom.com,tv.ua,tvgid.ua,tvori.com.ua,tvoymalysh.com.ua,ukrlib.com.ua,vchaspik.ua,vgorode.ua,viva.ua,vringe.com,vsetv.com,vsetv.ru,wow-helper.com,xittv.net,zaxid.net,zdorovia.com.ua,zn.ua##^script:has-text("zmctrack")
 1777.ru,1variant.ru,24boxing.com.ua,24tv.ua,actual.today,afterdispatch.com,beztabu.net,bonnylady.com,bookre.org,boxnews.com.ua,bukvar.su,businessua.com,chtyvo.org.ua,cn.ru,cotlix.com,cxid.info,dengi.ua,economics-prorok.com,edinstvennaya.ua,etextlib.ru,football-ukraine.com,football24.ua,footballtransfer.com.ua,getwall.ru,glavcom.ua,glianec.com,hvylya.net,i.ua,iarex.ru,institute.com.ua,internetua.com,kinoafisha.ua,korrespondent.net,kp.ua,kriminal.tv,lessons.com.ua,liga.net,lux.fm,mabila.ua,maximum.fm,meta.ua,metodportal.net,mignews.com.ua,nashamama.com,newsone.ua,nnovosti.info,obozrevatel.com,oligarh.media,orakul.com,ostro.org,padabum.com,padabum.net,padaread.com,paparazzi.ru,peers.tv,pozitciya.com.ua,ppt.ru,pravda.com.ua,primecrime.ru,radnuk.info,referatbox.com,refsmarket.com.ua,repetitor.ua,schoollit.com.ua,sdnnet.ru,smak.ua,socportal.info,sportanalytic.com,superdom.ua,telegraf.in.ua,testsoch.com,testsoch.net,tochka.net,torrentom.com,tv.ua,tvgid.ua,tvori.com.ua,tvoymalysh.com.ua,ukrlib.com.ua,vchaspik.ua,vgorode.ua,viva.ua,vringe.com,vsetv.com,vsetv.ru,wow-helper.com,xittv.net,zaxid.net,zdorovia.com.ua,zn.ua$$script[tag-content="zmctrack"][max-length="25000"]
