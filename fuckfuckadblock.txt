@@ -949,8 +949,8 @@ clik.*,dlsecure.me,finalservers.net,indirabali.com,leonardolatella.it,linnk.info
 cut-w.in,cutwi.in,healthinsider.online##+js(abort-on-property-write.js, adss)
 cut-w.in,cutwi.in,healthinsider.online#%#//scriptlet("abort-on-property-write", "adss")
 
-youporngay.com,tube8.com##+js(abort-on-property-write.js, AdDelivery)
-youporngay.com,tube8.com#%#//scriptlet("abort-on-property-write", "AdDelivery")
+youporngay.com,tube8.com,pornhub.com,xtube.com##+js(abort-on-property-write.js, AdDelivery)
+youporngay.com,tube8.com,pornhub.com,xtube.com#%#//scriptlet("abort-on-property-write", "AdDelivery")
 
 youporngay.com,tube8.com,pornhub.com#%#//scriptlet("abort-on-property-read", "smpop")
 youporngay.com,tube8.com,pornhub.com##+js(abort-on-property-read.js, smpop)
