@@ -1006,8 +1006,8 @@ hitomi.la,uiporn.com#%#//scriptlet("abort-on-property-write", "adblock_detected"
 16honeys.com,adultjoy.net,iporntv.net,pinkclips.mobi##+js(set-constant.js, ckaduMobilePop, noopFunc)
 16honeys.com,adultjoy.net,iporntv.net,pinkclips.mobi#%#//scriptlet("set-constant", "ckaduMobilePop", "noopFunc")
 
-cambabe.*,camwhores.tv,thepiratebay.*##+js(abort-on-property-read.js, _wm)
-cambabe.*,camwhores.tv,thepiratebay.*#%#//scriptlet("abort-on-property-read", "_wm")
+cambabe.*,camwhores.tv,thepiratebay.*,camwhores.tv,cambabe.video,cambabe.me,tvspots.tv,sportbet.tips,dragonthumbs.com,crissymoran.net,freebets.claims,bettingtips.expert,tubepornovideo.com,amateursgonebad.com,glamourmodelsgonebad.com,anonimag.es,ukbettips.co.uk,bestbet.tips,ikwilthepiratebay.org,1337x.to,pornve.com,thepiratebay.org,imagebam.com,pornleech.com,rarbg.to,rocktv.co,flashx.tv##+js(abort-on-property-read.js, _wm)
+cambabe.*,camwhores.tv,thepiratebay.*,camwhores.tv,cambabe.video,cambabe.me,tvspots.tv,sportbet.tips,dragonthumbs.com,crissymoran.net,freebets.claims,bettingtips.expert,tubepornovideo.com,amateursgonebad.com,glamourmodelsgonebad.com,anonimag.es,ukbettips.co.uk,bestbet.tips,ikwilthepiratebay.org,1337x.to,pornve.com,thepiratebay.org,imagebam.com,pornleech.com,rarbg.to,rocktv.co,flashx.tv#%#//scriptlet("abort-on-property-read", "_wm")
 
 crazyshit.com,donk69.com,fantasti.cc,gfjizz.com,pornxs.com,pornxt.com,smutr.com,yuvutu.com##+js(abort-on-property-write.js, phtData)
 crazyshit.com,donk69.com,fantasti.cc,gfjizz.com,pornxs.com,pornxt.com,smutr.com,yuvutu.com#%#//scriptlet("abort-on-property-write", "phtData")
