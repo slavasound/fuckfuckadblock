@@ -730,8 +730,8 @@ animeyt2.tv,ebookdz.com,movie25com.com,movie2kfree.com,movie2khd.org,newsyou.inf
 eroclips.org,pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
 eroclips.org,pornbimbo.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
 
-rim-world.com,voyageforum.com##+js(setTimeout-defuser.js, adblock, 5000)
-rim-world.com,voyageforum.com#%#//scriptlet("prevent-setTimeout", "adblock", "5000")
+rim-world.com,voyageforum.com,seedoff2.innal.top##+js(setTimeout-defuser.js, (), 5000)
+rim-world.com,voyageforum.com,seedoff2.innal.top#%#//scriptlet("prevent-setTimeout", "()", "5000")
 
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 faz.net#%#//scriptlet("abort-current-inline-script", "$", "_sp_._networkListenerData")
