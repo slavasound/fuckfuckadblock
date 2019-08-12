@@ -753,8 +753,8 @@ animeyt2.tv,ebookdz.com,movie25com.com,movie2kfree.com,movie2khd.org,newsyou.inf
 69games.xxx,altaisouvenirs.ru,atv.pw,audioboo.ru,erzsebet.org,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.is,rutor.mytorr.fun,sebeadmin.ru,slomal-telefon.ru,sound-park.*,soundpark-club.*,soundpark.*,the-rutor.org,uptostream.com,pornosexrolik.info,search.tfile.me,megatfile.cc##+js(abort-current-inline-script.js, document.createElement, script)
 69games.xxx,altaisouvenirs.ru,atv.pw,audioboo.ru,erzsebet.org,gayforit.eu,hxload.co,iporntv.net,jetload.net,justupload.io,live-rutor.org,mylinks.xyz,new-rutor.org,porcore.com,porno365.cc,rutor.info,rutor.is,rutor.mytorr.fun,sebeadmin.ru,slomal-telefon.ru,sound-park.*,soundpark-club.*,soundpark.*,the-rutor.org,uptostream.com,pornosexrolik.info,search.tfile.me,megatfile.cc#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
 
-eroclips.org,pornbimbo.com##+js(setTimeout-defuser.js, (), 2000)
-eroclips.org,pornbimbo.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
+eroclips.org,pornbimbo.com,ketubanjiwa.com##+js(setTimeout-defuser.js, (), 2000)
+eroclips.org,pornbimbo.com,ketubanjiwa.com#%#//scriptlet("prevent-setTimeout", "()", "2000")
 
 rim-world.com,voyageforum.com,seedoff2.innal.top##+js(setTimeout-defuser.js, (), 5000)
 rim-world.com,voyageforum.com,seedoff2.innal.top#%#//scriptlet("prevent-setTimeout", "()", "5000")
