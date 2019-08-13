@@ -595,8 +595,8 @@ ally.sh,bit-url.com,buyitonline.store,cashbigo.com,clk.*,counsellingresult2016.i
 123movies.*,igg-games.com,otakustream.tv,putlockers.*,1movies.*,1fichier.com#%#//scriptlet("abort-current-inline-script", "decodeURI", "getScriptFromCss")
 123movies.*,igg-games.com,otakustream.tv,putlockers.*,1movies.*,1fichier.com##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 
-bostonherald.com,reviewjournal.com,santacruzsentinel.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
-bostonherald.com,reviewjournal.com,santacruzsentinel.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
+bostonherald.com,reviewjournal.com,santacruzsentinel.com,dailynews.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
+bostonherald.com,reviewjournal.com,santacruzsentinel.com,dailynews.com#%#//scriptlet("set-constant", "CnnXt.Event.fire", "noopFunc")
 
 3prn.com,adultvideoz.net,alrincon.com,avgle.com,besthugecocks.com,gaynet.tv,girlsofdesire.org,hotpornfile.org,imgmercy.com,ipicture.su,myreadingmanga.info,nakenprat.com,pandamovies.pw,pandavideo.pw,pictoa.com,porndr.com,pornhd.com,pornsexer.com,pornult.com,spankwire.com,speedporn.net,streamporn.pw,tmohentai.com,tranny.one,wantedbabes.com,watchfreexxx.net,xopenload.me,xxxonxxx.com,youav.com,yourlust.com,youwatchporn.com,hdmoza.com##+js(abort-on-property-read.js, ExoLoader.serve)
 3prn.com,adultvideoz.net,alrincon.com,avgle.com,besthugecocks.com,gaynet.tv,girlsofdesire.org,hotpornfile.org,imgmercy.com,ipicture.su,myreadingmanga.info,nakenprat.com,pandamovies.pw,pandavideo.pw,pictoa.com,porndr.com,pornhd.com,pornsexer.com,pornult.com,spankwire.com,speedporn.net,streamporn.pw,tmohentai.com,tranny.one,wantedbabes.com,watchfreexxx.net,xopenload.me,xxxonxxx.com,youav.com,yourlust.com,youwatchporn.com,hdmoza.com#%#//scriptlet("abort-on-property-read", "ExoLoader.serve")
@@ -904,8 +904,8 @@ allschoolboysecrets.com,coquinetv.com,gelbooru.com,gratuito.xxx,hdpornole.pl,myp
 fembed.com,fox-dl.com,katestube.com,loadingz.com,nulled.life,psystreams.com,qdembed.com,repelisgo.*,vikiporn.com,watchhouseonline.net,zbporn.com##+js(abort-on-property-read.js, decodeURI)
 fembed.com,fox-dl.com,katestube.com,loadingz.com,nulled.life,psystreams.com,qdembed.com,repelisgo.*,vikiporn.com,watchhouseonline.net,zbporn.com#%#//scriptlet("abort-on-property-read", "decodeURI")
 
-animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
-animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
+animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com,adp-checker.ru##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
+animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com,adp-checker.ru#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
 
 9xupload.*,descargas2020.*,kino-live2.org,sloomp.space,kissasian.*,mediafire.com,jyra.online,limitsizamca.org,unblocked.to##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/)
 9xupload.*,descargas2020.*,kino-live2.org,sloomp.space,kissasian.*,mediafire.com,jyra.online,limitsizamca.org,unblocked.to#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/")
