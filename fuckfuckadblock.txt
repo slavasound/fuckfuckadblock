@@ -916,11 +916,11 @@ animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,sur
 123link.*,anistar.org,megaurl.in#%#//scriptlet("abort-on-property-read", "jQuery.adblock")
 123link.*,anistar.org,megaurl.in##+js(abort-on-property-read.js, jQuery.adblock)
 
-300mbmovies.life,bolly4u.*,bolly4uhd.*,dualinks.club,a7hl-am.com##+js(abort-on-property-read.js, XMLHttpRequest)
-300mbmovies.life,bolly4u.*,bolly4uhd.*,dualinks.club,a7hl-am.com#%#//scriptlet("abort-on-property-read", "XMLHttpRequest")
+300mbmovies.life,bolly4u.*,bolly4uhd.*,dualinks.club,a7hl-am.com,nnmclub.*##+js(abort-on-property-read.js, XMLHttpRequest)
+300mbmovies.life,bolly4u.*,bolly4uhd.*,dualinks.club,a7hl-am.com,nnmclub.*#%#//scriptlet("abort-on-property-read", "XMLHttpRequest")
 
-cheatground.ru,her-sey.net,mshelxxx.ru.com,uwatchfree.st##+js(set-constant.js, String.fromCharCode, noopFunc)
-cheatground.ru,her-sey.net,mshelxxx.ru.com,uwatchfree.st#%#//scriptlet("set-constant", "String.fromCharCode", "noopFunc")
+cheatground.ru,her-sey.net,mshelxxx.ru.com,uwatchfree.st,nnmclub.*##+js(set-constant.js, String.fromCharCode, noopFunc)
+cheatground.ru,her-sey.net,mshelxxx.ru.com,uwatchfree.st,nnmclub.*#%#//scriptlet("set-constant", "String.fromCharCode", "noopFunc")
 
 arenavision.*,assistirfilmesonlinex.biz,cinetux.online,divxonline.tv,elitegol.tv,elitegoltv.me,freekidsmovies.tv,futbolenvivoaldia.com,futbolenvivoaldia.tv,golrojadirecta.com,gpstorrent.com,groovesharks.org,hqq.*,intergoles.net,ipick.ca,justintvdeportes.net,legionprogramas.org,maxflixhd.com,mp3buscador.com,pelisplay.tv,pelisplus.*,pelix.tv,pirlo-tv.online,pirlotv.com.es,pirlotvonline.me,pistoldownloads.com,revoir-replay.com,rojadirectatv.tv,series21.com,series911.com,seriesnovelas.net,tarjetaroja.online,tarjetarojaonline.es,tarjetarojaonline.tv,tarjetarojatv.tv,tizipu.org,top7mp3.com,tvrojadirecta.me,voir.streamelite.net,wp,xilften.net##+js(abort-on-property-write.js, smrtSP)
 arenavision.*,assistirfilmesonlinex.biz,cinetux.online,divxonline.tv,elitegol.tv,elitegoltv.me,freekidsmovies.tv,futbolenvivoaldia.com,futbolenvivoaldia.tv,golrojadirecta.com,gpstorrent.com,groovesharks.org,hqq.*,intergoles.net,ipick.ca,justintvdeportes.net,legionprogramas.org,maxflixhd.com,mp3buscador.com,pelisplay.tv,pelisplus.*,pelix.tv,pirlo-tv.online,pirlotv.com.es,pirlotvonline.me,pistoldownloads.com,revoir-replay.com,rojadirectatv.tv,series21.com,series911.com,seriesnovelas.net,tarjetaroja.online,tarjetarojaonline.es,tarjetarojaonline.tv,tarjetarojatv.tv,tizipu.org,top7mp3.com,tvrojadirecta.me,voir.streamelite.net,wp,xilften.net#%#//scriptlet("abort-on-property-write", "smrtSP")
