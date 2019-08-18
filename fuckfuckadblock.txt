@@ -314,6 +314,7 @@
 ||yts.*^$csp=script-src 'self' * 'unsafe-inline';
 ||flix555.com^$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-eval' *.kxcdn.com;
 ||onlystream.tv^$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com;
+||unblocked.dk^$csp=script-src 'self' * 'unsafe-inline';
 
 *$script,domain=imgview.pw
 *$xmlhttprequest,domain=sexvid.xxx|fantasti.cc|redtube.com
