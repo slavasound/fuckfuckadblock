@@ -337,6 +337,7 @@
 */apu.hh?$important
 */fac.php|$important
 */apu.php?$important
+*/js/sorar.js$script,~third-party
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
 */blockDetect.min.js$script,~third-party,domain=racedepartment.com
 */blockadblock-$script,redirect=fuckadblock.js-3.2.0
@@ -751,8 +752,8 @@ bitblitz.org,fovj.ir,nzclip.com,povvideo.*,powvldeo.*,seriesf.lv,taktaserver.ir,
 sound-park.*,soundpark.*,soundpark-club.*##+js(abort-current-inline-script.js, $, open)
 sound-park.*,soundpark.*,soundpark-club.*#%#//scriptlet("abort-current-inline-script", "$", "open")
 
-24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,dropapk.*,filmlinks4u.is,filmshd1080.net,gamesmega.net,ghasrchat.org,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,izvrata.net,kaztorka.org,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,metagmae.org,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,rutor.info,rutor.is,samlab.*,soft-portal.club,turboimagehost.com,xn--80aayfwofft0a1d.xn--p1ai,xozilla.com,zagonka.tv,ddl.to,search.tfile.me##+js(abort-current-inline-script.js, document.createElement, 'script')
-24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,dropapk.*,filmlinks4u.is,filmshd1080.net,gamesmega.net,ghasrchat.org,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,izvrata.net,kaztorka.org,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,metagmae.org,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,rutor.info,rutor.is,samlab.*,soft-portal.club,turboimagehost.com,xn--80aayfwofft0a1d.xn--p1ai,xozilla.com,zagonka.tv,ddl.to,search.tfile.me#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
+24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,dropapk.*,filmlinks4u.is,filmshd1080.net,gamesmega.net,ghasrchat.org,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,izvrata.net,kaztorka.org,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,metagmae.org,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,rutor.info,rutor.is,samlab.*,soft-portal.club,turboimagehost.com,xn--80aayfwofft0a1d.xn--p1ai,xozilla.com,zagonka.tv,ddl.to,search.tfile.me,24porno.vip##+js(abort-current-inline-script.js, document.createElement, 'script')
+24-info.info,adultmult.net,animedia.online,animevost.club,bluemediafiles.com,doodhwali.xxx,doramashd.com,dropapk.*,filmlinks4u.is,filmshd1080.net,gamesmega.net,ghasrchat.org,gidfilm.ru,hdlava.com,idtbox.com,imageshtorm.com,internetmoney.me,iporntv.net,izvrata.net,kaztorka.org,kinozal-me.appspot.com,kinozal-tv.appspot.com,mangovideo.pw,maxiporno.tv,metagmae.org,newsyou.info,pornalin.com,porno-eblja.com,pornq.com,rulu.co,rutor.info,rutor.is,samlab.*,soft-portal.club,turboimagehost.com,xn--80aayfwofft0a1d.xn--p1ai,xozilla.com,zagonka.tv,ddl.to,search.tfile.me,24porno.vip#%#//scriptlet("abort-current-inline-script", "document.createElement", "'script'")
 
 douploads.com,uploadrar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "bannerad")
 douploads.com,uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
@@ -1117,8 +1118,8 @@ lewat.club,romfirmware.com,blogspot.com#%#//scriptlet("abort-on-property-write",
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com,iporntv.net##+js(abort-current-inline-script.js, document.createElement, iframe)
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com,iporntv.net##+js(abort-current-inline-script.js, document.createElement, iframe)
 
-egybest2.com,egybest4.com,mp4s.org##+js(abort-on-property-read.js, localStorage)
-egybest2.com,egybest4.com,mp4s.org#%#//scriptlet("abort-on-property-read", "localStorage")
+egybest2.com,egybest4.com,mp4s.org,24porno.vip##+js(abort-on-property-read.js, localStorage)
+egybest2.com,egybest4.com,mp4s.org,24porno.vip#%#//scriptlet("abort-on-property-read", "localStorage")
 
 countrygames.net,cogamer.net##+js(addEventListener-defuser.js, click, openWindow)
 countrygames.net,cogamer.net#%#//scriptlet("prevent-addEventListener", "click", "openWindow")
