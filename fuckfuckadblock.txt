@@ -717,8 +717,8 @@ hindilinks4u.to,oladblock.*,oload.*,openload.*#%#//scriptlet("abort-current-inli
 1921681254.tech,blogginggyanbox.com,buyitonline.store,clk.*,counsellingresult2016.in,gifsis.com,iitjeemainguide.in##+js(set-constant.js, blockAdBlock, true)
 1921681254.tech,blogginggyanbox.com,buyitonline.store,clk.*,counsellingresult2016.in,gifsis.com,iitjeemainguide.in#%#//scriptlet("set-constant", "blockAdBlock", "true")
 
-allnorilsk.ru,hotpornfile.org,olegon.ru##+js(abort-on-property-read.js, onload)
-allnorilsk.ru,hotpornfile.org,olegon.ru#%#//scriptlet("abort-on-property-read", "onload")
+allnorilsk.ru,hotpornfile.org,olegon.ru,automobiledimension.com##+js(abort-on-property-read.js, onload)
+allnorilsk.ru,hotpornfile.org,olegon.ru,automobiledimension.com#%#//scriptlet("abort-on-property-read", "onload")
 
 ecoimages.xyz,funimg.net,hclips.com,hitomi.la,hotclips24.com,hotpornfile.org,nsfwalbum.com,unporn.site,watchfreexxx.net,xaoutchouc.live,xxxdessert.com#%#//scriptlet("prevent-addEventListener", "getexoloader")
 ecoimages.xyz,funimg.net,hclips.com,hitomi.la,hotclips24.com,hotpornfile.org,nsfwalbum.com,unporn.site,watchfreexxx.net,xaoutchouc.live,xxxdessert.com##+js(addEventListener-defuser.js, getexoloader)
