@@ -972,8 +972,8 @@ youporngay.com,tube8.com,pornhub.com,xtube.com#%#//scriptlet("abort-on-property-
 youporngay.com,tube8.com,pornhub.com,redtube.com#%#//scriptlet("abort-on-property-read", "smpop")
 youporngay.com,tube8.com,pornhub.com,redtube.com##+js(abort-on-property-read.js, smpop)
 
-newsyou.info##+js(set-constant.js, Math.random, noopFunc)
-newsyou.info#%#//scriptlet("set-constant", "Math.random", "noopFunc")
+newsyou.info,animexxx.org##+js(set-constant.js, Math.random, noopFunc)
+newsyou.info,animexxx.org#%#//scriptlet("set-constant", "Math.random", "noopFunc")
 
 fetishshrine.com,pervclips.com,pornwhite.com,sheshaft.com,sleazyneasy.com,vikiporn.com,wankoz.com,yeswegays.com##+js(abort-current-inline-script.js, customScript)
 fetishshrine.com,pervclips.com,pornwhite.com,sheshaft.com,sleazyneasy.com,vikiporn.com,wankoz.com,yeswegays.com#%#//scriptlet("abort-current-inline-script", "customScript")
