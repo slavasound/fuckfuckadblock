@@ -1182,3 +1182,6 @@ weszlo.com,prnews.pl,mambiznes.pl,kresy.pl#%#//scriptlet("abort-current-inline-s
 titsbox.com,realgfporn.com,fxporn69.*##+js(addEventListener-defuser.js, click, exopop)
 titsbox.com,realgfporn.com,fxporn69.*#%#//scriptlet("prevent-addEventListener", "click", "exopop")
 
+indiatimes.com##+js(setTimeout-defuser.js, adBlockDetectionStart)
+indiatimes.com#%#//scriptlet("prevent-setTimeout", "adBlockDetectionStart")
+
