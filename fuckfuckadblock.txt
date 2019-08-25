@@ -1134,8 +1134,8 @@ lotechnocan.org,rusporno.co,razorlink.us,force-download.es,bro.adca.st,jpost.com
 newyorker.com,pitchfork.com,tripadvisor.*,vqporn.com,wired.com##+js(abort-on-property-write.js, adblockDetect)
 newyorker.com,pitchfork.com,tripadvisor.*,vqporn.com,wired.com#%#//scriptlet("abort-on-property-write", "adblockDetect")
 
-calciomercato.com,clik.*,filmandseries.com,javfinder.*,linksht.com,pasty.link,robloxscripts.com,sosiali.com##+js(setTimeout-defuser.js, _0x)
-calciomercato.com,clik.*,filmandseries.com,javfinder.*,linksht.com,pasty.link,robloxscripts.com,sosiali.com#%#//scriptlet("prevent-setTimeout", "_0x")
+calciomercato.com,clik.*,filmandseries.com,javfinder.*,linksht.com,pasty.link,robloxscripts.com,sosiali.com,kachelmannwetter.com##+js(setTimeout-defuser.js, _0x)
+calciomercato.com,clik.*,filmandseries.com,javfinder.*,linksht.com,pasty.link,robloxscripts.com,sosiali.com,kachelmannwetter.com#%#//scriptlet("prevent-setTimeout", "_0x")
 
 diaridegirona.cat,diariodeibiza.es,emporda.info,farodevigo.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,regio7.cat,superdeporte.es##+js(abort-current-inline-script.js, compruebaAdblockPremium, setTimeout)
 diaridegirona.cat,diariodeibiza.es,emporda.info,farodevigo.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,regio7.cat,superdeporte.es#%#//scriptlet("abort-current-inline-script", "compruebaAdblockPremium", "setTimeout")
