@@ -325,6 +325,7 @@
 *$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life|uptobox.com|uptostream.com
 *$xmlhttprequest,domain=sexvid.xxx|fantasti.cc|redtube.com
 *$xmlhttprequest,third-party,domain=letsupload.co|ssrmovies.club|uploadever.com|userscloud.com
+*$frame,~third-party,domain=kickassanime.ru
 
 !@@*$xmlhttprequest,script,third-party,domain=
 @@*$media,domain=camwhores.tv
@@ -365,7 +366,7 @@
 /\/(propadbl\_epxhd|galaxad\_tpx|galax\_adsepxhd)([0-9]{1,2})?\.js/$script,domain=topeuropix.net|europixhd.net,important
 /^https?:\/\/[^\s]+\.(cc\/$|club|com|online|ru)/$xmlhttprequest,domain=hdgo.cc|vio.to
 ||123link.*/push/$script
-||adservice.google.com^$xmlhttprequest,redirect=nooptext,domain=tubia.com
+||adservice.google.*^$xmlhttprequest,redirect=nooptext,domain=tubia.com
 ||animo-pace-stream.io/axplayer/sbrm.js$script
 ||animo-pace-stream.io/dust/newserv.js$script
 ||assets.adobedtm.com^$script
