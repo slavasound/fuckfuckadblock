@@ -893,8 +893,8 @@ empireshort.com,vidstreaming.io,zbnfhsk.com#%#//scriptlet("abort-current-inline-
 savevideo.me##+js(abort-current-inline-script.js, $, banner)
 savevideo.me#%#//scriptlet("abort-current-inline-script", "$", "banner")
 
-countrygames.net,cut-w.in,uiz.io,semawur.com,bercara.com##+js(setTimeout-defuser.js, checkAdblockUser)
-countrygames.net,cut-w.in,uiz.io,semawur.com,bercara.com#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
+countrygames.net,cut-w.in,uiz.io,semawur.com,bercara.com,sukakesehattan.com##+js(setTimeout-defuser.js, checkAdblockUser)
+countrygames.net,cut-w.in,uiz.io,semawur.com,bercara.com,sukakesehattan.com#%#//scriptlet("prevent-setTimeout", "checkAdblockUser")
 
 beautypackaging.com,coatingsworld.com,contractpharma.com,happi.com,inkworldmagazine.com,labelandnarrowweb.com,mpo-mag.com,nutraceuticalsworld.com##+js(abort-on-property-read.js, adblockerpopup)
 beautypackaging.com,coatingsworld.com,contractpharma.com,happi.com,inkworldmagazine.com,labelandnarrowweb.com,mpo-mag.com,nutraceuticalsworld.com#%#//scriptlet("abort-on-property-read", "adblockerpopup")
