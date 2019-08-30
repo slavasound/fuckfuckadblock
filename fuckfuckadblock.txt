@@ -211,9 +211,9 @@
 /^https?:\/\/(openload\.(co|io|link|pw)|oload\.(vip|best|biz|cc|cloud|club|download|fun|info|life|live|network|press|services|site|space|stream|tv|win|website)|oladblock\.(me|services|xyz)|openloed\.co)/$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: openload.co *.openload.co openload.io *.openload.io openload.link *.openload.link openload.pw *.openload.pw oload.biz *.oload.biz oload.cc *.oload.cc oload.vip *.oload.vip oload.club *.oload.club oload.download *.oload.download oload.fun *.oload.fun oload.info *.oload.info oload.life *.oload.life oload.network *.oload.network oload.press *.oload.press oload.services *.oload.services oload.site *.oload.site oload.space *.oload.space oload.stream *.oload.stream oload.tv *.oload.tv oload.win *.oload.win oload.website *.oload.website oladblock.me *.oladblock.me oladblock.services *.oladblock.services oladblock.xyz *.oladblock.xyz oload.best *.oload.best oload.party *.oload.party *.cloudflare.com *.oloadcdn.net;
 /^https?:\/\/(streamango|streamcherry)\.com/$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.fruithosted.net *.streamango.com;
 /^https?:\/\/(www\.)?(xvideos|xnxx)\.com/$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.gstatic.com *.xvideos-cdn.com *.xvideos.com *.xnxx-cdn.com *.xnxx;
+/^https?:\/\/(www\.)?torrentfunk([0-9]{1,2})?\.com/$csp=script-src 'self' * 'unsafe-inline';
 /^https?:\/\/(www\.)torlock([0-9]{1,2})?\.com/$csp=script-src 'self' 'unsafe-inline';
 ||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com *.googleapis.com *.jwpcdn.com *.rapidvideo.com *.rapidvid.to rapidvid.to *.rapidvideo.is *.playercdn.net openload.co *.openload.co openload.io *.openload.io openload.link *.openload.link openload.pw *.openload.pw oload.biz *.oload.biz oload.cc *.oload.cc oload.club *.oload.club oload.download *.oload.download oload.fun *.oload.fun oload.info *.oload.info oload.life *.oload.life oload.network *.oload.network oload.press *.oload.press oload.services *.oload.services oload.site *.oload.site oload.space *.oload.space oload.stream *.oload.stream oload.tv *.oload.tv oload.win *.oload.win oload.website *.oload.website oload.best *.oload.best oladblock.me *.oladblock.me oladblock.services *.oladblock.services oladblock.xyz *.oladblock.xyz *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to oload.party *.oload.party;
-||torrentfunk2.com^$csp=script-src 'self' 'unsafe-inline';
 ||1337x.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval';img-src *;
 ||admew.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com;
 ||adshort.*^$csp=script-src 'self' 'unsafe-inline' data: *.google.com *.gstatic.com;
@@ -282,6 +282,7 @@
 ||porntrex.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.cdntrex.com *.googleapis.com;
 ||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.googleapis.com *.jwpcdn.com *.akacdn.ru *.googleusercontent.com;
 ||psl.pw^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google.com *.solvemedia.com; child-src 'self' *.solvemedia.com *.gstatic.com *.google.com;
+||psystreams.com^$csp=script-src 'self';
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru *.googleapis.com *.jwpcdn.com openload.co *.openload.co openload.io *.openload.io openload.link *.openload.link openload.pw *.openload.pw oload.biz *.oload.biz oload.cc *.oload.cc oload.club *.oload.club oload.download *.oload.download oload.fun *.oload.fun oload.info *.oload.info oload.life *.oload.life oload.network *.oload.network oload.press *.oload.press oload.services *.oload.services oload.site *.oload.site oload.space *.oload.space oload.stream *.oload.stream oload.tv *.oload.tv oload.best *.oload.best oload.win *.oload.win oload.website *.oload.website oladblock.me *.oladblock.me oladblock.services *.oladblock.services oladblock.xyz *.oladblock.xyz *.oloadcdn.net mcloud.to *.mcloud.to *.cloudflare.com streamango.com *.fruithosted.net prettyfast.to entervideo.net *.rapidvid.to rapidvid.to oload.party *.oload.party;
 ||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.is *.rapidvideo.com *.playercdn.net;
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.is *.rapidvideo.com *.playercdn.net *.googleapis.com *.fontawesome.com *.google.com;
@@ -302,7 +303,6 @@
 ||toros.co^$csp=script-src 'self' 'unsafe-inline' *.fontawesome.com *.jquery.com *.googleapis.com;
 ||torrentdownload.ch^$csp=script-src 'self' 'unsafe-inline';
 ||torrentdownloads.me^$csp=script-src 'self' 'unsafe-inline';
-||torrentfunk.com^$csp=script-src 'self' * 'unsafe-inline';
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline';
 ||uii.io^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.gstatic.com *.google.com;
 ||unblocked.dk^$csp=script-src 'self' * 'unsafe-inline';
