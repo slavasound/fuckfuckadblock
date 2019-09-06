@@ -1018,8 +1018,8 @@ codepen.io,itsat1728.blogspot.com,pixlr.com,zalosec.com#%#//scriptlet("abort-on-
 chuksguide.com,sapib.ca,whynotceviri.com##+js(abort-on-property-write.js, ai_adb_overlay)
 chuksguide.com,sapib.ca,whynotceviri.com#%#//scriptlet("abort-on-property-write", "ai_adb_overlay")
 
-watchfreexxx.net#%#//scriptlet("abort-on-property-read", "Date.prototype.toGMTString")
-watchfreexxx.net##+js(abort-on-property-read.js, Date.prototype.toGMTString)
+watchfreexxx.net,igg-games.com#%#//scriptlet("abort-on-property-read", "Date.prototype.toGMTString")
+watchfreexxx.net,igg-games.com##+js(abort-on-property-read.js, Date.prototype.toGMTString)
 
 2proraba.com,aacalc.ru,bogolub.info,gorlovrach.ru,kompravda.eu,kp.by,kp.kg,kp.kz,kp.ru,medsovet.info,mirblankov.ru,moika78.ru,ozude.ru,zhenomaniya.ru#%#//scriptlet("set-constant", "noAdblock", "true")
 2proraba.com,aacalc.ru,bogolub.info,gorlovrach.ru,kompravda.eu,kp.by,kp.kg,kp.kz,kp.ru,medsovet.info,mirblankov.ru,moika78.ru,ozude.ru,zhenomaniya.ru##+js(set-constant.js, noAdblock, true)
