@@ -411,6 +411,7 @@
 @@||oloadcdn.net/subtitle/$xmlhttprequest
 @@||cdn.jsdelivr.net/*/videojs.ads.min.js$script
 
+venea.net##.ag_banner, .ag_content
 tv-onlinehd.com###ventana-flotante
 1fichier.com##.ct_warn
 123link.*##.ads-block-warning
