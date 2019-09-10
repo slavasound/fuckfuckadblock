@@ -401,6 +401,7 @@
 @@||business-standard.com/ad/banner.js$script,domain=business-standard.com
 @@||cdn.jsdelivr.net/*/videojs.ads.min.js$script
 @@||cdnjs.cloudflare.com/*/fuckadblock.$script,third-party
+@@||d2ty8gaf6rmowa.cloudfront.net/ad/ads.js$script,xmlhttprequest
 @@||doubleclick.net^$xmlhttprequest,domain=linksht.com
 @@||gemius.pl^$script,xmlhttprequest,domain=polsatnews.pl|lrt.lt|puhutv.com|wp.pl|redefine.pl|tvn24.pl|stronazdrowia.pl|x-link.pl
 @@||geoguessr.com/_ads/$script
@@ -1114,9 +1115,6 @@ chip.cz,g.cz,idnes.cz,labuznik.cz,moviemaniac.org,spisovatele.cz,watch-jav-engli
 
 cartoon-sex.tv,morehardporn.com,watchmygf.cc,fakeporn.tv,watchmyexgf.net##+js(abort-on-property-read.js, prPuShown)
 cartoon-sex.tv,morehardporn.com,watchmygf.cc,fakeporn.tv,watchmyexgf.net#%#//scriptlet("abort-on-property-read", "prPuShown")
-
-washingtonpost.com##+js(addEventListener-defuser.js, pb-core-loaded, TWP.Data)
-washingtonpost.com#%#//scriptlet("prevent-addEventListener", "pb-core-loaded", "TWP.Data")
 
 alrincon.com,indo168.club,iranproud2.net,seks.com,semi168.net,storengy.com,take.az,turkbet.tv##+js(abort-current-inline-script.js, makePopunder, /^(?:pop2under|mypopunder|PopHelper|doPopunder)$/)
 alrincon.com,indo168.club,iranproud2.net,seks.com,semi168.net,storengy.com,take.az,turkbet.tv#%#//scriptlet("abort-current-inline-script", "makePopunder", "/^(?:pop2under|mypopunder|PopHelper|doPopunder)$/")
