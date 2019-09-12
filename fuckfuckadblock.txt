@@ -343,7 +343,7 @@
 
 *.php?aid=pause_$important
 */*.php$important,script,domain=vivud.com|solopajeros.com
-*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|ipicture.su|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|mangovideo.pw|maxiporno.tv|newsfilter.org|orgazmtv.com|pandavideo.pw|pornalin.com|porno-kino.site|porntopic.com|turboimagehost.com|vio.to|xxxdessert.com|xyzcomics.com|youx.xxx|momvids.com
+*/*.php$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|ipicture.su|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|mangovideo.pw|maxiporno.tv|newsfilter.org|orgazmtv.com|pandavideo.pw|pornalin.com|porno-kino.site|porntopic.com|turboimagehost.com|vio.to|xxxdessert.com|xyzcomics.com|youx.xxx|momvids.com|hotmovs.com
 */apu.hh?$important
 */apu.php?$important
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
@@ -447,6 +447,7 @@ inoreader.com###sinner_container
 ksta.de,express.de###wl-overlay-wrapper
 lifo.gr###slideout
 lovi.fm##.sponsor
+hotmovs.com##.fel-playclose
 maxiporno.tv###fadeinbox
 newsfilter.org###dkm-floater
 noizz.pl##div.contentInfo:has(a[href="abp:subscribe?location=http%3A%2F%2Flib.onet.pl%2Fs.csr%2Fwhitelist%2Fnoizz.pl.txt&title=noizz.pl"])
@@ -778,8 +779,8 @@ sound-park.*,soundpark.*,soundpark-club.*,kabarviral.blog,lewat.club#%#//scriptl
 douploads.com,uploadrar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "bannerad")
 douploads.com,uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
 
-dailymotion.com,gamer-info.com,kino-live2.org,short.pe,vidbob.com,gsurl.*##+js(addEventListener-defuser.js, mousedown, preventDefault)
-dailymotion.com,gamer-info.com,kino-live2.org,short.pe,vidbob.com,gsurl.*#%#//scriptlet("prevent-addEventListener", "mousedown", "preventDefault")
+dailymotion.com,gamer-info.com,kino-live2.org,short.pe,vidbob.com,gsurl.*,hotmovs.com##+js(addEventListener-defuser.js, mousedown, preventDefault)
+dailymotion.com,gamer-info.com,kino-live2.org,short.pe,vidbob.com,gsurl.*,hotmovs.com#%#//scriptlet("prevent-addEventListener", "mousedown", "preventDefault")
 
 kino-live2.org,upgrand.*##+js(addEventListener-defuser.js, click)
 kino-live2.org,upgrand.*#%#//scriptlet("prevent-addEventListener", "click")
@@ -1132,8 +1133,8 @@ lewat.club,romfirmware.com,blogspot.com#%#//scriptlet("abort-on-property-write",
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com,iporntv.net##+js(abort-current-inline-script.js, document.createElement, iframe)
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com,iporntv.net##+js(abort-current-inline-script.js, document.createElement, iframe)
 
-24porno.vip,egybest2.com,egybest4.com,mp4s.org,watchmovies.pk##+js(abort-on-property-read.js, localStorage)
-24porno.vip,egybest2.com,egybest4.com,mp4s.org,watchmovies.pk#%#//scriptlet("abort-on-property-read", "localStorage")
+24porno.vip,egybest2.com,egybest4.com,mp4s.org,watchmovies.pk,hotmovs.com##+js(abort-on-property-read.js, localStorage)
+24porno.vip,egybest2.com,egybest4.com,mp4s.org,watchmovies.pk,hotmovs.com#%#//scriptlet("abort-on-property-read", "localStorage")
 
 countrygames.net,cogamer.net##+js(addEventListener-defuser.js, click, openWindow)
 countrygames.net,cogamer.net#%#//scriptlet("prevent-addEventListener", "click", "openWindow")
