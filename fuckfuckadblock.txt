@@ -309,6 +309,7 @@
 ||yourbittorrent2.com^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com;
 ||yts.*^$csp=script-src 'self' 'unsafe-inline' *.addthis.com *.google.com *.cloudflare.com;
 ||msembed.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.gstatic.com *.cloudflare.com *.google.com *.msembed.net *.mystream.to;
+||waaw.tv^$csp=script-src 'self' 'unsafe-inline' *.waaw.tv *.google.com *.cloudflare.com *.gstatic.com *.recaptcha.net *.jsdelivr.net *.googleapis.com *.disqus.com disqus.com *.disquscdn.com cackle.me *.cackle.me *.addthis.com;
 
 !*$xmlhttprequest,~third-party,domain=
 *$frame,~third-party,domain=kickassanime.ru
