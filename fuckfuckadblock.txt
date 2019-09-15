@@ -936,8 +936,8 @@ pluspremieres.*,jpidols.tv#%#//scriptlet("prevent-setInterval")
 100percentfedup.com,betanews.com,bigleaguepolitics.com,colorfuleyes.org,gelbooru.com,ilovemyfreedom.org,teaparty.org,thegatewaypundit.com,usersub.com,your-daily-girl.com##+js(abort-on-property-read.js, adtoniq)
 100percentfedup.com,betanews.com,bigleaguepolitics.com,colorfuleyes.org,gelbooru.com,ilovemyfreedom.org,teaparty.org,thegatewaypundit.com,usersub.com,your-daily-girl.com#%#//scriptlet("abort-on-property-read", "adtoniq")
 
-fembed.*,fox-dl.com,katestube.com,loadingz.com,nulled.life,psystreams.com,pussyspot.net,qdembed.com,repelisgo.*,vikiporn.com,watchhouseonline.net,wildpictures.net,zbporn.com##+js(abort-on-property-read.js, decodeURI)
-fembed.*,fox-dl.com,katestube.com,loadingz.com,nulled.life,psystreams.com,pussyspot.net,qdembed.com,repelisgo.*,vikiporn.com,watchhouseonline.net,wildpictures.net,zbporn.com#%#//scriptlet("abort-on-property-read", "decodeURI")
+fembed.*,fox-dl.com,katestube.com,loadingz.com,nulled.life,psystreams.com,pussyspot.net,qdembed.com,repelisgo.*,vikiporn.com,watchhouseonline.net,wildpictures.net,zbporn.com,700mbdownload.*##+js(abort-on-property-read.js, decodeURI)
+fembed.*,fox-dl.com,katestube.com,loadingz.com,nulled.life,psystreams.com,pussyspot.net,qdembed.com,repelisgo.*,vikiporn.com,watchhouseonline.net,wildpictures.net,zbporn.com,700mbdownload.*#%#//scriptlet("abort-on-property-read", "decodeURI")
 
 adp-checker.ru,animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com,mangahosted.com##+js(abort-current-inline-script.js, fuckAdBlock, undefined)
 adp-checker.ru,animeyt2.tv,gratisaftehalen.nl,kissasian.sh,pitbullofficial.com,shlyahten.ru,surfsees.com,mangahosted.com#%#//scriptlet("abort-current-inline-script", "fuckAdBlock", "undefined")
