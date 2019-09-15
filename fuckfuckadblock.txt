@@ -409,7 +409,7 @@
 @@||uptostream.com/assets/$stylesheet,script,~third-party
 @@||webshark.pl/adserver/*$script
 @@||dyncdn.*/showads.js$script
-@@*/adblock.php$xmlhttprequest,script,domain=clickbits.io|click4bits.com
+@@*/adblock.php$xmlhttprequest,script,domain=bitsfree.net|bitsroll.com|blitzcoiner.com|claimbits.net|click4bits.com|clickbits.io|doge-bitsfree.net|moremoney.io|winbitcoin.io
 
 1fichier.com##.ct_warn
 123link.*##.ads-block-warning
