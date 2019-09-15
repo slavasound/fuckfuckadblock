@@ -409,7 +409,7 @@
 @@||uptostream.com/assets/$stylesheet,script,~third-party
 @@||webshark.pl/adserver/*$script
 @@||dyncdn.*/showads.js$script
-@@||click4bits.com/adblock.php$xmlhttprequest
+@@*/adblock.php$xmlhttprequest,script,domain=clickbits.io|click4bits.com
 
 1fichier.com##.ct_warn
 123link.*##.ads-block-warning
