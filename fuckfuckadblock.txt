@@ -316,13 +316,13 @@
 *$script,domain=imgview.pw|swatchseries.to
 *$script,third-party,domain=clicknupload.org|clipwatching.com|clx.icu|ecoimages.xyz|fembed.com|fembed.net|gamesfull.org|igg-games.com|kuntv.pw|linkdrop.net|multiup.org|newsyou.info|openloed.co|shtlink.co|shtme.co|thevidhd.xyz|uploadmp4.com|vidoza.net|vidsrc.me|zooqle.com
 *$script,~third-party,domain=maranhesduve.club
-*$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life|uptobox.com|uptostream.com
+*$third-party,script,xmlhttprequest,domain=kino-live1.live|kino-live2.info|kino-live2.life|kino-live2.org|kl2.life|uptobox.com|uptostream.com|gigporno.com.ru
 *$xmlhttprequest,domain=sexvid.xxx|fantasti.cc|redtube.com
-*$xmlhttprequest,third-party,domain=letsupload.co|ssrmovies.club|uploadever.com|userscloud.com
+*$xmlhttprequest,third-party,domain=letsupload.co|ssrmovies.club|uploadever.com|userscloud.com|porno.sexy
 *$~third-party,script,xmlhttprequest,domain=yandexcdn.com
 */*.php?aid=pause_$important
 */*.php|$important,script,domain=vivud.com|solopajeros.com
-*/*.php|$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|ipicture.su|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|mangovideo.pw|maxiporno.tv|newsfilter.org|orgazmtv.com|pandavideo.pw|pornalin.com|porno-kino.site|porntopic.com|turboimagehost.com|vio.to|xxxdessert.com|xyzcomics.com|youx.xxx|momvids.com|hotmovs.com
+*/*.php|$important,script,xmlhttprequest,domain=alrincon.com|dailyimages.xyz|fullhdtekpartizle.org|girlsofdesire.org|hotpornfile.org|icegay.tv|ipicture.su|javfinder.is|javmec.com|krasivoeporno.tv|lbtube.com|mangovideo.pw|maxiporno.tv|newsfilter.org|orgazmtv.com|pandavideo.pw|pornalin.com|porno-kino.site|porntopic.com|turboimagehost.com|vio.to|xxxdessert.com|xyzcomics.com|youx.xxx|momvids.com|hotmovs.com|porno.sexy
 */apu.hh?$important
 */apu.php?$important
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
