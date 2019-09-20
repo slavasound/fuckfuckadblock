@@ -1118,8 +1118,8 @@ vivo.sx,motherless.com,streamcloud.eu#%#//scriptlet("abort-current-inline-script
 up-4ever.*,nbcnews.com##+js(abort-on-property-read.js, adsDisabled)
 up-4ever.*,nbcnews.com#%#//scriptlet("abort-on-property-read", "adsDisabled")
 
-lewat.club,romfirmware.com,blogspot.com##+js(abort-on-property-write.js, ignielAdBlock)
-lewat.club,romfirmware.com,blogspot.com#%#//scriptlet("abort-on-property-write", "ignielAdBlock")
+lewat.club,romfirmware.com,blogspot.com,boycracked.com##+js(abort-on-property-write.js, ignielAdBlock)
+lewat.club,romfirmware.com,blogspot.com,boycracked.com#%#//scriptlet("abort-on-property-write", "ignielAdBlock")
 
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com,iporntv.net##+js(abort-current-inline-script.js, document.createElement, iframe)
 notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com,iporntv.net##+js(abort-current-inline-script.js, document.createElement, iframe)
