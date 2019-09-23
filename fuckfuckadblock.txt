@@ -1073,8 +1073,8 @@ crazyshit.com,fetishshrine.com,katestube.com,keezmovies.com,newsfilter.org,pornx
 readcomiconline.to,kisstvshow.to,readcomiconline.to##+js(abort-on-property-write.js, adbWarn)
 readcomiconline.to,kisstvshow.to,readcomiconline.to#%#//scriptlet("abort-on-property-write", "adbWarn")
 
-gogoanime.*,gogoanimes.*,adbl.me,kiss-anime.*##+js(set-constant.js, String.prototype.charAt, noopFunc)
-gogoanime.*,gogoanimes.*,adbl.me,kiss-anime.*#%#//scriptlet("set-constant", "String.prototype.charAt", "noopFunc")
+gogoanime.*,gogoanimes.*,adbl.me,kiss-anime.*,animego.*##+js(set-constant.js, String.prototype.charAt, noopFunc)
+gogoanime.*,gogoanimes.*,adbl.me,kiss-anime.*,animego.*#%#//scriptlet("set-constant", "String.prototype.charAt", "noopFunc")
 
 chrt.pw,egy.best,egybest.*,egybest2.com,egybest4.com,europixhd.*,hdeuropix.*,short.pe,topeuropix.net,uploadbuzz.org,uploadbyte.com,uploadever.com,ustreamix.*,ustreamyx.*,watchmovies.pk,tv-onlinehd.com,katmovie.*##+js(setTimeout-defuser.js, '0x)
 chrt.pw,egy.best,egybest.*,egybest2.com,egybest4.com,europixhd.*,hdeuropix.*,topeuropix.net,short.pe,uploadbyte.com,uploadever.com,uploadbuzz.org,ustreamix.*,ustreamyx.*,watchmovies.pk,tv-onlinehd.com,katmovie.*#%#//scriptlet("prevent-setTimeout", "'0x")
