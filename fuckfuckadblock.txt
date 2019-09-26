@@ -1080,8 +1080,8 @@ gogoanime.*,gogoanimes.*,adbl.me,kiss-anime.*,animego.*#%#//scriptlet("set-const
 chrt.pw,egy.best,egybest.*,egybest2.com,egybest4.com,europixhd.*,hdeuropix.*,short.pe,topeuropix.net,uploadbuzz.org,uploadbyte.com,uploadever.com,ustreamix.*,ustreamyx.*,watchmovies.pk,tv-onlinehd.com,katmovie.*##+js(setTimeout-defuser.js, '0x)
 chrt.pw,egy.best,egybest.*,egybest2.com,egybest4.com,europixhd.*,hdeuropix.*,topeuropix.net,short.pe,uploadbyte.com,uploadever.com,uploadbuzz.org,ustreamix.*,ustreamyx.*,watchmovies.pk,tv-onlinehd.com,katmovie.*#%#//scriptlet("prevent-setTimeout", "'0x")
 
-clik.*,doxysexy.com,zooqle.*,nonstopfuck.com,sucknature.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, preventDefault)
-clik.*,doxysexy.com,zooqle.*,nonstopfuck.com,sucknature.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "preventDefault")
+clik.*,doxysexy.com,zooqle.*,nonstopfuck.com,sucknature.com,dizilla.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, preventDefault)
+clik.*,doxysexy.com,zooqle.*,nonstopfuck.com,sucknature.com,dizilla.com#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown)$/", "preventDefault")
 
 epress1.com,hotpornfile.org,sjbook.co.kr##+js(abort-on-property-write.js, popup)
 epress1.com,hotpornfile.org,sjbook.co.kr#%#//scriptlet("abort-on-property-write", "popup")
