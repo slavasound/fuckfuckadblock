@@ -1015,8 +1015,8 @@ ashemaletube.com,coinverti.com,doodhwali.xxx,dutchycorp.*,gaypornwave.com,speedp
 codepen.io,itsat1728.blogspot.com,pixlr.com,zalosec.com##+js(abort-on-property-write.js, showImageAdBlocker)
 codepen.io,itsat1728.blogspot.com,pixlr.com,zalosec.com#%#//scriptlet("abort-on-property-write", "showImageAdBlocker")
 
-chuksguide.com,sapib.ca,whynotceviri.com##+js(abort-on-property-write.js, ai_adb_overlay)
-chuksguide.com,sapib.ca,whynotceviri.com#%#//scriptlet("abort-on-property-write", "ai_adb_overlay")
+chuksguide.com,sapib.ca,whynotceviri.com,pureinfotech.com##+js(abort-on-property-write.js, ai_adb_overlay)
+chuksguide.com,sapib.ca,whynotceviri.com,pureinfotech.com#%#//scriptlet("abort-on-property-write", "ai_adb_overlay")
 
 watchfreexxx.net,igg-games.com#%#//scriptlet("abort-on-property-read", "Date.prototype.toGMTString")
 watchfreexxx.net,igg-games.com##+js(abort-on-property-read.js, Date.prototype.toGMTString)
