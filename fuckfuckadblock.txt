@@ -388,6 +388,7 @@
 @@*$stealth,domain=24video.site|9anime.is|9anime.ru|9anime.to|9anime.tv|cablegratis.tv|embed.streamx.live|fmovies.to|hotmovs.com|hxload.co|premiumtvchannels.com|prettyfast.to|redcdn.pl|sweetbc4.club|tvokazje.pl|txxx.com|yaeby.me|yourupload.com|pictogo.net|stream365.live|upornia.com|xn--e1afprfv.org|thegay.com|yourupload.com
 @@*$xmlhttprequest,script,~third-party,domain=boxing-live.stream|fbstream.io|homerun.re|live-ufc.stream|livef1.stream|livemotgp.stream|mlbstream.io|muzlan.top|nbastream.io|nflstream.io|nhlstream.io|programiz.com|readcomiconline.to|reevown.com|rugbystream.me|soccer-live.stream|strikeout.co|tennisstream.me|vipleague.bz|vipleague.cc|hqq.tv|waaw1.tv|waaw.tv
 @@*/adblock.php$script,xmlhttprequest
+@@*/noadblock.js$script,xmlhttprequest
 @@*/dfp.js|$script,xmlhttprequest
 @@*/ima3.js|$script,xmlhttprequest
 @@*/pop.js|$script,xmlhttprequest
