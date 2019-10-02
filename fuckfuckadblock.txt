@@ -1162,12 +1162,6 @@ architecturenow.co.nz,autopista.es,aviationcv.com,bandwidthplace.com,blackcoin.i
 123movies.*,1uwatchfree.*,300mbmovies.*,7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,besteduloan.us,bolly4u.*,bolly4uhd.*,ckk.ai,cloudvideo.tv,ddl.to,desiupload.in,dlfiles.online,dualinks.club,dz4invest.com,filmymeet.*,filmywap.*,filmywapofficial.com,flix555.com,foumovies.net,gdtot.com,gorillavid.in,hdfriday.org,holavid.com,indishare.*,indoxxi.show,indoxxi.studio,k2nblog.com,letsupload.co,megaurl.in,moviescouch.*,moviescounter.*,moviescounter.store,moviescrush.co,moviespapa.*,moviespur.org,moviezen.co,oko.sh,oploverz.in,ouo.io,racaty.com,rdxhd.*,sendit.cloud,ssrmovies.*,ssrmovies.wiki,stream2watch.*,thefilmbay.com,topeuropix.net,tusfiles.com,uploadbuzz.org,uploadever.com,uppom.*,upsini.com,uptomega.com,userscloud.com,w4files.ws,yifysubtitles.com,zeefiles.*,mp4moviez.*,aii.sh,worldfree4u.*##+js(abort-current-inline-script.js, Object.defineProperty, vocabulary)
 123movies.*,1uwatchfree.*,300mbmovies.*,7starhd.*,9kmovies.*,9xmovies.*,9xupload.*,bdupload.*,besteduloan.us,bolly4u.*,bolly4uhd.*,ckk.ai,cloudvideo.tv,ddl.to,desiupload.in,dlfiles.online,dualinks.club,dz4invest.com,filmymeet.*,filmywap.*,filmywapofficial.com,flix555.com,foumovies.net,gdtot.com,gorillavid.in,hdfriday.org,holavid.com,indishare.*,indoxxi.show,indoxxi.studio,k2nblog.com,letsupload.co,megaurl.in,moviescouch.*,moviescounter.*,moviescounter.store,moviescrush.co,moviespapa.*,moviespur.org,moviezen.co,oko.sh,oploverz.in,ouo.io,racaty.com,rdxhd.*,sendit.cloud,ssrmovies.*,ssrmovies.wiki,stream2watch.*,thefilmbay.com,topeuropix.net,tusfiles.com,uploadbuzz.org,uploadever.com,uppom.*,upsini.com,uptomega.com,userscloud.com,w4files.ws,yifysubtitles.com,zeefiles.*,mp4moviez.*,aii.sh,worldfree4u.*#%#//scriptlet("abort-current-inline-script", "Object.defineProperty", "vocabulary")
 
-marstv.pw##+js(addEventListener-defuser.js, /^(?:click|mousedown|touchstart)$/, pop)
-marstv.pw#%#//scriptlet("prevent-addEventListener", "/^(?:click|mousedown|touchstart)$/", "pop")
-
-userscloud.com,earnwithshortlink.com##+js(abort-on-property-read.js, parcelRequire)
-userscloud.com,earnwithshortlink.com#%#//scriptlet("abort-on-property-read", "parcelRequire")
-
 vev.red,vev.io,vidup.io,vidop.icu##+js(abort-current-inline-script.js, __INITIAL_STATE__)
 vev.red,vev.io,vidup.io,vidop.icu#%#//scriptlet("abort-current-inline-script", "__INITIAL_STATE__")
 
